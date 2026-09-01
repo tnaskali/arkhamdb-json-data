@@ -123,7 +123,7 @@
             },
             {
                 "code": "06195",
-                "text": "La capacité [action]  de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
+                "text": "La capacité [action] de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
             },
             {
                 "code": "02026",
@@ -143,7 +143,7 @@
             },
             {
                 "code": "02226",
-                "text": "La capacité [action] de cette carte gagne : « Cette attaque peut cibler un ennemi non-Élite éloigné jusqu’à un lieu de sa portée standard, en ignorant les mots-clés Distant et Riposte. »"
+                "text": "La capacité [action] de cette carte gagne : « Cette attaque peut cibler un ennemi non-[[Élite]] éloigné jusqu’à un lieu de sa portée standard, en ignorant les mots-clés Distant et Riposte. »"
             },
             {
                 "code": "05230",
@@ -215,7 +215,7 @@
             },
             {
                 "code": "06195",
-                "text": "La capacité [action]  de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
+                "text": "La capacité [action] de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
             },
             {
                 "code": "02026",
@@ -235,7 +235,7 @@
             },
             {
                 "code": "02226",
-                "text": "La capacité [action] de cette carte gagne : « Cette attaque peut cibler un ennemi non-Élite éloigné jusqu’à un lieu de sa portée standard, en ignorant les mots-clés Distant et Riposte. »"
+                "text": "La capacité [action] de cette carte gagne : « Cette attaque peut cibler un ennemi non-[[Élite]] éloigné jusqu’à un lieu de sa portée standard, en ignorant les mots-clés Distant et Riposte. »"
             },
             {
                 "code": "05153",
@@ -311,7 +311,7 @@
             },
             {
                 "code": "06195",
-                "text": "La capacité [action]  de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
+                "text": "La capacité [action] de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
             },
             {
                 "code": "02026",
@@ -331,7 +331,7 @@
             },
             {
                 "code": "02263",
-                "text": "La capacité Combattre de cette carte indique désormais « +1 dégât » au lieu de  « +2 dégâts. »"
+                "text": "La capacité Combattre de cette carte indique désormais « +1 dégât » au lieu de « +2 dégâts. »"
             },
             {
                 "code": "03006",
@@ -339,7 +339,7 @@
             },
             {
                 "code": "03019",
-                "text": "La capacité Révélation de cette carte indique désormais : « Défaussez une carte de votre rôle actuel depuis votre main ou de votre zone de jeu. Ensuite… »"
+                "text": "La capacité Révélation de cette carte indique désormais : « Défaussez une carte de votre rôle actuel de votre main ou de votre zone de jeu. Ensuite… »"
             },
             {
                 "code": "04032",
@@ -351,12 +351,7 @@
             },
             {
                 "code": "06002",
-                "text": "Cette carte investigateur indique désormais : « Taille du deck : 50 » et « Exigences du deck (ne comptent pas dans la limite de taille du deck) : 3 exemplaires de Preuve Occulte… »",
-                "deck_options": [
-                    {
-                        "name": "Classe Secondaire"
-                    }
-                ]
+                "text": "Cette carte investigateur indique désormais : « Taille du deck : 50 » et « Exigences du deck (ne comptent pas dans la limite de taille du deck) : 3 exemplaires de Preuve Occulte… »"
             },
             {
                 "code": "07268",
@@ -380,7 +375,1250 @@
             },
             {
                 "code": "08093",
-                "text": "Le texte entre parenthèses de cette carte indique désormais : « …(En cas de réussite avec une différence de 3 ou plus, vous avez le droit d'incliner le Marteau Cyclopéen pour infliger +2 dégâts et le déplacer jusqu'à 2 lieux en l'éloignant de vous, à la place.) »"
+                "text": "Le texte entre parenthèses de cette carte indique désormais : « …(En cas de réussite avec une différence de 3 ou plus, vous avez le droit d'incliner le Marteau Cyclopéen pour infliger +2 dégâts et déplacer l'ennemi jusqu'à 2 lieux en l'éloignant de vous, à la place.) »"
+            }
+        ]
+    },
+    {
+        "code": "006",
+        "name": "Liste des tabous",
+        "active": 1,
+        "date_start": "2023-08-30",
+        "cards": [
+            {
+                "code": "01050",
+                "text": "La capacité de cette carte indique désormais : « Désengagez-vous de chaque ennemi engagé avec vous et déplacez-vous vers un lieu connexe sans ennemi. »"
+            },
+            {
+                "code": "02226",
+                "text": "La capacité [action] de cette carte gagne : « Cette attaque peut cibler un ennemi non-[[Élite]] éloigné jusqu’à un lieu de sa portée standard, en ignorant les mots-clés Distant et Riposte. »"
+            },
+            {
+                "code": "05153",
+                "text": "La capacité [fast] de cette carte est désormais une capacité [action]."
+            },
+            {
+                "code": "05230",
+                "text": "Cette carte perd le texte : « Le soutien attaché ne peut pas être utilisé pour attaquer des ennemis engagés avec vous. »"
+            },
+            {
+                "code": "05324",
+                "text": "La capacité de cette carte gagne : « Retirez Eucatastrophe de la partie. »"
+            },
+            {
+                "code": "06022",
+                "text": "La capacité permanente de cette carte indique désormais : « Si cette carte n’a pas de charges, retirez-la de la partie. »"
+            },
+            {
+                "code": "06199",
+                "text": "La capacité de cette carte gagne : « Retirez de la partie chaque exemplaire de Brelan d’As attribué au test de compétence. »"
+            },
+            {
+                "code": "60318",
+                "text": "Au lieu de « Mélangez dans votre deck chaque faiblesse défaussée par cet effet… », la capacité de cette carte indique désormais : « Après la résolution de ce test de compétence, piochez chaque faiblesse défaussée par cet effet. »"
+            },
+            {
+                "code": "07003",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez découvert au moins 1 indice dans un lieu où se trouve un ennemi : soit vous découvrez 1 indice supplémentaire dans ce lieu, soit vous échappez automatiquement à cet ennemi s'il est non-[[Élite]]. (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "07122",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Quand vous résolvez un pion [bless] lors d'un test de compétence… »"
+            },
+            {
+                "code": "03112",
+                "text": "La capacité [fast] de cette carte indique désormais : « …Gagnez 1 ressource pour chaque fatalité sur David Renfield (jusqu'à un maximum de 3 ressources). »"
+            },
+            {
+                "code": "09022",
+                "text": "Amélioration – <b>Inscription de Chasse :</b> +1 expérience.",
+                "customization_text": "□ <b>Héritage.</b> Réduisez de 1 le coût de la Hache Runique et elle gagne le trait [[Relique]].\n□ <b>Inscription de Gloire.</b> Ajoutez cette inscription : - <i>Gloire</i> – Si un ennemi est vaincu par cette attaque, choisissez une option : piochez 1 carte, soignez 1 dégât ou soignez 1 horreur.\n□ <b>Inscription des Anciens.</b> Ajoutez cette inscription : - <i>Anciens</i> – En cas de réussite de cette attaque avec une différence supérieure ou égale à la valeur occulte de votre lieu, découvrez 1 indice dans votre lieu.\n□□ <b>Inscription de Chasse.</b> Ajoutez cette inscription : - <i>Chasse</i> – Déplacez-vous immédiatement vers un lieu connexe ou engagez un ennemi dans votre lieu.\n□ <b>Inscription de Fureur.</b> Ajoutez cette inscription : - <i>Fureur</i> – En cas de réussite de cette attaque, en plus de ses dégâts standards, infligez 1 dégât à chaque autre ennemi engagé avec vous.\n□□□ <b>Pouvoir Ancestral.</b> Vous avez le droit d'activer la même inscription jusqu'à trois fois.\n□□□ <b>Saga.</b> Reconstituez 2 charges de la Hache Runique au début de chaque round (au lieu d'une seule charge).\n□□□□ <b>Tisseur de Runes.</b> Pour chaque charge dépensée, vous avez le droit d'activer jusqu'à deux inscriptions différentes."
+            },
+            {
+                "code": "07269",
+                "text": "La capacité de cette carte gagne : « Retirez Une Brève Accalmie de la partie. »"
+            },
+            {
+                "code": "07301",
+                "text": "La capacité de cette carte gagne : « Retirez Sanctifier de la partie. »"
+            },
+            {
+                "code": "08019",
+                "text": "La capacité <b>Forcé</b> de cette carte indique désormais : « <b>Forcé</b> – Quand votre premier tour de la partie débute : jouez jusqu'à 5 soutiens [[Objet]], un à la fois… »"
+            },
+            {
+                "code": "08032",
+                "text": "La capacité de cette carte gagne : « (Max. deux fois par partie.) »"
+            },
+            {
+                "code": "01033",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez enquêté avec succès, inclinez le Dr. Milan Christopher… »"
+            },
+            {
+                "code": "02002",
+                "text": "La capacité [reaction] de cette carte gagne : « (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "02111",
+                "text": "Cette carte gagne : « Limite collective de 2 exemplaires de Creuser Trop Profondément dans la pile de victoire. »"
+            },
+            {
+                "code": "02229",
+                "text": "Cette carte gagne : « (max. une fois par round). » à la fin de sa capacité."
+            },
+            {
+                "code": "02266",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "03029",
+                "text": "La capacité de cette carte indique désormais : « Mettez en jeu un soutien [[Objet]] de niveau 0 à 3 de votre main. »"
+            },
+            {
+                "code": "03315",
+                "text": "Cette carte gagne le mot-clé Exceptionnel."
+            },
+            {
+                "code": "04309",
+                "text": "Cette carte gagne : « Retirez Le Tout pour le Tout de la partie. » à la fin de sa capacité."
+            },
+            {
+                "code": "05116",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05188",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05189",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05020",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-[[Élite]] dans votre lieu… »"
+            },
+            {
+                "code": "06195",
+                "text": "La capacité [action] de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
+            },
+            {
+                "code": "02026",
+                "text": "Interdite."
+            },
+            {
+                "code": "02029",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02153",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02269",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60416",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "05113",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02263",
+                "text": "La capacité Combattre de cette carte indique désormais « +1 dégât » au lieu de « +2 dégâts. »"
+            },
+            {
+                "code": "03006",
+                "text": "La capacité Forcé de cette carte est déplacée sur son verso et indique désormais : « <b>Mise en Place Complémentaire</b> : Après avoir pioché votre main de départ : choisissez un rôle ([survivor], [guardian], [seeker], [rogue], [mystic] ou neutre). »\nDe plus, le recto de cette carte gagne : « [action]: Changez de rôle. Cette action ne provoque pas d'attaque d'opportunité. »"
+            },
+            {
+                "code": "03019",
+                "text": "La capacité Révélation de cette carte indique désormais : « Défaussez une carte de votre rôle actuel de votre main ou de votre zone de jeu. Ensuite… »"
+            },
+            {
+                "code": "04032",
+                "text": "Cette carte indique désormais « un symbole non-[elder_sign] » au lieu de « un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail]. »"
+            },
+            {
+                "code": "04105",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-faiblesse dans votre lieu… »"
+            },
+            {
+                "code": "04110",
+                "text": "Cette carte indique désormais « un symbole non-[auto_fail] » au lieu de « un symbole [skull], [cultist], [tablet] ou [elder_thing]. »"
+            },
+            {
+                "code": "06002",
+                "text": "Cette carte investigateur indique désormais : « Taille du deck : 50 » et « Exigences du deck (ne comptent pas dans la limite de taille du deck) : 3 exemplaires de Preuve Occulte… »"
+            },
+            {
+                "code": "07268",
+                "text": "Cette carte perd le mot-clé Exceptionnel et gagne « Limite de 1 par deck. »"
+            },
+            {
+                "code": "08045",
+                "text": "La capacité permanente de cette carte indique désormais : “…vous gagnez +1 [intellect], +1 [agility] et vous avez le droit d'ignorer la première attaque d'opportunité que vous subissez à chaque round.”"
+            },
+            {
+                "code": "08055",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "08076",
+                "text": "La capacité de cette carte gagne « (Max. deux fois par partie.) »"
+            },
+            {
+                "code": "08098",
+                "text": "Cette carte indique désormais « actions basiques suivantes » au lieu de « action suivantes. »"
+            },
+            {
+                "code": "08100",
+                "text": "Cette carte indique désormais « actions basiques suivantes » au lieu de « action suivantes. »"
+            },
+            {
+                "code": "08093",
+                "text": "Le texte entre parenthèses de cette carte indique désormais : « …(En cas de réussite avec une différence de 3 ou plus, vous avez le droit d'incliner le Marteau Cyclopéen pour infliger +2 dégâts et déplacer l'ennemi jusqu'à 2 lieux en l'éloignant de vous, à la place.) »"
+            },
+            {
+                "code": "09045",
+                "text": "La seconde capacité de cette carte gagne : « (max. 3 preuves dépensées par round). »"
+            },
+            {
+                "code": "09081",
+                "text": "Le texte de cette carte indique désormais : « [action] Si l'ennemi attaché est dans votre lieu : <b>Discussion</b>. Effectuez un test de [willpower] (3). Si vous réussissez, donnez-lui un ordre (limite d'une fois par round et par ordre) – <i>« Va-t'en. »</i> Cet ennemi se déplace une fois dans la direction de votre choix. »\nLa fiche Amélioration de cette carte perd la capacité <b>Charité</b> et gagne : « ☐ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.",
+                "customization_text": "□ <b>Trahison.</b> Ajoutez l'ordre : - <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n□ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n□ <b>Confession.</b> Ajoutez l'ordre : - <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n□ <b>Diversion.</b> Ajoutez l'ordre : - <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n□□ <b>Contrôle Accru.</b> Mot de Pouvoir gagne : [fast] : renvoyez dans votre main Mot de Pouvoir.\n□□□ <b>Lié.</b> Vous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n□□□ <b>Virelangue.</b> Quand vous discutez via le Mot de Pouvoir, vous avez le droit de donner jusqu'à deux ordres différents.\n□□□ <b>Trois Paroles.</b> Vous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir.",
+                "customization_change": "- <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n- <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n- <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n- <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n[fast] : renvoyez dans votre main Mot de Pouvoir.\nVous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n[action] Si l'ennemi attaché est dans votre lieu : <b>Discussion.</b> Vous avez le droit de donner jusqu'à deux ordres différents (limite d'une fois par round et par ordre) –\nVous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir."
+            }
+        ]
+    },
+    {
+        "code": "007",
+        "name": "Liste des tabous",
+        "active": 1,
+        "date_start": "2024-02-20",
+        "cards": [
+            {
+                "code": "01050",
+                "text": "La capacité de cette carte indique désormais : « Désengagez-vous de chaque ennemi engagé avec vous et déplacez-vous vers un lieu connexe sans ennemi. »"
+            },
+            {
+                "code": "02226",
+                "text": "La capacité [action] de cette carte gagne : « Cette attaque peut cibler un ennemi non-[[Élite]] éloigné jusqu’à un lieu de sa portée standard, en ignorant les mots-clés Distant et Riposte. »"
+            },
+            {
+                "code": "05153",
+                "text": "La capacité [fast] de cette carte est désormais une capacité [action]."
+            },
+            {
+                "code": "05230",
+                "text": "Cette carte perd le texte : « Le soutien attaché ne peut pas être utilisé pour attaquer des ennemis engagés avec vous. »"
+            },
+            {
+                "code": "05324",
+                "text": "La capacité de cette carte gagne : « Retirez Eucatastrophe de la partie. »"
+            },
+            {
+                "code": "06022",
+                "text": "La capacité permanente de cette carte indique désormais : « Si cette carte n’a pas de charges, retirez-la de la partie. »"
+            },
+            {
+                "code": "06199",
+                "text": "La capacité de cette carte gagne : « Retirez de la partie chaque exemplaire de Brelan d’As attribué au test de compétence. »"
+            },
+            {
+                "code": "60318",
+                "text": "Au lieu de « Mélangez dans votre deck chaque faiblesse défaussée par cet effet… », la capacité de cette carte indique désormais : « Après la résolution de ce test de compétence, piochez chaque faiblesse défaussée par cet effet. »"
+            },
+            {
+                "code": "07003",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez découvert au moins 1 indice dans un lieu où se trouve un ennemi : soit vous découvrez 1 indice supplémentaire dans ce lieu, soit vous échappez automatiquement à cet ennemi s'il est non-[[Élite]]. (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "07122",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Quand vous résolvez un pion [bless] lors d'un test de compétence… »"
+            },
+            {
+                "code": "03112",
+                "text": "La capacité [fast] de cette carte indique désormais : « …Gagnez 1 ressource pour chaque fatalité sur David Renfield (jusqu'à un maximum de 3 ressources). »"
+            },
+            {
+                "code": "09022",
+                "text": "Amélioration – <b>Inscription de Chasse :</b> +1 expérience.",
+                "customization_text": "□ <b>Héritage.</b> Réduisez de 1 le coût de la Hache Runique et elle gagne le trait [[Relique]].\n□ <b>Inscription de Gloire.</b> Ajoutez cette inscription : - <i>Gloire</i> – Si un ennemi est vaincu par cette attaque, choisissez une option : piochez 1 carte, soignez 1 dégât ou soignez 1 horreur.\n□ <b>Inscription des Anciens.</b> Ajoutez cette inscription : - <i>Anciens</i> – En cas de réussite de cette attaque avec une différence supérieure ou égale à la valeur occulte de votre lieu, découvrez 1 indice dans votre lieu.\n□□ <b>Inscription de Chasse.</b> Ajoutez cette inscription : - <i>Chasse</i> – Déplacez-vous immédiatement vers un lieu connexe ou engagez un ennemi dans votre lieu.\n□ <b>Inscription de Fureur.</b> Ajoutez cette inscription : - <i>Fureur</i> – En cas de réussite de cette attaque, en plus de ses dégâts standards, infligez 1 dégât à chaque autre ennemi engagé avec vous.\n□□□ <b>Pouvoir Ancestral.</b> Vous avez le droit d'activer la même inscription jusqu'à trois fois.\n□□□ <b>Saga.</b> Reconstituez 2 charges de la Hache Runique au début de chaque round (au lieu d'une seule charge).\n□□□□ <b>Tisseur de Runes.</b> Pour chaque charge dépensée, vous avez le droit d'activer jusqu'à deux inscriptions différentes."
+            },
+            {
+                "code": "07269",
+                "text": "La capacité de cette carte gagne : « Retirez Une Brève Accalmie de la partie. »"
+            },
+            {
+                "code": "07301",
+                "text": "La capacité de cette carte gagne : « Retirez Sanctifier de la partie. »"
+            },
+            {
+                "code": "08019",
+                "text": "La capacité <b>Forcé</b> de cette carte indique désormais : « <b>Forcé</b> – Quand votre premier tour de la partie débute : jouez jusqu'à 5 soutiens [[Objet]], un à la fois… »"
+            },
+            {
+                "code": "08032",
+                "text": "La capacité de cette carte gagne : « (Max. deux fois par partie.) »"
+            },
+            {
+                "code": "01033",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez enquêté avec succès, inclinez le Dr. Milan Christopher… »"
+            },
+            {
+                "code": "02002",
+                "text": "La capacité [reaction] de cette carte gagne : « (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "02111",
+                "text": "Cette carte gagne : « Limite collective de 2 exemplaires de Creuser Trop Profondément dans la pile de victoire. »"
+            },
+            {
+                "code": "02229",
+                "text": "Cette carte gagne : « (max. une fois par round). » à la fin de sa capacité."
+            },
+            {
+                "code": "02266",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "03029",
+                "text": "La capacité de cette carte indique désormais : « Mettez en jeu un soutien [[Objet]] de niveau 0 à 3 de votre main. »"
+            },
+            {
+                "code": "03315",
+                "text": "Cette carte gagne le mot-clé Exceptionnel."
+            },
+            {
+                "code": "04309",
+                "text": "Cette carte gagne : « Retirez Le Tout pour le Tout de la partie. » à la fin de sa capacité."
+            },
+            {
+                "code": "05116",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05188",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05189",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05020",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-[[Élite]] dans votre lieu… »"
+            },
+            {
+                "code": "06195",
+                "text": "La capacité [action] de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
+            },
+            {
+                "code": "02026",
+                "text": "Interdite."
+            },
+            {
+                "code": "02029",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02153",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60414",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60423",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02269",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60416",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "05113",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02263",
+                "text": "La capacité Combattre de cette carte indique désormais « +1 dégât » au lieu de « +2 dégâts. »"
+            },
+            {
+                "code": "03006",
+                "text": "La capacité Forcé de cette carte est déplacée sur son verso et indique désormais : « <b>Mise en Place Complémentaire</b> : Après avoir pioché votre main de départ : choisissez un rôle ([survivor], [guardian], [seeker], [rogue], [mystic] ou neutre). »\nDe plus, le recto de cette carte gagne : « [action]: Changez de rôle. Cette action ne provoque pas d'attaque d'opportunité. »"
+            },
+            {
+                "code": "03019",
+                "text": "La capacité Révélation de cette carte indique désormais : « Défaussez une carte de votre rôle actuel de votre main ou de votre zone de jeu. Ensuite… »"
+            },
+            {
+                "code": "04032",
+                "text": "Cette carte indique désormais « un symbole non-[elder_sign] » au lieu de « un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail]. »"
+            },
+            {
+                "code": "04105",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-faiblesse dans votre lieu… »"
+            },
+            {
+                "code": "04110",
+                "text": "Cette carte indique désormais « un symbole non-[auto_fail] » au lieu de « un symbole [skull], [cultist], [tablet] ou [elder_thing]. »"
+            },
+            {
+                "code": "04233",
+                "text": "La capacité de cette carte indique désormais : « Gagnez 1 ressource pour chaque action que vous avez dépensée ce tour… »"
+            },
+            {
+                "code": "06002",
+                "text": "Cette carte investigateur indique désormais : « Taille du deck : 50 » et « Exigences du deck (ne comptent pas dans la limite de taille du deck) : 3 exemplaires de Preuve Occulte… »"
+            },
+            {
+                "code": "07268",
+                "text": "Cette carte perd le mot-clé Exceptionnel et gagne « Limite de 1 par deck. »"
+            },
+            {
+                "code": "08045",
+                "text": "La capacité permanente de cette carte indique désormais : “…vous gagnez +1 [intellect], +1 [agility] et vous avez le droit d'ignorer la première attaque d'opportunité que vous subissez à chaque round.”"
+            },
+            {
+                "code": "08055",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "08076",
+                "text": "La capacité de cette carte gagne « (Max. deux fois par partie.) »"
+            },
+            {
+                "code": "08098",
+                "text": "Cette carte indique désormais « actions basiques suivantes » au lieu de « action suivantes. »"
+            },
+            {
+                "code": "08100",
+                "text": "Cette carte indique désormais « actions basiques suivantes » au lieu de « action suivantes. »"
+            },
+            {
+                "code": "08093",
+                "text": "Le texte entre parenthèses de cette carte indique désormais : « …(En cas de réussite avec une différence de 3 ou plus, vous avez le droit d'incliner le Marteau Cyclopéen pour infliger +2 dégâts et déplacer l'ennemi jusqu'à 2 lieux en l'éloignant de vous, à la place.) »"
+            },
+            {
+                "code": "09045",
+                "text": "La seconde capacité de cette carte gagne : « (max. 3 preuves dépensées par round). »"
+            },
+            {
+                "code": "09081",
+                "text": "Le texte de cette carte indique désormais : « [action] Si l'ennemi attaché est dans votre lieu : <b>Discussion</b>. Effectuez un test de [willpower] (3). Si vous réussissez, donnez-lui un ordre (limite d'une fois par round et par ordre) – <i>« Va-t'en. »</i> Cet ennemi se déplace une fois dans la direction de votre choix. »\nLa fiche Amélioration de cette carte perd la capacité <b>Charité</b> et gagne : « ☐ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.",
+                "customization_text": "□ <b>Trahison.</b> Ajoutez l'ordre : - <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n□ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n□ <b>Confession.</b> Ajoutez l'ordre : - <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n□ <b>Diversion.</b> Ajoutez l'ordre : - <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n□□ <b>Contrôle Accru.</b> Mot de Pouvoir gagne : [fast] : renvoyez dans votre main Mot de Pouvoir.\n□□□ <b>Lié.</b> Vous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n□□□ <b>Virelangue.</b> Quand vous discutez via le Mot de Pouvoir, vous avez le droit de donner jusqu'à deux ordres différents.\n□□□ <b>Trois Paroles.</b> Vous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir.",
+                "customization_change": "- <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n- <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n- <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n- <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n[fast] : renvoyez dans votre main Mot de Pouvoir.\nVous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n[action] Si l'ennemi attaché est dans votre lieu : <b>Discussion.</b> Vous avez le droit de donner jusqu'à deux ordres différents (limite d'une fois par round et par ordre) –\nVous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir."
+            }
+        ]
+    },
+    {
+        "code": "008",
+        "name": "Liste des tabous",
+        "active": 1,
+        "date_start": "2024-10-23",
+        "cards": [
+            {
+                "code": "01050",
+                "text": "La capacité de cette carte indique désormais : « Désengagez-vous de chaque ennemi engagé avec vous et déplacez-vous vers un lieu connexe sans ennemi. »"
+            },
+            {
+                "code": "02226",
+                "text": "La capacité [action] de cette carte gagne : « Cette attaque peut cibler un ennemi non-[[Élite]] éloigné jusqu’à un lieu de sa portée standard, en ignorant les mots-clés Distant et Riposte. »"
+            },
+            {
+                "code": "05153",
+                "text": "La capacité [fast] de cette carte est désormais une capacité [action].",
+                "replacement_text": "Muté. Utilisations (3 secrets).\n[action] Inclinez M. « Rook » et dépensez 1 secret : cherchez n'importe quelle carte parmi les 3, 6 ou 9 cartes du dessus de votre deck et piochez-la. Si au moins 1 faiblesse se trouve parmi les cartes consultées, piochez-en 1 également. Mélangez votre deck."
+            },
+            {
+                "code": "05230",
+                "text": "Cette carte perd le texte : « Le soutien attaché ne peut pas être utilisé pour attaquer des ennemis engagés avec vous. »"
+            },
+            {
+                "code": "05324",
+                "text": "La capacité de cette carte gagne : « Retirez Eucatastrophe de la partie. »"
+            },
+            {
+                "code": "06022",
+                "text": "La capacité permanente de cette carte indique désormais : « Si cette carte n’a pas de charges, retirez-la de la partie. »"
+            },
+            {
+                "code": "06199",
+                "text": "La capacité de cette carte gagne : « Retirez de la partie chaque exemplaire de Brelan d’As attribué au test de compétence. »"
+            },
+            {
+                "code": "60318",
+                "text": "Au lieu de « Mélangez dans votre deck chaque faiblesse défaussée par cet effet… », la capacité de cette carte indique désormais : « Après la résolution de ce test de compétence, piochez chaque faiblesse défaussée par cet effet. »"
+            },
+            {
+                "code": "07003",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez découvert au moins 1 indice dans un lieu où se trouve un ennemi : soit vous découvrez 1 indice supplémentaire dans ce lieu, soit vous échappez automatiquement à cet ennemi s'il est non-[[Élite]]. (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "07122",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Quand vous résolvez un pion [bless] lors d'un test de compétence… »"
+            },
+            {
+                "code": "03112",
+                "text": "La capacité [fast] de cette carte indique désormais : « …Gagnez 1 ressource pour chaque fatalité sur David Renfield (jusqu'à un maximum de 3 ressources). »"
+            },
+            {
+                "code": "09022",
+                "text": "Amélioration – <b>Inscription de Chasse :</b> +1 expérience.",
+                "customization_text": "□ <b>Héritage.</b> Réduisez de 1 le coût de la Hache Runique et elle gagne le trait [[Relique]].\n□ <b>Inscription de Gloire.</b> Ajoutez cette inscription : - <i>Gloire</i> – Si un ennemi est vaincu par cette attaque, choisissez une option : piochez 1 carte, soignez 1 dégât ou soignez 1 horreur.\n□ <b>Inscription des Anciens.</b> Ajoutez cette inscription : - <i>Anciens</i> – En cas de réussite de cette attaque avec une différence supérieure ou égale à la valeur occulte de votre lieu, découvrez 1 indice dans votre lieu.\n□□ <b>Inscription de Chasse.</b> Ajoutez cette inscription : - <i>Chasse</i> – Déplacez-vous immédiatement vers un lieu connexe ou engagez un ennemi dans votre lieu.\n□ <b>Inscription de Fureur.</b> Ajoutez cette inscription : - <i>Fureur</i> – En cas de réussite de cette attaque, en plus de ses dégâts standards, infligez 1 dégât à chaque autre ennemi engagé avec vous.\n□□□ <b>Pouvoir Ancestral.</b> Vous avez le droit d'activer la même inscription jusqu'à trois fois.\n□□□ <b>Saga.</b> Reconstituez 2 charges de la Hache Runique au début de chaque round (au lieu d'une seule charge).\n□□□□ <b>Tisseur de Runes.</b> Pour chaque charge dépensée, vous avez le droit d'activer jusqu'à deux inscriptions différentes."
+            },
+            {
+                "code": "07269",
+                "text": "La capacité de cette carte gagne : « Retirez Une Brève Accalmie de la partie. »"
+            },
+            {
+                "code": "07301",
+                "text": "La capacité de cette carte gagne : « Retirez Sanctifier de la partie. »"
+            },
+            {
+                "code": "08019",
+                "text": "La capacité <b>Forcé</b> de cette carte indique désormais : « <b>Forcé</b> – Quand votre premier tour de la partie débute : jouez jusqu'à 5 soutiens [[Objet]], un à la fois… »"
+            },
+            {
+                "code": "08032",
+                "text": "La capacité de cette carte gagne : « (Max. deux fois par partie.) »"
+            },
+            {
+                "code": "01033",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez enquêté avec succès, inclinez le Dr. Milan Christopher… »"
+            },
+            {
+                "code": "02002",
+                "text": "La capacité [reaction] de cette carte gagne : « (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "02111",
+                "text": "Cette carte gagne : « Limite collective de 2 exemplaires de Creuser Trop Profondément dans la pile de victoire. »"
+            },
+            {
+                "code": "02229",
+                "text": "Cette carte gagne : « (max. une fois par round). » à la fin de sa capacité."
+            },
+            {
+                "code": "02266",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "03029",
+                "text": "La capacité de cette carte indique désormais : « Mettez en jeu un soutien [[Objet]] de niveau 0 à 3 de votre main. »"
+            },
+            {
+                "code": "03315",
+                "text": "Cette carte gagne le mot-clé Exceptionnel."
+            },
+            {
+                "code": "04309",
+                "text": "Cette carte gagne : « Retirez Le Tout pour le Tout de la partie. » à la fin de sa capacité."
+            },
+            {
+                "code": "05116",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05188",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05189",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05020",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-[[Élite]] dans votre lieu… »"
+            },
+            {
+                "code": "06195",
+                "text": "La capacité [action] de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
+            },
+            {
+                "code": "02026",
+                "text": "Interdite."
+            },
+            {
+                "code": "02029",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02153",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60414",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60423",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02269",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60416",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "05113",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02263",
+                "text": "La capacité Combattre de cette carte indique désormais « +1 dégât » au lieu de « +2 dégâts. »"
+            },
+            {
+                "code": "03006",
+                "text": "La capacité Forcé de cette carte est déplacée sur son verso et indique désormais : « <b>Mise en Place Complémentaire</b> : Après avoir pioché votre main de départ : choisissez un rôle ([survivor], [guardian], [seeker], [rogue], [mystic] ou neutre). »\nDe plus, le recto de cette carte gagne : « [action]: Changez de rôle. Cette action ne provoque pas d'attaque d'opportunité. »"
+            },
+            {
+                "code": "03019",
+                "text": "La capacité Révélation de cette carte indique désormais : « Défaussez une carte de votre rôle actuel de votre main ou de votre zone de jeu. Ensuite… »"
+            },
+            {
+                "code": "04032",
+                "text": "Cette carte indique désormais « un symbole non-[elder_sign] » au lieu de « un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail]. »"
+            },
+            {
+                "code": "04105",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-faiblesse dans votre lieu… »"
+            },
+            {
+                "code": "04110",
+                "text": "Cette carte indique désormais « un symbole non-[auto_fail] » au lieu de « un symbole [skull], [cultist], [tablet] ou [elder_thing]. »"
+            },
+            {
+                "code": "04233",
+                "text": "La capacité de cette carte indique désormais : « Gagnez 1 ressource pour chaque action que vous avez dépensée ce tour… »"
+            },
+            {
+                "code": "06002",
+                "text": "Cette carte investigateur indique désormais : « Taille du deck : 50 » et « Exigences du deck (ne comptent pas dans la limite de taille du deck) : 3 exemplaires de Preuve Occulte… »"
+            },
+            {
+                "code": "07268",
+                "text": "Cette carte perd le mot-clé Exceptionnel et gagne « Limite de 1 par deck. »"
+            },
+            {
+                "code": "08045",
+                "text": "La capacité permanente de cette carte indique désormais : “…vous gagnez +1 [intellect], +1 [agility] et vous avez le droit d'ignorer la première attaque d'opportunité que vous subissez à chaque round.”"
+            },
+            {
+                "code": "08055",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "08076",
+                "text": "La capacité de cette carte gagne « (Max. deux fois par partie.) »"
+            },
+            {
+                "code": "08098",
+                "text": "Cette carte indique désormais « actions basiques suivantes » au lieu de « action suivantes. »"
+            },
+            {
+                "code": "08100",
+                "text": "Cette carte indique désormais « actions basiques suivantes » au lieu de « action suivantes. »"
+            },
+            {
+                "code": "08113",
+                "text": "La première ligne de cette carte gagne : « Mode Campagne uniquement. »"
+            },
+            {
+                "code": "08093",
+                "text": "Le texte entre parenthèses de cette carte indique désormais : « …(En cas de réussite avec une différence de 3 ou plus, vous avez le droit d'incliner le Marteau Cyclopéen pour infliger +2 dégâts et déplacer l'ennemi jusqu'à 2 lieux en l'éloignant de vous, à la place.) »"
+            },
+            {
+                "code": "09045",
+                "text": "La seconde capacité de cette carte gagne : « (max. 3 preuves dépensées par round). »"
+            },
+            {
+                "code": "09081",
+                "text": "Le texte de cette carte indique désormais : « [action] Si l'ennemi attaché est dans votre lieu : <b>Discussion</b>. Effectuez un test de [willpower] (3). Si vous réussissez, donnez-lui un ordre (limite d'une fois par round et par ordre) – <i>« Va-t'en. »</i> Cet ennemi se déplace une fois dans la direction de votre choix. »\nLa fiche Amélioration de cette carte perd la capacité <b>Charité</b> et gagne : « ☐ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.",
+                "customization_text": "□ <b>Trahison.</b> Ajoutez l'ordre : - <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n□ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n□ <b>Confession.</b> Ajoutez l'ordre : - <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n□ <b>Diversion.</b> Ajoutez l'ordre : - <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n□□ <b>Contrôle Accru.</b> Mot de Pouvoir gagne : [fast] : renvoyez dans votre main Mot de Pouvoir.\n□□□ <b>Lié.</b> Vous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n□□□ <b>Virelangue.</b> Quand vous discutez via le Mot de Pouvoir, vous avez le droit de donner jusqu'à deux ordres différents.\n□□□ <b>Trois Paroles.</b> Vous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir.",
+                "customization_change": "- <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n- <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n- <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n- <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n[fast] : renvoyez dans votre main Mot de Pouvoir.\nVous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n[action] Si l'ennemi attaché est dans votre lieu : <b>Discussion.</b> Vous avez le droit de donner jusqu'à deux ordres différents (limite d'une fois par round et par ordre) –\nVous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir."
+            },
+            {
+                "code": "09041",
+                "text": "La capacité [fast] de cette carte gagne « (Limite de deux fois par round.) »"
+            }
+        ]
+    },
+    {
+        "code": "009",
+        "name": "Liste des tabous",
+        "active": 1,
+        "date_start": "2025-07-11",
+        "cards": [
+            {
+                "code": "01050",
+                "text": "La capacité de cette carte indique désormais : « Désengagez-vous de chaque ennemi engagé avec vous et déplacez-vous vers un lieu connexe sans ennemi. »"
+            },
+            {
+                "code": "02226",
+                "text": "La capacité [action] de cette carte gagne : « Cette attaque peut cibler un ennemi non-[[Élite]] éloigné jusqu’à un lieu de sa portée standard, en ignorant les mots-clés Distant et Riposte. »"
+            },
+            {
+                "code": "05153",
+                "text": "La capacité [fast] de cette carte est désormais une capacité [action].",
+                "replacement_text": "Muté. Utilisations (3 secrets).\n[action] Inclinez M. « Rook » et dépensez 1 secret : cherchez n'importe quelle carte parmi les 3, 6 ou 9 cartes du dessus de votre deck et piochez-la. Si au moins 1 faiblesse se trouve parmi les cartes consultées, piochez-en 1 également. Mélangez votre deck."
+            },
+            {
+                "code": "05230",
+                "text": "Cette carte perd le texte : « Le soutien attaché ne peut pas être utilisé pour attaquer des ennemis engagés avec vous. »"
+            },
+            {
+                "code": "05156",
+                "text": "Cette carte gagne « (Limite de deux fois par round.) »"
+            },
+            {
+                "code": "09072",
+                "text": "Le premier point de ces cartes indique désormais : « Cet événement gagne : “Rapide. À jouer uniquement lors de votre tour.” »"
+            },
+            {
+                "code": "60332",
+                "text": "Le premier point de cette carte indique désormais : « Cet événement gagne : “Rapide. À jouer uniquement lors de votre tour.” »"
+            },
+            {
+                "code": "10026",
+                "text": "La capacité de cette carte indique désormais : « …En cas de réussite, jouez le soutien choisi, en réduisant son coût d'un nombre égal à votre différence de réussite. »"
+            },
+            {
+                "code": "10030",
+                "text": "La capacité de cette carte indique désormais : « Résolvez une capacité [action] sur un soutien [[Outil]] ou [[Arme]] de niveau 0 à 3 que vous contrôlez, en ignorant tous ses coûts. »"
+            },
+            {
+                "code": "11065",
+                "text": "La capacité [reaction] de cette carte indique désormais : « [reaction] Quand de la fatalité est placée sur une carte que vous contrôlez : placez 1 ressource (prise dans la réserve de pions) sur Sang de Thoth, en tant qu'offrande. »\nLa capacité [free] de cette carte indique désormais : « [free] Lors de la phase d'investigation, sauf pendant une action, dépensez 2 offrandes et inclinez Sang de Thoth : choisissez un investigateur dans votre lieu qui effectue immédiatement une action comme si c'était son tour. »"
+            },
+            {
+                "code": "05324",
+                "text": "La capacité de cette carte gagne : « Retirez Eucatastrophe de la partie. »"
+            },
+            {
+                "code": "06022",
+                "text": "La capacité permanente de cette carte indique désormais : « Si cette carte n’a pas de charges, retirez-la de la partie. »"
+            },
+            {
+                "code": "06199",
+                "text": "La capacité de cette carte gagne : « Retirez de la partie chaque exemplaire de Brelan d’As attribué au test de compétence. »"
+            },
+            {
+                "code": "60318",
+                "text": "Au lieu de « Mélangez dans votre deck chaque faiblesse défaussée par cet effet… », la capacité de cette carte indique désormais : « Après la résolution de ce test de compétence, piochez chaque faiblesse défaussée par cet effet. »"
+            },
+            {
+                "code": "07003",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez découvert au moins 1 indice dans un lieu où se trouve un ennemi : soit vous découvrez 1 indice supplémentaire dans ce lieu, soit vous échappez automatiquement à cet ennemi s'il est non-[[Élite]]. (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "07122",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Quand vous résolvez un pion [bless] lors d'un test de compétence… »"
+            },
+            {
+                "code": "03112",
+                "text": "La capacité [fast] de cette carte indique désormais : « …Gagnez 1 ressource pour chaque fatalité sur David Renfield (jusqu'à un maximum de 3 ressources). »"
+            },
+            {
+                "code": "09022",
+                "text": "Amélioration – <b>Inscription de Chasse :</b> +1 expérience.",
+                "customization_text": "□ <b>Héritage.</b> Réduisez de 1 le coût de la Hache Runique et elle gagne le trait [[Relique]].\n□ <b>Inscription de Gloire.</b> Ajoutez cette inscription : - <i>Gloire</i> – Si un ennemi est vaincu par cette attaque, choisissez une option : piochez 1 carte, soignez 1 dégât ou soignez 1 horreur.\n□ <b>Inscription des Anciens.</b> Ajoutez cette inscription : - <i>Anciens</i> – En cas de réussite de cette attaque avec une différence supérieure ou égale à la valeur occulte de votre lieu, découvrez 1 indice dans votre lieu.\n□□ <b>Inscription de Chasse.</b> Ajoutez cette inscription : - <i>Chasse</i> – Déplacez-vous immédiatement vers un lieu connexe ou engagez un ennemi dans votre lieu.\n□ <b>Inscription de Fureur.</b> Ajoutez cette inscription : - <i>Fureur</i> – En cas de réussite de cette attaque, en plus de ses dégâts standards, infligez 1 dégât à chaque autre ennemi engagé avec vous.\n□□□ <b>Pouvoir Ancestral.</b> Vous avez le droit d'activer la même inscription jusqu'à trois fois.\n□□□ <b>Saga.</b> Reconstituez 2 charges de la Hache Runique au début de chaque round (au lieu d'une seule charge).\n□□□□ <b>Tisseur de Runes.</b> Pour chaque charge dépensée, vous avez le droit d'activer jusqu'à deux inscriptions différentes."
+            },
+            {
+                "code": "07269",
+                "text": "La capacité de cette carte gagne : « Retirez Une Brève Accalmie de la partie. »"
+            },
+            {
+                "code": "07301",
+                "text": "La capacité de cette carte gagne : « Retirez Sanctifier de la partie. »"
+            },
+            {
+                "code": "08019",
+                "text": "La capacité <b>Forcé</b> de cette carte indique désormais : « <b>Forcé</b> – Quand votre premier tour de la partie débute : jouez jusqu'à 5 soutiens [[Objet]], un à la fois… »"
+            },
+            {
+                "code": "08032",
+                "text": "La capacité de cette carte gagne : « (Max. deux fois par partie.) »"
+            },
+            {
+                "code": "01033",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez enquêté avec succès, inclinez le Dr. Milan Christopher… »"
+            },
+            {
+                "code": "02002",
+                "text": "La capacité [reaction] de cette carte gagne : « (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "02111",
+                "text": "Cette carte gagne : « Limite collective de 2 exemplaires de Creuser Trop Profondément dans la pile de victoire. »"
+            },
+            {
+                "code": "02229",
+                "text": "Cette carte gagne : « (max. une fois par round). » à la fin de sa capacité."
+            },
+            {
+                "code": "02266",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "03029",
+                "text": "La capacité de cette carte indique désormais : « Mettez en jeu un soutien [[Objet]] de niveau 0 à 3 de votre main. »"
+            },
+            {
+                "code": "03315",
+                "text": "Cette carte gagne le mot-clé Exceptionnel."
+            },
+            {
+                "code": "04309",
+                "text": "Cette carte gagne : « Retirez Le Tout pour le Tout de la partie. » à la fin de sa capacité."
+            },
+            {
+                "code": "05116",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05188",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05189",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05020",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-[[Élite]] dans votre lieu… »"
+            },
+            {
+                "code": "06195",
+                "text": "La capacité [action] de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
+            },
+            {
+                "code": "02026",
+                "text": "Interdite."
+            },
+            {
+                "code": "60233",
+                "text": "Interdite."
+            },
+            {
+                "code": "02029",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02153",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60414",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60423",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02269",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60416",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "05113",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02263",
+                "text": "La capacité Combattre de cette carte indique désormais « +1 dégât » au lieu de « +2 dégâts. »"
+            },
+            {
+                "code": "03006",
+                "text": "La capacité Forcé de cette carte est déplacée sur son verso et indique désormais : « <b>Mise en Place Complémentaire</b> : Après avoir pioché votre main de départ : choisissez un rôle ([survivor], [guardian], [seeker], [rogue], [mystic] ou neutre). »\nDe plus, le recto de cette carte gagne : « [action]: Changez de rôle. Cette action ne provoque pas d'attaque d'opportunité. »"
+            },
+            {
+                "code": "03019",
+                "text": "La capacité Révélation de cette carte indique désormais : « Défaussez une carte de votre rôle actuel de votre main ou de votre zone de jeu. Ensuite… »"
+            },
+            {
+                "code": "04032",
+                "text": "Cette carte indique désormais « un symbole non-[elder_sign] » au lieu de « un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail]. »"
+            },
+            {
+                "code": "04105",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-faiblesse dans votre lieu… »"
+            },
+            {
+                "code": "04110",
+                "text": "Cette carte indique désormais « un symbole non-[auto_fail] » au lieu de « un symbole [skull], [cultist], [tablet] ou [elder_thing]. »"
+            },
+            {
+                "code": "04233",
+                "text": "La capacité de cette carte indique désormais : « Gagnez 1 ressource pour chaque action que vous avez dépensée ce tour… »"
+            },
+            {
+                "code": "06002",
+                "text": "Cette carte investigateur indique désormais : « Taille du deck : 50 » et « Exigences du deck (ne comptent pas dans la limite de taille du deck) : 3 exemplaires de Preuve Occulte… »"
+            },
+            {
+                "code": "07268",
+                "text": "Cette carte perd le mot-clé Exceptionnel et gagne « Limite de 1 par deck. »"
+            },
+            {
+                "code": "08045",
+                "text": "La capacité permanente de cette carte indique désormais : “…vous gagnez +1 [intellect], +1 [agility] et vous avez le droit d'ignorer la première attaque d'opportunité que vous subissez à chaque round.”"
+            },
+            {
+                "code": "08055",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "08076",
+                "text": "La capacité de cette carte gagne « (Max. deux fois par partie.) »"
+            },
+            {
+                "code": "08098",
+                "text": "Cette carte indique désormais « actions basiques suivantes » au lieu de « action suivantes. »"
+            },
+            {
+                "code": "08100",
+                "text": "Cette carte indique désormais « actions basiques suivantes » au lieu de « action suivantes. »"
+            },
+            {
+                "code": "08113",
+                "text": "La première ligne de cette carte gagne : « Mode Campagne uniquement. »"
+            },
+            {
+                "code": "08093",
+                "text": "Le texte entre parenthèses de cette carte indique désormais : « …(En cas de réussite avec une différence de 3 ou plus, vous avez le droit d'incliner le Marteau Cyclopéen pour infliger +2 dégâts et déplacer l'ennemi jusqu'à 2 lieux en l'éloignant de vous, à la place.) »"
+            },
+            {
+                "code": "09045",
+                "text": "La seconde capacité de cette carte gagne : « (max. 3 preuves dépensées par round). »"
+            },
+            {
+                "code": "09081",
+                "text": "Le texte de cette carte indique désormais : « [action] Si l'ennemi attaché est dans votre lieu : <b>Discussion</b>. Effectuez un test de [willpower] (3). Si vous réussissez, donnez-lui un ordre (limite d'une fois par round et par ordre) – <i>« Va-t'en. »</i> Cet ennemi se déplace une fois dans la direction de votre choix. »\nLa fiche Amélioration de cette carte perd la capacité <b>Charité</b> et gagne : « ☐ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.",
+                "customization_text": "□ <b>Trahison.</b> Ajoutez l'ordre : - <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n□ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n□ <b>Confession.</b> Ajoutez l'ordre : - <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n□ <b>Diversion.</b> Ajoutez l'ordre : - <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n□□ <b>Contrôle Accru.</b> Mot de Pouvoir gagne : [fast] : renvoyez dans votre main Mot de Pouvoir.\n□□□ <b>Lié.</b> Vous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n□□□ <b>Virelangue.</b> Quand vous discutez via le Mot de Pouvoir, vous avez le droit de donner jusqu'à deux ordres différents.\n□□□ <b>Trois Paroles.</b> Vous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir.",
+                "customization_change": "- <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n- <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n- <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n- <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n[fast] : renvoyez dans votre main Mot de Pouvoir.\nVous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n[action] Si l'ennemi attaché est dans votre lieu : <b>Discussion.</b> Vous avez le droit de donner jusqu'à deux ordres différents (limite d'une fois par round et par ordre) –\nVous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir."
+            },
+            {
+                "code": "09041",
+                "text": "La capacité [fast] de cette carte gagne « (Limite de deux fois par round.) »"
+            }
+        ]
+    },
+    {
+        "code": "010",
+        "name": "Liste des tabous",
+        "active": 1,
+        "date_start": "2026-02-19",
+        "cards": [
+            {
+                "code": "01033",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez enquêté avec succès, inclinez le Dr. Milan Christopher… »"
+            },
+            {
+                "code": "01050",
+                "text": "La capacité de cette carte indique désormais : « Désengagez-vous de chaque ennemi engagé avec vous et déplacez-vous vers un lieu connexe sans ennemi. »"
+            },
+            {
+                "code": "02002",
+                "text": "La capacité [reaction] de cette carte gagne : « (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "02029",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60405",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02153",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60414",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60423",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02269",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "60416",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "05113",
+                "text": "Cette carte indique désormais « un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "02111",
+                "text": "Cette carte gagne : « Limite collective de 2 exemplaires de Creuser Trop Profondément dans la pile de victoire. »"
+            },
+            {
+                "code": "02226",
+                "text": "La capacité [action] de cette carte gagne : « Cette attaque peut cibler un ennemi non-[[Élite]] éloigné jusqu’à un lieu de sa portée standard, en ignorant les mots-clés Distant et Riposte. »"
+            },
+            {
+                "code": "02229",
+                "text": "Cette carte gagne : « (max. une fois par round). » à la fin de sa capacité."
+            },
+            {
+                "code": "02263",
+                "text": "La capacité Combattre de cette carte indique désormais « +1 dégât » au lieu de « +2 dégâts. »"
+            },
+            {
+                "code": "02266",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "03006",
+                "text": "La capacité Forcé de cette carte est déplacée sur son verso et indique désormais : « <b>Mise en Place Complémentaire</b> : Après avoir pioché votre main de départ : choisissez un rôle ([survivor], [guardian], [seeker], [rogue], [mystic] ou neutre). »\nDe plus, le recto de cette carte gagne : « [action]: Changez de rôle. Cette action ne provoque pas d'attaque d'opportunité. »"
+            },
+            {
+                "code": "03019",
+                "text": "La capacité Révélation de cette carte indique désormais : « Défaussez une carte de votre rôle actuel de votre main ou de votre zone de jeu. Ensuite… »"
+            },
+            {
+                "code": "03029",
+                "text": "La capacité de cette carte indique désormais : « Mettez en jeu un soutien [[Objet]] de niveau 0 à 3 de votre main. »"
+            },
+            {
+                "code": "03112",
+                "text": "La capacité [fast] de cette carte indique désormais : « …Gagnez 1 ressource pour chaque fatalité sur David Renfield (jusqu'à un maximum de 3 ressources). »"
+            },
+            {
+                "code": "03315",
+                "text": "Cette carte gagne le mot-clé Exceptionnel."
+            },
+            {
+                "code": "04032",
+                "text": "Cette carte indique désormais « un symbole non-[elder_sign] » au lieu de « un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail]. »"
+            },
+            {
+                "code": "04105",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-faiblesse dans votre lieu… »"
+            },
+            {
+                "code": "04110",
+                "text": "Cette carte indique désormais « un symbole non-[auto_fail] » au lieu de « un symbole [skull], [cultist], [tablet] ou [elder_thing]. »"
+            },
+            {
+                "code": "60417",
+                "text": "Cette carte indique désormais « un symbole non-[auto_fail] » au lieu de « un symbole [skull], [cultist], [tablet] ou [elder_thing]. »"
+            },
+            {
+                "code": "04233",
+                "text": "La capacité de cette carte indique désormais : « Gagnez 1 ressource pour chaque action que vous avez dépensée ce tour… »"
+            },
+            {
+                "code": "04309",
+                "text": "Cette carte gagne : « Retirez Le Tout pour le Tout de la partie. » à la fin de sa capacité."
+            },
+            {
+                "code": "05020",
+                "text": "La capacité de cette carte indique désormais « <b>Discussion.</b> Choisissez un ennemi non-[[Élite]] dans votre lieu… »"
+            },
+            {
+                "code": "05116",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05188",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05189",
+                "text": "La capacité [action] de cette carte est désormais une capacité [fast]."
+            },
+            {
+                "code": "05153",
+                "text": "La capacité [fast] de cette carte est désormais une capacité [action].",
+                "replacement_text": "Muté. Utilisations (3 secrets).\n[action] Inclinez M. « Rook » et dépensez 1 secret : cherchez n'importe quelle carte parmi les 3, 6 ou 9 cartes du dessus de votre deck et piochez-la. Si au moins 1 faiblesse se trouve parmi les cartes consultées, piochez-en 1 également. Mélangez votre deck."
+            },
+            {
+                "code": "05156",
+                "text": "Cette carte gagne « (Limite de deux fois par round.) »"
+            },
+            {
+                "code": "05157",
+                "text": "Cette carte indique désormais « un pion ayant un symbole » au lieu de la liste de symboles indiqués."
+            },
+            {
+                "code": "05230",
+                "text": "Cette carte perd le texte : « Le soutien attaché ne peut pas être utilisé pour attaquer des ennemis engagés avec vous. »"
+            },
+            {
+                "code": "05321",
+                "text": "La capacité [action] de cette carte indique désormais : « …Si un pion ayant un symbole est révélé lors de cette attaque, l'ennemi attaqué perd –1 combat, –1 vie et –1 évasion jusqu'à la fin de la phase (jusqu'à un minimum de 1). »",
+                "replacement_text": "Muté. [action] : <b>Combattre</b>. Cette attaque utilise [willpower] au lieu de [combat]. Vous gagnez +2 [willpower] pour cette attaque. Si un pion ayant un symbole est révélé lors de cette attaque, l'ennemi attaqué perd –1 combat, –1 vie et –1 évasion pour le reste du tour (jusqu'à un minimum de 1)."
+            },
+            {
+                "code": "05324",
+                "text": "La capacité de cette carte gagne : « Retirez Eucatastrophe de la partie. »"
+            },
+            {
+                "code": "06002",
+                "text": "Cette carte investigateur indique désormais : « Taille du deck : 50 » et « Exigences du deck (ne comptent pas dans la limite de taille du deck) : 3 exemplaires de Preuve Occulte… »"
+            },
+            {
+                "code": "06022",
+                "text": "La capacité permanente de cette carte indique désormais : « Si cette carte n’a pas de charges, retirez-la de la partie. »"
+            },
+            {
+                "code": "06195",
+                "text": "La capacité [action] de cette carte dit désormais : « [action] Dépensez 1 munition : <b>Combattre.</b> Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos avec un modificateur non-négatif est révélé lors de cette attaque, cette attaque inflige +2 dégâts. »"
+            },
+            {
+                "code": "06199",
+                "text": "La capacité de cette carte gagne : « Retirez de la partie chaque exemplaire de Brelan d’As attribué au test de compétence. »"
+            },
+            {
+                "code": "60318",
+                "text": "Au lieu de « Mélangez dans votre deck chaque faiblesse défaussée par cet effet… », la capacité de cette carte indique désormais : « Après la résolution de ce test de compétence, piochez chaque faiblesse défaussée par cet effet. »"
+            },
+            {
+                "code": "60332",
+                "text": "Le premier point de cette carte indique désormais : « Cet événement gagne : “Rapide. À jouer uniquement lors de votre tour.” »"
+            },
+            {
+                "code": "09072",
+                "text": "Le premier point de cette carte indique désormais : « Cet événement gagne : “Rapide. À jouer uniquement lors de votre tour.” »"
+            },
+            {
+                "code": "07003",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Après que vous avez découvert au moins 1 indice dans un lieu où se trouve un ennemi : soit vous découvrez 1 indice supplémentaire dans ce lieu, soit vous échappez automatiquement à cet ennemi s'il est non-[[Élite]]. (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "07122",
+                "text": "La capacité [reaction] de cette carte indique désormais : « Quand vous résolvez un pion [bless] lors d'un test de compétence… »"
+            },
+            {
+                "code": "07268",
+                "text": "Cette carte perd le mot-clé Exceptionnel et gagne « Limite de 1 par deck. »"
+            },
+            {
+                "code": "07269",
+                "text": "La capacité de cette carte gagne : « Retirez Une Brève Accalmie de la partie. »"
+            },
+            {
+                "code": "07301",
+                "text": "La capacité de cette carte gagne : « Retirez Sanctifier de la partie. »"
+            },
+            {
+                "code": "08019",
+                "text": "La capacité <b>Forcé</b> de cette carte indique désormais : « <b>Forcé</b> – Quand votre premier tour de la partie débute : jouez jusqu'à 5 soutiens [[Objet]], un à la fois… »"
+            },
+            {
+                "code": "08032",
+                "text": "La capacité de cette carte gagne : « (Max. deux fois par partie.) »"
+            },
+            {
+                "code": "08045",
+                "text": "La capacité permanente de cette carte indique désormais : “…vous gagnez +1 [intellect], +1 [agility] et vous avez le droit d'ignorer la première attaque d'opportunité que vous subissez à chaque round.”"
+            },
+            {
+                "code": "08055",
+                "text": "Cette carte gagne : « (max. une fois par round). »"
+            },
+            {
+                "code": "08098",
+                "text": "Cette carte indique désormais « actions basiques » au lieu de « actions. »"
+            },
+            {
+                "code": "08100",
+                "text": "Cette carte indique désormais « actions basiques » au lieu de « actions. »"
+            },
+            {
+                "code": "08113",
+                "text": "La première ligne de cette carte gagne : « Mode Campagne uniquement. »"
+            },
+            {
+                "code": "08093",
+                "text": "Le texte entre parenthèses de cette carte indique désormais : « …(En cas de réussite avec une différence de 3 ou plus, vous avez le droit d'incliner le Marteau Cyclopéen pour infliger +2 dégâts et déplacer l'ennemi jusqu'à 2 lieux en l'éloignant de vous, à la place.) »"
+            },
+            {
+                "code": "09022",
+                "text": "Amélioration – <b>Inscription de Chasse :</b> +1 expérience.",
+                "customization_text": "□ <b>Héritage.</b> Réduisez de 1 le coût de la Hache Runique et elle gagne le trait [[Relique]].\n□ <b>Inscription de Gloire.</b> Ajoutez cette inscription : - <i>Gloire</i> – Si un ennemi est vaincu par cette attaque, choisissez une option : piochez 1 carte, soignez 1 dégât ou soignez 1 horreur.\n□ <b>Inscription des Anciens.</b> Ajoutez cette inscription : - <i>Anciens</i> – En cas de réussite de cette attaque avec une différence supérieure ou égale à la valeur occulte de votre lieu, découvrez 1 indice dans votre lieu.\n□□ <b>Inscription de Chasse.</b> Ajoutez cette inscription : - <i>Chasse</i> – Déplacez-vous immédiatement vers un lieu connexe ou engagez un ennemi dans votre lieu.\n□ <b>Inscription de Fureur.</b> Ajoutez cette inscription : - <i>Fureur</i> – En cas de réussite de cette attaque, en plus de ses dégâts standards, infligez 1 dégât à chaque autre ennemi engagé avec vous.\n□□□ <b>Pouvoir Ancestral.</b> Vous avez le droit d'activer la même inscription jusqu'à trois fois.\n□□□ <b>Saga.</b> Reconstituez 2 charges de la Hache Runique au début de chaque round (au lieu d'une seule charge).\n□□□□ <b>Tisseur de Runes.</b> Pour chaque charge dépensée, vous avez le droit d'activer jusqu'à deux inscriptions différentes."
+            },
+            {
+                "code": "09041",
+                "text": "La capacité [fast] de cette carte gagne « (Limite de deux fois par round.) »"
+            },
+            {
+                "code": "09045",
+                "text": "La seconde capacité de cette carte gagne : « (max. 3 preuves dépensées par round). »"
+            },
+            {
+                "code": "09081",
+                "text": "Le texte de cette carte indique désormais : « [action] Si l'ennemi attaché est dans votre lieu : <b>Discussion</b>. Effectuez un test de [willpower] (3). Si vous réussissez, donnez-lui un ordre (limite d'une fois par round et par ordre) – <i>« Va-t'en. »</i> Cet ennemi se déplace une fois dans la direction de votre choix. »\nLa fiche Amélioration de cette carte perd la capacité <b>Charité</b> et gagne : « ☐ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.",
+                "customization_text": "□ <b>Trahison.</b> Ajoutez l'ordre : - <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n□ <b>Affaissement.</b> Ajoutez l'ordre : - <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n□ <b>Confession.</b> Ajoutez l'ordre : - <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n□ <b>Diversion.</b> Ajoutez l'ordre : - <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n□□ <b>Contrôle Accru.</b> Mot de Pouvoir gagne : [fast] : renvoyez dans votre main Mot de Pouvoir.\n□□□ <b>Lié.</b> Vous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n□□□ <b>Virelangue.</b> Quand vous discutez via le Mot de Pouvoir, vous avez le droit de donner jusqu'à deux ordres différents.\n□□□ <b>Trois Paroles.</b> Vous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir.",
+                "customization_change": "- <i>« Révolte-toi. »</i> Infligez 1 dégât à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur de combat est inférieure ou égale à celle de l'ennemi attaché.\n- <i>« Affaisse-toi. »</i> Inclinez cet ennemi.\n- <i>« Confesse-toi. »</i> Découvrez 1 indice dans le lieu de cet ennemi si sa vie est supérieure ou égale à la valeur occulte du lieu.\n- <i>« Fais diversion. »</i> Échappez automatiquement à un ennemi situé dans le lieu de l'ennemi attaché dont la valeur d'évasion est inférieure ou égale à celle de l'ennemi attaché.\n[fast] : renvoyez dans votre main Mot de Pouvoir.\nVous avez le droit d'activer la capacité Discussion du Mot de Pouvoir depuis votre lieu ou depuis un lieu éloigné de 1 connexion de l'ennemi attaché.\n[action] Si l'ennemi attaché est dans votre lieu : <b>Discussion.</b> Vous avez le droit de donner jusqu'à deux ordres différents (limite d'une fois par round et par ordre) –\nVous avez le droit d'inclure trois exemplaires de Mot de Pouvoir dans votre deck. Quand vous donnez un ordre en utilisant un de ces exemplaires, donnez également cet ordre à chaque autre ennemi auquel vous avez attaché un exemplaire du Mot de Pouvoir."
+            },
+            {
+                "code": "10026",
+                "text": "La capacité de cette carte indique désormais : « …En cas de réussite, jouez le soutien choisi, en réduisant son coût d'un nombre égal à votre différence de réussite. »"
+            },
+            {
+                "code": "10030",
+                "text": "La capacité de cette carte indique désormais : « Résolvez une capacité [action] sur un soutien [[Outil]] ou [[Arme]] de niveau 0 à 3 que vous contrôlez, en ignorant tous ses coûts. »"
+            },
+            {
+                "code": "10059",
+                "text": "La capacité [reaction] de cette carte indique désormais : « [reaction] Quand un investigateur pioche une carte Traîtrise non-faiblesse, si la valeur occulte de son lieu est inférieure à la quantité de croissances du Myconide Affamé… »"
+            },
+            {
+                "code": "11065",
+                "text": "La capacité [reaction] de cette carte indique désormais : « [reaction] Quand de la fatalité est placée sur une carte que vous contrôlez : placez 1 ressource (prise dans la réserve de pions) sur Sang de Thoth, en tant qu'offrande. »\nLa capacité [fast] de cette carte indique désormais : « [fast] Lors de la phase d'investigation, sauf pendant une action, dépensez 2 offrandes et inclinez Sang de Thoth : choisissez un investigateur dans votre lieu qui effectue immédiatement une action comme si c'était son tour. »"
+            },
+            {
+                "code": "11071",
+                "text": "La capacité <b>Forcé</b> de cette carte indique désormais : « La première fois que la carte attachée subit au moins 1 dégât/horreur chaque round… »"
+            },
+            {
+                "code": "11075",
+                "text": "Cette carte gagne : « Rapide. À jouer uniquement lors de votre tour. »\nLa capacité [reaction] de cette carte indique désormais : « …Renvoyez Écho Spirituel dans votre main à la fin de votre tour. » et gagne : « (Limite d'une fois par round.) »"
+            },
+            {
+                "code": "11118",
+                "text": "La capacité <b>Forcé</b> de cette carte indique désormais : « Quand votre tour se termine : placez le soutien attaché sous votre deck, sauf si vous dépensez 1 ressource. »"
+            },
+            {
+                "code": "11120",
+                "text": "La première ligne de cette carte gagne : « Si Sur Leurs Talons n'a plus de piste, défaussez-la. »"
+            },
+            {
+                "code": "02026",
+                "text": "Interdite."
+            },
+            {
+                "code": "60233",
+                "text": "Interdite."
+            },
+            {
+                "code": "08076",
+                "text": "Interdite."
             }
         ]
     }
