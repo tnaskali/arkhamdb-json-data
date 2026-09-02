@@ -1,0 +1,1330 @@
+[
+  {
+    "code": "01014",
+    "text": "(v1.0) Cette carte n’a pas de niveau (au lieu d’être de niveau 0).\n(v1.9) La capacité Forcé de cette carte devrait indiquer : « Forcé – Après que vous avez joué un événement ou défaussé un événement qui était en jeu : … »",
+    "original_text": "Deck de Wendy Adams uniquement.\nVous avez le droit de jouer la carte Événement la plus proche du sommet de votre pile de défausse comme si elle était dans votre main.\nForcé - Après que vous avez joué un événement : placez-le sous votre deck au lieu de le placer dans votre pile de défausse.",
+    "replacement_text": "Deck de Wendy Adams uniquement.\nVous avez le droit de jouer la carte Événement la plus proche du sommet de votre pile de défausse comme si elle était dans votre main.\n<b>Forcé</b> – Après que vous avez joué un événement ou défaussé un événement qui était en jeu : placez-le sous votre deck au lieu de le placer dans votre pile de défausse."
+  },
+  {
+    "code": "02001",
+    "text": "(v1.5) La section Construction du Deck de cette carte devrait indiquer : « … jusqu’à cinq cartes de niveau 0 prises dans les autres classes ([seeker], [rogue], [mystic] et/ou [survivor]). »",
+    "original_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : La Croix de Zoey, Châtier le Mal, 1 faiblesse de base au hasard.",
+    "replacement_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes ([seeker], [rogue], [mystic] et/ou [survivor]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : La Croix de Zoey, Châtier le Mal, 1 faiblesse de base au hasard."
+  },
+  {
+    "code": "02002",
+    "text": "(v1.5) La section Construction du Deck de cette carte devrait indiquer : « … jusqu’à cinq cartes de niveau 0 prises dans les autres classes ([guardian], [rogue], [mystic] et/ou [survivor]). »",
+    "original_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Chercheur ([seeker]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Recherche de la Vérité, La Malédiction de Rex, 1 faiblesse de base au hasard.",
+    "replacement_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Chercheur ([seeker]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes ([guardian], [rogue], [mystic] et/ou [survivor]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Recherche de la Vérité, La Malédiction de Rex, 1 faiblesse de base au hasard.\n<b>Restrictions du Deck</b> : Aucune carte [[Chance]]."
+  },
+  {
+    "code": "02003",
+    "text": "(v1.5) La section Construction du Deck de cette carte devrait indiquer : « … jusqu’à cinq cartes de niveau 0 prises dans les autres classes ([guardian], [seeker], [mystic] et/ou [survivor]). »",
+    "original_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Truand ([rogue]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Les .45 Jumeaux de Jenny, À la Recherche d'Izzie, 1 faiblesse de base au hasard.",
+    "replacement_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Truand ([rogue]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes ([guardian], [seeker], [mystic] et/ou [survivor]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Les .45 Jumeaux de Jenny, À la Recherche d'Izzie, 1 faiblesse de base au hasard."
+  },
+  {
+    "code": "02004",
+    "text": "(v1.5) La section Construction du Deck de cette carte devrait indiquer : « … jusqu’à cinq cartes de niveau 0 prises dans les autres classes ([guardian], [seeker], [rogue] et/ou [survivor]). »",
+    "original_text": "Traitez le modificateur des pions [skull] que vous révélez comme étant un « 0 ».\nChaque fois que vous révélez un pion [elder_sign], vous avez le droit de le traiter comme un pion [skull] à la place.\n[elder_sign] : +1. Si ce test de compétence est réussi pendant une attaque, cette attaque inflige +1 dégât.",
+    "replacement_text": "Traitez le modificateur des pions [skull] que vous révélez comme étant un « 0 ».\nChaque fois que vous révélez un pion [elder_sign], vous avez le droit de le traiter comme un pion [skull] à la place.\n[elder_sign] : +1.",
+    "original_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Mystique ([mystic]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : 1 faiblesse de base au hasard.",
+    "replacement_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Mystique ([mystic]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes ([guardian], [seeker], [rogue] et/ou [survivor]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : La Trompette de Jim, Dernière Rhapsodie, 1 faiblesse de base au hasard."
+  },
+  {
+    "code": "02005",
+    "text": "(v1.5) La section Construction du Deck de cette carte devrait indiquer : « … jusqu’à cinq cartes de niveau 0 prises dans les autres classes ([guardian], [seeker], [rogue] et/ou [mystic]). »",
+    "original_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Survivant ([survivor]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Duke, En Proie à des Cauchemars, 1 faiblesse de base au hasard.",
+    "replacement_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Survivant ([survivor]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, jusqu'à cinq cartes de niveau 0 prises dans les autres classes ([guardian], [seeker], [rogue] et/ou [mystic]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Duke, En Proie à des Cauchemars, 1 faiblesse de base au hasard."
+  },
+  {
+    "code": "02007",
+    "text": "(v1.0) La capacité Forcé de cette carte devrait indiquer : « Quand la partie se termine, si l’ennemi attaché est en jeu : Zoey Samaras subit 1 traumatisme mental. »",
+    "original_text": "",
+    "replacement_text": "<b>Révélation</b> – Défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'un ennemi soit défaussé. Attachez Châtier le Mal à cet ennemi et générez-le dans le lieu le plus éloigné de vous.\n<b>Forcé</b> – Quand la partie se termine, si l'ennemi attaché est en jeu : Zoey Samaras subit 1 traumatisme mental."
+  },
+  {
+    "code": "02011",
+    "text": "(v1.0) La capacité Forcé de cette carte devrait indiquer : « Quand la partie se termine, si À la Recherche d’Izzie est en jeu : Jenny Barnes subit 1 traumatisme mental. »",
+    "original_text": "<b>Révélation</b> – Attachez À la Recherche d'Izzie au lieu le plus éloigné de vous.\n[action][action] : <b>Enquêter</b>. En cas de réussite, au lieu de découvrir des indices, défaussez À la Recherche d'Izzie.\n<b>Forcé</b> – Quand la partie se termine, si À la Recherche d'Izzie est en jeu : vous subissez 1 traumatisme mental.",
+    "replacement_text": "<b>Révélation</b> – Attachez À la Recherche d'Izzie au lieu le plus éloigné de vous.\n[action][action] : <b>Enquêter</b>. En cas de réussite, au lieu de découvrir des indices, défaussez À la Recherche d'Izzie.\n<b>Forcé</b> – Quand la partie se termine, si À la Recherche d'Izzie est en jeu : Jenny Barnes subit 1 traumatisme mental."
+  },
+  {
+    "code": "02020",
+    "text": "(v1.6) La première capacité de cette carte devrait indiquer : « La taille limite de votre main est augmentée de 2. »",
+    "original_text": "La taille limite de votre main est augmentée de 2 lorsque vous vérifiez la taille de votre main pendant la phase d'Entretien.\n[reaction] Après l'entrée en jeu de l'Assistante de Laboratoire : piochez 2 cartes.",
+    "replacement_text": "La taille limite de votre main est augmentée de 2.\n[reaction] Après l'entrée en jeu de l'Assistante de Laboratoire : piochez 2 cartes."
+  },
+  {
+    "code": "02040",
+    "text": "(v1.3) La capacité [reaction] de cette carte devrait indiquer : « Après que vous avez pioché une carte non-faiblesse, défaussez-la et… »",
+    "original_text": "[reaction] Après que vous avez pioché une carte, défaussez-la et inclinez le Dr Henry Armitage : gagnez 3 ressources.",
+    "replacement_text": "[reaction] Après que vous avez pioché une carte non-faiblesse, défaussez-la et inclinez le Dr Henry Armitage : gagnez 3 ressources."
+  },
+  {
+    "code": "02078",
+    "text": "(v1.2) Les traits de cet ennemi devraient être : « Humanoïde. Criminel. Élite. »",
+    "original_traits": "Criminel. Élite.",
+    "replacement_traits": "Humanoïde. Criminel. Élite."
+  },
+  {
+    "code": "02079",
+    "text": "(v1.2) Le trait Humain de cette carte a été modifié en Humanoïde.",
+    "original_traits": "Humain. Criminel.",
+    "replacement_traits": "Humanoïde. Criminel."
+  },
+  {
+    "code": "02097",
+    "text": "(v1.2) Le trait Humain de cette carte a été modifié en Humanoïde.",
+    "original_traits": "Humain. Criminel. Syndicat.",
+    "replacement_traits": "Humanoïde. Criminel. Syndicat."
+  },
+  {
+    "code": "02098",
+    "text": "(v1.2) Le trait Humain de cette carte a été modifié en Humanoïde.",
+    "original_traits": "Humain. Criminel. Syndicat.",
+    "replacement_traits": "Humanoïde. Criminel. Syndicat."
+  },
+  {
+    "code": "02205",
+    "text": "(v1.1) La première capacité de cette carte devrait être un effet Forcé et non pas une réaction, on devrait lire : « Forcé – Après avoir échoué à un test de compétence pendant que vous enquêtiez dans les Ruines Calcinées : retournez 1 pion indice de ce lieu pour que sa face fatalité soit visible. »",
+    "original_text": "[reaction] Après avoir échoué à un test de compétence pendant que vous enquêtiez dans les Ruines Calcinées : retournez 1 pion indice de ce lieu pour que sa face fatalité soit visible.\n[free] S'il n'y a aucun indice dans ce lieu : piochez la carte Rencontre sous les Ruines Calcinées. (Limite collective d'une fois par partie.)",
+    "replacement_text": "<b>Forcé</b> – Après avoir échoué à un test de compétence pendant que vous enquêtiez dans les Ruines Calcinées : retournez 1 pion indice de ce lieu pour que sa face fatalité soit visible.\n[free] S'il n'y a aucun indice dans ce lieu : piochez la carte Rencontre sous les Ruines Calcinées. (Limite collective d'une fois par partie.)"
+  },
+  {
+    "code": "02230",
+    "text": "(v1.1) La capacité [reaction] de cette carte devrait indiquer : « Quand vous révélez un pion Chaos non-[auto_fail], dépensez 2 ressources : ignorez ce pion Chaos et révélez-en un autre à résoudre. Si cet autre pion a un symbole [auto_fail], retirez les Dés Porte-Bonheur de la partie (ne peut pas être ignoré/annulé). »",
+    "original_text": "Exceptionnel.\n[reaction] Après que vous avez révélé un pion Chaos, dépensez 2 ressources : ignorez ce pion Chaos et révélez-en un autre à résoudre. Si cet autre pion a un symbole [auto_fail], retirez les Dés Porte-Bonheur de la partie.",
+    "replacement_text": "Exceptionnel.\n[reaction] Quand vous révélez un pion Chaos non-[auto_fail], dépensez 2 ressources : ignorez ce pion Chaos et révélez-en un autre à résoudre. Si cet autre pion a un symbole [auto_fail], retirez les Dés Porte-Bonheur de la partie."
+  },
+  {
+    "code": "02262",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudiée. »",
+    "original_text": "Vous ne pouvez inclure cette carte Atout dans votre deck qu'en la faisant évoluer depuis Étrange Solution, et seulement si vous avez « identifié la solution » dans votre Journal de Campagne.\nUtilisations (4 provisions).\n[action] Dépensez 1 provision : soignez 2 dégâts d'un investigateur dans votre lieu.",
+    "replacement_text": "Étudiée. Utilisations (4 provisions).\n[action] Dépensez 1 provision : soignez 2 dégâts d'un investigateur dans votre lieu.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "02263",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudiée. »",
+    "original_text": "Vous ne pouvez inclure cette carte Atout dans votre deck qu'en la faisant évoluer depuis Étrange Solution, et seulement si vous avez « identifié la solution » dans votre Journal de Campagne.\nUtilisations (3 provisions).\n[action] Dépensez 1 provision : <b>Combattre</b>. Vous attaquez avec une compétence [combat] de base de 6. Cette attaque inflige +2 dégâts.",
+    "replacement_text": "Étudiée. Utilisations (3 provisions).\n[action] Dépensez 1 provision : <b>Combattre</b>. Vous attaquez avec une compétence [combat] de base de 6. Cette attaque inflige +2 dégâts.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "02264",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudiée. »",
+    "original_text": "Vous ne pouvez inclure cette carte Atout dans votre deck qu'en la faisant évoluer depuis Étrange Solution, et seulement si vous avez « identifié la solution » dans votre Journal de Campagne.\nUtilisations (4 provisions).\n[action] Dépensez 1 provision : <b>Échapper à</b>. Échappez-vous avec une compétence [agility] de base de 6.",
+    "replacement_text": "Étudiée. Utilisations (4 provisions).\n[action] Dépensez 1 provision : <b>Échapper à</b>. Échappez-vous avec une compétence [agility] de base de 6.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "02277",
+    "text": "(v1.6) Les deux instructions de cette carte devraient être inversées et apparaître ainsi : « Retirez tous les indices de chaque lieu en jeu. La présence mystique qui dissimulait le chemin gravissant la colline a disparu. Révélez le Chemin Ascendant. »",
+    "original_back_text": "La présence mystique qui dissimulait le chemin gravissant la colline a disparu. Révélez le Chemin Ascendant.\nRetirez tous les indices de chaque lieu en jeu.",
+    "replacement_back_text": "Retirez tous les indices de chaque lieu en jeu.\nLa présence mystique qui dissimulait le chemin gravissant la colline a disparu. Révélez le Chemin Ascendant."
+  },
+  {
+    "code": "02302",
+    "text": "(v1.2) La capacité [reaction] de cette carte devrait indiquer : « Quand vous piochez une carte Rencontre du deck Rencontre... »",
+    "original_text": "[reaction] Quand vous piochez une carte Rencontre, inclinez Dr William T. Maleson et placez 1 de vos indices sur votre lieu : annulez la pioche de cette carte et mélangez-la dans le deck Rencontre. Ensuite, piochez une nouvelle carte du dessus du deck Rencontre.",
+    "replacement_text": "[reaction] Quand vous piochez une carte Rencontre du deck Rencontre, inclinez Dr William T. Maleson et placez 1 de vos indices sur votre lieu : annulez la pioche de cette carte et mélangez-la dans le deck Rencontre. Ensuite, piochez une nouvelle carte du dessus du deck Rencontre."
+  },
+  {
+    "code": "02305",
+    "text": "(v1.2) Chaque symbole [fast] de cette carte devrait être [reaction].",
+    "original_text": "Exceptionnel.\n[lightning] Quand une phase débute, retirez de la partie La Montre Gousset en Or : sautez cette phase.\n[lightning] Après la fin d'une phase, retirez de la partie La Montre Gousset en Or : répétez cette phase.",
+    "replacement_text": "Exceptionnel.\n[reaction] Quand une phase débute, retirez de la partie La Montre Gousset en Or : sautez cette phase.\n[reaction] Après la fin d'une phase, retirez de la partie La Montre Gousset en Or : répétez cette phase."
+  },
+  {
+    "code": "03041",
+    "text": "(v1.6) La deuxième capacité de cette carte devrait indiquer : « La taille limite de votre main est réduite de 5. »",
+    "original_text": "<b>Révélation</b> – Mettez Tracer le Signe en jeu dans votre zone de menace.\nLa taille limite de votre main est réduite de 5 lorsque vous vérifiez la taille de votre main pendant la phase d'Entretien.\n[action][action] : défaussez Tracer le Signe.",
+    "replacement_text": "<b>Révélation</b> – Mettez Tracer le Signe en jeu dans votre zone de menace.\nLa taille limite de votre main est réduite de 5.\n[action][action] : défaussez Tracer le Signe."
+  },
+  {
+    "code": "03061",
+    "text": "(v2.0) Le trait « Dément » de cette carte devrait être remplacé par « Aliéné » partout où il apparaît dans ses effets.",
+    "original_text": "[skull] Révélez un autre pion Chaos. En cas d'échec, placez 1 fatalité sur un ennemi <i>Dément</i> en jeu.\n[cultist] –2. En cas d'échec, placez 1 de vos indices sur votre lieu.\n[tablet] –4. En cas d'échec, subissez 1 horreur.\n[elder_thing] –X. X est la valeur occulte de votre lieu.",
+    "replacement_text": "<b>FACILE / STANDARD</b>\n[skull] Révélez un autre pion Chaos. En cas d'échec, placez 1 fatalité sur un ennemi [[Aliéné]] en jeu.\n[cultist] –2. En cas d'échec, placez 1 de vos indices sur votre lieu.\n[tablet] –4. En cas d'échec, subissez 1 horreur.\n[elder_thing] –X. X est la valeur occulte de votre lieu.",
+    "original_back_text": "[skull] Révélez un autre pion Chaos. En cas d'échec, placez 1 fatalité sur l'ennemi <i>Dément</i> en jeu avec le plus de vie restante.\n[cultist] –3. Placez 1 de vos indices sur votre lieu.\n[tablet] –4. Subissez 1 horreur.\n[elder_thing] –X. X est la valeur occulte de votre lieu. En cas d'échec, subissez 1 dégât.",
+    "replacement_back_text": "<b>DIFFICILE / EXPERT</b>\n[skull] Révélez un autre pion Chaos. En cas d'échec, placez 1 fatalité sur l'ennemi [[Aliéné]] en jeu avec le plus de vie restante.\n[cultist] –3. Placez 1 de vos indices sur votre lieu.\n[tablet] –4. Subissez 1 horreur.\n[elder_thing] –X. X est la valeur occulte de votre lieu. En cas d'échec, subissez 1 dégât.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03065b",
+    "text": "(v2.0) Le trait « Dément » de cette carte devrait être remplacé par « Aliéné ».",
+    "original_traits": "Monstre. Dément. Élite.",
+    "replacement_traits": "Monstre. Aliéné. Élite.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03066b",
+    "text": "(v2.0) Le trait « Dément » de cette carte devrait être remplacé par « Aliéné ».",
+    "original_traits": "Monstre. Dément. Élite.",
+    "replacement_traits": "Monstre. Aliéné. Élite.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03067b",
+    "text": "(v2.0) Le trait « Dément » de cette carte devrait être remplacé par « Aliéné ».",
+    "original_traits": "Monstre. Dément. Élite.",
+    "replacement_traits": "Monstre. Aliéné. Élite.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03068b",
+    "text": "(v2.0) Le trait « Lunatique » de cette carte devrait être remplacé par « Aliéné ».",
+    "original_traits": "Monstre. Lunatique. Élite.",
+    "replacement_traits": "Monstre. Aliéné. Élite.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03069b",
+    "text": "(v2.0) Le trait « Lunatique » de cette carte devrait être remplacé par « Aliéné ».",
+    "original_traits": "Monstre. Lunatique. Élite.",
+    "replacement_traits": "Monstre. Aliéné. Élite.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03095",
+    "text": "(v2.0) Le trait « Lunatique » de cette carte devrait être remplacé par « Aliéné ».\n(v2.0) Le titre de cette carte devrait être Voyant du Signe.",
+    "original_traits": "Humanoïde. Lunatique.",
+    "replacement_traits": "Humanoïde. Aliéné.",
+    "original_name": "Maniaque",
+    "replacement_name": "Voyant du Signe",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03096",
+    "text": "(v2.0) Le trait « Lunatique » de cette carte devrait être remplacé par « Aliéné ».\n(v2.0) Le titre de cette carte devrait être Pantin de Hastur.",
+    "original_traits": "Humanoïde. Lunatique.",
+    "replacement_traits": "Humanoïde. Aliéné.",
+    "original_name": "Jeune Psychopathe",
+    "replacement_name": "Pantin de Hastur",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03097",
+    "text": "(v2.0) Le trait « Lunatique » dans les effets de cette carte devrait être remplacé par « Aliéné » partout où il apparaît.",
+    "original_text": "<b>Révélation</b> - S'il n'y a pas d'ennemi <i>Lunatique</i> en jeu, la Danse du Roi en Jaune gagne Renfort. Sinon, effectuez un test de [willpower] (3). En cas d'échec, l'ennemi <i>Lunatique</i> le plus proche se redresse, se déplace (un lieu à la fois) jusqu'à ce qu'il atteigne votre lieu, vous engage, et effectue immédiatement une attaque.",
+    "replacement_text": "<b>Révélation</b> - S'il n'y a pas d'ennemi [[Aliéné]] en jeu, la Danse du Roi en Jaune gagne Renfort. Sinon, effectuez un test de [willpower] (3). En cas d'échec, l'ennemi [[Aliéné]] le plus proche se redresse, se déplace (un lieu à la fois) jusqu'à ce qu'il atteigne votre lieu, vous engage, et effectue immédiatement une attaque.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03102",
+    "text": "(v1.2) La capacité Révélation de cette carte devrait indiquer : « Défaussez de votre zone de jeu et/ou de votre main des soutiens Objet… »",
+    "original_text": "<b>Révélation</b> - Défaussez du jeu et/ou de votre main des soutiens <i>Objet</i> pour un coût total imprimé d'au moins X, X étant la valeur occulte de votre lieu. Si aucune carte n'est défaussée par cet effet, Corrosion gagne Renfort.",
+    "replacement_text": "<b>Révélation</b> - Défaussez de votre zone de jeu et/ou de votre main des soutiens [[Objet]] pour un coût total imprimé d'au moins X, X étant la valeur occulte de votre lieu. Si aucune carte n'est défaussée par cet effet, Corrosion gagne Renfort."
+  },
+  {
+    "code": "03121",
+    "text": "(v1.2) La première capacité de cette intrigue devrait indiquer : « Ignorez l'étape “Placez 1 pion Fatalité sur l'intrigue en cours” de la phase du Mythe. »",
+    "original_text": "N'ajoutez pas de fatalité à cette intrigue lors de la phase du Mythe.\n<b>Forcé</b> - Après qu'au moins 1 indice a été placé sur un ennemi en jeu : retournez ces indices sur leur face fatalité.",
+    "replacement_text": "Ignorez l'étape « Placez 1 pion Fatalité sur l'intrigue en cours » de la phase du Mythe.\n<b>Forcé</b> - Après qu'au moins 1 indice a été placé sur un ennemi en jeu : retournez ces indices sur leur face fatalité.",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03122",
+    "text": "(v1.2) La première capacité de cette intrigue devrait indiquer : « Ignorez l'étape “Placez 1 pion Fatalité sur l'intrigue en cours” de la phase du Mythe. »",
+    "original_text": "N'ajoutez pas de fatalité à cette intrigue lors de la phase du Mythe.\n<b>Forcé</b> - Après qu'au moins 1 indice a été placé sur un ennemi en jeu : retournez ces indices sur leur face fatalité.",
+    "replacement_text": "Ignorez l'étape « Placez 1 pion Fatalité sur l'intrigue en cours » de la phase du Mythe.\n<b>Forcé</b> - Après qu'au moins 1 indice a été placé sur un ennemi en jeu : retournez ces indices sur leur face fatalité.",
+    "original_back_text": "Générez le Conjurateur Possédé dans le Hall.\nVérifiez votre Carnet de Campagne. Si Sebastien Moreau n'est pas inscrit sous la mention « Personnalités Tuées », cherchez Sebastien Moreau dans la collection et générez-le dans le Hall.",
+    "replacement_back_text": "Générez le Conjurateur Possédé dans le Hall.\nVérifiez votre Carnet de Campagne. Si Sebastien Moreau n'est pas inscrit sous la mention « Personnalités Tuées », cherchez Sebastien Moreau <i>(Hystérie Sauvage)</i> dans la collection et générez-le dans le Hall.",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03123",
+    "text": "(v1.2) La première capacité de cette intrigue devrait indiquer : « Ignorez l'étape “Placez 1 pion Fatalité sur l'intrigue en cours” de la phase du Mythe. »",
+    "original_text": "N'ajoutez pas de fatalité à cette intrigue lors de la phase de Mythe.\n<b>Forcé</b> - Après qu'au moins 1 indice a été placé sur un ennemi en jeu : retournez ces indices sur leur face fatalité.",
+    "replacement_text": "Ignorez l'étape « Placez 1 pion Fatalité sur l'intrigue en cours » de la phase de Mythe.\n<b>Forcé</b> - Après qu'au moins 1 indice a été placé sur un ennemi en jeu : retournez ces indices sur leur face fatalité.",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03130",
+    "text": "(v1.2) La capacité de ce lieu devrait indiquer : « Tant que vous enquêtez dans ce lieu, votre [intellect] ne peut pas être augmentée. »",
+    "original_text": "Tant que vous enquêtez dans ce lieu, votre [intellect] ne peut être modifiée.",
+    "replacement_text": "Tant que vous enquêtez dans ce lieu, votre [intellect] ne peut pas être augmentée.",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03132",
+    "text": "(v1.2) La capacité de ce lieu devrait indiquer : « Tant que vous enquêtez dans ce lieu, votre [intellect] ne peut pas être augmentée. »",
+    "original_text": "Tant que vous enquêtez dans ce lieu, votre [intellect] ne peut être modifiée.",
+    "replacement_text": "Tant que vous enquêtez dans ce lieu, votre [intellect] ne peut pas être augmentée.",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03153",
+    "text": "(v2.0) La capacité Combattre de cette carte devrait indiquer « dans le lieu de l'ennemi attaqué » au lieu de « à votre lieu », partout où la mention apparaît.",
+    "original_text": "<b>Combattre</b>. Cette attaque utilise [willpower] au lieu de [combat]. En cas de réussite, cette attaque inflige 2 dégâts à chaque ennemi à votre lieu au lieu de ses dégâts normaux <i>(tout dégât supplémentaire est infligé à l'ennemi attaqué)</i>. Si un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail] est révélé lors de cette attaque, infligez 1 dégât à chaque investigateur à votre lieu.",
+    "replacement_text": "<b>Combattre</b>. Cette attaque utilise [willpower] au lieu de [combat]. En cas de réussite, cette attaque inflige 2 dégâts à chaque ennemi dans le lieu de l'ennemi attaqué au lieu de ses dégâts normaux <i>(tout dégât supplémentaire est infligé à l'ennemi attaqué)</i>. Si un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail] est révélé lors de cette attaque, infligez 1 dégât à chaque investigateur dans le lieu de l'ennemi attaqué.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03160",
+    "text": "(v2.0) Le trait « Lunatique » dans les effets de cette carte devrait être remplacé par « Aliéné » partout où il apparaît.",
+    "original_back_text": "Mélangez la pile de défausse Rencontre et tous les ennemis <i>Lunatique</i> mis de côté dans le deck Rencontre.\nL'investigateur principal doit prendre un ennemi au hasard parmi les ennemis <i>Monstre</i> mis de côté et le placer sous le deck Acte sans le regarder.",
+    "replacement_back_text": "Mélangez la pile de défausse Rencontre et tous les ennemis [[Aliéné]] mis de côté dans le deck Rencontre.\nL'investigateur principal doit prendre un ennemi au hasard parmi les ennemis [[Monstre]] mis de côté et le placer sous le deck Acte sans le regarder.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03168",
+    "text": "(v2.0) Le trait « Lunatique » dans les effets de cette carte devrait être remplacé par « Aliéné » partout où il apparaît.",
+    "original_text": "[reaction] Après avoir vaincu un ennemi <i>Lunatique</i> dans ce lieu : piochez 1 carte.",
+    "replacement_text": "[reaction] Après avoir vaincu un ennemi [[Aliéné]] dans ce lieu : piochez 1 carte.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03169",
+    "text": "(v2.0) Le trait « Lunatique » dans les effets de cette carte devrait être remplacé par « Aliéné » partout où il apparaît.",
+    "original_text": "Chaque ennemi <i>Lunatique</i> dans ce lieu gagne +1 valeur d'horreur.",
+    "replacement_text": "Chaque ennemi [[Aliéné]] dans ce lieu gagne +1 valeur d'horreur.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03170",
+    "text": "(v2.0) Le trait « Lunatique » dans les effets de cette carte devrait être remplacé par « Aliéné » partout où il apparaît.",
+    "original_text": "[action] Subissez 1 horreur : <b>Échapper à.</b> Échappez automatiquement à un ennemi <i>Lunatique</i> dans ce lieu.",
+    "replacement_text": "[action] Subissez 1 horreur : <b>Échapper à.</b> Échappez automatiquement à un ennemi [[Aliéné]] dans ce lieu.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03178",
+    "text": "(v1.2) Ce lieu ne devrait pas avoir le trait « Asile d'Arkham » (sur aucune de ses faces).",
+    "original_traits": "Asile d'Arkham.",
+    "replacement_traits": "",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03179",
+    "text": "(v1.2) Ce lieu ne devrait pas avoir le trait « Asile d'Arkham » (sur aucune de ses faces).",
+    "original_traits": "Asile d'Arkham.",
+    "replacement_traits": "",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03180",
+    "text": "(v1.2) Ce lieu ne devrait pas avoir le trait « Asile d'Arkham » (sur aucune de ses faces).",
+    "original_traits": "Asile d'Arkham.",
+    "replacement_traits": "",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03181",
+    "text": "(v1.2) Ce lieu ne devrait pas avoir le trait « Asile d'Arkham » (sur aucune de ses faces).",
+    "original_traits": "Asile d'Arkham.",
+    "replacement_traits": "",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03182a",
+    "text": "(v2.0) Le trait « Lunatique » de cette carte devrait être remplacé par « Aliéné ».",
+    "original_traits": "Allié. Lunatique.",
+    "replacement_traits": "Allié. Aliéné.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03182b",
+    "text": "(v2.0) Le trait « Lunatique » de cette carte devrait être remplacé par « Aliéné ».",
+    "original_traits": "Humanoïde. Lunatique. Élite.",
+    "replacement_traits": "Humanoïde. Aliéné. Élite.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03184",
+    "text": "(v2.0) Le trait « Lunatique » de cette carte devrait être remplacé par « Aliéné ».\n(v2.0) Le titre de cette carte devrait être Patiente Hantée.",
+    "original_traits": "Humanoïde. Lunatique.",
+    "replacement_traits": "Humanoïde. Aliéné.",
+    "original_name": "Patiente Folle",
+    "replacement_name": "Patiente Hantée",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "03185",
+    "text": "(v2.0) La capacité de cette carte devrait indiquer : « ... Renvoyez dans votre main chaque soutien dans ces emplacements. Cette carte ne peut pas quitter le jeu, excepté par la capacité ci-dessous. »",
+    "original_text": "<b>Révélation</b> - S'il n'y a aucun exemplaire de la Camisole de Force dans votre zone de menace, mettez-la en jeu dans votre zone de menace en tant que soutien qui occupe un emplacement de corps et deux emplacements de main. Renvoyez dans votre main tous les soutiens que vous contrôlez dans ces emplacements. La Camisole de Force ne peut pas quitter le jeu, excepté par la capacité ci-dessous.\n[action][action] : défaussez la Camisole de Force.",
+    "replacement_text": "<b>Révélation</b> - S'il n'y a aucun exemplaire de la Camisole de Force dans votre zone de menace, mettez-la en jeu dans votre zone de menace en tant que soutien qui occupe un emplacement de corps et deux emplacements de main. Renvoyez dans votre main chaque soutien dans ces emplacements. Cette carte ne peut pas quitter le jeu, excepté par la capacité ci-dessous.\n[action][action] : défaussez la Camisole de Force.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03186",
+    "text": "(v2.0) Le trait « Lunatique » dans les effets de cette carte devrait être remplacé par « Aliéné » partout où il apparaît.",
+    "original_text": "Péril. Cachée.\n<b>Révélation</b> - Ajoutez secrètement Don de la Folie (Compassion) à votre main.\nVous ne pouvez pas attaquer les ennemis <i>Lunatique</i>.\n[action] : prenez un ennemi au hasard parmi les ennemis <i>Monstre</i> et placez-le sous le deck Acte sans le regarder. Défaussez Don de la Folie (Compassion) de votre main.",
+    "replacement_text": "Péril. Cachée.\n<b>Révélation</b> - Ajoutez secrètement Don de la Folie (Compassion) à votre main.\nVous ne pouvez pas attaquer les ennemis [[Aliéné]].\n[action] : prenez un ennemi au hasard parmi les ennemis [[Monstre]] et placez-le sous le deck Acte sans le regarder. Défaussez Don de la Folie (Compassion) de votre main.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03192",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudiés. »",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'améliorant depuis Glyphes Archaïques <i>(Non-traduits)</i>, et seulement si « vous avez traduit les glyphes » est indiqué dans votre Carnet de Campagne.\nUtilisations (3 charges).\n[action] Dépensez 1 charge : <b>Enquêter</b>. Découvrez 1 indice supplémentaire dans votre lieu pour chaque groupe de 2 points de réussite.",
+    "replacement_text": "Étudiés. Utilisations (3 charges).\n[action] Dépensez 1 charge : <b>Enquêter</b>. Découvrez 1 indice supplémentaire dans votre lieu pour chaque groupe de 2 points de réussite.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03193",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudiés. »",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'améliorant depuis Glyphes Archaïques <i>(Non-traduits)</i>, et seulement si « vous avez traduit les glyphes » est indiqué dans votre Carnet de Campagne.\nUtilisations (3 charges).\n[action] Dépensez 1 charge : <b>Enquêter</b>. En cas de réussite, vous avez le droit d'échapper automatiquement à un ennemi engagé. Cette action ne provoque pas d'attaques d'opportunité.",
+    "replacement_text": "Étudiés. Utilisations (3 charges).\n[action] Dépensez 1 charge : <b>Enquêter</b>. En cas de réussite, vous avez le droit d'échapper automatiquement à un ennemi engagé. Cette action ne provoque pas d'attaques d'opportunité.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03232",
+    "text": "(v1.4) La capacité [fast] de cette carte devrait indiquer : « … N'importe quel investigateur dans ce lieu peut déclencher cette capacité. »",
+    "original_text": "Rapide. À jouer uniquement lors de votre tour.\nAttachez cette carte à votre lieu. Le lieu attaché gagne :\n« [free] Inclinez Raccourci : <b>Se Déplacer</b>. »",
+    "replacement_text": "Rapide. À jouer uniquement lors de votre tour.\nAttachez cette carte à votre lieu. Le lieu attaché gagne :\n« [free] Inclinez Raccourci : <b>Se Déplacer</b> <i>(vers un lieu connexe)</i>. » N'importe quel investigateur dans ce lieu peut déclencher cette capacité."
+  },
+  {
+    "code": "03252",
+    "text": "(v1.3) La capacité de ce lieu devrait indiquer : « …Si vous réussissez, regardez la face révélée de n'importe quel lieu Catacombes en jeu. »",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03258",
+    "text": "(v2.0) Le trait « Lunatique » de cette carte devrait être remplacé par « Aliéné ».\n(v1.3) La capacité de cet ennemi devrait indiquer : « …Si vous réussissez, regardez la face révélée de n'importe quel lieu Catacombes en jeu. »",
+    "original_traits": "Humanoïde. Lunatique.",
+    "replacement_traits": "Humanoïde. Aliéné.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03264",
+    "text": "(v2.0) La capacité [reaction] de cette carte devrait indiquer : « …attachez-les face cachée à S'en Tenir au Plan. »",
+    "original_text": "Permanent. Exceptionnel.\n[reaction] Avant de piocher votre main de départ : cherchez jusqu'à 3 événements <i>Tactique</i> et/ou <i>Ravitaillement</i> différents dans votre deck et attachez-les à S'en Tenir au Plan. Mélangez votre deck.\nVous avez le droit de jouer les cartes attachées à S'en Tenir au Plan comme si elles étaient dans votre main. Inclinez S'en Tenir au Plan en tant que coût supplémentaire pour jouer une carte attachée.",
+    "replacement_text": "Permanent. Exceptionnel.\n[reaction] Avant de piocher votre main de départ : cherchez jusqu'à 3 événements [[Tactique]]\net/ou [[Ravitaillement]] différents dans votre deck et attachez-les face cachée à S'en Tenir au Plan. Mélangez votre deck.\nVous avez le droit de jouer les cartes attachées à S'en Tenir au Plan comme si elles étaient dans votre main. Inclinez S'en Tenir au Plan en tant que coût supplémentaire pour jouer une carte attachée.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "03311",
+    "text": "(v1.4) La deuxième partie de la capacité de cette carte devrait indiquer : « Invalidez cette action (remettez la partie dans l'état exact où elle se trouvait avant que l'action ne soit effectuée, sauf en ce qui concerne l'utilisation de Vortex Temporel et le paiement de son coût). »",
+    "original_text": "Rapide. À jouer immédiatement après qu'un investigateur dans votre lieu a terminé la résolution d'une action lors de son tour.\nInvalidez cette action <i>(remettez la partie dans l'état exact où elle se trouvait avant que l'action ne soit effectuée, y compris le coût de cette action)</i>.",
+    "replacement_text": "Rapide. À jouer immédiatement après qu'un investigateur dans votre lieu a terminé la résolution d'une action lors de son tour.\nInvalidez cette action <i>(remettez la partie dans l'état exact où elle se trouvait avant que l'action ne soit effectuée, sauf en ce qui concerne l'utilisation de Vortex Temporel et le paiement de son coût)</i>."
+  },
+  {
+    "code": "03319",
+    "text": "(v1.3) La deuxième capacité de cet Acte devrait indiquer : « Hastur ne peut pas être vaincu, sauf si un investigateur \"connaît le secret\". »",
+    "original_text": "Hastur gagne +2 combat.\nHastur ne peut pas être vaincu, sauf si vous « connaissez le secret ».",
+    "replacement_text": "Hastur gagne +2 combat.\nHastur ne peut pas être vaincu, sauf si « un investigateur connait le secret »."
+  },
+  {
+    "code": "03338",
+    "text": "(v1.4) La capacité Révélation de cette carte devrait indiquer : « Défaussez des cartes de votre zone de jeu et/ou de votre main… »",
+    "original_text": "<b>Révélation</b> - Défaussez des cartes en jeu et/ou de votre main pour un coût total en ressources imprimé d'au moins X, X étant le nombre d'horreurs sur votre investigateur. Si aucune carte n'est défaussée par cet effet, subissez 2 horreurs.",
+    "replacement_text": "<b>Révélation</b> - Défaussez des cartes de votre zone de jeu et/ou de votre main pour un coût total en ressources imprimé d'au moins X, X étant le nombre d'horreurs sur votre investigateur. Si aucune carte n'est défaussée par cet effet, subissez 2 horreurs."
+  },
+  {
+    "code": "04004",
+    "text": "(v1.4) La capacité [reaction] de cette carte devrait indiquer : « Quand un investigateur révèle un pion chaos [auto_fail]… »",
+    "original_text": "[reaction] Après qu'un investigateur révèle un pion chaos [auto_fail] : annulez ce pion et traitez-le comme un pion [elder_sign] à la place. (Limite d'une fois par partie.)\n[elder_sign] : vous réussissez automatiquement. Après la fin de ce test, choisissez l'une des options suivantes :\n - Piochez 1 carte et gagnez 1 ressource.\n - Si c'est votre tour, vous avez le droit d'effectuer une action supplémentaire à ce tour.",
+    "replacement_text": "[reaction] Quand un investigateur révèle un pion chaos [auto_fail] : annulez ce pion et traitez-le comme un pion [elder_sign] à la place. (Limite d'une fois par partie.)\n[elder_sign] : vous réussissez automatiquement. Après la fin de ce test, choisissez l'une des options suivantes :\n - Piochez 1 carte et gagnez 1 ressource.\n - Si c'est votre tour, vous avez le droit d'effectuer une action supplémentaire à ce tour."
+  },
+  {
+    "code": "04035",
+    "text": "(v1.4) La capacité [fast] de cette carte devrait indiquer : « Défaussez la carte du dessus de votre deck. (Limite d'une fois par phase.) »",
+    "original_text": "[free] Inclinez Yaotl : lors de ce test de compétence, chacune de vos compétences gagne un bonus égal au nombre d'icônes de compétence correspondantes sur la carte du dessus de votre pile de défausse (ne tenez pas compte des icônes [wild]).\n[free] : défaussez la carte du dessus de votre deck. (Limite d'une fois par tour.)",
+    "replacement_text": "[free] Inclinez Yaotl : lors de ce test de compétence, chacune de vos compétences gagne un bonus égal au nombre d'icônes de compétence correspondantes sur la carte du dessus de votre pile de défausse (ne tenez pas compte des icônes [wild]).\n[free] : défaussez la carte du dessus de votre deck. (Limite d'une fois par phase.)"
+  },
+  {
+    "code": "04127",
+    "text": "(v2.4) La première ligne de texte mécanique de cette carte devrait indiquer : « Cherchez un Traqueur de la Nuit parmi toutes les zones en jeu et hors jeu… »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "04230",
+    "text": "(v2.0) La restriction d'achat de cette carte doit être remplacée par le mot-clé : « Étudiée ».",
+    "original_text": "Vous ne pouvez inclure cet atout dans votre deck qu'en le mettant à niveau depuis Pierre Ancienne (Non identifiée), et seulement si vous avez « identifié la pierre » dans votre Carnet de Campagne.<br/>Utilisations (X secrets). X est le nombre inscrit entre parenthèses à côté de « vous avez identifié la pierre ».<br/>[reaction] Quand vous piochez n'importe quel nombre de cartes, dépensez un nombre identique de secrets : infligez ce même nombre de dégâts à un ennemi dans votre lieu.",
+    "replacement_text": "Étudiée. Utilisations (X secrets). X est le nombre inscrit entre parenthèses à côté de « vous avez identifié la pierre ».<br/>[reaction] Quand vous piochez n'importe quel nombre de cartes, dépensez un nombre identique de secrets : infligez ce même nombre de dégâts à un ennemi dans votre lieu.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "04231",
+    "text": "(v2.0) La restriction d'achat de cette carte doit être remplacée par le mot-clé : « Étudiée ».",
+    "original_text": "Vous ne pouvez inclure cet atout dans votre deck qu'en le mettant à niveau depuis Pierre Ancienne, et seulement si vous avez « identifié la pierre » dans votre Carnet de Campagne.<br/>Utilisations (X secrets). X est le nombre inscrit entre parenthèses à côté de « vous avez identifié la pierre ». Vous gagnez +1 point de santé mentale tous les 2 secrets sur cette carte.<br/>[reaction] Quand vous piochez n'importe quel nombre de cartes, dépensez un nombre identique de secrets : soignez ce même nombre d'horreurs sur une carte dans votre lieu.",
+    "replacement_text": "Étudiée. Utilisations (X secrets). X est le nombre inscrit entre parenthèses à côté de « vous avez identifié la pierre ».<br/>[reaction] Quand vous piochez n'importe quel nombre de cartes, dépensez un nombre identique de secrets : soignez ce même nombre d'horreurs sur une carte dans votre lieu.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "04270",
+    "text": "(v1.41) La capacité [action] de cette carte devrait indiquer : « Si la Clé Squelette est dans votre zone de jeu, attachez-la à votre lieu… »",
+    "original_text": "Exceptionnel. Rapide.\n[action] : Attachez La Clé Squelette à votre lieu. Si elle est déjà attachée à votre lieu, détachez-la et renvoyez-la dans votre zone de jeu à la place.\nFixez la valeur occulte du lieu attaché à 1.",
+    "replacement_text": "Exceptionnel. Rapide.\n[action] : Si La Clé Squelette est dans votre zone de jeu, attachez-la à votre lieu. Si elle est déjà attachée à votre lieu, détachez-la et renvoyez-la dans votre zone de jeu à la place.\nFixez la valeur occulte du lieu attaché à 1."
+  },
+  {
+    "code": "05001",
+    "text": "(v1.5) La Construction du Deck de cette carte doit indiquer : « Cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveaux 0 à 5, cartes qui \"soignent de l'horreur\" de niveaux 0 à 5, jusqu'à 15 autres cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]). »",
+    "original_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveau 0 à 5, cartes qui « soignent de l'horreur » de niveaux 0 à 5, jusqu'à 15 cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Thérapie par l'Hypnose, Pensée Rationnelle, 1 faiblesse de base au hasard.\n<b>Restrictions supplémentaires</b> : pas de cartes [[Arme]] de niveaux 1 à 5.",
+    "replacement_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveau 0 à 5, cartes qui « soignent de l'horreur » de niveaux 0 à 5, jusqu'à 15 autres cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Thérapie par l'Hypnose, Pensée Rationnelle, 1 faiblesse de base au hasard.\n<b>Restrictions supplémentaires</b> : pas de cartes [[Arme]] de niveaux 1 à 5.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "05033",
+    "text": "(v1.5) La condition pour jouer cette carte devrait indiquer : « À jouer quand vous devriez résoudre un effet sur une carte [mystic] qui se déclenche « quand », « si » ou « après que » un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail] est révélé. »",
+    "original_text": "Rapide. À jouer quand vous devriez résoudre un effet sur une carte [mystic] qui se déclenche quand un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail] est révélé.\nSoit vous annulez cet effet, soit vous le résolvez une fois supplémentaire.",
+    "replacement_text": "Rapide. À jouer quand vous devriez résoudre un effet sur une carte [mystic] qui se déclenche\n« quand », « si » ou « après que » un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail] est révélé.\nSoit vous annulez cet effet, soit vous le résolvez une fois supplémentaire."
+  },
+  {
+    "code": "05163",
+    "text": "(v1.6) La capacité de cette carte devrait indiquer : « Les lieux ne peuvent pas être retournés pour afficher leur face non-Spectral. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "05164",
+    "text": "(v1.6) La capacité de cette carte devrait indiquer : « Les lieux ne peuvent pas être retournés pour afficher leur face Spectral. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "05178b",
+    "text": "(v1.6) La première capacité de chaque exemplaire de cette carte devrait indiquer : « Gardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "05178d",
+    "text": "(v1.6) La première capacité de chaque exemplaire de cette carte devrait indiquer : « Gardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "05178f",
+    "text": "(v1.6) La première capacité de chaque exemplaire de cette carte devrait indiquer : « Gardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "05178h",
+    "text": "(v1.6) La première capacité de chaque exemplaire de cette carte devrait indiquer : « Gardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "05236",
+    "text": "(v1.6) La capacité Forcé de cette carte devrait indiquer : « Quand l'Esprit Guide est vaincu par des horreurs : bannissez-le. »",
+    "original_text": "Vous gagnez +1 [intellect].\nLes horreurs non-directes doivent être assignées à l'Esprit Guide avant de pouvoir être assignées à votre carte Investigateur.\n<b>Forcé</b> – Après que l'Esprit Guide soit vaincu par des horreurs : bannissez-le.",
+    "replacement_text": "Vous gagnez +1 [intellect].\nLes horreurs non-directes doivent être assignées à l'Esprit Guide avant de pouvoir être assignées à votre carte Investigateur.\n<b>Forcé</b> – Quand l'Esprit Guide est vaincu par des horreurs : bannissez-le."
+  },
+  {
+    "code": "05273",
+    "text": "(v2.0) La capacité Combattre de cette carte doit indiquer « dans le lieu de l'ennemi attaqué » au lieu de « dans votre lieu », dans toutes les occurrences.",
+    "original_text": "Utilisations (3 provisions). Si la carte Grenades MK1 n'a pas de provisions, défaussez-la.\n[action] Dépensez 1 provision : <b>Combattre</b>. Vous gagnez +2 [combat] pour cette attaque. Si cette attaque est réussie, au lieu de ses dégâts normaux, elle inflige 2 dégâts à chaque ennemi et à chaque autre investigateur dans votre lieu <i>(tout dégât supplémentaire est infligé à l'ennemi attaqué).</i>",
+    "replacement_text": "Utilisations (3 provisions). Si la carte Grenades MK1 n'a pas de provisions, défaussez-la.\n[action] Dépensez 1 provision : <b>Combattre</b>. Vous gagnez +2 [combat] pour cette attaque. Si cette attaque est réussie, au lieu de ses dégâts normaux, elle inflige 2 dégâts à chaque ennemi et à chaque autre investigateur dans le lieu de l'ennemi attaqué <i>(tout dégât supplémentaire est infligé à l'ennemi attaqué).</i>",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "05282",
+    "text": "(v1.9) Cette carte devrait avoir le trait Ruse au lieu de Tactique.",
+    "flags": [
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "05313",
+    "text": "(v2.0) La dernière ligne de l'effet Forcé de cette carte doit indiquer : « … mettez-les de côté, hors jeu » au lieu de « retirez-les du jeu ».",
+    "original_text": "Limite de 1 par deck.\n<b>Forcé</b> – Après l'entrée en jeu du Miroir Sacré : cherchez 3 exemplaires de la Mélodie Apaisante parmi vos cartes liées. Ajoutez-en 1 à votre main et mélangez les 2 autres dans votre deck. Quand le Miroir Sacré quitte le jeu, trouvez chacun de ces exemplaires de la Mélodie Apaisante (même s'ils sont hors jeu) et retirez-les du jeu.",
+    "replacement_text": "Limite de 1 par deck.\n<b>Forcé</b> – Après l'entrée en jeu du Miroir Sacré : cherchez 3 exemplaires de la Mélodie Apaisante parmi vos cartes liées. Ajoutez-en 1 à votre main et mélangez les 2 autres dans votre deck. Quand le Miroir Sacré quitte le jeu, trouvez chacun de ces exemplaires de la Mélodie Apaisante (même s'ils sont hors jeu) et mettez-les de côté, hors jeu (avec vos cartes liées).",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "05316",
+    "text": "(v2.0) La dernière ligne de l'effet Forcé de cette carte doit indiquer : « … mettez-les de côté, hors jeu » au lieu de « retirez-les du jeu ».",
+    "original_text": "Limite de 1 par deck.\n<b>Forcé</b> – Après l'entrée en jeu du Lexique Occulte : cherchez 3 exemplaires du Rituel de Sang parmi vos cartes liées. Ajoutez-en 1 à votre main et mélangez les 2 autres dans votre deck. Quand le Lexique Occulte quitte le jeu, trouvez chacun de ces exemplaires du Rituel de Sang (même s'ils sont hors jeu) et retirez-les du jeu.",
+    "replacement_text": "Limite de 1 par deck.\n<b>Forcé</b> – Après l'entrée en jeu du Lexique Occulte : cherchez 3 exemplaires du Rituel de Sang parmi vos cartes liées. Ajoutez-en 1 à votre main et mélangez les 2 autres dans votre deck. Quand le Lexique Occulte quitte le jeu, trouvez chacun de ces exemplaires du Rituel de Sang (même s'ils sont hors jeu) et mettez-les de côté, hors jeu (avec vos cartes liées).",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "05329",
+    "text": "(v1.7) Le premier paragraphe de cet Acte devrait indiquer : « Retirez l'Entrée Cosmique de la partie. Mélangez chaque espace vide dans le deck de son propriétaire, et mélangez dans le Cosmos chaque lieu en jeu autre que le Palais Hideux. Chaque investigateur… »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "05330",
+    "text": "(v2.4) La valeur du seuil d'indices de cette carte doit être de 2.\n(v1.7) Le premier paragraphe de cet Acte devrait indiquer : « Retirez le Palais Hideux de la partie. Mélangez chaque espace vide dans le deck de son propriétaire, et mélangez dans le Cosmos chaque lieu en jeu autre que la Cour des Grands Anciens. Chaque investigateur... »",
+    "original_text": "[action] Spend X clues: Draw the top X cards of the Cosmos. Choose one to put into play using its \"<b>Cosmos</b> -\" instructions, and move to it. Shuffle the rest back into the Cosmos.\n<b>Objective</b> - Only investigators at Court of the Great Old Ones may spend the requisite number of clues, as a group, to advance. (<i>Beware - any investigator who is not there will be killed.</i>",
+    "replacement_text": "[action] Spend X clues: Draw the top X cards of the Cosmos. Choose one to put into play using its \"<b>Cosmos</b> -\" instructions, and move to it. Shuffle the rest back into the Cosmos.\n<b>Objective</b> - Only investigators at Court of the Great Old Ones may spend the requisite number of clues, as a group, to advance. (<i>Beware - any investigator who is not there will be killed.</i>)",
+    "original_back_text": "Remove Hideous Palace from the game. Shuffle each location in play other than Court of the Great Old Ones into the Cosmos. Each investigator at those locations is left behind and is killed. Each enemy at those locations is shuffled into the top 5 cards of the encounter deck.\nTake the set-aside The Black Throne and the top 3 cards of the Cosmos, and shuffle them so you cannot tell which is which. Then, put them into play along with empty space, as depicted in \"Location Placement for Act 3\" in the Campaign Guide.\nIn player order, each investigator draws the top card of the encounter deck.",
+    "replacement_back_text": "Remove Hideous Palace from the game. Shuffle each empty space into its owner's deck and each location in play other than Court of the Great Old Ones into the Cosmos. Each investigator at those locations is left behind and is killed. Each enemy at those locations is shuffled into the top 5 cards of the encounter deck.\nTake the set-aside The Black Throne and the top 3 cards of the Cosmos, and shuffle them so you cannot tell which is which. Then, put them into play along with empty space, as depicted in \"Location Placement for Act 3\" in the Campaign Guide.\nIn player order, each investigator draws the top card of the encounter deck.",
+    "flags": [
+      "untranslated_in_arkhamdb",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "06018",
+    "text": "(v1.9) Le coût supplémentaire de cette carte devrait indiquer : « En tant que coût supplémentaire pour jouer cette carte… »",
+    "original_text": "Limite de 1 par deck. En tant que coût supplémentaire pour mettre cette carte en jeu, vous devez chercher 3 exemplaires de Soif de Sang parmi vos cartes liées et les mélanger dans votre deck.\n[action] : <b>Combattre</b>. Vous gagnez +1 [combat] pour cette attaque pour chaque exemplaire de Soif de Sang attaché. Cette attaque inflige +1 dégât. Si un ennemi est vaincu par cette attaque, placez 1 ressource <i>(prise dans la réserve de pions)</i> sur cette carte en tant qu'offrande",
+    "replacement_text": "Limite de 1 par deck. En tant que coût supplémentaire pour jouer cette carte, vous devez chercher 3 exemplaires de Soif de Sang parmi vos cartes liées et les mélanger dans votre deck.\n[action] : <b>Combattre</b>. Vous gagnez +1 [combat] pour cette attaque pour chaque exemplaire de Soif de Sang attaché. Cette attaque inflige +1 dégât. Si un ennemi est vaincu par cette attaque, placez 1 ressource <i>(prise dans la réserve de pions)</i> sur cette carte en tant qu'offrande"
+  },
+  {
+    "code": "06024",
+    "text": "(v1.9) Le coût supplémentaire de cette carte devrait indiquer : « En tant que coût supplémentaire pour jouer cette carte… »",
+    "original_text": "En tant que coût supplémentaire pour mettre cette carte en jeu, vous devez chercher 1 exemplaire du Gardien du Cristallisoir parmi vos cartes liées et le mélanger dans votre deck.\n[reaction] Après que vous avez joué un événement : attachez-le face cachée au Cristallisoir de Rêves (jusqu'à un maximum de 5 événements attachés). Les événements attachés peuvent être attribués aux tests de compétence comme s'ils étaient dans votre main.",
+    "replacement_text": "En tant que coût supplémentaire pour jouer cette carte, vous devez chercher 1 exemplaire du Gardien du Cristallisoir parmi vos cartes liées et le mélanger dans votre deck.\n[reaction] Après que vous avez joué un événement : attachez-le face cachée au Cristallisoir de Rêves (jusqu'à un maximum de 5 événements attachés). Les événements attachés peuvent être attribués aux tests de compétence comme s'ils étaient dans votre main."
+  },
+  {
+    "code": "06030",
+    "text": "(v2.0) La dernière ligne de l'effet Forcé de cette carte doit se lire : « …mettez-les de côté, hors jeu » au lieu de « retirez-les de la partie ».",
+    "original_text": "Limite de 1 par deck.\n<b>Forcé</b> – Après l'entrée en jeu de Miss Doyle : cherchez Espoir, Zèle et Augure parmi vos cartes liées. Prenez-en 1 au hasard, mettez-le en jeu et mélangez les 2 autres dans votre deck. Quand Miss Doyle quitte le jeu, trouvez chacun de ces soutiens (même s'ils sont hors jeu) et retirez-les de la partie.",
+    "replacement_text": "Limite de 1 par deck.\n<b>Forcé</b> – Après l'entrée en jeu de Miss Doyle : cherchez Espoir, Zèle et Augure parmi vos cartes liées. Prenez-en 1 au hasard, mettez-le en jeu et mélangez les 2 autres dans votre deck. Quand Miss Doyle quitte le jeu, trouvez chacun de ces soutiens (même s'ils sont hors jeu) et mettez-les de côté, hors jeu (avec vos cartes liées).",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "06144",
+    "text": "(v2.0) La condition de déclenchement de la capacité Forcé de cette carte doit se lire : « Si Virgil Gray quitte le jeu » au lieu de « si Virgil Gray est vaincu ».",
+    "original_text": "[reaction] Après qu'au moins 1 Signe des Dieux a été découvert : soit vous piochez 1 carte, soit vous gagnez 1 ressource, soit vous soignez 1 horreur de Virgil Gray. S'il y a plusieurs investigateurs dans la partie, donnez le contrôle de Virgil Gray à un autre investigateur.\n<b>Forcé</b> – Si Virgil Gray est vaincu : retirez-le de la partie.",
+    "replacement_text": "[reaction] Après qu'au moins 1 Signe des Dieux a été découvert : soit vous piochez 1 carte, soit vous gagnez 1 ressource, soit vous soignez 1 horreur de Virgil Gray. S'il y a plusieurs investigateurs dans la partie, donnez le contrôle de Virgil Gray à un autre investigateur.\n<b>Forcé</b> – Si Virgil Gray quitte le jeu : retirez-le de la partie.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "06195",
+    "text": "(v1.7) La capacité de cette carte doit se lire : « [action] Dépensez 1 munition : Combattre… »",
+    "original_text": "Utilisations (5 munitions).\n[action] : <b>Combattre</b>. Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos +1, 0 ou [elder_sign] est révélé lors de cette attaque, elle inflige +2 dégâts.",
+    "replacement_text": "Utilisations (5 munitions).\n[action] Dépensez 1 munition : <b>Combattre</b>. Vous gagnez +2 [combat] pour cette attaque. Si un pion Chaos +1, 0 ou [elder_sign] est révélé lors de cette attaque, elle inflige +2 dégâts."
+  },
+  {
+    "code": "06214b",
+    "text": "(v2.5) Le premier effet de cette carte doit se lire : « Défaussez chaque ennemi ici. Déplacez chaque investigateur ici vers la Forêt-Lune. Retirez cette carte de la partie. »",
+    "original_text": "<b>If there were no clues on this card when it was flipped, read the following:</b>\n<i><blockquote>Moving as stealthily as you can, you find a dinghy tied to the side of the ship, two oars left inside. If this galley can move through space using oars, surely this lifeboat can, too. Making sure to stay as quiet as possible, you hop inside the small boat and make your escape.</blockquote></i>\nMove each investigator here to the Moon-Forest.\nRemove this card from the game, discarding all enemies here.<hr>\n<b>If there were 1 or more clues on this card when it was flipped, read the following:</b>\n<i><blockquote>The ship docks at a great city of stone towers, and you slip away as the guards search for you.</blockquote></i>Each investigator here raises their alarm level by 1.\nMove each investigator here to the City of the Moon-Beasts, along with each enemy here.\nRemove this card from the game.",
+    "replacement_text": "<b>If there were no clues on this card when it was flipped, read the following:</b>\n<i><blockquote>Moving as stealthily as you can, you find a dinghy tied to the side of the ship, two oars left inside. If this galley can move through space using oars, surely this lifeboat can, too. Making sure to stay as quiet as possible, you hop inside the small boat and make your escape.</blockquote></i>\nDiscard each enemy here. Move each investigator here to the Moon-Forest. Remove this card from the game.<hr>\n<b>If there were 1 or more clues on this card when it was flipped, read the following:</b>\n<i><blockquote>The ship docks at a great city of stone towers, and you slip away as the guards search for you.</blockquote></i>Each investigator here raises their alarm level by 1.\nMove each investigator here to the City of the Moon-Beasts, along with each enemy here.\nRemove this card from the game.",
+    "flags": [
+      "no_official_french_source",
+      "untranslated_in_arkhamdb",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "06224",
+    "text": "(v2.0) La condition de déclenchement de la capacité Forcé de cette carte doit se lire : « Si Virgil Gray quitte le jeu » au lieu de « si Virgil Gray est vaincu ».",
+    "original_text": "[reaction] Après que votre niveau d'alerte a augmenté : soit vous piochez 1 carte, soit vous gagnez 1 ressource, soit vous soignez 1 horreur de Virgil Gray. S'il y a plusieurs investigateurs dans la partie, donnez le contrôle de Virgil Gray à un autre investigateur.\n<b>Forcé</b> – Si Virgil Gray est vaincu : retirez-le de la partie.",
+    "replacement_text": "[reaction] Après que votre niveau d'alerte a augmenté : soit vous piochez 1 carte, soit vous gagnez 1 ressource, soit vous soignez 1 horreur de Virgil Gray. S'il y a plusieurs investigateurs dans la partie, donnez le contrôle de Virgil Gray à un autre investigateur.\n<b>Forcé</b> – Si Virgil Gray quitte le jeu : retirez-le de la partie.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "06236",
+    "text": "(v2.0) La restriction d'achat de cette carte doit être remplacée par le mot-clé : « Étudié ».",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'obtenant par la mise à niveau du Journal de Rêves <i>(non traduit)</i>, et seulement si « vous avez interprété les rêves » est noté dans votre Journal de Campagne.\nTant que vous êtes dans un lieu ayant une valeur occulte d'au moins 4, votre Essence Onirique gagne [wild][wild].\n[reaction] Quand votre tour débute : cherchez Essence Onirique parmi vos cartes liées et ajoutez-la à votre main.",
+    "replacement_text": "Étudié. Tant que vous êtes dans un lieu ayant une valeur occulte d'au moins 4, votre Essence Onirique gagne [wild][wild].\n[reaction] Quand votre tour débute : cherchez Essence Onirique parmi vos cartes liées et ajoutez-la à votre main.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "06237",
+    "text": "(v2.0) La restriction d'achat de cette carte doit être remplacée par le mot-clé : « Étudié ».",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'obtenant par la mise à niveau du Journal de Rêves <i>(non traduit)</i>, et seulement si « vous avez interprété les rêves » est noté dans votre Journal de Campagne.\nTant que vous êtes engagé avec un ennemi, votre Essence Onirique gagne [wild][wild].\n[reaction] Quand votre tour débute : cherchez Essence Onirique parmi vos cartes liées et ajoutez-la à votre main.",
+    "replacement_text": "Étudié. Tant que vous êtes engagé avec un ennemi, votre Essence Onirique gagne [wild][wild].\n[reaction] Quand votre tour débute : cherchez Essence Onirique parmi vos cartes liées et ajoutez-la à votre main.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "06238",
+    "text": "(v2.0) La restriction d'achat de cette carte doit être remplacée par le mot-clé : « Étudié ».",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'obtenant par la mise à niveau du Journal de Rêves <i>(non traduit)</i>, et seulement si « vous avez interprété les rêves » est noté dans votre Journal de Campagne.\nTant que vous avez au moins 8 cartes en main, votre Essence Onirique gagne [wild][wild].\n[reaction] Quand votre tour débute : cherchez Essence Onirique parmi vos cartes liées et ajoutez-la à votre main.",
+    "replacement_text": "Étudié. Tant que vous avez au moins 8 cartes en main, votre Essence Onirique gagne [wild][wild].\n[reaction] Quand votre tour débute : cherchez Essence Onirique parmi vos cartes liées et ajoutez-la à votre main.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "06253",
+    "text": "(v1.9) La capacité Forcé de cette carte devrait indiquer : « Après qu'un ennemi avec au moins 1 indice sur lui est vaincu : prenez le contrôle de chacun de ces indices. »",
+    "original_text": "<b>Forced</b> - After an enemy with 1 or more clues on it is defeated: Place those clues on this act.\n<b>Objective</b> - Find the source of the distortion. <i>(You will be instructed when to advance.)</i>",
+    "replacement_text": "<b>Forced</b> - After an enemy with 1 or more clues on it is defeated: Take control of each of those clues.\n<b>Objective</b> - Find the source of the distortion. <i>(You will be instructed when to advance.)</i>",
+    "flags": [
+      "untranslated_in_arkhamdb",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "07002",
+    "text": "(v1.8) Le symbole [reaction] de cette carte devrait être un « Forcé – » à la place.",
+    "original_text": "<b>Forcé</b> – Au début de la phase d'Investigation : piochez 1 carte. Défaussez la carte située sous Amanda Sharpe. Choisissez une carte de votre main et placez-la sous Amanda Sharpe.\n[reaction] Au début d'un test de compétence que vous effectuez : attribuez au test la carte située sous Amanda Sharpe, si possible. Ne la défaussez pas quand le test se termine.\n[elder_sign] : +0. Pour ce test, vous avez le droit de doubler le nombre d'icônes de compétence de la carte située sous Amanda Sharpe.",
+    "replacement_text": "<b>Forcé</b> – Au début de la phase d'Investigation : piochez 1 carte. Défaussez la carte située sous Amanda Sharpe. Choisissez une carte de votre main et placez-la sous Amanda Sharpe.\n<b>Forcé</b> – Au début d'un test de compétence que vous effectuez : attribuez au test la carte située sous Amanda Sharpe, si possible. Ne la défaussez pas quand le test se termine.\n[elder_sign] : +0. Pour ce test, vous avez le droit de doubler le nombre d'icônes de compétence de la carte située sous Amanda Sharpe.",
+    "flags": [
+      "back_text_diff_not_applicable_in_french"
+    ]
+  },
+  {
+    "code": "07191",
+    "text": "(v2.0) La restriction d'achat de cette carte doit être remplacée par le mot-clé : « Étudié ».",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'obtenant par la mise à niveau du Grimoire Cryptique <i>(non traduit)</i>, et seulement si « vous avez traduit le grimoire » est noté dans votre Journal de Campagne.\n[reaction] Après que vous avez résolu au moins 1 pion [curse] lors d'un test : placez un nombre équivalent de secrets sur le Grimoire Cryptique.\n[reaction] Quand vous jouez un événement [[Perspicacité]] lors de votre tour, dépensez 2 secrets : cet événement gagne Rapide. Réduisez de 1 son coût.",
+    "replacement_text": "Étudié. [reaction] Après que vous avez résolu au moins 1 pion [curse] lors d'un test : placez un nombre équivalent de secrets sur le Grimoire Cryptique.\n[reaction] Quand vous jouez un événement [[Perspicacité]] lors de votre tour, dépensez 2 secrets : cet événement gagne Rapide. Réduisez de 1 son coût.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "07192",
+    "text": "(v2.0) La restriction d'achat de cette carte doit être remplacée par le mot-clé : « Étudié ».",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'obtenant par la mise à niveau du Grimoire Cryptique <i>(non traduit)</i>, et seulement si « vous avez traduit le grimoire » est noté dans votre Journal de Campagne.\n[reaction] Après que vous avez résolu au moins 1 pion [curse] lors d'un test : placez un nombre équivalent de secrets sur le Grimoire Cryptique.\n[reaction] Quand vous êtes censé piocher la carte du dessus du deck Rencontre, dépensez 5 secrets : piochez une carte de votre deck à la place.",
+    "replacement_text": "Étudié. [reaction] Après que vous avez résolu au moins 1 pion [curse] lors d'un test : placez un nombre équivalent de secrets sur le Grimoire Cryptique.\n[reaction] Quand vous êtes censé piocher la carte du dessus du deck Rencontre, dépensez 5 secrets : piochez une carte de votre deck à la place.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "07223",
+    "text": "(v1.9) La capacité [fast] devrait indiquer : « (Limite d'une fois par test.) »",
+    "original_text": "Utilisations (4 secrets).\n[free] Lors d'un test de compétence dans votre lieu : l'investigateur qui effectue le test a le droit de chercher une carte qui peut être attribuée à ce test parmi les 3 cartes du dessus de son deck. Vous avez le droit de dépenser 1 secret pour attribuer cette carte. Mélangez le deck de l'investigateur concerné.",
+    "replacement_text": "Utilisations (4 secrets).\n[free] Lors d'un test de compétence dans votre lieu : l'investigateur qui effectue le test a le droit de chercher une carte qui peut être attribuée à ce test parmi les 3 cartes du dessus de son deck. Vous avez le droit de dépenser 1 secret pour attribuer cette carte. Mélangez le deck de l'investigateur concerné. (Limite d'une fois par test.)"
+  },
+  {
+    "code": "07310",
+    "text": "(v2.0) La capacité [fast] octroyée par cette carte doit se lire : « …N'importe quel investigateur dans ce lieu peut déclencher cette capacité. »",
+    "original_text": "Attachez cette carte à votre lieu.\nUtilisations (3 offrandes).\nLe lieu attaché gagne : « [free] Piochez la carte du dessus du deck Rencontre, inclinez l'Autel des Moires et dépensez 1 offrande : renvoyez dans votre main jusqu'à 2 cartes de votre pile de défausse, dont la somme des niveaux est inférieure ou égale à 5. »",
+    "replacement_text": "Attachez cette carte à votre lieu.\nUtilisations (3 offrandes).\nLe lieu attaché gagne : « [free] Piochez la carte du dessus du deck Rencontre, inclinez l'Autel des Moires et dépensez 1 offrande : renvoyez dans votre main jusqu'à 2 cartes de votre pile de défausse, dont la somme des niveaux est inférieure ou égale à 5.  N'importe quel investigateur dans ce lieu peut déclencher cette capacité. »\n<b>Carte créée par</b> [[The Moirai]] <b>lors des</b> [[Arkham Nights]] <b>2019.</b>",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "07315",
+    "text": "(v1.9) La capacité Objectif de cette carte devrait indiquer : « …vous pouvez choisir d'avancer. » au lieu de « ...avancez. »",
+    "original_text": "<b>Objective</b> - If each investigator is at Gateway to Y'ha-nthlei and the investigators possess each of the following keys (blue, red, yellow, and green), advance.",
+    "replacement_text": "<b>Objective</b> - If each investigator is at Gateway to Y'ha-nthlei and the investigators possess each of the following keys (blue, red, yellow, and green), you may choose to advance.",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "07330a",
+    "text": "(v2.0) La condition de déclenchement de la capacité Forcé de cette carte doit se lire : « À la fin de la phase d'Investigation » au lieu de « à la fin du round ».",
+    "original_text": "Dagon is slumbering. He cannot attack or engage, and is immune to investigator actions and player card effects.\n<b>Forced</b> - At the end of the round, if an investigator is in Lair of Dagon and Dagon is ready: Place 1 doom on him.\n[action]: Test [willpower] (4). If you succeed, either exhaust Dagon or remove 1 doom from him. If you fail by 3 or more, place 1 doom on him.",
+    "replacement_text": "Dagon is slumbering. He cannot attack or engage, and is immune to investigator actions and player card effects.\n<b>Forced</b> - At the end of the investigation phase, if an investigator is in Lair of Dagon and Dagon is ready: Place 1 doom on him.\n[action]: Test [willpower] (4). If you succeed, either exhaust Dagon or remove 1 doom from him. If you fail by 3 or more, place 1 doom on him.",
+    "flags": [
+      "no_official_french_source",
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "07331a",
+    "text": "(v2.0) La condition de déclenchement de la capacité Forcé de cette carte doit se lire : « À la fin de la phase d'Investigation » au lieu de « à la fin du round ».",
+    "original_text": "Hydra is slumbering. She cannot attack or engage, and is immune to investigator actions and player card effects.\n<b>Forced</b> - At the end of the round, if an investigator is in Lair of Hydra and Hydra is ready: Place 1 doom on her.\n[action]: Test [willpower] (4). If you succeed, either exhaust Hydra or remove 1 doom from her. If you fail by 3 or more, place 1 doom on her.",
+    "replacement_text": "Hydra is slumbering. She cannot attack or engage, and is immune to investigator actions and player card effects.\n<b>Forced</b> - At the end of the investigation phase, if an investigator is in Lair of Hydra and Hydra is ready: Place 1 doom on her.\n[action]: Test [willpower] (4). If you succeed, either exhaust Hydra or remove 1 doom from her. If you fail by 3 or more, place 1 doom on her.",
+    "flags": [
+      "no_official_french_source",
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "08019",
+    "text": "(v2.0) L'effet de cette carte doit se lire : « Un à la fois, jouez… »",
+    "original_text": "Permanent. Limite de 1 par deck. À acheter lors de la création du deck.\n<b>Forcé</b> – Quand votre premier tour de la partie débute : jouez n'importe quel nombre de soutiens [[Objet]] de votre main, en réduisant de 1 le coût de chacun. Lors de ce tour, effectuez 3 actions de moins.",
+    "replacement_text": "Permanent. Limite de 1 par deck. À acheter lors de la création du deck.\n<b>Forcé</b> – Quand votre premier tour de la partie débute : jouez n'importe quel nombre de soutiens [[Objet]] de votre main, un à la fois, en réduisant de 1 le coût de chacun. Lors de ce tour, effectuez 3 actions de moins.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "08100",
+    "text": "(v2.1) La capacité [fast] de cette carte doit désormais se lire : « …choisissez et effectuez 2 actions différentes parmi les suivantes, dans l'ordre de votre choix (Se Déplacer, Échapper à ou Enquêter). »",
+    "original_text": "Utilisations (3 secrets).\n[fast] Lors de votre tour, inclinez la Carte Ancestrale et dépensez 1 secret : choisissez et effectuez deux actions parmi les suivantes, dans l'ordre de votre choix (Se Déplacer, Échapper à, Enquêter).",
+    "replacement_text": "Utilisations (3 secrets).\n[fast] Lors de votre tour, inclinez la Carte Ancestrale et dépensez 1 secret : choisissez et effectuez deux actions différentes parmi les suivantes, dans l'ordre de votre choix (Se Déplacer, Échapper à, Enquêter).",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "08596",
+    "text": "(v2.1) L'effet [cultist] de cette carte doit se lire « En cas d'échec, après la fin de ce test… »\n(v2.1) L'effet [cultist] de cette carte doit se lire « Après la fin de ce test… »",
+    "original_text": "<b>FACILE / STANDARD</b>\n[skull] –X. X est le niveau de votre lieu.\n[cultist] –1. En cas d'échec, déplacez-vous vers le lieu juste en dessous de vous.\n[tablet] –3. En cas d'échec, perdez le contrôle d'un soutien [[Expédition]] et placez-le sur votre lieu.\n[elder_thing] –4. En cas d'échec, l'ennemi [[Chose Très Ancienne]] le plus proche se déplace une fois dans votre direction. S'il est engagé avec vous, il attaque.",
+    "replacement_text": "<b>FACILE / STANDARD</b>\n[skull] –X. X est le niveau de votre lieu.\n[cultist] –1. En cas d'échec, après la fin de ce test, déplacez-vous vers le lieu juste en dessous de vous.\n[tablet] –3. En cas d'échec, perdez le contrôle d'un soutien [[Expédition]] et placez-le sur votre lieu.\n[elder_thing] –4. En cas d'échec, l'ennemi [[Chose Très Ancienne]] le plus proche se déplace une fois dans votre direction. S'il est engagé avec vous, il attaque.",
+    "original_back_text": "<b>DIFFICILE / EXPERT</b>\n[skull] –X. X est le niveau de votre lieu plus 2.\n[cultist] –1. Déplacez-vous vers le lieu juste en dessous de vous.\n[tablet] –4. En cas d'échec, perdez le contrôle d'un soutien [[Expédition]] et placez-le sur votre lieu.\n[elder_thing] –5. En cas d'échec, l'ennemi [[Chose Très Ancienne]] le plus proche se déplace une fois dans votre direction. S'il est engagé avec vous, il attaque.",
+    "replacement_back_text": "<b>DIFFICILE / EXPERT</b>\n[skull] –X. X est le niveau de votre lieu plus 2.\n[cultist] –1. Après la fin de ce test, déplacez-vous vers le lieu juste en dessous de vous.\n[tablet] –4. En cas d'échec, perdez le contrôle d'un soutien [[Expédition]] et placez-le sur votre lieu.\n[elder_thing] –5. En cas d'échec, l'ennemi [[Chose Très Ancienne]] le plus proche se déplace une fois dans votre direction. S'il est engagé avec vous, il attaque.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "08635",
+    "text": "(v2.1) La capacité de cette carte doit se lire : « Choisissez 3 lieux autres que Tunnel Caché et révélez-les… »",
+    "original_text": "[action] Spend two \"–3\" keys: Choose 3 locations and reveal them. Discover 1 clue from each of these locations. Record in the Campaign Log <i>the team read the map.</i>",
+    "replacement_text": "[action] Spend two \"-3\" keys: Choose 3 locations other than Hidden Tunnel and reveal them. Discover 1 clue from each of these locations. Record in the Campaign Log <i>the team read the map.</i>",
+    "flags": [
+      "no_official_french_source",
+      "untranslated_in_arkhamdb",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "08669",
+    "text": "(v2.1) La capacité Forcé de cette carte doit se lire : « …sceau activé : la Masse Protoplasmique se dégage et résout de nouveau la phase des Ennemis (elle résout son mot-clé chasseur et attaque une seconde fois). (Limite d'une fois par phase.) »",
+    "original_text": "Hunter.\n<b>Spawn</b> – Location farthest from you on the outer ring.\n<b>Prey</b> – Nearest investigator with a seal only.\n<b>Forced</b> – When the enemy phase ends, if an investigator controls an activated seal: Protoplasmic Mass resolves the enemy phase again <i>(it resolves its hunter keyword and attack a second time)</i>.",
+    "replacement_text": "Hunter.\n<b>Spawn</b> - Location farthest from you on the outer ring.\n<b>Prey</b> - Nearest investigator with a seal only.\n<b>Forced</b> - When the enemy phase ends, if an investigator controls an activated seal: Protoplasmic Mass readies and resolves the enemy phase again <i>(it resolves its hunter keyword and attacks a second time)</i>. (Limit once per phase.)",
+    "flags": [
+      "no_official_french_source",
+      "untranslated_in_arkhamdb",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "09020",
+    "text": "(v2.2) La capacité Révélation de cette carte doit se lire : « …Sinon, pour chaque soutien Allié que vous contrôlez, vous devez soit l'incliner, soit lui infliger 1 dégât direct et 1 horreur directe. »",
+    "original_text": "<b>Révélation</b> – Si vous ne contrôlez aucun soutien [[Allié]], remélangez Le Poids des Responsabilités dans votre deck. Sinon, pour chaque soutien [[Allié]] que vous contrôlez, soit vous inclinez ce soutien, soit vous lui infligez 1 dégât direct et 1 horreur directe.",
+    "replacement_text": "<b>Révélation</b> – Si vous ne contrôlez aucun soutien [[Allié]], remélangez Le Poids des Responsabilités dans votre deck. Sinon, pour chaque soutien [[Allié]] que vous contrôlez, vous devez soit incliner ce soutien, soit lui infliger 1 dégât direct et 1 horreur directe.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "09107",
+    "text": "(v2.4) Le premier point de cette carte doit se lire : « Chaque ennemi non engagé et non-Élite se déplace une fois en direction de l'investigateur le plus proche. »",
+    "original_text": "2 [[Dilemme]] max. par round.\n<b>Révélation</b> – S'il n'y a aucun ennemi en jeu, piochez 1 carte. Sinon, vous devez décider (choisissez une option) :\n- Chaque ennemi non-engagé se déplace une fois en direction de l'investigateur le plus proche.\n- Chaque investigateur se désengage de chaque ennemi engagé avec lui et se déplace une fois en s'éloignant de l'ennemi le plus proche.",
+    "replacement_text": "2 [[Dilemme]] max. par round.\n<b>Révélation</b> – S'il n'y a aucun ennemi en jeu, piochez 1 carte. Sinon, vous devez décider (choisissez une option) :\n- Chaque ennemi non-engagé et non-[[Élite]] se déplace une fois en direction de l'investigateur le plus proche.\n- Chaque investigateur se désengage de chaque ennemi engagé avec lui et se déplace une fois en s'éloignant de l'ennemi le plus proche.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "09521",
+    "text": "(v2.2) La première phrase de cette carte devrait se terminer par : « …pour un ennemi Ressuscité ou Goule et le générer dans un lieu aléatoire. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "09546",
+    "text": "(v2.1) Le deuxième paragraphe de cette carte devrait se lire : « Trouvez le lieu comportant une cible qui est le plus proche de La Chica Roja (ou de sa mini-carte)… »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "09562",
+    "text": "(v2.1) Cette carte perd tout son texte d'histoire et gagne : « Forcé – Quand cette agenda devrait avancer en atteignant son seuil de terreur : chaque investigateur est mis en échec et subit 1 traumatisme mental. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "09567",
+    "text": "(v2.1) Le premier paragraphe de cette carte, à partir de la ligne 3, devrait se lire : « …ou cherchez dans la pioche Rencontre et la pile de défausse Rencontre un ennemi Cultiste et piochez-le ; il gagne dissimulé 1… »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "09569",
+    "text": "(v2.1) La dernière ligne du troisième paragraphe de cet acte devrait se lire : « Mettez chaque mini-carte dissimulée de côté, hors-jeu » au lieu de « Retirez chaque mini-carte dissimulée du jeu ».",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "09570",
+    "text": "(v2.1) Le deuxième objectif de cette carte se lit maintenant : « Si un ennemi possédant Le Prisme Tordu se trouve aux Quais de Galata, ou si l'investigateur possédant Le Prisme Tordu est mis en échec, continuez… »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "09598",
+    "text": "(v2.1) La dernière ligne du premier paragraphe de cet acte devrait se lire : « Mettez chaque mini-carte dissimulée de côté, hors-jeu » au lieu de « Retirez chaque mini-carte dissimulée du jeu ».",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "09688",
+    "text": "(v2.1) La capacité de cette carte devrait se lire : « …fin de votre tour. Si chaque investigateur survivant s'est retiré, avancez immédiatement à l'acte 3b. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "09720",
+    "text": "(v2.3) La capacité constante de cette carte devrait se lire : « …les mini-cartes dissimulées dans son lieu ne peuvent pas être exposées via des effets de cartes joueur. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "10110",
+    "text": "(v2.4) La capacité [action] de cette carte devrait se lire : « …votre lieu. Le lieu attaché gagne… »",
+    "original_text": "[action] : <b>Combattre</b>. Vous gagnez +1 [combat] et infligez +2 dégâts pour cette attaque. Si cette attaque est réussie, perdez le contrôle de la Fourche et attachez-la à votre lieu. Votre lieu gagne :\n« [action] : Prenez le contrôle de la Fourche. N'importe quel investigateur dans le lieu de la Fourche a le droit de déclencher cette capacité. »",
+    "replacement_text": "[action] : <b>Combattre</b>. Vous gagnez +1 [combat] et infligez +2 dégâts pour cette attaque. Si cette attaque est réussie, perdez le contrôle de la Fourche et attachez-la à votre lieu. Le lieu attaché gagne :\n« [action] : Prenez le contrôle de la Fourche. N'importe quel investigateur dans le lieu de la Fourche a le droit de déclencher cette capacité. »",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "10522",
+    "text": "(v2.3) La capacité de cette carte devrait se lire : « Quand un effet d'une carte Scénario ou d'une carte Faiblesse devrait défausser… »",
+    "original_text": "Utilisations (4 luminescences).\n[reaction] Quand un effet d'une carte Scénario devrait défaussez n'importe quel nombre de cartes de votre main, inclinez Éclat Prismatique et dépensez 1 luminescence : ignorez cet effet et piochez le même nombre de cartes à la place.",
+    "replacement_text": "Utilisations (4 luminescences).\n[reaction] Quand un effet d'une carte Scénario ou d'une carte Faiblesse devrait défaussez n'importe quel nombre de cartes de votre main, inclinez Éclat Prismatique et dépensez 1 luminescence : ignorez cet effet et piochez le même nombre de cartes à la place.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "10578",
+    "text": "(v2.3) Cette carte devrait avoir le trait Grotte.",
+    "original_traits": "Coastal.",
+    "replacement_traits": "Cave. Coastal.",
+    "flags": [
+      "no_official_french_source",
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "10634",
+    "text": "(v2.4) La capacité [reaction] de cette carte devrait être une capacité « Forcé – ».",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "11009",
+    "text": "(v2.5) La capacité [reaction] de cette carte devrait se lire : « [reaction] Après que vous avez réussi un test de compétence, si aucun pion n'est scellé ici et que vous n'avez pas libéré de pion d'Ocula Obscura lors de ce test de compétence… »",
+    "original_text": "Deck d'Agatha Crane uniquement.\n[reaction] Après que vous avez réussi un test de compétence, si aucun pion n'est scellé ici : scellez sur Ocula Obscura un pion non-symbole révélé lors de ce test de compétence. (Limite d'une fois par phase.)\n<b>Forcé</b> – Quand vous devriez révéler un pion de la réserve du Chaos : résolvez le pion qui est scellé sur Ocula Obscura à la place. Ensuite, libérez ce pion.",
+    "replacement_text": "Deck d'Agatha Crane uniquement.\n[reaction] Après que vous avez réussi un test de compétence, si aucun pion n'est scellé ici et que vous n'avez pas libéré de pion d'Ocula Obscura lors de ce test de compétence : scellez sur Ocula Obscura un pion non-symbole révélé lors de ce test de compétence. (Limite d'une fois par phase.)\n<b>Forcé</b> – Quand vous devriez révéler un pion de la réserve du Chaos : résolvez le pion qui est scellé sur Ocula Obscura à la place. Ensuite, libérez ce pion.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "11069",
+    "text": "(v2.5) La capacité [reaction] de cette carte devrait se lire : « [reaction] Quand vous êtes sur le point de révéler un pion Chaos… »",
+    "original_text": "[reaction] Quand vous révélez des pions Chaos lors d'un test de mise à mort que vous effectuez, inclinez Katarina Sojka : révélez des pions de la réserve du Chaos jusqu'à ce qu'un pion avec un symbole soit révélé. Résolvez ce pion et ignorez les autres.",
+    "replacement_text": "[reaction] Quand vous êtes sur le point de révéler un pion Chaos lors d'un test de compétence que vous effectuez, inclinez Katarina Sojka : révélez des pions de la réserve du Chaos jusqu'à ce qu'un pion avec un symbole soit révélé. Résolvez ce pion et ignorez les autres.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "11103",
+    "text": "(v2.4) La capacité [reaction] de cette carte devrait plutôt être une capacité [fast] et gagne « … (Limite d'une fois par test.) »",
+    "original_text": "Deck [[Béni]], [[Maudit]] ou [[Sorcier]] uniquement.\nVous gagnez +1 à votre valeur de compétence tant que vous résolvez des événements [[Sort]].\n[reaction] Lors d'un test de compétence requis par un événement [[Sort]], subissez jusqu'à 3 horreurs : pour chaque horreur subie, révélez un pion Chaos supplémentaire pour ce test. Choisissez 1 des pions révélés à résoudre et ignorez les autres.",
+    "replacement_text": "Deck [[Béni]], [[Maudit]] ou [[Sorcier]] uniquement.\nVous gagnez +1 à votre valeur de compétence tant que vous résolvez des événements [[Sort]].\n[fast] Lors d'un test de compétence requis par un événement [[Sort]], subissez jusqu'à 3 horreurs : pour chaque horreur subie, révélez un pion Chaos supplémentaire pour ce test. Choisissez 1 des pions révélés à résoudre et ignorez les autres. (Limite d'une fois par test.)",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "11519",
+    "text": "(v2.4) L'Objectif de cet acte doit se lire : « …vous pouvez avancer. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "11520",
+    "text": "(v2.4) L'Objectif de cet acte doit se lire : « …vous pouvez avancer. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "11595",
+    "text": "(v2.4) La première phrase de la face non révélée de cette carte doit plutôt se lire : « Le Cœur du Coffre ne peut pas être inondé et les investigateurs ne peuvent pas s'y déplacer. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "11605",
+    "text": "(v2.5) La capacité Forcée de cette carte doit se lire : « ...le Rampant dans les Ténèbres se déplace directement vers le lieu inondé... »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "11674",
+    "text": "(v2.5) La capacité Forcée de cette carte doit se lire : « ...Avancez immédiatement (ne retirez pas les points de fatalité des cartes en jeu). »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "11691b",
+    "text": "(v2.4) La première phrase au dos de cette agenda doit se lire : « Si cette agenda a avancé en atteignant son seuil de fatalité, chaque investigateur est vaincu. Sinon… »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "11753a",
+    "text": "(v2.4) La première capacité Forcée de cette carte devrait se lire : « Quand vous révélez un lieu ou mettez un lieu en jeu : retirez… »",
+    "original_text": "Permanent. Utilisations (8 découvertes).\n<b>Forcé</b> - Quand vous révélez un lieu : retirez 1 découverte de On n'Est Bien que Chez Soi.\n<b>Forcé</b> - Quand la partie se termine, s'il y a 1 [per_investigateur] découverte ou moins sur On n'Est Bien que Chez Soi : dans votre Carnet de Campagne, cochez 1 progression sous cette Tâche.",
+    "replacement_text": "Permanent. Utilisations (8 découvertes).\n<b>Forcé</b> - Quand vous révélez un lieu ou mettez un lieu en jeu : retirez 1 découverte de On n'Est Bien que Chez Soi.\n<b>Forcé</b> - Quand la partie se termine, s'il y a 1 [per_investigateur] découverte ou moins sur On n'Est Bien que Chez Soi : dans votre Carnet de Campagne, cochez 1 progression sous cette Tâche.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "12020",
+    "text": "(Grimoire v1.1) La capacité de cette carte devrait se lire « Si vous réussissez et que l'ennemi attaqué est le seul ennemi engagé avec vous… »",
+    "original_text": "[action]: <b>Combattre</b> ([combat]). Vous gagnez +1 [combat] pour cette attaque. Si l'ennemi attaqué est le seul ennemi engagé avec vous, vous avez le droit d'incliner la Machette pour infliger +1 dégât pour cette attaque.",
+    "replacement_text": "[action]: <b>Combattre</b> ([combat]). Vous gagnez +1 [combat] pour cette attaque. Si vous réussissez et que l'ennemi attaqué est le seul ennemi engagé avec vous, vous avez le droit d'incliner la Machette pour infliger +1 dégât pour cette attaque.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "12082",
+    "text": "(Grimoire v1.1) La capacité de cette carte devrait se lire « Vous réussissez ce test de compétence de 0 à la place. »",
+    "original_text": "Rapide. À jouer quand vous êtes censé échouer à un test de compétence au cours duquel un pion non-[auto_fail] a été révélé.\nVous réussissez ce test de compétence à la place. Si un pion ayant un symbole a été révélé lors de ce test de compétence, subissez 1 horreur.",
+    "replacement_text": "Rapide. À jouer quand vous êtes censé échouer à un test de compétence au cours duquel un pion non-[auto_fail] a été révélé.\nVous réussissez ce test de compétence de 0 à la place. Si un pion ayant un symbole a été révélé lors de ce test de compétence, subissez 1 horreur.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "50004",
+    "text": "(v1.4) La capacité permanente de cette carte devrait indiquer : « …Chaque fois qu'un ennemi non-Élite devrait être généré dans le lieu attaché, générez-le dans un lieu connexe à la place, si possible. »",
+    "original_text": "Attachez cette carte à votre lieu.\nLes ennemis non-[[Élite]] ne peuvent pas se déplacer vers le lieu attaché ou y être générés. Dès qu'un ennemi devrait être généré dans le lieu attaché, générez-le dans un lieu connexe à la place, si possible.\n<b>Forcé</b> – Quand un investigateur quitte le lieu attaché : défaussez la Barricade.",
+    "replacement_text": "Attachez cette carte à votre lieu.\nLes ennemis non-[[Élite]] ne peuvent pas se déplacer vers le lieu attaché ou y être générés. Chaque fois qu'un ennemi non-[[Élite]] devrait être généré dans le lieu attaché, générez-le dans un lieu connexe à la place, si possible.\n<b>Forcé</b> – Quand un investigateur quitte le lieu attaché : défaussez la Barricade."
+  },
+  {
+    "code": "51004",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudiée ».",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'améliorant depuis l'Étrange Solution <i>(Non identifiée)</i>, et seulement si vous avez « identifié la solution » dans votre Journal de Campagne.\nUtilisations (3 provisions).\n[action] Dépensez 1 provision et inclinez l'Étrange Solution : choisissez un investigateur dans votre lieu. Il gagne 2 ressources et pioche 1 carte.",
+    "replacement_text": "Étudiée. Utilisations (3 provisions).\n[action] Dépensez 1 provision et inclinez l'Étrange Solution : choisissez un investigateur dans votre lieu. Il gagne 2 ressources et pioche 1 carte.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "52004",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudiés ».",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'améliorant depuis les Glyphes Archaïques <i>(Non traduits)</i>, et seulement si vous avez « traduit les glyphes » dans votre Journal de Campagne.\nUtilisations (3 charges).\n[action] Dépensez 1 charge : <b>Enquêter</b>. En cas de réussite, vous avez le droit de mettre en jeu un soutien avec un coût imprimé de X ou moins depuis votre main. X est le nombre de points de réussite.",
+    "replacement_text": "Étudiés. Utilisations (3 charges).\n[action] Dépensez 1 charge : <b>Enquêter</b>. En cas de réussite, vous avez le droit de mettre en jeu un soutien avec un coût imprimé de X ou moins depuis votre main. X est le nombre de points de réussite.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "52008",
+    "text": "(v2.0) La capacité Combattre de cette carte devrait se lire : « dans le lieu de l'ennemi attaqué » au lieu de « dans votre lieu » dans toutes les occurrences.",
+    "original_text": "<b>Combattre</b>. Cette attaque utilise [willpower] au lieu de [combat]. Vous gagnez +2 [willpower] pour cette attaque. En cas de réussite, cette attaque inflige 3 dégâts à chaque ennemi dans votre lieu au lieu de ses dégâts normaux <i>(tout dégât supplémentaire est infligé à l'ennemi attaqué)</i>. Si un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail] est révélé lors de cette attaque, infligez 2 dégâts à chaque investigateur dans votre lieu.",
+    "replacement_text": "<b>Combattre</b>. Cette attaque utilise [willpower] au lieu de [combat]. Vous gagnez +2 [willpower] pour cette attaque. En cas de réussite, cette attaque inflige 3 dégâts à chaque ennemi dans le lieu de l'ennemi attaqué au lieu de ses dégâts normaux <i>(tout dégât supplémentaire est infligé à l'ennemi attaqué)</i>. Si un symbole [skull], [cultist], [tablet], [elder_thing] ou [auto_fail] est révélé lors de cette attaque, infligez 2 dégâts à chaque investigateur dans le lieu de l'ennemi attaqué.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "52023",
+    "text": "(v2.0) Le trait « Aliéné » de cette carte devrait se lire « Possédé ».",
+    "original_traits": "Monstre. Cultiste. Aliéné. Élite.",
+    "replacement_traits": "Monstre. Cultiste. Possédé. Élite.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "52024",
+    "text": "(v2.0) Le trait « Aliéné » de cette carte devrait se lire « Possédé ».",
+    "original_traits": "Humanoïde. Monstre. Aliéné.",
+    "replacement_traits": "Humanoïde. Monstre. Possédé.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "53004",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudiée ».",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en l'améliorant depuis la Pierre Ancienne <i>(Non identifiée)</i>, et seulement si vous avez « identifié la pierre » dans votre Journal de Campagne.\nUtilisations (X secrets). X est le nombre inscrit entre parenthèses à côté de « vous avez identifié la pierre ».\n[reaction] Quand vous piochez n'importe quel nombre de cartes, dépensez un nombre identique de secrets : déplacez-vous ce même nombre de fois.",
+    "replacement_text": "Étudiée. Utilisations (X secrets). X est le nombre inscrit entre parenthèses à côté de « vous avez identifié la pierre ».\n[reaction] Quand vous piochez n'importe quel nombre de cartes, dépensez un nombre identique de secrets : déplacez-vous ce même nombre de fois.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "54027",
+    "text": "(v2.1) La capacité de cette carte devrait se lire : « Victorian Halls est connecté à Wine Cellar. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "54028",
+    "text": "(v2.1) La capacité de cette carte devrait indiquer : « Victorian Halls est relié à Wine Cellar, et inversement. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "54040",
+    "text": "(v2.0) Le deuxième point de cette carte devrait se terminer par : « Sinon, placez-la dans la pile de défausse spectrale de la rencontre. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "54060",
+    "text": "(v2.0) La dernière phrase de la capacité Cosmos de cette carte devrait plutôt se lire : « Vous pouvez choisir de ne pas vous déplacer vers Winding Gulf et de placer 1 point de fatalité sur Azathoth à la place. »",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "54068",
+    "text": "(v2.0) La condition de déclenchement de la première capacité Forcée de cette carte devrait indiquer « Après que vous avez quitté le lieu attaché » plutôt que « quand vous quittez le lieu attaché ».",
+    "flags": [
+      "untranslated_in_arkhamdb"
+    ]
+  },
+  {
+    "code": "60102",
+    "text": "(v1.8) Le symbole [fast] de cette carte devrait être un symbole [reaction], à la place.",
+    "original_text": "Deck de Nathaniel Cho uniquement.\n[fast] Après que Randall Cho est entré en jeu : soignez 3 dégâts ou cherchez un soutien [[Arme]] dans votre deck ou votre pile de défausse et jouez-le <i>(en payant son coût)</i>. Mélangez votre deck.",
+    "replacement_text": "Deck de Nathaniel Cho uniquement.\n[reaction] Après que Randall Cho est entré en jeu : soignez 3 dégâts ou cherchez un soutien [[Arme]] dans votre deck ou votre pile de défausse et jouez-le <i>(en payant son coût)</i>. Mélangez votre deck."
+  },
+  {
+    "code": "60227",
+    "text": "(v1.9) La capacité de cette carte devrait indiquer : « …En cas de réussite, au lieu de découvrir un indice dans votre lieu, découvrez un total de 2 indices parmi votre lieu et les lieux connexes. »",
+    "original_text": "<b>Enquêter</b>. En cas de réussite, découvrez un total de 2 indices parmi votre lieu et les lieux connexes.",
+    "replacement_text": "<b>Enquêter</b>. En cas de réussite, au lieu de découvrir un indice dans votre lieu, découvrez un total de 2 indices parmi votre lieu et les lieux connexes."
+  },
+  {
+    "code": "60229",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudié. »",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en le faisant évoluer depuis l'Ouvrage Interdit <i>(Non Traduit)</i>, et seulement si « vous avez traduit l'ouvrage » est inscrit dans votre Journal de Campagne. [action][action][action][action] Inclinez l'Ouvrage Interdit : déplacez 1 dégât d'une carte Joueur dans votre lieu vers un ennemi dans votre lieu. Réduisez de 1 action le coût de cette capacité pour chaque groupe de 4 cartes dans votre main (jusqu'à un minimum de [action]).",
+    "replacement_text": "Étudié. [action][action][action][action] Inclinez l'Ouvrage Interdit : déplacez 1 dégât d'une carte Joueur dans votre lieu vers un ennemi dans votre lieu. Réduisez de 1 action le coût de cette capacité pour chaque groupe de 4 cartes dans votre main (jusqu'à un minimum de [action]).",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "60230",
+    "text": "(v2.0) La restriction d'achat de cette carte devrait être remplacée par le mot-clé : « Étudié. »",
+    "original_text": "Vous ne pouvez inclure ce soutien dans votre deck qu'en le faisant évoluer depuis l'Ouvrage Interdit <i>(Non Traduit)</i>, et seulement si « vous avez traduit l'ouvrage » est inscrit dans votre Journal de Campagne. [action][action][action][action] Inclinez l'Ouvrage Interdit : vous avez le droit de vous déplacer vers un lieu connexe. Découvrez 1 indice dans votre lieu. Réduisez de 1 le coût de cette capacité pour chaque groupe de 4 cartes dans votre main (jusqu'à un minimum de [action]).",
+    "replacement_text": "Étudié. [action][action][action][action] Inclinez l'Ouvrage Interdit : vous avez le droit de vous déplacer vers un lieu connexe. Découvrez 1 indice dans votre lieu. Réduisez de 1 le coût de cette capacité pour chaque groupe de 4 cartes dans votre main (jusqu'à un minimum de [action]).",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "60563",
+    "text": "(Grimoire v1.1) La capacité de cette carte devrait indiquer « Enquêtez sur le lieu attaché. Vous gagnez +1 à votre valeur de compétence pour cette enquête. »",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "60566",
+    "text": "(Grimoire v1.1) La capacité de cette carte devrait indiquer « En cas de réussite, vous avez le droit de défausser Rester à l'Affût pour que cette attaque inflige +1 dégât. »",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "60574",
+    "text": "(Grimoire v1.1) La ligne de mots-clés de cette carte devrait indiquer « S'il n'y a plus de provisions sur l'Instinct du Chasseur, défaussez-le. »",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "82023",
+    "text": "(v2.3) La première ligne de cette carte devrait indiquer : « Limite de 1 [[Masque]] par investigateur. »",
+    "original_text": "Limite de 1 <i>Masque</i> en jeu.\n[reaction] Après l'entrée en jeu de la Bauta : gagnez 2 ressources.\n[reaction] Quand vous initiez un test non-[combat], défaussez la Bauta : pour ce test, utilisez [combat] au lieu de la compétence indiquée.",
+    "replacement_text": "Limite de 1 [[Masque]] en jeu.\n[reaction] Après l'entrée en jeu de la Bauta : gagnez 2 ressources.\n[reaction] Quand vous initiez un test non-[combat], défaussez la Bauta : pour ce test, utilisez [combat] au lieu de la compétence indiquée.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "82024",
+    "text": "(v2.3) La première ligne de cette carte devrait indiquer : « Limite de 1 [[Masque]] par investigateur. »",
+    "original_text": "Limite de 1 <i>Masque</i> en jeu.\n[reaction] Après l'entrée en jeu du Medico Della Peste : soignez 1 dégât ou 1 horreur.\n[reaction] Quand vous initiez un test non-[willpower], défaussez le Medico Della Peste : pour ce test, utilisez [willpower] au lieu de la compétence indiquée.",
+    "replacement_text": "Limite de 1 [[Masque]] en jeu.\n[reaction] Après l'entrée en jeu du Medico Della Peste : soignez 1 dégât ou 1 horreur.\n[reaction] Quand vous initiez un test non-[willpower], défaussez le Medico Della Peste : pour ce test, utilisez [willpower] au lieu de la compétence indiquée.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "82025",
+    "text": "(v2.3) La première ligne de cette carte devrait indiquer : « Limite de 1 [[Masque]] par investigateur. »",
+    "original_text": "Limite de 1 <i>Masque</i> en jeu.\n[reaction] Après l'entrée en jeu du Pantalone : piochez 2 cartes.\n[reaction] Quand vous initiez un test non-[intellect], défaussez le Pantalone : pour ce test, utilisez [intellect] au lieu de la compétence indiquée.",
+    "replacement_text": "Limite de 1 [[Masque]] en jeu.\n[reaction] Après l'entrée en jeu du Pantalone : piochez 2 cartes.\n[reaction] Quand vous initiez un test non-[intellect], défaussez le Pantalone : pour ce test, utilisez [intellect] au lieu de la compétence indiquée.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "82026",
+    "text": "(v2.3) La première ligne de cette carte devrait indiquer : « Limite de 1 [[Masque]] par investigateur. »",
+    "original_text": "Limite de 1 <i>Masque</i> en jeu.\n[reaction] Après l'entrée en jeu du Volto Doré : traitez le prochain soutien que vous jouez à ce tour comme s'il avait le mot-clé Rapide.\n[reaction] Quand vous initiez un test non-[agility], défaussez le Volto Doré : pour ce test, utilisez [agility] au lieu de la compétence indiquée.",
+    "replacement_text": "Limite de 1 [[Masque]] en jeu.\n[reaction] Après l'entrée en jeu du Volto Doré : traitez le prochain soutien que vous jouez à ce tour comme s'il avait le mot-clé Rapide.\n[reaction] Quand vous initiez un test non-[agility], défaussez le Volto Doré : pour ce test, utilisez [agility] au lieu de la compétence indiquée.",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "84029",
+    "text": "(v1.7) La première capacité de ce Soutien devrait indiquer : « Forcé – Quand l'Intrus d'un Autre Monde devrait subir les dégâts d'une attaque : retirez 1 fatalité de l'Intrus d'un Autre Monde. Ensuite, diminuez de 1 les dégâts subis. »",
+    "original_text": "Riposte.\n<b>Forcé</b> – Quand l'Intrus d'un Autre Monde devrait subir les dégâts d'une attaque : retirez 1 fatalité de l'Intrus d'un Autre Monde et diminuez ces dégâts de 1.\n<b>Forcé</b> – Après qu'un investigateur a été vaincu : placez 3 fatalités sur l'Intrus d'un Autre Monde.",
+    "replacement_text": "Riposte.\n<b>Forcé</b> – Quand l'Intrus d'un Autre Monde devrait subir les dégâts d'une attaque : retirez 1 fatalité de l'Intrus d'un Autre Monde. Ensuite, diminuez de 1 ces dégâts.\n<b>Forcé</b> – Après qu'un investigateur a été vaincu : placez 3 fatalités sur l'Intrus d'un Autre Monde."
+  },
+  {
+    "code": "90071",
+    "text": "(v2.4) La capacité [action] de cette carte devrait indiquer : « …piochez 1 des cartes révélées qui n'est pas un lieu et vérifiez votre équipement. Si vous possédez une craie, vous pouvez choisir 1 carte supplémentaire révélée qui n'est pas un lieu et la piocher… »",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "90093",
+    "text": "(v2.5) La première ligne de cette carte devrait indiquer : « Remplacement. Péril. »",
+    "flags": [
+      "no_official_french_source",
+      "fr_pack_not_yet_updated"
+    ]
+  },
+  {
+    "code": "98001",
+    "text": "(v1.5) Les Options de Construction du Deck de cette carte devraient indiquer : « …jusqu'à cinq autres cartes de niveau 0 prises dans les autres classes ([guardian], [seeker], [mystic] et/ou [survivor]). »",
+    "flags": [
+      "no_official_french_source",
+      "translation_delta_uncertain"
+    ]
+  },
+  {
+    "code": "98007",
+    "text": "(v1.9) Les Options de Construction du Deck de cette carte devraient indiquer : « …jusqu'à 5 autres cartes Mystique ([mystic]) de niveau 0. »",
+    "original_back_text": "<b>Taille du Deck</b> : 30.\n<b>Construction du Deck</b> : cartes Chercheur ([seeker]) de niveau 0, cartes Mystique ([mystic]) de niveaux 1 à 5, cartes neutres de niveaux 0 à 5, jusqu'à 5 cartes Mystique ([mystic]) de niveau 0.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Livre d'Eibon, L'Annonciateur, 1 faiblesse de base au hasard.",
+    "replacement_back_text": "<b>Taille du Deck</b> : 30.\n<b>Construction du Deck</b> : cartes Chercheur ([seeker]) de niveau 0, cartes Mystique ([mystic]) de niveaux 1 à 5, cartes neutres de niveaux 0 à 5, jusqu'à 5 autres cartes Mystique ([mystic]) de niveau 0.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Livre d'Eibon, L'Annonciateur, 1 faiblesse de base au hasard.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "98010",
+    "text": "(v1.5) Les Options de Construction du Deck de cette carte devraient indiquer : « Cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveaux 0 à 5, cartes qui « soignent de l'horreur » de niveaux 0 à 5, jusqu'à 15 autres cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]). »",
+    "original_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveau 0 à 5, cartes qui « soignent de l'horreur » de niveaux 0 à 5, jusqu'à 15 cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Thérapie par l'Hypnose, Pensée Rationnelle, 1 faiblesse de base au hasard.\n<b>Restrictions supplémentaires</b> : pas de cartes [[Arme]] de niveaux 1 à 5.",
+    "replacement_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveau 0 à 5, cartes qui « soignent de l'horreur » de niveaux 0 à 5, jusqu'à 15 autres cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Thérapie par l'Hypnose, Pensée Rationnelle, 1 faiblesse de base au hasard.\n<b>Restrictions supplémentaires</b> : pas de cartes [[Arme]] de niveaux 1 à 5.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  },
+  {
+    "code": "98018",
+    "text": "(v1.9) La capacité constante de cette carte devrait indiquer : « Vous ne pouvez pas jouer de soutiens, ni mettre de soutiens en jeu. »",
+    "original_text": "Deck de Dexter Drake uniquement. Remplacement.\n<b>Révélation</b> – Mettez Yaztaroth en jeu dans votre zone de menace.\nVous ne pouvez pas mettre de soutiens en jeu.\n[action][action] : défaussez Yaztaroth.",
+    "replacement_text": "Deck de Dexter Drake uniquement. Remplacement.\n<b>Révélation</b> – Mettez Yaztaroth en jeu dans votre zone de menace.\nVous ne pouvez pas jouer de soutiens, ni mettre de soutiens en jeu.\n[action][action] : défaussez Yaztaroth.",
+    "flags": [
+      "no_official_french_source"
+    ]
+  }
+]
