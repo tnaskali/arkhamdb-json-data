@@ -1,0 +1,1052 @@
+[
+    {
+        "code": "01006",
+        "text": "(v1.0) This card has no level (instead of being level 0).",
+        "original_xp": 0,
+        "replacement_xp": null
+    },
+    {
+        "code": "01008",
+        "text": "(v1.0) This card has no level (instead of being level 0).",
+        "original_xp": 0,
+        "replacement_xp": null
+    },
+    {
+        "code": "01010",
+        "text": "(v1.0) This card has no level (instead of being level 0).",
+        "original_xp": 0,
+        "replacement_xp": null
+    },
+    {
+        "code": "01012",
+        "text": "(v1.0) This card has no level (instead of being level 0).",
+        "original_xp": 0,
+        "replacement_xp": null
+    },
+    {
+        "code": "01014",
+        "text": "(v1.0) This card has no level (instead of being level 0).\n(v1.9) This card’s Forced ability should read: “Forced – After you play an event or discard an event from play:…”",
+        "original_text": "Wendy Adams deck only.\r\nYou may play the topmost event in your discard pile as if it were in your hand.\r\nForced - After you play an event: Place it on the bottom of your deck instead of in your discard pile.",
+        "replacement_text": "Wendy Adams deck only.\nYou may play the topmost event in your discard pile as if it were in your hand.\n<b>Forced</b> - After you play an event or discard an event from play: Place it on the bottom of your deck instead of in your discard pile.",
+        "original_xp": 0,
+        "replacement_xp": null
+    },
+    {
+        "code": "02001",
+        "text": "(v1.5) This card’s Deckbuilding Options should read: “…up to five other level 0 cards from any other classes ([seeker], [rogue], [mystic], and/or [survivor]).”",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Guardian cards ([guardian]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class\n<b>Deckbuilding requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness."
+    },
+    {
+        "code": "02002",
+        "text": "(v1.5) This card’s Deckbuilding Options should read: “…up to five other level 0 cards from any other classes ([guardian], [rogue], [mystic], and/or [survivor]).”",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class.\n<b>Deckbuilding requirements</b> (do not count toward deck size): Search for [...], Rex's Curse, 1 random basic weakness.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] cards."
+    },
+    {
+        "code": "02003",
+        "text": "(v1.5) This card’s Deckbuilding Options should read: “…up to five other level 0 cards from any other classes ([guardian], [seeker], [mystic], and/or [survivor]).”",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class.\n<b>Deckbuilding requirements</b> (do not count toward deck size): Jenny's Twin .45s, Searching for Izzie, 1 random basic weakness.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jenny's Twin .45s, Searching for Izzie, 1 random basic weakness."
+    },
+    {
+        "code": "02004",
+        "text": "(v1.5) This card’s Deckbuilding Options should read: “…up to five other level 0 cards from any other classes ([guardian], [seeker], [rogue], and/or [survivor]).”",
+        "original_text": "Treat the modifier on [skull] tokens you reveal as \"0\".\nAnytime you reveal a [eldersign] token, you may choose to instead treat it as a [skull] token.\n[eldersign] effect: +1. If this skill test is successful during an attack, that attack deals +1 damage.",
+        "replacement_text": "Treat the modifier on [skull] tokens you reveal as \"0.\"\nAnytime you reveal a [elder_sign] token, you may choose to instead treat it as a [skull] token.\n[elder_sign] effect: +1.",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Mystic cards ([mystic]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class\n<b>Deckbuilding requirements</b> (do not count toward deck size): 1 random basic weakness.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jim's Trumpet, Final Rhapsody, 1 random basic weakness."
+    },
+    {
+        "code": "02005",
+        "text": "(v1.5) This card’s Deckbuilding Options should read: “…up to five other level 0 cards from any other classes ([guardian], [seeker], [rogue], and/or [mystic]).”",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Survivor cards ([survivor]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class.\n<b>Deckbuilding requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness."
+    },
+    {
+        "code": "02007",
+        "text": "(v1.0) This card’s Forced ability should read: “When the game ends, if attached enemy is in play: Zoey Samaras suffers 1 mental trauma.”",
+        "original_text": "",
+        "replacement_text": "<b>Revelation</b> - Discard cards from the top of the encounter deck until an enemy is discarded. Attach Smite the Wicked to that enemy and spawn it at the location farthest from you.\n<b>Forced</b> - When the game ends, if attached enemy is in play: Zoey Samaras suffers 1 mental trauma."
+    },
+    {
+        "code": "02011",
+        "text": "(v1.0) This card’s Forced ability should read: “When the game ends, if Searching for Izzie is in play: Jenny Barnes suffers 1 mental trauma.”",
+        "original_text": "<b>Revelation</b> - Attach Searching for Izzie to the location farthest from you.\n,action] [action]: <b>Investigate</b>. If you succeed, instead of discovering clues, discard Searching for Izzie.\n<b>Forced</b> - When the game ends, if Searching for Izzie is in play: You suffer 1 mental trauma.",
+        "replacement_text": "<b>Revelation</b> - Attach Searching for Izzie to the location farthest from you.\n[action][action]: <b>Investigate.</b> If you succeed, instead of discovering clues, discard Searching for Izzie.\n<b>Forced</b> - When the game ends, if Searching for Izzie is in play: Jenny Barnes suffers 1 mental trauma."
+    },
+    {
+        "code": "02020",
+        "text": "(v1.6) This card’s first ability should read: “Your maximum hand size is increased by 2.”",
+        "original_text": "Your maximum hand size is increased by 2 while checking your hand size during the upkeep phase.\n[reaction] After Laboratory Assistant enters play: Draw 2 cards.",
+        "replacement_text": "Your maximum hand size is increased by 2.\n[reaction] After Laboratory Assistant enters play: Draw 2 cards."
+    },
+    {
+        "code": "02040",
+        "text": "(v1.3) This card’s [reaction] ability should read: “After you draw a non-weakness card, discard that card…”",
+        "original_text": "<i>[reaction]</i> After you draw a card, discard that card and exhaust Dr. Henry Armitage: Gain 3 resources.",
+        "replacement_text": "[reaction] After you draw a non-weakness card, discard that card and exhaust Dr. Henry Armitage: Gain 3 resources."
+    },
+    {
+        "code": "02078",
+        "text": "(v1.2) This enemy’s traits should be “Humanoid. Criminal. Elite.”",
+        "original_traits": "Criminal. Elite.",
+        "replacement_traits": "Humanoid. Criminal. Elite."
+    },
+    {
+        "code": "02079",
+        "text": "(v1.2) This card’s “Human” trait should read “Humanoid” instead.",
+        "original_traits": "Human. Criminal.",
+        "replacement_traits": "Humanoid. Criminal."
+    },
+    {
+        "code": "02097",
+        "text": "(v1.2) This card’s “Human” trait should read “Humanoid” instead.",
+        "original_traits": "Human. Criminal. Syndicate.",
+        "replacement_traits": "Humanoid. Criminal. Syndicate."
+    },
+    {
+        "code": "02098",
+        "text": "(v1.2) This card’s “Human” trait should read “Humanoid” instead.",
+        "original_traits": "Human. Criminal. Syndicate.",
+        "replacement_traits": "Humanoid. Criminal. Syndicate."
+    },
+    {
+        "code": "02205",
+        "text": "(v1.1) This card’s first ability should read: “Forced – After you fail a skill test while investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its doom side.”",
+        "original_text": "[reaction] After you fail a skill test while investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its doom side.\n[free]If there are no clues here: Draw the encounter card underneath Burned Ruins. (Group limit once per game).",
+        "replacement_text": "<b>Forced</b> - After you fail a skill test while investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its doom side.\n[fast] If there are no clues here: Draw the encounter card underneath Burned Ruins. (Group limit once per game)."
+    },
+    {
+        "code": "02230",
+        "text": "(v1.1) This card’s [reaction] ability should read: “When you reveal a non-[auto_fail] chaos token, spend 2 resources: Ignore that chaos token and reveal another one to resolve. If that token has a [auto_fail] symbol, remove Lucky Dice from the game (cannot be ignored/canceled).”",
+        "original_text": "Exceptional.\n[reaction]After you reveal a chaos token, spend 2 resources: Ignore that chaos token and reveal another one to resolve. If that token has a [auto-fail] symbol, remove Lucky Dice from the game.",
+        "replacement_text": "Exceptional.\n[reaction] When you reveal a non-[auto_fail] chaos token, spend 2 resources: Ignore that chaos token and reveal another one to resolve. If that token has a [auto_fail] symbol, remove Lucky Dice from the game (cannot be ignored/canceled)."
+    },
+    {
+        "code": "02262",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Strange Solution , and only if you have \"identified the solution\" in your Campaign Log.\nUses (4 supplies).\n[action]Spend 1 supply: Heal 2 damage from an investigator at your location.",
+        "replacement_text": "Researched. Uses (4 supplies).\n[action] Spend 1 supply: Heal 2 damage from an investigator at your location."
+    },
+    {
+        "code": "02263",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Strange Solution, and only if you have \"identified the solution\" in your Campaign Log.\nUses (3 supplies).\n[action]Spend 1 supply: <b>Fight</b>. Attack with a base [combat] skill of 6. This attack deals +2 damage.",
+        "replacement_text": "Researched. Uses (3 supplies).\n[action] Spend 1 supply: <b>Fight.</b> Attack with a base [combat] skill of 6. This attack deals +2 damage."
+    },
+    {
+        "code": "02264",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Strange Solution, and only if you have \"identified the solution\" in your Campaign Log.\nUses (4 supplies).\n[action]Spend 1 supply: <b>Evade</b>. Evade with a base [agility] skill of 6.",
+        "replacement_text": "Researched. Uses (4 supplies).\n[action] Spend 1 supply: <b>Evade.</b> Evade with a base [agility] skill of 6."
+    },
+    {
+        "code": "02277",
+        "text": "(v1.6) The two instructions on this card should be reversed, as follows: “Remove all clues from each location in play. The arcane presence masking the path further up the hill has faded. Reveal Ascending Path.”",
+        "original_text": "<b>Objective</b> - When the investigators have collected the requisite number of clues, they must immediately spend them and advance.",
+        "replacement_text": "<b>Objective</b> - When the investigators have collected the requisite number of clues, they must immediately spend them and advance.",
+        "original_back_text": "The arcane presence masking the path further up the hill has faded. Reveal Ascending Path.\nRemove all clues from each location in play.",
+        "replacement_back_text": "Remove all clues from each location in play. The arcane presence masking the path further up the hill has faded. Reveal Ascending Path."
+    },
+    {
+        "code": "02302",
+        "text": "(v1.2) This card’s [reaction] ability should read: “When you draw an encounter card from the encounter deck…”",
+        "original_text": "[reaction] When you draw an encounter card, exhaust Dr. William T. Maleson and place 1 of your clues on your location: Cancel the drawing of that card and shuffle it back into the encounter deck. Then, draw a new card from the top of the encounter deck.",
+        "replacement_text": "[reaction] When you draw an encounter card from the encounter deck, exhaust Dr. William T. Maleson and place 1 of your clues on your location: Cancel the drawing of that card and shuffle it back into the encounter deck. Then, draw a new card from the top of the encounter deck."
+    },
+    {
+        "code": "02305",
+        "text": "(v1.2) Each of this card’s [fast] symbols should be [reaction] symbols, instead.",
+        "original_text": "Exceptional.\n[lightning] When a phase begins, remove The Gold Pocket Watch from the game: Skip this phase.\n[lightning] After a phase ends, remove The Gold Pocket Watch from the game: Repeat that phase.",
+        "replacement_text": "Exceptional.\n[reaction] When a phase begins, remove The Gold Pocket Watch from the game: Skip this phase.\n[reaction] After a phase ends, remove The Gold Pocket Watch from the game: Repeat that phase."
+    },
+    {
+        "code": "03041",
+        "text": "(v1.6) This card’s second ability should read: “Your maximum hand size is reduced by 5.”",
+        "original_text": "<b>Revelation</b> - Put Drawing the Sign into play in your threat area.\nYour maximum hand size is reduced by 5 while checking your hand size during the upkeep phase.\n[action][action]: Discard Drawing the Sign.",
+        "replacement_text": "<b>Revelation</b> - Put Drawing the Sign into play in your threat area.\nYour maximum hand size is reduced by 5.\n[action][action]: Discard Drawing the Sign."
+    },
+    {
+        "code": "03061",
+        "text": "(v2.0) The “Lunatic” trait in this card’s effects should read “Possessed” wherever it appears, instead.",
+        "original_text": "[skull]: Reveal another token. If you fail, place 1 doom on a <i>Lunatic</i> enemy in play.\n[cultist]: -2. If you fail, place 1 of your clues on your location.\n[tablet]: -4. If you fail, take 1 horror.\n[elder_thing]: -X. X is the shroud value of your location.",
+        "replacement_text": "Easy / Standard\n[skull]: Reveal another token. If you fail, place 1 doom on a [[Possessed]] enemy in play.\n[cultist]: -2. If you fail, place 1 of your clues on your location.\n[tablet]: -4. If you fail, take 1 horror.\n[elder_thing]: -X. X is the shroud value of your location.",
+        "original_back_text": "[skull]: Reveal another token. If you fail, place 1 doom on the <i>Lunatic</i> enemy in play with the most remaining health.\n[cultist]: -3. Place 1 of your clues on your location.\n[tablet]: -4. Take 1 horror.\n[elder_thing]: -X. X is the shroud value of your location. If you fail, take 1 damage.",
+        "replacement_back_text": "Hard / Expert\n[skull]: Reveal another token. If you fail, place 1 doom on the [[Possessed]] enemy in play with the most remaining health.\n[cultist]: -3. Place 1 of your clues on your location.\n[tablet]: -4. Take 1 horror.\n[elder_thing]: -X. X is the shroud value of your location. If you fail, take 1 damage."
+    },
+    {
+        "code": "03065b",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.",
+        "original_traits": "Monster. Lunatic. Elite.",
+        "replacement_traits": "Monster. Possessed. Elite."
+    },
+    {
+        "code": "03066b",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.",
+        "original_traits": "Monster. Lunatic. Elite.",
+        "replacement_traits": "Monster. Possessed. Elite."
+    },
+    {
+        "code": "03067b",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.",
+        "original_traits": "Monster. Lunatic. Elite.",
+        "replacement_traits": "Monster. Possessed. Elite."
+    },
+    {
+        "code": "03068b",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.",
+        "original_traits": "Monster. Lunatic. Elite.",
+        "replacement_traits": "Monster. Possessed. Elite."
+    },
+    {
+        "code": "03069b",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.",
+        "original_traits": "Monster. Lunatic. Elite.",
+        "replacement_traits": "Monster. Possessed. Elite."
+    },
+    {
+        "code": "03095",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.\n(v2.0) The title for this card should be Seer of the Sign instead.",
+        "original_traits": "Humanoid. Lunatic.",
+        "replacement_traits": "Humanoid. Possessed.",
+        "original_name": "Maniac",
+        "replacement_name": "Seer of the Sign"
+    },
+    {
+        "code": "03096",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.\n(v2.0) The title for this card should be Puppet of Hastur instead.",
+        "original_traits": "Humanoid. Lunatic.",
+        "replacement_traits": "Humanoid. Possessed.",
+        "original_name": "Young Psychopath",
+        "replacement_name": "Puppet of Hastur"
+    },
+    {
+        "code": "03097",
+        "text": "(v2.0) The “Lunatic” trait in this card’s effects should read “Possessed” wherever it appears, instead.",
+        "original_text": "<b>Revelation</b> - If there are no <i>Lunatic</i> enemies in play, Dance of the Yellow King gains surge. Otherwise, test [willpower] (3). If you fail, the nearest <i>Lunatic</i> enemy readies, moves (one location at a time) until it reaches your location, engages you, and makes an immediate attack.",
+        "replacement_text": "<b>Revelation</b> - If there are no [[Possessed]] enemies in play, Dance of the Yellow King gains surge. Otherwise, test [willpower] (3). If you fail, the nearest [[Possessed]] enemy readies, moves (one location at a time) until it reaches your location, engages you, and makes an immediate attack."
+    },
+    {
+        "code": "03102",
+        "text": "(v1.2) This card’s Revelation ability should read: “Discard Item assets from your play area and/or from your hand…”",
+        "original_text": "<b>Revelation</b> - Discard <i>Item</i> assets from play and/or from your hand with a total printed resource cost of at least X, where X is the shroud value of your location. If no cards are discarded by this effect, Corrosion gains surge.",
+        "replacement_text": "<b>Revelation</b> - Discard [[Item]] assets from your play area and/or from your hand with a total printed resource cost of at least X, where X is the shroud value of your location. If no cards are discarded by this effect, Corrosion gains surge."
+    },
+    {
+        "code": "03121",
+        "text": "(v1.2) The first ability on this agenda should read: “Skip the ‘Place 1 doom on the current agenda’ step of the Mythos phase.”",
+        "original_text": "Do not add doom to this agenda during the Mythos phase.\n<b>Forced</b> - After 1 or more clues are placed on an enemy in play: Flip those clues to their doom side.",
+        "replacement_text": "Skip the 'Place 1 doom on the current agenda' step of the Mythos phase.\n<b>Forced</b> - After 1 or more clues are placed on an enemy in play: Flip those clues to their doom side."
+    },
+    {
+        "code": "03122",
+        "text": "(v1.2) The first ability on this agenda should read: “Skip the ‘Place 1 doom on the current agenda’ step of the Mythos phase.”",
+        "original_text": "Do not add doom to this agenda during the Mythos phase.\n<b>Forced</b> - After 1 or more clues are placed on an enemy in play: Flip those clues to their doom side.",
+        "replacement_text": "Skip the 'Place 1 doom on the current agenda' step of the Mythos phase.\n<b>Forced</b> - After 1 or more clues are placed on an enemy in play: Flip those clues to their doom side.",
+        "original_back_text": "Spawn the set-aside Possessed Oathspeaker enemy at the Entry Hall.\nCheck Campaign Log. If Sebastien Moreau is not listed under \"VIPs Slain,\" search the collection for Sebastien Moreau and spawn him in the Entry Hall.",
+        "replacement_back_text": "Spawn the set-aside Possessed Oathspeaker enemy at the Entry Hall.\nCheck Campaign Log. If Sebastien Moreau is not listed under \"VIPs Slain,\" search the collection for Sebastien Moreau <i>(Savage Hysteria)</i> and spawn him in the Entry Hall."
+    },
+    {
+        "code": "03123",
+        "text": "(v1.2) The first ability on this agenda should read: “Skip the ‘Place 1 doom on the current agenda’ step of the Mythos phase.”",
+        "original_text": "Do not add doom to this agenda during the Mythos phase.\n<b>Forced</b> - After 1 or more clues are placed on an enemy in play: Flip those clues to their doom side.",
+        "replacement_text": "Skip the 'Place 1 doom on the current agenda' step of the Mythos phase.\n<b>Forced</b> - After 1 or more clues are placed on an enemy in play: Flip those clues to their doom side."
+    },
+    {
+        "code": "03130",
+        "text": "(v1.2) This location’s ability should read: “While investigating this location, your [intellect] cannot be increased.”",
+        "original_text": "While investigating this location, your [intellect] cannot be modified.",
+        "replacement_text": "While investigating this location, your [intellect] cannot be increased."
+    },
+    {
+        "code": "03132",
+        "text": "(v1.2) This location’s ability should read: “While investigating this location, your [intellect] cannot be increased.”",
+        "original_text": "While investigating this location, your [intellect] cannot be modified.",
+        "replacement_text": "While investigating this location, your [intellect] cannot be increased."
+    },
+    {
+        "code": "03153",
+        "text": "(v2.0) This card’s Fight ability should read: “at the attacked enemy’s location” instead of “at your location” in all instances.",
+        "original_text": "<b>Fight.</b> This attack uses [willpower] instead of [combat]. If you succeed, instead of its standard damage, this attack deals 2 damage to each enemy at your location <i>(any additional damage is dealt to the attacked enemy)</i>. If a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] token is revealed during this attack, deal 1 damage to each investigator at your location.",
+        "replacement_text": "<b>Fight.</b> This attack uses [willpower] instead of [combat]. If you succeed, instead of its standard damage, this attack deals 2 damage to each enemy at the attacked enemy's location <i>(any additional damage is dealt to the attacked enemy)</i>. If a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] token is revealed during this attack, deal 1 damage to each investigator at the attacked enemy's location."
+    },
+    {
+        "code": "03160",
+        "text": "(v2.0) The “Lunatic” trait in this card’s effects should read “Possessed” wherever it appears, instead.",
+        "original_back_text": "Shuffle the encounter discard pile and each of the set-aside <i>Lunatic</i> enemies into the encounter deck.\nThe lead investigator must randomly choose an enemy from among the set-aside <i>Monster</i> enemies and place it beneath the act deck without looking at it.",
+        "replacement_back_text": "Shuffle the encounter discard pile and each of the set-aside [[Possessed]] enemies into the encounter deck.\nThe lead investigator must randomly choose an enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it."
+    },
+    {
+        "code": "03168",
+        "text": "(v2.0) The “Lunatic” trait in this card’s effects should read “Possessed” wherever it appears, instead.",
+        "original_text": "[reaction] After you defeat a <i>Lunatic</i> enemy at this location: Draw 1 card.",
+        "replacement_text": "[reaction] After you defeat a [[Possessed]] enemy at this location: Draw 1 card."
+    },
+    {
+        "code": "03169",
+        "text": "(v2.0) The “Lunatic” trait in this card’s effects should read “Possessed” wherever it appears, instead.",
+        "original_text": "Each<i> Lunatic</i> enemy at this location gets +1 horror value.",
+        "replacement_text": "Each [[Possessed]] enemy at this location gets +1 horror value."
+    },
+    {
+        "code": "03170",
+        "text": "(v2.0) The “Lunatic” trait in this card’s effects should read “Possessed” wherever it appears, instead.",
+        "original_text": "[action] Take 1 horror: <b>Evade.</b> Automatically evade a <i>Lunatic</i> enemy at this location.",
+        "replacement_text": "[action] Take 1 horror: <b>Evade.</b> Automatically evade a [[Possessed]] enemy at this location."
+    },
+    {
+        "code": "03178",
+        "text": "(v1.2) This location should not have the “Arkham Asylum” trait.",
+        "original_traits": "Arkham Asylum.",
+        "replacement_traits": ""
+    },
+    {
+        "code": "03179",
+        "text": "(v1.2) This location should not have the “Arkham Asylum” trait.",
+        "original_traits": "Arkham Asylum.",
+        "replacement_traits": ""
+    },
+    {
+        "code": "03180",
+        "text": "(v1.2) This location should not have the “Arkham Asylum” trait.",
+        "original_traits": "Arkham Asylum.",
+        "replacement_traits": ""
+    },
+    {
+        "code": "03181",
+        "text": "(v1.2) This location should not have the “Arkham Asylum” trait.",
+        "original_traits": "Arkham Asylum.",
+        "replacement_traits": ""
+    },
+    {
+        "code": "03182a",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.",
+        "original_traits": "Ally. Lunatic.",
+        "replacement_traits": "Ally. Possessed."
+    },
+    {
+        "code": "03182b",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.",
+        "original_traits": "Humanoid. Lunatic. Elite.",
+        "replacement_traits": "Humanoid. Possessed. Elite."
+    },
+    {
+        "code": "03184",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.\n(v2.0) The title for this card should be Haunted Patient instead.",
+        "original_traits": "Humanoid. Lunatic.",
+        "replacement_traits": "Humanoid. Possessed.",
+        "original_name": "Mad Patient",
+        "replacement_name": "Haunted Patient"
+    },
+    {
+        "code": "03185",
+        "text": "(v2.0) This card’s ability should read: “...Return each asset in those slots to your hand. This card cannot leave play except by the ability below.”",
+        "original_text": "<b>Revelation</b> - If there is no copy of Straitjacket in your threat area, put Straitjacket into play in your threat area as an asset that takes up a body slot and 2 hand slots. Return all assets you control in those slots to your hand. Straitjacket cannot leave play except by the ability below.\n[action] [action]: Discard Straitjacket.",
+        "replacement_text": "<b>Revelation</b> - If there is no copy of Straitjacket in your threat area, put Straitjacket into play in your threat area as an asset that takes up a body slot and 2 hand slots. Return each asset in those slots to your hand. This card cannot leave play except by the ability below.\n[action] [action]: Discard Straitjacket."
+    },
+    {
+        "code": "03186",
+        "text": "(v2.0) The “Lunatic” trait in this card’s effects should read “Possessed” wherever it appears, instead.",
+        "original_text": "Peril. Hidden.\n<b>Revelation</b> - Secretly add Gift of Madness (Pity) to your hand.\nYou cannot attack <i>Lunatic</i> enemies.\n[action]: Randomly choose 1 enemy from among the set-aside <i>Monster</i> enemies and place it beneath the act deck without looking at it. Discard Gift of Madness (Pity) from your hand.",
+        "replacement_text": "Peril. Hidden.\n<b>Revelation</b> - Secretly add Gift of Madness (Pity) to your hand.\nYou cannot attack [[Possessed]] enemies.\n[action]: Randomly choose 1 enemy from among the set-aside [[Monster]] enemies and place it beneath the act deck without looking at it. Discard Gift of Madness (Pity) from your hand."
+    },
+    {
+        "code": "03192",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Archaic Glyphs <i>(Untranslated)</i>, and only if \"you have translated the glyphs\" in your Campaign Log.\nUses (3 charges).\n[action] Spend 1 charge: <b>Investigate.</b> For every 2 points you succeed by, discover 1 additional clue at your location.",
+        "replacement_text": "Researched. Uses (3 charges).\n[action] Spend 1 charge: <b>Investigate.</b> For every 2 points you succeed by, discover 1 additional clue at your location."
+    },
+    {
+        "code": "03193",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Archaic Glyphs <i>(Untranslated)</i>, and only if \"you have translated the glyphs\" in your Campaign Log.\nUses (3 charges).\n[action] Spend 1 charge: <b>Investigate.</b> If you succeed, you may automatically evade an engaged enemy. This action does not provoke attacks of opportunity.",
+        "replacement_text": "Researched. Uses (3 charges).\n[action] Spend 1 charge: <b>Investigate.</b> If you succeed, you may automatically evade an engaged enemy. This action does not provoke attacks of opportunity."
+    },
+    {
+        "code": "03232",
+        "text": "(v1.4) This card’s [fast] ability should read: “…Any investigator at this location may trigger this ability.”",
+        "original_text": "Fast. Play only during your turn. \nAttach to your location. Attached location gains:\n\"[free] Exhaust Shortcut: <b>Move</b> .\"",
+        "replacement_text": "Fast. Play only during your turn.\nAttach to your location. Attached location gains:\n\"[fast] Exhaust Shortcut: <b>Move</b> <i>(to a connecting location)</i>. Any investigator at this location may trigger this ability.\""
+    },
+    {
+        "code": "03252",
+        "text": "(v1.3) This location’s ability should read: “…If you succeed, look at the revealed side of any Catacombs location in play.”",
+        "original_text": "[action]: Test [intellect] (3) to read an ancient sign. If you succeed, look at the revealed side of any Catacombs location in play. (Group limit once per game.)\n<b>Forced</b> - When Candlelit Tunnels is revealed: Put the top 2 Catacombs in the Catacombs deck into play to the left and right of Candlelit Tunnels.",
+        "replacement_text": "[action]: Test [intellect] (3) to read an ancient sign. If you succeed, look at the revealed side of any Catacombs location in play. (Group limit once per game.)\n<b>Forced</b> - When Candlelit Tunnels is revealed: Put the top 2 Catacombs in the Catacombs deck into play to the left and right of Candlelit Tunnels.",
+        "original_back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1[per investigator] clues, as a group.",
+        "replacement_back_text": "As an additional cost for you to enter Catacombs, investigators at your location must spend 1 [per_investigator] clues, as a group."
+    },
+    {
+        "code": "03258",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.\n(v1.3) This enemy’s ability should read: “…If you succeed, look at the revealed side of any Catacombs location in play.”",
+        "original_traits": "Humanoid. Lunatic.",
+        "replacement_traits": "Humanoid. Possessed."
+    },
+    {
+        "code": "03264",
+        "text": "(v2.0) This card’s [reaction] ability should read: “…attach them facedown to Stick to the Plan.”",
+        "original_text": "Permanent. Exceptional.\n[reaction] Before you draw your opening hand: Search your deck for up to 3 different <i>Tactic</i> and/or <i>Supply</i> events, and attach them to Stick to the Plan. Shuffle your deck.\nCards attached to Stick to the Plan may be played as if they were in your hand. As an additional cost to play an attached card, exhaust Stick to the Plan.",
+        "replacement_text": "Permanent. Exceptional.\n[reaction] Before you draw your opening hand: Search your deck for up to 3 different [[Tactic]] and/or [[Supply]] events, and attach them facedown to Stick to the Plan. Shuffle your deck.\nCards attached to Stick to the Plan may be played as if they were in your hand. As an additional cost to play an attached card, exhaust Stick to the Plan."
+    },
+    {
+        "code": "03311",
+        "text": "(v1.4) The second part of this card’s ability should read: “Undo that action (return the game state to exactly the way it was before that action was performed, except for the playing of Time Warp and its costs).”",
+        "original_text": "Fast. Play immediately after an investigator at your location finishes resolving an action during his or her turn.\nUndo that action <i>(return the game state to exactly the way it was before that action was performed, including that action's cost)</i>.",
+        "replacement_text": "Fast. Play immediately after an investigator at your location finishes resolving an action during his or her turn.\nUndo that action <i>(return the game state to exactly the way it was before that action was performed, except for the playing of Time Warp and its costs)</i>."
+    },
+    {
+        "code": "03319",
+        "text": "(v1.3) This act’s second ability should read: “Hastur cannot be defeated unless an investigator ‘knows the secret.’”",
+        "original_text": "Hastur gets +2 fight.<br/>Hastur cannot be defeated unless you \"know the secret.\"",
+        "replacement_text": "Hastur gets +2 fight.<br/>Hastur cannot be defeated unless an investigator \"know the secret.\"",
+        "original_back_text": "Check Campaign Log.<br/>&mdash;If you have more (or equal) <b>Conviction</b> than <b>Doubt</b>, proceed to <b>(→R4)</b>.<br/>&mdash;If you have more <b>Doubt</b> than <b>Conviction</b>, proceed to <b>(→R5)</b>.",
+        "replacement_back_text": "Check Campaign Log.\n - If you have more (or equal) <b>Conviction</b> than <b>Doubt</b>, proceed to <b>(→R4)</b>.\n - If you have more <b>Doubt</b> than <b>Conviction</b>, proceed to <b>(→R5)</b>."
+    },
+    {
+        "code": "03338",
+        "text": "(v1.4) This card’s Revelation ability should read: “Discard cards from your play area and/or from your hand…”",
+        "original_text": "<b>Revelation</b> - Discard cards from play and/or from your hand with a total printed resource cost of at least X, where X is the amount of horror on your investigator. If no cards are discarded by this effect, take 2 horror.",
+        "replacement_text": "<b>Revelation</b> - Discard cards from your play area and/or from your hand with a total printed resource cost of at least X, where X is the amount of horror on your investigator. If no cards are discarded by this effect, take 2 horror."
+    },
+    {
+        "code": "04004",
+        "text": "(v1.4) This card’s [reaction] ability should read: “When an investigator reveals an [auto_fail] chaos token…”",
+        "original_text": "[reaction] After an investigator reveals an [auto_fail] chaos token: Cancel that token and treat it as an [elder_sign] token, instead. (Limit once per game.)\n[elder_sign] effect: You automatically succeed. After this test ends, either (choose one):\n - Draw 1 card and gain 1 resource.\n - If it is your turn, you may take an additional action this turn.",
+        "replacement_text": "[reaction] When an investigator reveals an [auto_fail] chaos token: Cancel that token and treat it as an [elder_sign] token, instead. (Limit once per game.)\n[elder_sign] effect: You automatically succeed. After this test ends, either (choose one):\n - Draw 1 card and gain 1 resource.\n - If it is your turn, you may take an additional action this turn.",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Mystic cards ([mystic]) level 0-5, <i>Blessed<i> cards level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding requirements</b> (do not count toward deck size): The Codex of Ages, Serpents of Yig, 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 5 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, [[Blessed]] cards level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): The Codex of Ages, Serpents of Yig, 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 5 additional experience (does not affect the number of weaknesses you must take in Standalone Mode)."
+    },
+    {
+        "code": "04035",
+        "text": "(v1.4) This card’s [fast] ability should read: “Discard the top card of your deck. (Limit once per phase.)”",
+        "original_text": "[free] Exhaust Yaotl: During this skill test, you get a bonus to each skill equal to the number of matching skill icons on the top card of your discard pile (not counting [wild] icons).\n[free]: Discard the top card of your deck. (Limit once per turn.)",
+        "replacement_text": "[fast] Exhaust Yaotl: During this skill test, you get a bonus to each skill equal to the number of matching skill icons on the top card of your discard pile (not counting [wild] icons).\n[fast]: Discard the top card of your deck. (Limit once per phase.)"
+    },
+    {
+        "code": "04127",
+        "text": "(v2.4) The first line of mechanical text on this card should read: “Search all in- and out-of-play areas for a Hunting Nightgaunt…”",
+        "original_back_text": "<em class='bbc'>None of the police officers have seen Alejandro, and they don't seem interested in helping you find him. \"It's only been a couple days. He'll turn up,\" they say. They give excuses, trying to avoid filling out a report. Finally, just as you are about to leave in frustration, a homeless man being held for disorderly conduct grabs your elbow. \"I saw 'im!\" he drawls. \"The man you describe, I saw 'im in the sky, carried in its clutches&hellip;\" He describes a faceless winged creature while the officers nearby chuckle and roll their eyes. The man is clearly drunk&hellip;but could it be he's telling the truth?<br/></em>Search the encounter deck, discard pile, and victory display for a Hunting Nightgaunt and spawn it in the location farthest from all investigators. Heal all damage from each Hunting Nightgaunt in play.<br/>Attach the set-aside Alejandro Vela to the Hunting Nightgaunt farthest from all investigators.<br/>Advance to Act 3c&mdash;\"Alejandro's Plight.\"",
+        "replacement_back_text": "Search all in- and out-of-play areas for a Hunting Nightgaunt and spawn it in the location farthest from all investigators. Heal all damage from each Hunting Nightgaunt in play.\nAttach the set-aside Alejandro Vela to the Hunting Nightgaunt farthest from all investigators.\nAdvance to Act 3c - \"Alejandro's Plight.\""
+    },
+    {
+        "code": "04230",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Ancient Stone (Unidentified), and only if you have \"identified the stone\" in your Campaign Log.<br/>Uses (X secrets). X is the number in parentheses next to \"you identified the stone.\"<br/>[reaction] When you draw any number of cards, spend that many secrets: Deal that much damage to an enemy at your location.",
+        "replacement_text": "Researched. Uses (X secrets). X is the number in parentheses next to \"you have identified the stone.\"\n[reaction] When you draw any number of cards, spend that many secrets: Deal that much damage to an enemy at your location."
+    },
+    {
+        "code": "04231",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Ancient Stone, and only if you have &quot;identified the stone&quot; in your Campaign Log.<br/>Uses (X secrets). X is the number in parentheses next to \"you identified the stone.\" You get +1 sanity for every 2 secrets on this card.<br/>[reaction] When you draw any number of cards, spend that many secrets: Heal that much horror from a card at your location.",
+        "replacement_text": "Researched. Uses (X secrets). X is the number in parentheses next to \"you have identified the stone.\"\n[reaction] When you draw any number of cards, spend that many secrets: Heal that much horror from a card at your location."
+    },
+    {
+        "code": "04270",
+        "text": "(v1.41) This card’s [action] ability should read: “If The Skeleton Key is in your play area, attach it to your location…”",
+        "original_text": "Exceptional. Fast.\n[action]: Attach The Skeleton Key to your location. If it is already attached to your location, detach it and return it to your play area instead.\nSet the attached location's shroud value to 1.",
+        "replacement_text": "Exceptional. Fast.\n[action]: If the Skeleton Key is in your play area, attach it to your location. If it is already attached to your location, detach it and return it to your play area instead.\nSet the attached location's shroud value to 1."
+    },
+    {
+        "code": "05001",
+        "text": "(v1.5) This card’s Deckbuilding Options should read: “Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that ‘heal horror’ level 0-5, up to 15 other Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).”",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that \"heal horror\" level 0-5, up to 15 Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Hypnotic Therapy, Rational Thought, 1 random basic weakness.\n<b>Additional Restrictions</b>: No [[Weapon]] cards level 1-5.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that \"heal horror\" level 0-5, up to 15 other Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Hypnotic Therapy, Rational Thought, 1 random basic weakness.\n<b>Additional Restrictions</b>: No [[Weapon]] cards level 1-5."
+    },
+    {
+        "code": "05033",
+        "text": "(v1.5) This card’s play requirement should read: “Play when you would resolve an effect on a [mystic] card that triggers “when,” “if,” or “after” a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol is revealed.”",
+        "original_text": "Fast. Play when you would resolve an effect on a [mystic] card that triggers when a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol is revealed.\nEither cancel that effect, or resolve it an additional time.",
+        "replacement_text": "Fast. Play when you would resolve an effect on a [mystic] card that triggers \"when,\" \"if,\" or \"after\" a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] symbol is revealed.\nEither cancel that effect, or resolve it an additional time."
+    },
+    {
+        "code": "05163",
+        "text": "(v1.6) This card’s ability should read: “Locations cannot be flipped to their non‑Spectral side.”",
+        "original_text": "Locations cannot be flipped over.",
+        "replacement_text": "Locations cannot be flipped to their non-[[Spectral]] side."
+    },
+    {
+        "code": "05164",
+        "text": "(v1.6) This card’s ability should read: “Locations cannot be flipped to their Spectral side.”",
+        "original_text": "Locations cannot be flipped over.",
+        "replacement_text": "Locations cannot be flipped to their [[Spectral]] side.",
+        "original_back_text": "Spawn 1 set-aside Heretic enemy at each of the following locations: The Gallows, Heretics' Graves, Chapel Attic, and Chapel Crypt. Add 2[per_investigator] clues to each of those locations. Add 1[per_investigator] clues to each other location.\nCheck Campaign Log. If you have 3 or more mementos listed under \"Mementos Discovered:\" You understand the tragic lyrics behind the witch's song. Each investigator puts into play 1 set-aside Spectral Web asset, under his or her control.",
+        "replacement_back_text": "Spawn 1 set-aside Heretic enemy at each of the following locations: The Gallows, Heretics' Graves, Chapel Attic, and Chapel Crypt. Add 2 [per_investigator] clues to each of those locations. Add 1 [per_investigator] clues to each other location.\nCheck Campaign Log. If you have 3 or more mementos listed under \"Mementos Discovered:\" You understand the tragic lyrics behind the witch's song. Each investigator puts into play 1 set-aside Spectral Web asset, under his or her control."
+    },
+    {
+        "code": "05178b",
+        "text": "(v1.6) This card’s first ability should read: “Keep this card in your threat area (this side faceup). If you are eliminated, flip it over.”",
+        "original_text": "<blockquote><i>The thing moans and wails with sorrow, in between hollow, echoing sobs. There must be some way you can bring it peace.</i></blockquote>\nKeep this card in your threat area (this side faceup).\n<b>Forced</b> - At the end of the round: You must either take 1 horror or flip this card back to its enemy side.\n[action] If you are at Chapel Crypt and it has no clues on it: Test [intellect] or [combat] (4). If you succeed, the ghost is \"banished\" (resolve the text below).\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>You find a nameless coffin and remove the lid. The Spirit weeps as it reaches out to touch the body inside, remembering the love it once held in its heart.</i></blockquote>\nAdd this card to the victory display.",
+        "replacement_text": "<blockquote><i>The thing moans and wails with sorrow, in between hollow, echoing sobs. There must be some way you can bring it peace.</i></blockquote>\nKeep this card in your threat area (this side faceup). If you are eliminated, flip it over.\n<b>Forced</b> - At the end of the round: You must either take 1 horror or flip this card back to its enemy side.\n[action] If you are at Chapel Crypt and it has no clues on it: Test [intellect] or [combat] (4). If you succeed, the ghost is \"banished\" (resolve the text below).\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>You find a nameless coffin and remove the lid. The spirit weeps as it reaches out to touch the body inside, remembering the love it once held in its heart.</i></blockquote>\nAdd this card to the victory display."
+    },
+    {
+        "code": "05178d",
+        "text": "(v1.6) This card’s first ability should read: “Keep this card in your threat area (this side faceup). If you are eliminated, flip it over.”",
+        "original_text": "<blockquote><i>The charred ghost thrashes and howls in agony, as though in a constant state of torment. You cannot ease its suffering, but perhaps you can bring it justice.</i></blockquote>\nKeep this card in your threat area (this side faceup).\n<b>Forced</b> - At the end of the round: You must either take 1 damage or flip this card back to its enemy side.\n[action] If you are at The Gallows and it has no clues on it: Test [willpower] or [agility] (4). If you succeed, the ghost is \"banished\" (resolve the text below).\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>The fire spreads quickly, consuming the old wooden platform hungrily. The spirit's form twitches with a strange satisfaction.</i></blockquote>\nAdd this card to the victory display.",
+        "replacement_text": "<blockquote><i>The charred ghost thrashes and howls in agony, as though in a constant state of torment. You cannot ease its suffering, but perhaps you can bring it justice.</i></blockquote>\nKeep this card in your threat area (this side faceup). If you are eliminated, flip it over.\n<b>Forced</b> - At the end of the round: You must either take 1 damage or flip this card back to its enemy side.\n[action] If you are at The Gallows and it has no clues on it: Test [willpower] or [agility] (4). If you succeed, the ghost is \"banished\" (resolve the text below).\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>The fire spreads quickly, consuming the old wooden platform hungrily. The spirit's form twitches with a strange satisfaction.</i></blockquote>\nAdd this card to the victory display."
+    },
+    {
+        "code": "05178f",
+        "text": "(v1.6) This card’s first ability should read: “Keep this card in your threat area (this side faceup). If you are eliminated, flip it over.”",
+        "original_text": "<blockquote><i>The spirit searches its surroundings frantically and grasps at you with desperate eyes. It must have lost something important - but what?</i></blockquote>\nKeep this card in your threat area (this side faceup).\n<b>Forced</b> - At the end of the round: You must either lose 2 resources or flip this card back to its enemy side.\n[action] If you are at Chapel Attic and it has no clues on it: Test [intellect] or [agility] (4). If you succeed, the ghost is \"banished\" (resolve the text below).\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>In an old cobwebbed trunk, you find all sorts of items belonging to the deceased. The sight of a crow skull amulet dipped in metal causes the ghost to gasp. \"I'm sorry, sister, I'm sorry...\" it weeps.</i></blockquote>\nAdd this card to the victory display.",
+        "replacement_text": "<blockquote><i>The spirit searches its surroundings frantically and grasps at you with desperate eyes. It must have lost something important - but what?</i></blockquote>\nKeep this card in your threat area (this side faceup). If you are eliminated, flip it over.\n<b>Forced</b> - At the end of the round: You must either lose 2 resources or flip this card back to its enemy side.\n[action] If you are at Chapel Attic and it has no clues on it: Test [intellect] or [agility] (4). If you succeed, the ghost is \"banished\" (resolve the text below).\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>In an old cobwebbed trunk, you find all sorts of items belonging to the deceased. The sight of a crow skull amulet dipped in metal causes the ghost to gasp. \"I'm sorry, sister, I'm sorry...\" it weeps.</i></blockquote>\nAdd this card to the victory display."
+    },
+    {
+        "code": "05178h",
+        "text": "(v1.6) This card’s first ability should read: “Keep this card in your threat area (this side faceup). If you are eliminated, flip it over.”\n(v1.6) This card’s [action] ability should read: “If you are at Heretics’ Graves…”",
+        "original_text": "<blockquote><i>The wraith is mangled and corrupted nearly beyond recognition. Something has torn through its insides and ripped its soul to shreds.</i></blockquote>\nKeep this card in your threat area (this side faceup).\n<b>Forced</b> - At the end of the round: You must either choose and discard 2 cards from your hand or flip this card back to its enemy side.\n[action] If you are at Heretics' Graves and it has no clues on it: Test [willpower] or [combat] (4). If you succeed, the ghost is \"banished\" (resolve the text below).\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>Digging up the bones was hard work, but as the spirit peers into its open grave, you can see its humanoid shape clearly for the first time.</i></blockquote>\nAdd this card to the victory display.",
+        "replacement_text": "<blockquote><i>The wraith is mangled and corrupted nearly beyond recognition. Something has torn through its insides and ripped its soul to shreds.</i></blockquote>\nKeep this card in your threat area (this side faceup). If you are eliminated, flip it over.\n<b>Forced</b> - At the end of the round: You must either choose and discard 2 cards from your hand or flip this card back to its enemy side.\n[action] If you are at Heretics' Graves and it has no clues on it: Test [willpower] or [combat] (4). If you succeed, the ghost is \"banished\" (resolve the text below).\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>Digging up the bones was hard work, but as the spirit peers into its open grave, you can see its humanoid shape clearly for the first time.</i></blockquote>\nAdd this card to the victory display."
+    },
+    {
+        "code": "05236",
+        "text": "(v1.6) This card’s Forced ability should read: “When Guiding Spirit is defeated by horror: Exile it.”",
+        "original_text": "You get +1 [intellect].\nNon-direct horror must be assigned to Guiding Spirit before it can be assigned to your investigator card.\n<b>Forced</b> - After Guiding Spirit is defeated by horror: Exile it.",
+        "replacement_text": "You get +1 [intellect].\nNon-direct horror must be assigned to Guiding Spirit before it can be assigned to your investigator card.\n<b>Forced</b> - When Guiding Spirit is defeated by horror: Exile it."
+    },
+    {
+        "code": "05273",
+        "text": "(v2.0) This card’s Fight ability should read: “at the attacked enemy’s location” instead of “at your location” in all instances.",
+        "original_text": "Uses (3 supplies). If Mk 1 Grenades has no supplies, discard it.\n[action] Spend 1 supply: <b>Fight.</b> You get +2 [combat] for this attack. If this attack is successful, instead of its standard damage, this attack deals 2 damage to each enemy and each other investigator at your location <i>(any additional damage is dealt to the attacked enemy).</i>",
+        "replacement_text": "Uses (3 supplies). If Mk 1 Grenades has no supplies, discard it.\n[action] Spend 1 supply: <b>Fight.</b> You get +2 [combat] for this attack. If this attack is successful, instead of its standard damage, this attack deals 2 damage to each enemy and each other investigator at the attacked enemy's location <i>(any additional damage is dealt to the attacked enemy).</i>"
+    },
+    {
+        "code": "05282",
+        "text": "(v1.9) This card’s trait should be Trick instead of Tactic.",
+        "original_traits": "Tactic.",
+        "replacement_traits": "Trick."
+    },
+    {
+        "code": "05313",
+        "text": "(v2.0) The last line of this card’s Forced effect should read: “…set them aside, out of play” instead of “remove them from the game.”",
+        "original_text": "Limit 1 per deck.\n<b>Forced</b> - After Hallowed Mirror enter play: Search your bonded cards for 3 copies of Soothing Melody. Add 1 to your hand and shuffle the other 2 into your deck. When Hallowed Mirror leaves play, find each of those copies of Soothing Melody (<i>even if they are out of play</i>) and remove them from the game.",
+        "replacement_text": "Limit 1 per deck.\n<b>Forced</b> - After Hallowed Mirror enter play: Search your bonded cards for 3 copies of Soothing Melody. Add 1 to your hand and shuffle the other 2 into your deck. When Hallowed Mirror leaves play, find each of those copies of Soothing Melody (<i>even if they are out of play</i>) and set them aside, out of play."
+    },
+    {
+        "code": "05316",
+        "text": "(v2.0) The last line of this card’s Forced effect should read: “…set them aside, out of play” instead of “remove them from the game.”",
+        "original_text": "Limit 1 per deck.\n<b>Forced</b> - After Occult Lexicon enters play: Search your bonded cards for 3 copies of Blood-Rite. Add 1 to your hand and shuffle the other 2 into your deck. When Occult Lexicon leaves play, find each of those copies of Blood-Rite (even if they are out of play) and remove them from the game.",
+        "replacement_text": "Limit 1 per deck.\n<b>Forced</b> - After Occult Lexicon enters play: Search your bonded cards for 3 copies of Blood-Rite. Add 1 to your hand and shuffle the other 2 into your deck. When Occult Lexicon leaves play, find each of those copies of Blood-Rite (even if they are out of play) and set them aside, out of play."
+    },
+    {
+        "code": "05329",
+        "text": "(v1.7) This card’s second line of game text should read: “Shuffle each empty space into its owner’s deck and each location in play other than Hideous Palace into the Cosmos.”",
+        "original_back_text": "Remove Cosmic Ingress from the game. Shuffle each location in play other than Hideous Palace into the Cosmos. Each investigator at those locations is left behind and is killed. Each enemy at those locations is shuffled into the top 5 cards of the encounter deck.\nTake the set-aside Court of the Great Old Ones and the top 2 cards of the Cosmos, and shuffle them so you cannot tell which is which. Then, put them into play along with empty space, as depicted in \"Location Placement for Act 2\" in the Campaign Guide.\nIn player order, each investigator draws the top card of the encounter deck.",
+        "replacement_back_text": "Remove Cosmic Ingress from the game. Shuffle each empty space into its owner's deck and each location in play other than Hideous Palace into the Cosmos. Each investigator at those locations is left behind and is killed. Each enemy at those locations is shuffled into the top 5 cards of the encounter deck.\nTake the set-aside Court of the Great Old Ones and the top 2 cards of the Cosmos, and shuffle them so you cannot tell which is which. Then, put them into play along with empty space, as depicted in \"Location Placement for Act 2\" in the Campaign Guide.\nIn player order, each investigator draws the top card of the encounter deck."
+    },
+    {
+        "code": "05330",
+        "text": "(v2.4) This card’s clue threshold should be 2.\n(v1.7) This card’s second line of game text should read: “Shuffle each empty space into its owner’s deck and each location in play other than Court of the Great Old Ones into the Cosmos.”",
+        "original_text": "[action] Spend X clues: Draw the top X cards of the Cosmos. Choose one to put into play using its \"<b>Cosmos</b> -\" instructions, and move to it. Shuffle the rest back into the Cosmos.\n<b>Objective</b> - Only investigators at Court of the Great Old Ones may spend the requisite number of clues, as a group, to advance. (<i>Beware - any investigator who is not there will be killed.</i>",
+        "replacement_text": "[action] Spend X clues: Draw the top X cards of the Cosmos. Choose one to put into play using its \"<b>Cosmos</b> -\" instructions, and move to it. Shuffle the rest back into the Cosmos.\n<b>Objective</b> - Only investigators at Court of the Great Old Ones may spend the requisite number of clues, as a group, to advance. (<i>Beware - any investigator who is not there will be killed.</i>)",
+        "original_back_text": "Remove Hideous Palace from the game. Shuffle each location in play other than Court of the Great Old Ones into the Cosmos. Each investigator at those locations is left behind and is killed. Each enemy at those locations is shuffled into the top 5 cards of the encounter deck.\nTake the set-aside The Black Throne and the top 3 cards of the Cosmos, and shuffle them so you cannot tell which is which. Then, put them into play along with empty space, as depicted in \"Location Placement for Act 3\" in the Campaign Guide.\nIn player order, each investigator draws the top card of the encounter deck.",
+        "replacement_back_text": "Remove Hideous Palace from the game. Shuffle each empty space into its owner's deck and each location in play other than Court of the Great Old Ones into the Cosmos. Each investigator at those locations is left behind and is killed. Each enemy at those locations is shuffled into the top 5 cards of the encounter deck.\nTake the set-aside The Black Throne and the top 3 cards of the Cosmos, and shuffle them so you cannot tell which is which. Then, put them into play along with empty space, as depicted in \"Location Placement for Act 3\" in the Campaign Guide.\nIn player order, each investigator draws the top card of the encounter deck.",
+        "original_clues": 1,
+        "replacement_clues": 2
+    },
+    {
+        "code": "06018",
+        "text": "(v1.9) The additional cost on this card should read: “As an additional cost to play this card…”",
+        "original_text": "Limit 1 per deck. As an additional cost to put this card into play, you must search your bonded cards for 3 copies of Bloodlust and shuffle them into your deck.\n[action]: <b>Fight.</b> You get +1 [combat] for this attack for each attached copy of Bloodlust. This attack deals +1 damage. If this attack defeats an enemy, place 1 resource on this card <i>(from the token bank)</i>, as an offering.",
+        "replacement_text": "Limit 1 per deck. As an additional cost to play this card, you must search your bonded cards for 3 copies of Bloodlust and shuffle them into your deck.\n[action]: <b>Fight.</b> You get +1 [combat] for this attack for each attached copy of Bloodlust. This attack deals +1 damage. If this attack defeats an enemy, place 1 resource on this card <i>(from the token bank)</i>, as an offering."
+    },
+    {
+        "code": "06024",
+        "text": "(v1.9) The additional cost on this card should read: “As an additional cost to play this card…”",
+        "original_text": "As an additional cost to put this card into play, you must search your bonded cards for 1 copy of Guardian of the Crystallizer and shuffle it into your deck.\n[reaction] After you play an event: Attach it facedown to Crystallizer of Dreams instead of discarding it (to a maximum of 5 attached events). Attached events may be committed to skill tests as if they were in your hand.",
+        "replacement_text": "As an additional cost to play this card, you must search your bonded cards for 1 copy of Guardian of the Crystallizer and shuffle it into your deck.\n[reaction] After you play an event: Attach it facedown to Crystallizer of Dreams instead of discarding it (to a maximum of 5 attached events). Attached events may be committed to skill tests as if they were in your hand."
+    },
+    {
+        "code": "06030",
+        "text": "(v2.0) The last line of this card’s Forced effect should read: “…set them aside, out of play” instead of “remove them from the game.”",
+        "original_text": "Limit 1 per deck.\n<b>Forced</b> - After Miss Doyle enters play: Search your bonded cards for Hope, Zeal, and Augur. Randomly choose 1 to put into play and shuffle the other 2 into your deck. When Miss Doyle leaves play, find each of those assets (even if they are out of play) and remove them from the game.",
+        "replacement_text": "Limit 1 per deck.\n<b>Forced</b> - After Miss Doyle enters play: Search your bonded cards for Hope, Zeal, and Augur. Randomly choose 1 to put into play and shuffle the other 2 into your deck. When Miss Doyle leaves play, find each of those assets (even if they are out of play) and set them aside, out of play."
+    },
+    {
+        "code": "06144",
+        "text": "(v2.0) The triggering condition on this card’s Forced ability should read: “If Virgil Gray leaves play” instead of “if Virgil Gray is defeated.”",
+        "original_text": "[reaction] After 1 or more Signs of the Gods are uncovered: Either draw 1 card, gain 1 resource, or heal 1 horror from Virgil Gray. If there is more than 1 investigator in the game, give control of Virgil Gray to another investigator.\n<b>Forced</b> - If Virgil Gray is defeated: Remove him from the game.",
+        "replacement_text": "[reaction] After 1 or more Signs of the Gods are uncovered: Either draw 1 card, gain 1 resource, or heal 1 horror from Virgil Gray. If there is more than 1 investigator in the game, give control of Virgil Gray to another investigator.\n<b>Forced</b> - If Virgil Gray leaves play: Remove him from the game."
+    },
+    {
+        "code": "06195",
+        "text": "(v1.7) This card’s ability should read: “[action] Spend 1 ammo: Fight…”",
+        "original_text": "Uses (5 ammo).\n[action]: <b>Fight.</b> You get +2 [combat] for this attack. If a +1, 0, or [elder_sign] chaos token is revealed during this attack, this attack deals +2 damage.",
+        "replacement_text": "Uses (5 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. If a +1, 0, or [elder_sign] chaos token is revealed during this attack, this attack deals +2 damage."
+    },
+    {
+        "code": "06214b",
+        "text": "(v2.5) This card’s first effect should read: “Discard each enemy here. Move each investigator here to the Moon-Forest. Remove this card from the game.”",
+        "original_text": "<b>If there were no clues on this card when it was flipped, read the following:</b>\n<i><blockquote>Moving as stealthily as you can, you find a dinghy tied to the side of the ship, two oars left inside. If this galley can move through space using oars, surely this lifeboat can, too. Making sure to stay as quiet as possible, you hop inside the small boat and make your escape.</blockquote></i>\nMove each investigator here to the Moon-Forest.\nRemove this card from the game, discarding all enemies here.<hr>\n<b>If there were 1 or more clues on this card when it was flipped, read the following:</b>\n<i><blockquote>The ship docks at a great city of stone towers, and you slip away as the guards search for you.</blockquote></i>Each investigator here raises their alarm level by 1.\nMove each investigator here to the City of the Moon-Beasts, along with each enemy here.\nRemove this card from the game.",
+        "replacement_text": "<b>If there were no clues on this card when it was flipped, read the following:</b>\n<i><blockquote>Moving as stealthily as you can, you find a dinghy tied to the side of the ship, two oars left inside. If this galley can move through space using oars, surely this lifeboat can, too. Making sure to stay as quiet as possible, you hop inside the small boat and make your escape.</blockquote></i>\nDiscard each enemy here. Move each investigator here to the Moon-Forest. Remove this card from the game.<hr>\n<b>If there were 1 or more clues on this card when it was flipped, read the following:</b>\n<i><blockquote>The ship docks at a great city of stone towers, and you slip away as the guards search for you.</blockquote></i>Each investigator here raises their alarm level by 1.\nMove each investigator here to the City of the Moon-Beasts, along with each enemy here.\nRemove this card from the game."
+    },
+    {
+        "code": "06224",
+        "text": "(v2.0) The triggering condition on this card’s Forced ability should read: “If Virgil Gray leaves play” instead of “if Virgil Gray is defeated.”",
+        "original_text": "[reaction] After your alarm level is raised: Either draw 1 card, gain 1 resource, or heal 1 horror from Virgil Gray. If there is more than 1 investigator in the game, give control of Virgil Gray to another investigator.\n<b>Forced</b> - If Virgil Gray is defeated: Remove him from the game.",
+        "replacement_text": "[reaction] After your alarm level is raised: Either draw 1 card, gain 1 resource, or heal 1 horror from Virgil Gray. If there is more than 1 investigator in the game, give control of Virgil Gray to another investigator.\n<b>Forced</b> - If Virgil Gray leaves play: Remove him from the game."
+    },
+    {
+        "code": "06236",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Dream Diary <i>(Untranslated)</i>, and only if \"you have interpreted the dreams\" in your Campaign Log.\nWhile you are at a location with at least 4 shroud, your Essence of the Dream gains [wild][wild].\n[reaction] When your turn begins: Search your bonded cards for Essence of the Dream and add it to your hand.",
+        "replacement_text": "Researched.\nWhile you are at a location with at least 4 shroud, your Essence of the Dream gains [wild][wild].\n[reaction] When your turn begins: Search your bonded cards for Essence of the Dream and add it to your hand."
+    },
+    {
+        "code": "06237",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Dream Diary <i>(Untranslated)</i>, and only if \"you have interpreted the dreams\" in your Campaign Log.\nWhile you are engaged with an enemy, your Essence of the Dream gains [wild][wild].\n[reaction] When your turn begins: Search your bonded cards for Essence of the Dream and add it to your hand.",
+        "replacement_text": "Researched.\nWhile you are engaged with an enemy, your Essence of the Dream gains [wild][wild].\n[reaction] When your turn begins: Search your bonded cards for Essence of the Dream and add it to your hand."
+    },
+    {
+        "code": "06238",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Dream Diary <i>(Untranslated)</i>, and only if \"you have interpreted the dreams\" in your Campaign Log.\nWhile you have at least 8 cards in hand, your Essence of the Dream gains [wild][wild].\n[reaction] When your turn begins: Search your bonded cards for Essence of the Dream and add it to your hand.",
+        "replacement_text": "Researched.\nWhile you have at least 8 cards in hand, your Essence of the Dream gains [wild][wild].\n[reaction] When your turn begins: Search your bonded cards for Essence of the Dream and add it to your hand."
+    },
+    {
+        "code": "06253",
+        "text": "(v1.9) This card’s Forced ability should read: “After an enemy with 1 or more clues on it is defeated: Take control of each of those clues.”",
+        "original_text": "<b>Forced</b> - After an enemy with 1 or more clues on it is defeated: Place those clues on this act.\n<b>Objective</b> - Find the source of the distortion. <i>(You will be instructed when to advance.)</i>",
+        "replacement_text": "<b>Forced</b> - After an enemy with 1 or more clues on it is defeated: Take control of each of those clues.\n<b>Objective</b> - Find the source of the distortion. <i>(You will be instructed when to advance.)</i>"
+    },
+    {
+        "code": "07002",
+        "text": "(v1.8) This card’s [reaction] symbol should be “Forced –” instead.",
+        "original_text": "<b>Forced</b> - At the start of the investigation phase: Draw 1 card. Discard the card beneath Amanda Sharpe. Choose a card from your hand and place it beneath her.\n[reaction] At the start of a skill test you are performing: Commit the card beneath Amanda Sharpe, if able. Do not discard it when the test ends.\n[elder_sign] effect: +0. For this test, you may double the number of skill icons on the card beneath Amanda Sharpe.",
+        "replacement_text": "<b>Forced</b> - At the start of the investigation phase: Draw 1 card. Discard the card beneath Amanda Sharpe. Choose a card from your hand and place it beneath her.\n<b>Forced</b> - At the start of a skill test you are performing: Commit the card beneath Amanda Sharpe, if able. Do not discard it when the test ends.\n[elder_sign] effect: +0. For this test, you may double the number of skill icons on the card beneath Amanda Sharpe.",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, [[Practiced]] skills level 0-3.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Obscure Studies, Whispers from the Deep, 1 random basic weakness.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, [[Practiced]] skills level 0-3.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Obscure Studies, Whispers from the Deep, 1 random basic weakness."
+    },
+    {
+        "code": "07191",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Cryptic Grimoire <i>(Untranslated)</i>, and only if \"you have translated the grimoire\" in your Campaign Log.\n[reaction]: After you resolve 1 or more [curse] tokens during a skill test: Place that many secrets on Cryptic Grimoire.\n[reaction] When you play an [[Insight]] event during your turn, spend 2 secrets: That event gains fast. Reduce its cost by 1.",
+        "replacement_text": "Researched.\n[reaction] After you resolve 1 or more [curse] tokens during a skill test: Place that many secrets on Cryptic Grimoire.\n[reaction] When you play an [[Insight]] event during your turn, spend 2 secrets: That event gains fast. Reduce its cost by 1."
+    },
+    {
+        "code": "07192",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Cryptic Grimoire <i>(Untranslated)</i>, and only if \"you have translated the grimoire\" in your Campaign Log.\n[reaction]: After you resolve 1 or more [curse] tokens during a skill test: Place that many secrets on Cryptic Grimoire.\n[reaction] When you would draw the top card of the encounter deck, spend 5 secrets: Draw a card from your deck instead.",
+        "replacement_text": "Researched.\n[reaction] After you resolve 1 or more [curse] tokens during a skill test: Place that many secrets on Cryptic Grimoire.\n[reaction] When you would draw the top card of the encounter deck, spend 5 secrets: Draw a card from your deck instead."
+    },
+    {
+        "code": "07223",
+        "text": "(v1.9) This card’s [fast] ability should read “…(Limit once per test.)”",
+        "original_text": "Uses (4 secrets).\n[fast] During a skill test at your location: The performing investigator may search the top 3 cards of their deck for a card that can be committed to this test. You may spend 1 secret to commit that card. Shuffle the performing investigator's deck.",
+        "replacement_text": "Uses (4 secrets).\n[fast] During a skill test at your location: The performing investigator may search the top 3 cards of their deck for a card that can be committed to this test. You may spend 1 secret to commit that card. Shuffle the performing investigator's deck. (Limit once per test.)"
+    },
+    {
+        "code": "07310",
+        "text": "(v2.0) The [fast] ability granted by this card should read: “…Any investigator at this location may trigger this ability.”",
+        "original_text": "Attach to your location. Uses (3 offerings).\nAttached location gains: \"[fast] Draw the top card of the encounter deck, exhaust Shrine of the Moirai, and spend 1 offering: Return up to 2 cards with a total combined level of 5 or less from your discard pile to your hand.\"",
+        "replacement_text": "Attach to your location. Uses (3 offerings).\nAttached location gains: \"[fast] Draw the top card of the encounter deck, exhaust Shrine of the Moirai, and spend 1 offering: Return up to 2 cards with a total combined level of 5 or less from your discard pile to your hand. Any investigator at this location may trigger this ability.\"\n<b>Card design by the Moirai at Arkham Nights 2019.</b>"
+    },
+    {
+        "code": "07315",
+        "text": "(v1.9) This card’s Objective ability should read: “…you may choose to advance” instead of “…advance.”",
+        "original_text": "<b>Objective</b> - If each investigator is at Gateway to Y'ha-nthlei and the investigators possess each of the following keys (blue, red, yellow, and green), advance.",
+        "replacement_text": "<b>Objective</b> - If each investigator is at Gateway to Y'ha-nthlei and the investigators possess each of the following keys (blue, red, yellow, and green), you may choose to advance."
+    },
+    {
+        "code": "07330a",
+        "text": "(v2.0) The triggering condition on this card’s Forced ability should read: “At the end of the investigation phase” instead of “at the end of the round.”",
+        "original_text": "Dagon is slumbering. He cannot attack or engage, and is immune to investigator actions and player card effects.\n<b>Forced</b> - At the end of the round, if an investigator is in Lair of Dagon and Dagon is ready: Place 1 doom on him.\n[action]: Test [willpower] (4). If you succeed, either exhaust Dagon or remove 1 doom from him. If you fail by 3 or more, place 1 doom on him.",
+        "replacement_text": "Dagon is slumbering. He cannot attack or engage, and is immune to investigator actions and player card effects.\n<b>Forced</b> - At the end of the investigation phase, if an investigator is in Lair of Dagon and Dagon is ready: Place 1 doom on him.\n[action]: Test [willpower] (4). If you succeed, either exhaust Dagon or remove 1 doom from him. If you fail by 3 or more, place 1 doom on him."
+    },
+    {
+        "code": "07331a",
+        "text": "(v2.0) The triggering condition on this card’s Forced ability should read: “At the end of the investigation phase” instead of “at the end of the round.”",
+        "original_text": "Hydra is slumbering. She cannot attack or engage, and is immune to investigator actions and player card effects.\n<b>Forced</b> - At the end of the round, if an investigator is in Lair of Hydra and Hydra is ready: Place 1 doom on her.\n[action]: Test [willpower] (4). If you succeed, either exhaust Hydra or remove 1 doom from her. If you fail by 3 or more, place 1 doom on her.",
+        "replacement_text": "Hydra is slumbering. She cannot attack or engage, and is immune to investigator actions and player card effects.\n<b>Forced</b> - At the end of the investigation phase, if an investigator is in Lair of Hydra and Hydra is ready: Place 1 doom on her.\n[action]: Test [willpower] (4). If you succeed, either exhaust Hydra or remove 1 doom from her. If you fail by 3 or more, place 1 doom on her."
+    },
+    {
+        "code": "08019",
+        "text": "(v2.0) This card’s effect should read: “One at a time, play…”",
+        "original_text": "Permanent. Limit 1 per deck. Purchase at deck creation.\n<b>Forced</b> - When your first turn of the game begins: Play any number of <b><i>Item</i></b> assets from your hand, reducing the cost of each by 1. During this turn, you have 3 fewer actions to take.",
+        "replacement_text": "Permanent. Limit 1 per deck. Purchase at deck creation.\n<b>Forced</b> - When your first turn of the game begins: One at a time, play any number of [[Item]] assets from your hand, reducing the cost of each by 1. During this turn, you have 3 fewer actions to take."
+    },
+    {
+        "code": "08100",
+        "text": "(v2.1) This card’s [fast] ability should now read: “…choose and take 2 different actions of the following, in any order (move, evade, or investigate).”",
+        "original_text": "Uses (3 secrets).\n[fast] During your turn, exhaust Eon Chart and spend 1 secret: Choose and take two of the following actions, in any order (move, evade, or investigate).",
+        "replacement_text": "Uses (3 secrets).\n[fast] During your turn, exhaust Eon Chart and spend 1 secret: Choose and take two different actions of the following, in any order (move, evade, or investigate)."
+    },
+    {
+        "code": "08596",
+        "text": "(v2.1) This card’s [cultist] effect should read “If you fail, after this test ends…”\n(v2.1) This card’s [cultist] effect should read “After this test ends…”",
+        "original_text": "Easy / Standard\n[skull]: –X. X is the level of your location.\n[cultist]: –1. If you fail, move to the location directly below you.\n[tablet]: –3. If you fail, lose control of an [[Expedition]] asset and place it at your location.\n[elder_thing]: –4. If you fail, the nearest [[Elder Thing]] enemy moves once toward you. If it is engaged with you, it attacks.",
+        "replacement_text": "Easy / Standard\n[skull]: -X. X is the level of your location.\n[cultist]: -1. If you fail, after this test ends move to the location directly below you.\n[tablet]: -3. If you fail, lose control of an [[Expedition]] asset and place it at your location.\n[elder_thing]: -4. If you fail, the nearest [[Elder Thing]] enemy moves once toward you. If it is engaged with you, it attacks.",
+        "original_back_text": "Hard / Expert\n[skull]: –X. X is 2 plus the level of your location.\n[cultist]: –1. Move to the location directly below you.\n[tablet]: –4. If you fail, lose control of an [[Expedition]] asset and place it at your location.\n[elder_thing]: –5. If you fail, the nearest [[Elder Thing]] enemy moves once toward you. If it is engaged with you, it attacks.",
+        "replacement_back_text": "Hard / Expert\n[skull]: -X. X is 2 plus the level of your location.\n[cultist]: -1. After this test ends move to the location directly below you.\n[tablet]: -4. If you fail, lose control of an [[Expedition]] asset and place it at your location.\n[elder_thing]: -5. If you fail, the nearest [[Elder Thing]] enemy moves once toward you. If it is engaged with you, it attacks."
+    },
+    {
+        "code": "08635",
+        "text": "(v2.1) This card’s ability should read: “Choose 3 locations other than Hidden Tunnel and reveal them…”",
+        "original_text": "[action] Spend two “–3” keys: Choose 3 locations and reveal them. Discover 1 clue from each of these locations. Record in the Campaign Log <i>the team read the map.</i>",
+        "replacement_text": "[action] Spend two \"-3\" keys: Choose 3 locations other than Hidden Tunnel and reveal them. Discover 1 clue from each of these locations. Record in the Campaign Log <i>the team read the map.</i>"
+    },
+    {
+        "code": "08669",
+        "text": "(v2.1) This card’s Forced ability should read: “…activated seal: Protoplasmic Mass readies and resolves the enemy phase again (it resolves its hunter keyword and attacks a second time). (Limit once per phase.)”",
+        "original_text": "Hunter.\n<b>Spawn</b> – Location farthest from you on the outer ring.\n<b>Prey</b> – Nearest investigator with a seal only.\n<b>Forced</b> – When the enemy phase ends, if an investigator controls an activated seal: Protoplasmic Mass resolves the enemy phase again <i>(it resolves its hunter keyword and attack a second time)</i>.",
+        "replacement_text": "Hunter.\n<b>Spawn</b> - Location farthest from you on the outer ring.\n<b>Prey</b> - Nearest investigator with a seal only.\n<b>Forced</b> - When the enemy phase ends, if an investigator controls an activated seal: Protoplasmic Mass readies and resolves the enemy phase again <i>(it resolves its hunter keyword and attacks a second time)</i>. (Limit once per phase.)"
+    },
+    {
+        "code": "09020",
+        "text": "(v2.2) This card’s Revelation ability should read: “…Otherwise, for each Ally asset you control, you must either exhaust it or deal it 1 direct damage and 1 direct horror.”",
+        "original_text": "<b>Revelation</b> - If you control no [[Ally]] assets, shuffle Burden of Leadership back into your deck. Otherwise, for each [[Ally]] asset you control, either exhaust it or deal it 1 direct damage and 1 direct horror.",
+        "replacement_text": "<b>Revelation</b> - If you control no [[Ally]] assets, shuffle Burden of Leadership back into your deck. Otherwise, for each [[Ally]] asset you control, you must either exhaust it or deal it 1 direct damage and 1 direct horror."
+    },
+    {
+        "code": "09107",
+        "text": "(v2.4) This card’s first bullet point should read: “Each unengaged non-Elite enemy moves once toward the nearest investigator.”",
+        "original_text": "Max 2 [[Dilemma]] per round.\n<b>Revelation</b> - If there are no enemies in play, draw 1 card. Otherwise, you must decide (choose one):\n- Each unengaged enemy moves once toward the nearest investigator.\n- Each investigator disengages from each enemy engaged with them and moves once away from the nearest enemy.",
+        "replacement_text": "Max 2 [[Dilemma]] per round.\n<b>Revelation</b> - If there are no enemies in play, draw 1 card. Otherwise, you must decide (choose one):\n- Each unengaged non-[[Elite]] enemy moves once toward the nearest investigator.\n- Each investigator disengages from each enemy engaged with them and moves once away from the nearest enemy."
+    },
+    {
+        "code": "09521",
+        "text": "(v2.2) This card’s first sentence should end with: “…for a Risen or Ghoul enemy and spawn it at a random location.”",
+        "original_text": "Each [[Risen]] enemy and each [[Ghoul]] enemy gains hunter and \"<b>Spawn</b> - Random location.\"",
+        "replacement_text": "Each [[Risen]] enemy and each [[Ghoul]] enemy gains \"<b>Spawn</b> - Random location.\"",
+        "original_back_text": "For every 1 [per_investigator] civilians slain, search the encounter deck and discard pile for a [[Risen]] or [[Ghoul]] enemy and spawn it. Shuffle the encounter discard pile into the encounter deck.\nEach investigator decides (choose one):\n- Heal 2 damage from each [[Elite]] enemy in play.\n- I civilian at your location is slain.",
+        "replacement_back_text": "For every 1 [per_investigator] civilians slain, search the encounter deck and discard pile for a [[Risen]] or [[Ghoul]] enemy and spawn it at a random location. Shuffle the encounter discard pile into the encounter deck.\nEach investigator decides (choose one):\n- Heal 2 damage from each [[Elite]] enemy in play.\n- 1 civilian at your location is slain."
+    },
+    {
+        "code": "09546",
+        "text": "(v2.1) This card’s second paragraph should read: “Find the location with a target on it nearest to La Chica Roja (or her mini-card)…”",
+        "original_back_text": "Reveal each concealed mini-card in play and set each decoy aside, out of play.\nFind the location with a target on it nearest to La Chica Roja (or her mini-card). La Chica Roja collects that target <i>(place it on her)</i>. If there are 3 targerts on La Chica Roja, proceed to <b>(→R3)</b>.\nOtherwise, resolve La Chica Roja's concealed keyword, distributing each of those concealed mini-cards as evenly as possible among each location with a target. Reset the act and agenda decks to agenda 1 and act 1.\nAdd clues to each location until it has clues equal to its clue value.",
+        "replacement_back_text": "Reveal each concealed mini-card in play and set each decoy aside, out of play.\nFind the location with a target on it nearest to La Chica Roja (or her mini-card). La Chica Roja collects that target <i>(place it on her)</i>. If there are 3 targets on La Chica Roja, proceed to <b>(→R3)</b>.\nOtherwise, resolve La Chica Roja's concealed keyword, distributing each of those concealed mini-cards as evenly as possible among each location with a target. Reset the act and agenda decks to agenda 1 and act 1.\nAdd clues to each location until it has clues equal to its clue value."
+    },
+    {
+        "code": "09562",
+        "text": "(v2.1) This card loses all story text and gains: “Forced – When this agenda would advance by reaching its doom threshold: Each investigator is defeated and suffers 1 mental trauma.”",
+        "original_text": "<b>Forced</b> - After a decoy is exposed: Place 1 doom on this agenda.\n<b>Objective</b> - If the Sanguine Watcher is defeated, advance.",
+        "replacement_text": "<b>Forced</b> - After a decoy is exposed: Place 1 doom on this agenda.\n<b>Forced</b> - When this agenda would advance by reaching its doom threshold: Each investigator is defeated and suffers 1 mental trauma.\n<b>Objective</b> - If the Sanguine Watcher is defeated, advance."
+    },
+    {
+        "code": "09567",
+        "text": "(v2.1) This card’s first paragraph, starting on line 3, should read: “…or search the encounter deck and discard pile for a Cultist enemy and draw it; it gains concealed 1…”",
+        "original_back_text": "In player order, each investigator must choose: Either place 1 clue <i>(from the token pool)</i> on Clues Unveiled, or search the encounter deck and discard pile for a [[Cultist]] enemy and draw it (if no [[Cultist]] enemy is found, place 1 clue on Clues Unveiled, instead). Shuffle the encounter deck if it is searched.\nFor each eclipse that was on the agenda when it advanced, an investigator must resolve the above effect an additional time.\nFlip this agenda back over, adding 1 resource to it, as an eclipse. (It keeps each other eclipse it had, as well.)",
+        "replacement_back_text": "In player order, each investigator must choose: Either place 1 clue <i>(from the token pool)</i> on Clues Unveiled, or search the encounter deck and discard pile for a [[Cultist]] enemy and draw it; it gains concealed 1 (if no [[Cultist]] enemy is found, place 1 clue on Clues Unveiled, instead). Shuffle the encounter deck if it is searched.\nFor each eclipse that was on this agenda when it advanced, an investigator must resolve the above effect an additional time.\nFlip this agenda back over, adding 1 resource to it, as an eclipse. (It keeps each other eclipse it had, as well.)"
+    },
+    {
+        "code": "09569",
+        "text": "(v2.1) The last line of this act’s third paragraph should read: “Set each concealed mini-card aside, out of play,” instead of “Remove each concealed mini-card from the game.”",
+        "original_back_text": "If the investigators reached the clue threshold first, attach The Twisted Antiprism key to any investigator at the east gate.\nIf the cult reached the clue threshold first, attach The Twisted Antiprism key to the [[Cultist]] enemy with the most clues.\nReveal each concealed mini-card in play. For each enemy's mini-card, move that enemy from the shadows to that location. Remove each concealed mini-card from the game.\nPut the locations from act 1 that were previously set aside back into play, with Hagia Sophia to the left of the entrance to the Grand Bazaar. These two locations are connected to one another for the rest of the scenario. Put Galata Docks into play.\nIf the cult reached the clue threshold first, for every 1 [per_investigator] more clues they had than the investigators, move the [[Cultist]] enemy with The Twisted Antiprism once toward Galata Docks.\nEach investigator and [[Cultist]] enemy loses each of their clues. Flip The Unveiling story card over to its other side, removing all clues from it. Advance the act and agenda deck directly to \"The Chase.\" It is both the current act and the current agenda.",
+        "replacement_back_text": "If the investigators reached the clue threshold first, attach The Twisted Antiprism key to any investigator at the east gate.\nIf the cult reached the clue threshold first, attach The Twisted Antiprism key to the [[Cultist]] enemy with the most clues.\nReveal each concealed mini-card in play. For each enemy's mini-card, move that enemy from the shadows to that location. Set each concealed mini-card aside, out of play.\nPut the locations from act 1 that were previously set aside back into play, with Hagia Sophia to the left of the entrance to the Grand Bazaar. These two locations are connected to one another for the rest of the scenario. Put Galata Docks into play.\nIf the cult reached the clue threshold first, for every 1 [per_investigator] more clues they had than the investigators, move the [[Cultist]] enemy with The Twisted Antiprism once toward Galata Docks.\nEach investigator and [[Cultist]] enemy loses each of their clues. Flip The Unveiling story card over to its other side, removing all clues from it. Advance the act and agenda deck directly to \"The Chase.\" It is both the current act and the current agenda."
+    },
+    {
+        "code": "09570",
+        "text": "(v2.1) This card’s second objective now reads: “If an enemy with The Twisted Antiprism is at Galata Docks, or if the investigator with The Twisted Antiprism is defeated, proceed…”",
+        "original_text": "<b>Objective</b> - <i>\"Get this thing out of here!\"</i> If an investigator with The Twisted Antiprism is at Galata Docks, you may proceed to <b>(→R1)</b> <i>(page 25)</i>.\n<b>Objective</b> - <i>\"Don't let them get away with the Key!\"</i> If an enemy with The Twisted Antiprism is at Galata Docks, proceed to <b>(→R6)</b> <i>(page 25)</i>.",
+        "replacement_text": "<b>Objective</b> - <i>\"Get this thing out of here!\"</i> If an investigator with The Twisted Antiprism is at Galata Docks, you may proceed to <b>(→R1)</b> <i>(page 25)</i>.\n<b>Objective</b> - <i>\"Don't let them get away with the Key!\"</i> If an enemy with The Twisted Antiprism is at Galata Docks, or if the investigator with The Twisted Antiprism is defeated, proceed to <b>(→R6)</b> <i>(page 25)</i>."
+    },
+    {
+        "code": "09598",
+        "text": "(v2.1) The last line of this act’s first paragraph should read: “Set each concealed mini-card aside, out of play,” instead of “Remove each concealed mini-card from the game.”",
+        "original_text": "[action] As a group, investigators at your location place clues they control on a [[Coterie]] enemy at your location equal to that enemy's remaining health: <b>Parley.</b> You gain some insight into the situation. Remove all doom from that enemy and automatically evade it.\n[action]: <b>Resign.</b> <i>\"I thought we had a deal!\"</i> You get out of the city while you still can.\n<b>Objective</b> – Discover why your contacts are after you. If there are 4 [per_investigator] total clues among enemies in play, advance.",
+        "replacement_text": "[action] As a group, investigators at your location place clues they control on a [[Coterie]] enemy at your location equal to that enemy's remaining health: <b>Parley.</b> You gain some insight into the situation. Remove all doom from that enemy and automatically evade it.\n[action]: <b>Resign.</b> <i>\"I thought we had a deal!\"</i> You get out of the city while you still can.\n<b>Objective</b> - Discover why your contacts are after you. If there are 4 [per_investigator] total clues among enemies in play, advance.",
+        "original_back_text": "Reveal each concealed mini-card in play. For each enemy's mini-card, move that enemy from the shadows to that location. Then, remove each concealed mini-card from the game.\nReady the Desiderio Delgado Álvarez enemy, remove all tokens from him, and discard all attachments from him. Spawn the other set-aside Desiderio Delgado Álvarez enemy at the same location as the one in play, randomizing them so you do not know which is which.\nRemove all clues from each enemy in play. For each clue removed from an enemy in this way, heal 1 damage from that enemy.",
+        "replacement_back_text": "Reveal each concealed mini-card in play. For each enemy's mini-card, move that enemy from the shadows to that location. Then, set each concealed mini-card aside, out of play.\nReady the Desiderio Delgado Álvarez enemy, remove all tokens from him, and discard all attachments from him. Spawn the other set-aside Desiderio Delgado Álvarez enemy at the same location as the one in play, randomizing them so you do not know which is which.\nRemove all clues from each enemy in play. For each clue removed from an enemy in this way, heal 1 damage from that enemy."
+    },
+    {
+        "code": "09688",
+        "text": "(v2.1) This card’s ability should read: “…end of your turn. If each surviving investigator has resigned, immediately advance to act 3b.”",
+        "original_text": "[action]: <b>Resign.</b> Test [willpower] or [agility] (4). If you succeed, you resign, adding each [[Conspirator]] asset you control to the victory display. If you fail, you remain trapped here, and this test gets -1 difficulty until the end of your turn.",
+        "replacement_text": "[action]: <b>Resign.</b> Test [willpower] or [agility] (4). If you succeed, you resign, adding each [[Conspirator]] asset you control to the victory display. If you fail, you remain trapped here, and this test gets -1 difficulty until the end of your turn. If each surviving investigator has resigned, immediately advance to act 3b."
+    },
+    {
+        "code": "09720",
+        "text": "(v2.3) This card’s constant ability should read: “…concealed mini-cards at its location cannot be exposed via player card effects.”",
+        "original_text": "Aloof. Patrol (nearest location with a concealed mini-card and no Coterie Envoy)\nWhile Coterie Envoy is ready, concealed mini-cards at its location cannot be exposed.\n[reaction] After you defeat Coterie Envoy: Look at the revealed side of any concealed mini-card in play.",
+        "replacement_text": "Aloof. Patrol (nearest location with a concealed mini-card and no Coterie Envoy)\nWhile Coterie Envoy is ready, concealed mini-cards at its location cannot be exposed via player card effects.\n[reaction] After you defeat Coterie Envoy: Look at the revealed side of any concealed mini-card in play."
+    },
+    {
+        "code": "10110",
+        "text": "(v2.4) This card’s [action] ability should read: “…your location. Attached location gains…”",
+        "original_text": "[action]: <b>Fight.</b> You get +1 [combat] and deal +2 damage for this attack. If this attack is successful, lose control of Pitchfork and attach it to your location. Your location gains:\n\"[action]: Take control of Pitchfork. Any investigator at Pitchfork's location may trigger this ability\"",
+        "replacement_text": "[action]: <b>Fight.</b> You get +1 [combat] and deal +2 damage for this attack. If this attack is successful, lose control of Pitchfork and attach it to your location. Attached location gains:\n\"[action]: Take control of Pitchfork. Any investigator at Pitchfork's location may trigger this ability.\""
+    },
+    {
+        "code": "10522",
+        "text": "(v2.3) This card’s ability should read: “When a scenario card or weakness card effect would discard…”",
+        "original_text": "Uses (4 brilliance).\n[reaction] When a scenario card effect would discard any number of cards from your hand, exhaust Prismatic Shard and spend 1 brilliance: Ignore that effect and draw that many cards, instead.",
+        "replacement_text": "Uses (4 brilliance).\n[reaction] When a scenario card or weakness card effect would discard any number of cards from your hand, exhaust Prismatic Shard and spend 1 brilliance: Ignore that effect and draw that many cards, instead."
+    },
+    {
+        "code": "10578",
+        "text": "(v2.3) This card should have the Cave trait.",
+        "original_traits": "Coastal.",
+        "replacement_traits": "Cave. Coastal."
+    },
+    {
+        "code": "10634",
+        "text": "(v2.4) This card’s [reaction] ability should be a “Forced –” ability.",
+        "original_text": "Enemies at Barn get +1 damage value.\nWhen Barn is revealed: Place the set-aside Ajax story asset at this location <b>([codex] Ω)</b>.",
+        "replacement_text": "Enemies at Barn get +1 damage value.\n<b>Forced</b> - When Barn is revealed: Place the set-aside Ajax story asset at this location <b>([codex] Ω)</b>."
+    },
+    {
+        "code": "11009",
+        "text": "(v2.5) This card’s [reaction] ability should read: “[reaction] After you succeed at a skill test, if no tokens are sealed here and you did not release a token from Ocula Obscura during this skill test…”",
+        "original_text": "Agatha Crane deck only.\n[reaction] After you succeed at a skill test, if no tokens are sealed here: Seal a non-symbol token revealed during this skill test on Ocula Obscura. (Limit once per phase.)\n<b>Forced</b> - When you would reveal a token from the chaos bag: Resolve the token sealed here instead, then release that token.",
+        "replacement_text": "Agatha Crane deck only.\n[reaction] After you succeed at a skill test, if no tokens are sealed here and you did not release a token from Ocula Obscura during this skill test: Seal a non-symbol token revealed during this skill test on Ocula Obscura. (Limit once per phase.)\n<b>Forced</b> - When you would reveal a token from the chaos bag: Resolve the token sealed here instead, then release that token."
+    },
+    {
+        "code": "11069",
+        "text": "(v2.5) This card’s [reaction] ability should read: “[reaction] When you would reveal a chaos token…”",
+        "original_text": "[reaction] When you reveal chaos tokens during a kill test you are performing, exhaust Katarina Sojka: Reveal tokens from the chaos bag until a token with a symbol is revealed. Resolve that token and ignore the rest.",
+        "replacement_text": "[reaction] When you would reveal a chaos token during a skill test you are performing, exhaust Katarina Sojka: Reveal tokens from the chaos bag until a token with a symbol is revealed. Resolve that token and ignore the rest."
+    },
+    {
+        "code": "11103",
+        "text": "(v2.4) This card’s [reaction] ability should instead be a [fast] ability and gains “…(Limit once per test.)”",
+        "original_text": "[[Blessed]], [[Cursed]], [[Sorcerer]] deck only.\nYou get +1 skill value while resolving [[Spell]] events.\n[reaction] During a skill test on a [[Spell]] event, take up to 3 horror: For each horror taken, reveal an additional chaos token for this test. Choose 1 of the revealed tokens to resolve and ignore the rest.",
+        "replacement_text": "[[Blessed]], [[Cursed]], [[Sorcerer]] deck only.\nYou get +1 skill value while resolving [[Spell]] events.\n[fast] During a skill test on a [[Spell]] event, take up to 3 horror: For each horror taken, reveal an additional chaos token for this test. Choose 1 of the revealed tokens to resolve and ignore the rest. (Limit once per test.)"
+    },
+    {
+        "code": "11519",
+        "text": "(v2.4) This act’s Objective should read: “…you may advance.”",
+        "original_text": "[fast] Spend 1 [per_investigator] clues, as a group: Decrease your location's flood level.\n<b>Objective</b> – Make your way to the sea floor! If each surviving investigator is at Obsidian Foundations, advance.",
+        "replacement_text": "[fast] Spend 1 [per_investigator] clues, as a group: Decrease your location's flood level.\n<b>Objective</b> – Make your way to the sea floor! If each surviving investigator is at Obsidian Foundations, you may advance.",
+        "original_back_text": "<b>(→R1)</b> <i>(page 15)</i>",
+        "replacement_back_text": "<b>(→R1)</b> <i>(page 15)</i>."
+    },
+    {
+        "code": "11520",
+        "text": "(v2.4) This act’s Objective should read: “…you may advance.”",
+        "original_text": "[fast] Spend 1 [per_investigator] clues, as a group: Decrease your location's flood level.\n<b>Objective</b> – Make your way to the surface! If each surviving investigator is at Western Wall, advance.",
+        "replacement_text": "[fast] Spend 1 [per_investigator] clues, as a group: Decrease your location's flood level.\n<b>Objective</b> – Make your way to the surface! If each surviving investigator is at Western Wall, you may advance.",
+        "original_back_text": "<b>(→R2)</b> <i>(page 15)</i>",
+        "replacement_back_text": "<b>(→R2)</b> <i>(page 15)</i>."
+    },
+    {
+        "code": "11595",
+        "text": "(v2.4) The first sentence of this card’s unrevealed side should instead read: “Core of the Vault cannot be flooded and investigators cannot move into it.”",
+        "original_text": "Core of the Vault cannot be flooded.\n<b>Forced</b> - If The Inescapable is defeated at this location: Search all in- and out-of-play areas for each copy of Still Behind Your and remove them from the game. In your Campaign Log, record <I>the creature was defeated.</I>\n[action][action] Spend 3 [per_investigator] clues, as a group: You study the machine. Proceed to <b>Scenario Interlude: The Vault Core</b> <I>(page 26)</I>.",
+        "replacement_text": "Core of the Vault cannot be flooded.\n<b>Forced</b> - If The Inescapable is defeated at this location: Search all in- and out-of-play areas for each copy of Still Behind You and remove them from the game. In your Campaign Log, record <i>the creature was defeated.</i>\n[action][action] Spend 3 [per_investigator] clues, as a group: You study the machine. Proceed to <b>Scenario Interlude: The Vault Core</b> <i>(page 26)</i>.",
+        "original_back_text": "Core of the Vault cannot be flooded.\n<b>Forced</b> - At the end of the round, if each [[Vault]] location has been activated: Reveal Core of the Vault.",
+        "replacement_back_text": "Core of the Vault cannot be flooded and investigators cannot move into it.\n<b>Forced</b> - At the end of the round, if each [[Vault]] location has been activated: Reveal Core of the Vault."
+    },
+    {
+        "code": "11605",
+        "text": "(v2.5) This card’s Forced ability should read: “...Slitherer in Darkness moves directly to the flooded location...”",
+        "original_text": "<b>Spawn</b> - Nearest flooded location.\nSlitherer in Darkness cannot enter unflooded locations.\n<b>Forced</b> - When the enemy phase begins, if there are no investigators at this enemy's location: This enemy attacks the investigator with the lowest [combat] at a connecting location. If no attack was made, Slitherer in Darkness moves to the flooded location nearest the Moving Platform.",
+        "replacement_text": "<b>Spawn</b> - Nearest flooded location.\nSlitherer in Darkness cannot enter unflooded locations.\n<b>Forced</b> - When the enemy phase begins, if there are no investigators at this enemy's location: This enemy attacks the investigator with the lowest [combat] at a connecting location. If no attack was made, Slitherer in Darkness moves directly to the flooded location nearest the Moving Platform."
+    },
+    {
+        "code": "11674",
+        "text": "(v2.5) This card’s Forced ability should read: “...Immediately advance (do not remove doom from cards in play).”",
+        "original_text": "<b>Forced</b> - when doom would be placed on a card other than a story asset: Place 1 resource on the scenario reference card, as Disturbance, instead. If the current Disturbance is 6 or more (8 or more instead of there are exactly 1 or 2 investigators in the game), immediately advance.\n<b>Objective</b> - Prepare your artifacts for the final showdown!",
+        "replacement_text": "<b>Forced</b> - When doom would be placed on a card other than a story asset: Place 1 resource on the scenario reference card, as Disturbance, instead. If the current Disturbance is 6 or more (8 or more instead of there are exactly 1 or 2 investigators in the game), immediately advance (do not remove doom from cards in play).\n<b>Objective</b> - Prepare your artifacts for the final showdown!"
+    },
+    {
+        "code": "11691b",
+        "text": "(v2.4) The first sentence on the back of this agenda should read: “If this agenda advanced by reaching its doom threshold, each investigator is defeated. Otherwise…”",
+        "original_back_text": "If there are 5 or fewer [[Ruined]] locations in play, <b>(→R2)</b> <i>(page 50)</i>. Otherwise, <b>(→R3)</b> <i>(page 51)</i>.",
+        "replacement_back_text": "If this agenda advanced by reaching its doom threshold, each investigator is defeated. Otherwise, if there are 5 or fewer [[Ruined]] locations in play, <b>(→R2)</b> <i>(page 50)</i>. Otherwise, <b>(→R3)</b> <i>(page 51)</i>."
+    },
+    {
+        "code": "11753a",
+        "text": "(v2.4) The first Forced ability on this card should read: “When you reveal a location or put a location into play: Remove…”",
+        "original_text": "Permanent. Uses (8 discoveries).\n<b>Forced</b> - When you reveal a location: Remove 1 discovery from No Place Like Home.\n<b>Forced</b> - When the game ends, if there are 1 [per_investigator] or fewer discoveries on No Place Like Home: In your Campaign Log, mark 1 progress under this Task.",
+        "replacement_text": "Permanent. Uses (8 discoveries).\n<b>Forced</b> - When you reveal a location or put a location into play: Remove 1 discovery from No Place Like Home.\n<b>Forced</b> - When the game ends, if there are 1 [per_investigator] or fewer discoveries on No Place Like Home: In your Campaign Log, mark 1 progress under this Task."
+    },
+    {
+        "code": "12020",
+        "text": "(Grimoire v1.1) This card’s ability should read “If you succeed and the attacked enemy is the only enemy engaged with you...”",
+        "original_text": "[action]: <b>Fight</b> ([combat]). You get +1 [combat] for this attack. If the attacked enemy is the only enemy engaged with you, you may exhaust Machete to deal +1 damage for this attack.",
+        "replacement_text": "[action]: <b>Fight</b> ([combat]). You get +1 [combat] for this attack. If you succeed and the attacked enemy is the only enemy engaged with you, you may exhaust Machete to deal +1 damage for this attack."
+    },
+    {
+        "code": "12082",
+        "text": "(Grimoire v1.1) This card’s ability should read “You succeed at that skill test by 0 instead.”",
+        "original_text": "Fast. Play when you would fail a skill test during which a non-[auto_fail] token was revealed.\nYou succeed at that skill test instead. If a token with a symbol was revealed during that skill test, take 1 horror.",
+        "replacement_text": "Fast. Play when you would fail a skill test during which a non-[auto_fail] token was revealed.\nYou succeed at that skill test by 0 instead. If a token with a symbol was revealed during that skill test, take 1 horror."
+    },
+    {
+        "code": "50004",
+        "text": "(v1.4) This card’s constant ability should read: “Each time a non-Elite enemy would spawn at attached location, spawn it at a connecting location instead, if able.”",
+        "original_text": "Attach to your location.<br/>Non-[[elite]] enemies cannot move into or spawn at attached location. Anytime an enemy would spawn at attached location, spawn it at a connecting location instead, if able.<br/><b>Forced</b> - When an investigator leaves attached location: Discard Barricade.",
+        "replacement_text": "Attach to your location.\nNon-[[Elite]] enemies cannot move into or spawn at attached location. Each time a non-[[Elite]] enemy would spawn at attached location, spawn it at a connecting location instead, if able.\n<b>Forced</b> - When an investigator leaves attached location: Discard Barricade."
+    },
+    {
+        "code": "51004",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Strange Solution <i>(Unidentified)</i>, and only if you have \"identified the solution\" in your Campaign Log.\nUses (3 supplies).\n[action] Spend 1 supply and exhaust Strange Solution: Choose an investigator at your location to gain 2 resources and draw 1 card.",
+        "replacement_text": "Researched. Uses (3 supplies).\n[action] Spend 1 supply and exhaust Strange Solution: Choose an investigator at your location to gain 2 resources and draw 1 card."
+    },
+    {
+        "code": "52004",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Archaic Glyphs <i>(Untranslated)</i>, and only if \"you have translated the glyphs\" in your Campaign Log.\nUses (3 charges).\n[action] Spend 1 charge: <b>Investigate.</b> If you succeed, you may put an asset with printed cost of X or lower into play from your hand. X is the amount you succeeded by.",
+        "replacement_text": "Researched. Uses (3 charges).\n[action] Spend 1 charge: <b>Investigate.</b> If you succeed, you may put an asset with printed cost of X or lower into play from your hand. X is the amount you succeeded by."
+    },
+    {
+        "code": "52008",
+        "text": "(v2.0) This card’s Fight ability should read: “at the attacked enemy’s location” instead of “at your location” in all instances.",
+        "original_text": "<b>Fight.</b> This attack uses [willpower] instead of [combat]. You get +2 [willpower] for this attack. If you succeed, instead of its standard damage, this attack deals 3 damage to each enemy at your location <i>(any additional damage is dealt to the attacked enemy)</i>. If a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] token is revealed during this attack, deal 2 damage to each investigator at your location.",
+        "replacement_text": "<b>Fight.</b> This attack uses [willpower] instead of [combat]. You get +2 [willpower] for this attack. If you succeed, instead of its standard damage, this attack deals 3 damage to each enemy at the attacked enemy's location <i>(any additional damage is dealt to the attacked enemy)</i>. If a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] token is revealed during this attack, deal 2 damage to each investigator at the attacked enemy's location."
+    },
+    {
+        "code": "52023",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.",
+        "original_traits": "Monster. Cultist. Lunatic. Elite.",
+        "replacement_traits": "Monster. Cultist. Possessed. Elite."
+    },
+    {
+        "code": "52024",
+        "text": "(v2.0) This card’s “Lunatic” trait should read “Possessed” instead.",
+        "original_traits": "Humanoid. Monster. Lunatic.",
+        "replacement_traits": "Humanoid. Monster. Possessed."
+    },
+    {
+        "code": "53004",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Ancient Stone <i>(Unidentified)</i>, and only if you have \"identified the stone\" in your Campaign Log.\nUses (X secrets). X is the number in parentheses next to \"you have identified the stone.\"\n[reaction] When you draw any number of cards, spend that many secrets: Move that many times.",
+        "replacement_text": "Researched. Uses (X secrets). X is the number in parentheses next to \"you have identified the stone.\"\n[reaction] When you draw any number of cards, spend that many secrets: Move that many times."
+    },
+    {
+        "code": "54027",
+        "text": "(v2.1) This card’s ability should read: “Victorian Halls is connected to Wine Cellar, and vice versa.”",
+        "original_text": "[action]: You disturb the tranquility of this quiet place in search of evidence. Discard cards from the top of the encounter deck until a [[Monster]] enemy is discarded. Set that enemy aside, out of play. Then gain 2 clues <i>(from the token pool)</i>. (Group limit once per game.)",
+        "replacement_text": "Victorian Halls is connected to Wine Cellar.\n[action]: You disturb the tranquility of this quiet place in search of evidence. Discard cards from the top of the encounter deck until a [[Monster]] enemy is discarded. Set that enemy aside, out of play. Then gain 2 clues <i>(from the token pool)</i>. (Group limit once per game.)"
+    },
+    {
+        "code": "54028",
+        "text": "(v2.1) This card’s ability should read: “Victorian Halls is connected to Wine Cellar, and vice versa.”",
+        "original_text": "[reaction] After you successfully investigate the Wine Cellar: Either discover 1 additional clue, or remove 1 doom from a [[Silver Twilight]] enemy in play.\n<b>Haunted</b> - You must either place 1 doom on a [[Silver Twilight]] enemy in play, or take 1 direct horror.",
+        "replacement_text": "Victorian Halls is connected to Wine Cellar.\n[reaction] After you successfully investigate the Wine Cellar: Either discover 1 additional clue, or remove 1 doom from a [[Silver Twilight]] enemy in play.\n<b>Haunted</b> - You must either place 1 doom on a [[Silver Twilight]] enemy in play, or take 1 direct horror."
+    },
+    {
+        "code": "54040",
+        "text": "(v2.0) This card’s second bullet point should end with: “Otherwise, place it in the spectral encounter discard pile.”",
+        "original_text": "Peril.\n<b>Revelation</b> - If Witchweed is drawn...\n- ...from the standard encounter deck, shuffle it into the spectral encounter deck.\n- ...from the spectral encounter deck, trigger each haunted ability on your location twice. You may give Witchweed surge to place it in the standard encounter discard pile.",
+        "replacement_text": "Peril.\n<b>Revelation</b> - If Witchweed is drawn...\n- ...from the standard encounter deck, shuffle it into the spectral encounter deck.\n- ...from the spectral encounter deck, trigger each haunted ability on your location twice. You may give Witchweed surge to place it in the standard encounter discard pile. Otherwise, place it in the spectral encounter discard pile."
+    },
+    {
+        "code": "54060",
+        "text": "(v2.0) The last sentence of this card’s Cosmos ability should instead read: “You may choose not to move to Winding Gulf and instead place 1 doom on Azathoth.”",
+        "original_text": "<b>Cosmos</b> - Connect to the leftmost revealed location in a direction of your choice. Then, you must either immediately move to Winding Gulf or place 1 doom on Azathoth.\n<b>Haunted</b> - Take 1 damage and 1 horror.",
+        "replacement_text": "<b>Cosmos</b> - Connect to the leftmost revealed location in a direction of your choice. You may choose not to move to Winding Gulf and instead place 1 doom on Azathoth.\n<b>Haunted</b> - Take 1 damage and 1 horror."
+    },
+    {
+        "code": "54068",
+        "text": "(v2.0) The triggering condition on this card’s first Forced ability read: “After you leave attached location” instead of “when you leave attached location.”",
+        "original_text": "<b>Revelation</b> - Attach to your location.\n<b>Forced</b> - When you leave attached location: Resolve each haunted ability on it.\n<b>Forced</b> - At the end of the round: If there are no investigators at attached location, discard Unstable Energies.",
+        "replacement_text": "<b>Revelation</b> - Attach to your location.\n<b>Forced</b> - After you leave attached location: Resolve each haunted ability on it.\n<b>Forced</b> - At the end of the round: If there are no investigators at attached location, discard Unstable Energies."
+    },
+    {
+        "code": "60102",
+        "text": "(v1.8) This card’s [fast] symbol should be a [reaction] symbol, instead.",
+        "original_text": "Nathaniel Cho deck only.\n<b>This card has not yet been announced and is a placeholder.</b>",
+        "replacement_text": "Nathaniel Cho deck only.\n[reaction] After Randall Cho enters play: Heal 3 damage or search your deck and discard pile for a [[Weapon]] asset, play it <i>(paying its cost)</i>, and shuffle your deck."
+    },
+    {
+        "code": "60178",
+        "text": "(Grimoire v1.1) This card should have a wild skill icon.",
+        "original_skill_wild": null,
+        "replacement_skill_wild": 1
+    },
+    {
+        "code": "60227",
+        "text": "(v1.9) This card’s ability should read: “…If you succeed, instead of discovering a clue at your location, discover 2 total clues from among your location and connecting locations.”",
+        "original_text": "<b>Investigate.</b> If you succeed, discover 2 total clues from among your location and connecting locations.",
+        "replacement_text": "<b>Investigate.</b> If you succeed, instead of discovering a clue at your location, discover 2 total clues from among your location and connecting locations."
+    },
+    {
+        "code": "60229",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Forbidden Tome <i>(Untranslated)</i>, and only if \"you have translated the tome\" in your Campaign Log.\n[action][action][action][action] Exhaust Forbidden Tome: Move 1 damage from a player card at your location to an enemy at your location. Reduce this ability's cost by 1 action for every 4 cards in your hand (to a minimum of [action])",
+        "replacement_text": "Researched.\n[action][action][action][action] Exhaust Forbidden Tome: Move 1 damage from a player card at your location to an enemy at your location. Reduce this ability's cost by 1 action for every 4 cards in your hand (to a minimum of [action])."
+    },
+    {
+        "code": "60230",
+        "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
+        "original_text": "You can only include this asset in your deck by upgrading it from Forbidden Tome <i>(Untranslated)</i>, and only if \"you have translated the tome\" in your Campaign Log.\n[action][action][action][action] Exhaust Forbidden Tome: You may move to a connecting location. Discover 1 clue at your location. Reduce this ability's cost by 1 action for every 4 cards in your hand (to a minimum of [action])",
+        "replacement_text": "Researched.\n[action][action][action][action] Exhaust Forbidden Tome: You may move to a connecting location. Discover 1 clue at your location. Reduce this ability's cost by 1 action for every 4 cards in your hand (to a minimum of [action])."
+    },
+    {
+        "code": "60563",
+        "text": "(Grimoire v1.1) This card’s ability should read “Investigate attached location. You get +1 skill value for this investigation.”",
+        "original_text": "Fast. Attach to your location. Limit 1 [[Trap]] per location.\n[reaction] After an enemy enters attached location, exhaust Glassing: <b>Investigate</b> ([intellect] or [agility]). You get +1 skill value for this investigation. If you succeed, you may discard Glassing to discover 1 additional clue at this location. <i>(You may trigger this ability from any location.)</i>",
+        "replacement_text": "Fast. Attach to your location. Limit 1 [[Trap]] per location.\n[reaction] After an enemy enters attached location, exhaust Glassing: <b>Investigate</b> ([intellect] or [agility]). Investigate attached location. You get +1 skill value for this investigation. If you succeed, you may discard Glassing to discover 1 additional clue at this location. <i>(You may trigger this ability from any location.)</i>"
+    },
+    {
+        "code": "60566",
+        "text": "(Grimoire v1.1) This card’s ability should read “If you succeed, you may discard Lie in Wait for this attack to deal +1 damage.”",
+        "original_text": "Fast. Attach to your location. Limit 1 [[Trap]] per location.\n[reaction] After an enemy enters this location, exhaust Lie in Wait: <b>Fight</b> ([combat] or [agility]). Fight that enemy. You get +1 skill value for this attack. You may discard Lie in Wait for this attack to deal +1 damage. <i>(You may trigger this ability from any location.)</i>",
+        "replacement_text": "Fast. Attach to your location. Limit 1 [[Trap]] per location.\n[reaction] After an enemy enters this location, exhaust Lie in Wait: <b>Fight</b> ([combat] or [agility]). Fight that enemy. You get +1 skill value for this attack. If you succeed, you may discard Lie in Wait for this attack to deal +1 damage. <i>(You may trigger this ability from any location.)</i>"
+    },
+    {
+        "code": "60574",
+        "text": "(Grimoire v1.1) This card’s keyword line should read “If there are no supplies on Hunter’s Instinct, discard it.”",
+        "original_text": "Limit 1 per investigator. Uses (3 supplies).\n[reaction] After you engage an enemy, spend 1 supply and exhaust Hunter's Instinct: Add a level 0-2 event in your discard pile to your hand.",
+        "replacement_text": "Limit 1 per investigator. Uses (3 supplies). If there are no supplies on Hunter's Instinct, discard it.\n[reaction] After you engage an enemy, spend 1 supply and exhaust Hunter's Instinct: Add a level 0-2 event in your discard pile to your hand."
+    },
+    {
+        "code": "82023",
+        "text": "(v2.3) The first line of this card should read: “Limit 1 Mask per investigator.”",
+        "original_text": "Limit 1 <i>Mask</i> in play.\n[reaction] After Bauta enters play: Gain 2 resources.\n[reaction] When you initiate a non-[combat] test, discard Bauta: Use [combat] for this test, instead of the skill indicated.",
+        "replacement_text": "Limit 1 [[Mask]] per investigator.\n[reaction] After Bauta enters play: Gain 2 resources.\n[reaction] When you initiate a non-[combat] test, discard Bauta: Use [combat] for this test, instead of the skill indicated."
+    },
+    {
+        "code": "82024",
+        "text": "(v2.3) The first line of this card should read: “Limit 1 Mask per investigator.”",
+        "original_text": "Limit 1 <i>Mask</i> in play.\n[reaction] After Medico Della Peste enters play: You heal 1 damage or 1 horror.\n[reaction] When you initiate a non-[willpower] test, discard Medico Della Peste: Use [willpower] for this test, instead of the skill indicated.",
+        "replacement_text": "Limit 1 [[Mask]] per investigator.\n[reaction] After Medico Della Peste enters play: You heal 1 damage or 1 horror.\n[reaction] When you initiate a non-[willpower] test, discard Medico Della Peste: Use [willpower] for this test, instead of the skill indicated."
+    },
+    {
+        "code": "82025",
+        "text": "(v2.3) The first line of this card should read: “Limit 1 Mask per investigator.”",
+        "original_text": "Limit 1 <i>Mask</i> in play.\n[reaction] After Bauta enters play: Gain 2 resources.\n[reaction] When you initiate a non-[combat] test, discard Bauta: Use [combat] for this test, instead of the skill indicated.",
+        "replacement_text": "Limit 1 [[Mask]] per investigator.\n[reaction] After Pantalone enters play: Draw 2 cards.\n[reaction] When you initiate a non-[intellect] test, discard Pantalone: Use [intellect] for this test, instead of the skill indicated."
+    },
+    {
+        "code": "82026",
+        "text": "(v2.3) The first line of this card should read: “Limit 1 Mask per investigator.”",
+        "original_text": "Limit 1 <i>Mask</i> in play.\n[reaction] After Gilded Volto enters play: Treat the next asset you play this turn as if it has fast.\n[reaction] When you initiate a non-[agility] test, discard Gilded Volto: Use [agility] for this test, instead of the skill indicated.",
+        "replacement_text": "Limit 1 [[Mask]] per investigator.\n[reaction] After Gilded Volto enters play: Treat the next asset you play this turn as if it has fast.\n[reaction] When you initiate a non-[agility] test, discard Gilded Volto: Use [agility] for this test, instead of the skill indicated."
+    },
+    {
+        "code": "84029",
+        "text": "(v1.7) This card’s first ability should read: “Forced – When Otherworldly Meddler would take damage from an attack: Remove 1 doom from Otherworldly Meddler. Then, reduce the damage dealt by 1.”",
+        "original_text": "Retaliate.\n<b>Forced</> – When Otherworldly Meddler would take damage from an attack: Remove 1 doom from Otherworldly Meddler and reduce that damage by 1.\n<b>Forced</b> – After an investigator is defeated: Add 3 doom to Otherworldly Meddler.",
+        "replacement_text": "Retaliate.\n<b>Forced</b> - When Otherworldly Meddler would take damage from an attack: Remove 1 doom from Otherworldly Meddler. Then, reduce the damage dealt by 1.\n<b>Forced</b> - After an investigator is defeated: Add 3 doom to Otherworldly Meddler."
+    },
+    {
+        "code": "90071",
+        "text": "(v2.4) This card’s [action] ability should read: “…draw 1 non-location card revealed in this way and check your supplies. If you have chalk, you may choose 1 additional non-location card revealed and draw it…”",
+        "original_text": "[action] Spend X clues: Reveal the top X cards of the exploration deck. Draw 1 of the revealed cards and check your supplies. If you have chalk, you may choose 1 additional card and draw it. Shuffle the remaining cards into the exploration deck.",
+        "replacement_text": "[action] Spend X clues: Reveal the top X cards of the exploration deck. Draw 1 non-location card revealed in this way and check your supplies. If you have chalk, you may choose 1 additional non-location card revealed and draw it. Shuffle the remaining cards into the exploration deck."
+    },
+    {
+        "code": "90093",
+        "text": "(v2.5) This card’s first line should read: “Replacement. Peril.”",
+        "original_text": "Lola Hayes deck only. Replacement. Peril. Hidden.\nWhile Samuel Blake is in your hand, you cannot switch roles or play cards belonging to another role.\nWhile Samuel Blake is in play, as an additional cost for you to switch your role, you must take 1 horror.",
+        "replacement_text": "Lola Hayes deck only. Replacement. Peril.\nWhile Samuel Blake is in your hand, you cannot switch roles or play cards belonging to another role.\nWhile Samuel Blake is in play, as an additional cost for you to switch your role, you must take 1 horror."
+    },
+    {
+        "code": "98001",
+        "text": "(v1.5) This card’s Deckbuilding Options should read: “…up to five other level 0 cards from any other classes ([guardian], [seeker], [mystic], and/or [survivor]).”",
+        "original_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jenny's Twin .45s, Searching for Izzie, 1 random basic weakness.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jenny's Twin .45s, Searching for Izzie, 1 random basic weakness."
+    },
+    {
+        "code": "98007",
+        "text": "(v1.9) This card’s Deckbuilding Options should read: “…up to other 5 Mystic cards ([mystic]) level 0.”",
+        "original_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0, Mystic cards ([mystic]) level 1-5, Neutral cards level 0-5, up to 5 Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Livre d'Eibon, The Harbinger, 1 random basic weakness.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0, Mystic cards ([mystic]) level 1-5, Neutral cards level 0-5, up to 5 other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Livre d'Eibon, The Harbinger, 1 random basic weakness."
+    },
+    {
+        "code": "98010",
+        "text": "(v1.5) This card’s Deckbuilding Options should read: “Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that ‘heal horror’ level 0-5, up to 15 other Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).”",
+        "original_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that \"heal horror\" level 0-5, up to 15 Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Hypnotic Therapy, Rational Thought, 1 random basic weakness.\n<b>Additional Restrictions</b>: No [[Weapon]] cards level 1-5.",
+        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that \"heal horror\" level 0-5, up to 15 other Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Hypnotic Therapy, Rational Thought, 1 random basic weakness.\n<b>Additional Restrictions</b>: No [[Weapon]] cards level 1-5."
+    },
+    {
+        "code": "98018",
+        "text": "(v1.9) This card’s constant ability should read: “You cannot play assets or put assets into play.”",
+        "original_text": "Dexter Drake deck only. Replacement.\n<b>Revelation</b> - Put Yaztaroth into play in your threat area.\nYou cannot put assests into play.\n[action][action]: Discard Yaztaroth.",
+        "replacement_text": "Dexter Drake deck only. Replacement.\n<b>Revelation</b> - Put Yaztaroth into play in your threat area.\nYou cannot play assets or put assets into play.\n[action][action]: Discard Yaztaroth."
+    }
+]
