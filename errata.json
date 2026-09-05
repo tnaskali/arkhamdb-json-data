@@ -40,7 +40,7 @@
     {
         "code": "02002",
         "text": "(v1.5) This card’s Deckbuilding Options should read: “…up to five other level 0 cards from any other classes ([guardian], [rogue], [mystic], and/or [survivor]).”",
-        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class.\n<b>Deckbuilding requirements</b> (do not count toward deck size): Search for [...], Rex's Curse, 1 random basic weakness.",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class.\n<b>Deckbuilding requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] cards.",
         "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] cards."
     },
     {
@@ -52,9 +52,7 @@
     {
         "code": "02004",
         "text": "(v1.5) This card’s Deckbuilding Options should read: “…up to five other level 0 cards from any other classes ([guardian], [seeker], [rogue], and/or [survivor]).”",
-        "original_text": "Treat the modifier on [skull] tokens you reveal as \"0\".\nAnytime you reveal a [eldersign] token, you may choose to instead treat it as a [skull] token.\n[eldersign] effect: +1. If this skill test is successful during an attack, that attack deals +1 damage.",
-        "replacement_text": "Treat the modifier on [skull] tokens you reveal as \"0.\"\nAnytime you reveal a [elder_sign] token, you may choose to instead treat it as a [skull] token.\n[elder_sign] effect: +1.",
-        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Mystic cards ([mystic]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class\n<b>Deckbuilding requirements</b> (do not count toward deck size): 1 random basic weakness.",
+        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding options</b>: Mystic cards ([mystic]) level 0-5, Neutral cards level 0-5, up to five level 0 cards from any other class\n<b>Deckbuilding requirements</b> (do not count toward deck size): Jim's Trumpet, Final Rhapsody, 1 random basic weakness.",
         "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jim's Trumpet, Final Rhapsody, 1 random basic weakness."
     },
     {
@@ -66,7 +64,7 @@
     {
         "code": "02007",
         "text": "(v1.0) This card’s Forced ability should read: “When the game ends, if attached enemy is in play: Zoey Samaras suffers 1 mental trauma.”",
-        "original_text": "",
+        "original_text": "<b>Revelation</b> - Discard cards from the top of the encounter deck until an enemy is discarded. Attach Smite the Wicked to that enemy and spawn it at the location farthest from you.\n<b>Forced</b> - When the game ends, if attached enemy is not defeated: Zoey Samaras suffers 1 mental trauma.",
         "replacement_text": "<b>Revelation</b> - Discard cards from the top of the encounter deck until an enemy is discarded. Attach Smite the Wicked to that enemy and spawn it at the location farthest from you.\n<b>Forced</b> - When the game ends, if attached enemy is in play: Zoey Samaras suffers 1 mental trauma."
     },
     {
@@ -114,13 +112,13 @@
     {
         "code": "02205",
         "text": "(v1.1) This card’s first ability should read: “Forced – After you fail a skill test while investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its doom side.”",
-        "original_text": "[reaction] After you fail a skill test while investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its doom side.\n[free]If there are no clues here: Draw the encounter card underneath Burned Ruins. (Group limit once per game).",
+        "original_text": "[reaction] After you fail a skill test while investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its doom side.\n[fast] If there are no clues here: Draw the encounter card underneath Burned Ruins. (Group limit once per game).",
         "replacement_text": "<b>Forced</b> - After you fail a skill test while investigating the Burned Ruins: Flip 1 clue token on the Burned Ruins to its doom side.\n[fast] If there are no clues here: Draw the encounter card underneath Burned Ruins. (Group limit once per game)."
     },
     {
         "code": "02230",
         "text": "(v1.1) This card’s [reaction] ability should read: “When you reveal a non-[auto_fail] chaos token, spend 2 resources: Ignore that chaos token and reveal another one to resolve. If that token has a [auto_fail] symbol, remove Lucky Dice from the game (cannot be ignored/canceled).”",
-        "original_text": "Exceptional.\n[reaction]After you reveal a chaos token, spend 2 resources: Ignore that chaos token and reveal another one to resolve. If that token has a [auto-fail] symbol, remove Lucky Dice from the game.",
+        "original_text": "Exceptional.\n[reaction] After you reveal a chaos token, spend 2 resources: Ignore that chaos token and reveal another one to resolve. If that token has a [auto-fail] symbol, remove Lucky Dice from the game.",
         "replacement_text": "Exceptional.\n[reaction] When you reveal a non-[auto_fail] chaos token, spend 2 resources: Ignore that chaos token and reveal another one to resolve. If that token has a [auto_fail] symbol, remove Lucky Dice from the game (cannot be ignored/canceled)."
     },
     {
@@ -366,7 +364,7 @@
     {
         "code": "03232",
         "text": "(v1.4) This card’s [fast] ability should read: “…Any investigator at this location may trigger this ability.”",
-        "original_text": "Fast. Play only during your turn. \nAttach to your location. Attached location gains:\n\"[free] Exhaust Shortcut: <b>Move</b> .\"",
+        "original_text": "Fast. Play only during your turn. \nAttach to your location. Attached location gains:\n\"[fast] Exhaust Shortcut: <b>Move</b> .\"",
         "replacement_text": "Fast. Play only during your turn.\nAttach to your location. Attached location gains:\n\"[fast] Exhaust Shortcut: <b>Move</b> <i>(to a connecting location)</i>. Any investigator at this location may trigger this ability.\""
     },
     {
@@ -398,9 +396,9 @@
     {
         "code": "03319",
         "text": "(v1.3) This act’s second ability should read: “Hastur cannot be defeated unless an investigator ‘knows the secret.’”",
-        "original_text": "Hastur gets +2 fight.<br/>Hastur cannot be defeated unless you \"know the secret.\"",
-        "replacement_text": "Hastur gets +2 fight.<br/>Hastur cannot be defeated unless an investigator \"know the secret.\"",
-        "original_back_text": "Check Campaign Log.<br/>&mdash;If you have more (or equal) <b>Conviction</b> than <b>Doubt</b>, proceed to <b>(→R4)</b>.<br/>&mdash;If you have more <b>Doubt</b> than <b>Conviction</b>, proceed to <b>(→R5)</b>.",
+        "original_text": "Hastur gets +2 fight.\nHastur cannot be defeated unless you \"know the secret.\"",
+        "replacement_text": "Hastur gets +2 fight.\nHastur cannot be defeated unless an investigator \"know the secret.\"",
+        "original_back_text": "Check Campaign Log.\n&mdash;If you have more (or equal) <b>Conviction</b> than <b>Doubt</b>, proceed to <b>(→R4)</b>.\n&mdash;If you have more <b>Doubt</b> than <b>Conviction</b>, proceed to <b>(→R5)</b>.",
         "replacement_back_text": "Check Campaign Log.\n - If you have more (or equal) <b>Conviction</b> than <b>Doubt</b>, proceed to <b>(→R4)</b>.\n - If you have more <b>Doubt</b> than <b>Conviction</b>, proceed to <b>(→R5)</b>."
     },
     {
@@ -420,25 +418,25 @@
     {
         "code": "04035",
         "text": "(v1.4) This card’s [fast] ability should read: “Discard the top card of your deck. (Limit once per phase.)”",
-        "original_text": "[free] Exhaust Yaotl: During this skill test, you get a bonus to each skill equal to the number of matching skill icons on the top card of your discard pile (not counting [wild] icons).\n[free]: Discard the top card of your deck. (Limit once per turn.)",
+        "original_text": "[fast] Exhaust Yaotl: During this skill test, you get a bonus to each skill equal to the number of matching skill icons on the top card of your discard pile (not counting [wild] icons).\n[fast]: Discard the top card of your deck. (Limit once per turn.)",
         "replacement_text": "[fast] Exhaust Yaotl: During this skill test, you get a bonus to each skill equal to the number of matching skill icons on the top card of your discard pile (not counting [wild] icons).\n[fast]: Discard the top card of your deck. (Limit once per phase.)"
     },
     {
         "code": "04127",
         "text": "(v2.4) The first line of mechanical text on this card should read: “Search all in- and out-of-play areas for a Hunting Nightgaunt…”",
-        "original_back_text": "<em class='bbc'>None of the police officers have seen Alejandro, and they don't seem interested in helping you find him. \"It's only been a couple days. He'll turn up,\" they say. They give excuses, trying to avoid filling out a report. Finally, just as you are about to leave in frustration, a homeless man being held for disorderly conduct grabs your elbow. \"I saw 'im!\" he drawls. \"The man you describe, I saw 'im in the sky, carried in its clutches&hellip;\" He describes a faceless winged creature while the officers nearby chuckle and roll their eyes. The man is clearly drunk&hellip;but could it be he's telling the truth?<br/></em>Search the encounter deck, discard pile, and victory display for a Hunting Nightgaunt and spawn it in the location farthest from all investigators. Heal all damage from each Hunting Nightgaunt in play.<br/>Attach the set-aside Alejandro Vela to the Hunting Nightgaunt farthest from all investigators.<br/>Advance to Act 3c&mdash;\"Alejandro's Plight.\"",
+        "original_back_text": "Search the encounter deck, discard pile, and victory display for a Hunting Nightgaunt and spawn it in the location farthest from all investigators. Heal all damage from each Hunting Nightgaunt in play.\nAttach the set-aside Alejandro Vela to the Hunting Nightgaunt farthest from all investigators.\nAdvance to Act 3c&mdash;\"Alejandro's Plight.\"",
         "replacement_back_text": "Search all in- and out-of-play areas for a Hunting Nightgaunt and spawn it in the location farthest from all investigators. Heal all damage from each Hunting Nightgaunt in play.\nAttach the set-aside Alejandro Vela to the Hunting Nightgaunt farthest from all investigators.\nAdvance to Act 3c - \"Alejandro's Plight.\""
     },
     {
         "code": "04230",
         "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
-        "original_text": "You can only include this asset in your deck by upgrading it from Ancient Stone (Unidentified), and only if you have \"identified the stone\" in your Campaign Log.<br/>Uses (X secrets). X is the number in parentheses next to \"you identified the stone.\"<br/>[reaction] When you draw any number of cards, spend that many secrets: Deal that much damage to an enemy at your location.",
+        "original_text": "You can only include this asset in your deck by upgrading it from Ancient Stone (Unidentified), and only if you have \"identified the stone\" in your Campaign Log.\nUses (X secrets). X is the number in parentheses next to \"you identified the stone.\"\n[reaction] When you draw any number of cards, spend that many secrets: Deal that much damage to an enemy at your location.",
         "replacement_text": "Researched. Uses (X secrets). X is the number in parentheses next to \"you have identified the stone.\"\n[reaction] When you draw any number of cards, spend that many secrets: Deal that much damage to an enemy at your location."
     },
     {
         "code": "04231",
         "text": "(v2.0) This card’s purchase restriction should be replaced with the keyword: “Researched.”",
-        "original_text": "You can only include this asset in your deck by upgrading it from Ancient Stone, and only if you have &quot;identified the stone&quot; in your Campaign Log.<br/>Uses (X secrets). X is the number in parentheses next to \"you identified the stone.\" You get +1 sanity for every 2 secrets on this card.<br/>[reaction] When you draw any number of cards, spend that many secrets: Heal that much horror from a card at your location.",
+        "original_text": "You can only include this asset in your deck by upgrading it from Ancient Stone, and only if you have &quot;identified the stone&quot; in your Campaign Log.\nUses (X secrets). X is the number in parentheses next to \"you identified the stone.\" You get +1 sanity for every 2 secrets on this card.\n[reaction] When you draw any number of cards, spend that many secrets: Heal that much horror from a card at your location.",
         "replacement_text": "Researched. Uses (X secrets). X is the number in parentheses next to \"you have identified the stone.\"\n[reaction] When you draw any number of cards, spend that many secrets: Heal that much horror from a card at your location."
     },
     {
@@ -673,7 +671,7 @@
     },
     {
         "code": "08596",
-        "text": "(v2.1) This card’s [cultist] effect should read “If you fail, after this test ends…”\n(v2.1) This card’s [cultist] effect should read “After this test ends…”",
+        "text": "(v2.1) This card’s [cultist] effect should read “If you fail, after this test ends…” (Easy / Standard)\n(v2.1) This card’s [cultist] effect should read “After this test ends…” (Hard / Expert)",
         "original_text": "Easy / Standard\n[skull]: –X. X is the level of your location.\n[cultist]: –1. If you fail, move to the location directly below you.\n[tablet]: –3. If you fail, lose control of an [[Expedition]] asset and place it at your location.\n[elder_thing]: –4. If you fail, the nearest [[Elder Thing]] enemy moves once toward you. If it is engaged with you, it attacks.",
         "replacement_text": "Easy / Standard\n[skull]: -X. X is the level of your location.\n[cultist]: -1. If you fail, after this test ends move to the location directly below you.\n[tablet]: -3. If you fail, lose control of an [[Expedition]] asset and place it at your location.\n[elder_thing]: -4. If you fail, the nearest [[Elder Thing]] enemy moves once toward you. If it is engaged with you, it attacks.",
         "original_back_text": "Hard / Expert\n[skull]: –X. X is 2 plus the level of your location.\n[cultist]: –1. Move to the location directly below you.\n[tablet]: –4. If you fail, lose control of an [[Expedition]] asset and place it at your location.\n[elder_thing]: –5. If you fail, the nearest [[Elder Thing]] enemy moves once toward you. If it is engaged with you, it attacks.",
@@ -866,7 +864,7 @@
     {
         "code": "50004",
         "text": "(v1.4) This card’s constant ability should read: “Each time a non-Elite enemy would spawn at attached location, spawn it at a connecting location instead, if able.”",
-        "original_text": "Attach to your location.<br/>Non-[[elite]] enemies cannot move into or spawn at attached location. Anytime an enemy would spawn at attached location, spawn it at a connecting location instead, if able.<br/><b>Forced</b> - When an investigator leaves attached location: Discard Barricade.",
+        "original_text": "Attach to your location.\nNon-[[elite]] enemies cannot move into or spawn at attached location. Anytime an enemy would spawn at attached location, spawn it at a connecting location instead, if able.\n<b>Forced</b> - When an investigator leaves attached location: Discard Barricade.",
         "replacement_text": "Attach to your location.\nNon-[[Elite]] enemies cannot move into or spawn at attached location. Each time a non-[[Elite]] enemy would spawn at attached location, spawn it at a connecting location instead, if able.\n<b>Forced</b> - When an investigator leaves attached location: Discard Barricade."
     },
     {
@@ -998,7 +996,7 @@
     {
         "code": "82025",
         "text": "(v2.3) The first line of this card should read: “Limit 1 Mask per investigator.”",
-        "original_text": "Limit 1 <i>Mask</i> in play.\n[reaction] After Bauta enters play: Gain 2 resources.\n[reaction] When you initiate a non-[combat] test, discard Bauta: Use [combat] for this test, instead of the skill indicated.",
+        "original_text": "Limit 1 <i>Mask</i> in play.\n[reaction] After Pantalone enters play: Draw 2 cards.\n[reaction] When you initiate a non-[intellect] test, discard Pantalone: Use [intellect] for this test, instead of the skill indicated.",
         "replacement_text": "Limit 1 [[Mask]] per investigator.\n[reaction] After Pantalone enters play: Draw 2 cards.\n[reaction] When you initiate a non-[intellect] test, discard Pantalone: Use [intellect] for this test, instead of the skill indicated."
     },
     {
