@@ -1155,5 +1155,50 @@
         "flags": [
             "custom"
         ]
+    },
+    {
+        "code": "04039",
+        "text": "(custom) La première ligne de cette carte devrait indiquer « Liée (Sombre Pacte). »",
+        "original_text": "<b>Révélation</b> - Subissez 2 dégâts et 2 horreurs. Placez 1 fatalité sur l'intrigue en cours (cet effet peut faire avancer l'intrigue en cours). Retirez Le Prix de l'Échec de votre deck. Cherchez Sombre Pacte dans la collection et placez-le dans votre pile de défausse.",
+        "replacement_text": "Liée (Sombre Pacte).\n<b>Révélation</b> - Subissez 2 dégâts et 2 horreurs. Placez 1 fatalité sur l'intrigue en cours (cet effet peut faire avancer l'intrigue en cours). Retirez Le Prix de l'Échec de votre deck. Cherchez Sombre Pacte dans la collection et placez-le dans votre pile de défausse.",
+        "flags": [
+            "custom"
+        ]
+    },
+    {
+        "code": "04041",
+        "text": "(custom) La première ligne de cette carte devrait indiquer « Liée (Condamné). »",
+         "original_text": "<b>Révélation</b> - Subissez 2 horreurs. Dans votre Carnet de Campagne, sous la mention soutiens d'histoire / faiblesses obtenu(e)s de votre investigateur, indiquez que « l'heure est sombre ». Si cela est déjà indiqué, retirez Destin Inéluctable de votre deck, cherchez Le Glas Sonne dans la collection et placez-le sous votre deck.",
+        "replacement_text": "Liée (Condamné).\n<b>Révélation</b> - Subissez 2 horreurs. Dans votre Carnet de Campagne, sous la mention soutiens d'histoire / faiblesses obtenu(e)s de votre investigateur, indiquez que « l'heure est sombre ». Si cela est déjà indiqué, retirez Destin Inéluctable de votre deck, cherchez Le Glas Sonne dans la collection et placez-le sous votre deck.",
+        "flags": [
+            "custom"
+        ]
+    },
+    {
+        "code": "04042",
+        "text": "(custom) La première ligne de cette carte devrait indiquer « Liée (Destin Inéluctable). »",
+        "original_text": "<b>Révélation</b> - L'heure de votre trépas a sonné. Vous êtes <b>tué</b>.",
+        "replacement_text": "Liée (Destin Inéluctable).\n<b>Révélation</b> - L'heure de votre trépas a sonné. Vous êtes <b>tué</b>.",
+        "flags": [
+            "custom"
+        ]
+    },
+    {
+        "code": "53014",
+        "text": "(custom) La première ligne de cette carte devrait indiquer « Liée (Une Offre Impossible à Refuser). »",
+        "original_text": "<b>Révélation</b> - Perdez 7 ressources. Si vous ne pouvez pas, à la place, retirez Clauses en Petits Caractères de votre deck, cherchez Vendre Votre Âme dans la collection et placez-la dans votre pile de défausse.",
+        "replacement_text": "Liée (Une Offre Impossible à Refuser).\n<b>Révélation</b> - Perdez 7 ressources. Si vous ne pouvez pas, à la place, retirez Clauses en Petits Caractères de votre deck, cherchez Vendre Votre Âme dans la collection et placez-la dans votre pile de défausse.",
+        "flags": [
+            "custom"
+        ]
+    },
+    {
+        "code": "53015",
+        "text": "(custom) La première ligne de cette carte devrait indiquer « Liée (Clauses en Petits Caractères). »",
+        "original_text": "<b>Révélation</b> - Perdez 10 ressources. Si vous ne pouvez pas, votre sombre protecteur arrache votre âme de votre corps. Vous devenez <b>dément</b>.",
+        "replacement_text": "Liée (Clauses en Petits Caractères).\n<b>Révélation</b> - Perdez 10 ressources. Si vous ne pouvez pas, votre sombre protecteur arrache votre âme de votre corps. Vous devenez <b>dément</b>.",
+        "flags": [
+            "custom"
+        ]
     }
 ]
