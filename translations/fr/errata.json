@@ -408,8 +408,8 @@
     {
         "code": "03261",
         "text": "(v1.5) Les options proposées par la formule « soit vous… soit vous… » sur cette carte devraient être assorties du verbe « devoir », de sorte que le joueur soit obligé de choisir et résoudre une option qui ait le potentiel de modifier l'état de la partie.",
-        "original_text": "<b>Révélation</b> - Mettez L'Ombre Derrière Vous en jeu dans votre zone de menace. Limite de 1 par investigateur.\n[action]: vous regardez derrière vous.\n<b>Forcé</b> - À la fin de votre tour, si vous n'avez pas effectué la capacité [action] ci-dessus : Soit vous défaussez toutes vos ressources, soit vous défaussez toutes les cartes de votre main. Ensuite, défaussez L'Ombre Derrière Vous.",
-        "replacement_text": "<b>Révélation</b> - Mettez L'Ombre Derrière Vous en jeu dans votre zone de menace. Limite de 1 par investigateur.\n[action]: vous regardez derrière vous.\n<b>Forcé</b> - À la fin de votre tour, si vous n'avez pas effectué la capacité [action] ci-dessus : Vous devez soit défausser toutes vos ressources, soit défausser toutes les cartes de votre main. Ensuite, défaussez L'Ombre Derrière Vous."
+        "original_text": "<b>Révélation</b> - Mettez L'Ombre Derrière Vous en jeu dans votre zone de menace. Limite de 1 par investigateur.\n[action] : vous regardez derrière vous.\n<b>Forcé</b> - À la fin de votre tour, si vous n'avez pas effectué la capacité [action] ci-dessus : Soit vous défaussez toutes vos ressources, soit vous défaussez toutes les cartes de votre main. Ensuite, défaussez L'Ombre Derrière Vous.",
+        "replacement_text": "<b>Révélation</b> - Mettez L'Ombre Derrière Vous en jeu dans votre zone de menace. Limite de 1 par investigateur.\n[action] : vous regardez derrière vous.\n<b>Forcé</b> - À la fin de votre tour, si vous n'avez pas effectué la capacité [action] ci-dessus : Vous devez soit défausser toutes vos ressources, soit défausser toutes les cartes de votre main. Ensuite, défaussez L'Ombre Derrière Vous."
     },
     {
         "code": "03264",
@@ -420,8 +420,8 @@
     {
         "code": "03289",
         "text": "(v1.5) Les options proposées par la formule « soit vous… soit vous… » sur cette carte devraient être assorties du verbe « devoir », de sorte que le joueur soit obligé de choisir et résoudre une option qui ait le potentiel de modifier l'état de la partie.",
-        "original_text": "<b>Forcé</b> - Après être entré dans les Marches Brisées : soit vous perdez 1 action, soit vous piochez la traîtrise [[Présage]] la plus proche du dessus de la pile de défausse Rencontre",
-        "replacement_text": "<b>Forcé</b> - Après être entré dans les Marches Brisées : vous devez soit perdre 1 action, soit piocher la traîtrise [[Présage]] la plus proche du dessus de la pile de défausse Rencontre"
+        "original_text": "<b>Forcé</b> - Après être entré dans les Marches Brisées : soit vous perdez 1 action, soit vous piochez la traîtrise [[Présage]] la plus proche du dessus de la pile de défausse Rencontre.",
+        "replacement_text": "<b>Forcé</b> - Après être entré dans les Marches Brisées : vous devez soit perdre 1 action, soit piocher la traîtrise [[Présage]] la plus proche du dessus de la pile de défausse Rencontre."
     },
     {
         "code": "03290",
@@ -947,7 +947,7 @@
         "code": "54028",
         "text": "(v2.1) La capacité de cette carte devrait indiquer : « Les Couloirs Victoriens sont connexes à la Cave à Vin et vice versa. »\n(v1.5) Les options proposées par la formule « soit vous… soit vous… » sur cette carte devraient être assorties du verbe « devoir », de sorte que le joueur soit obligé de choisir et résoudre une option qui ait le potentiel de modifier l'état de la partie.",
         "original_text": "[reaction] Après avoir enquêté avec succès dans la Cave à Vin : soit vous découvrez 1 indice supplémentaire, soit vous retirez 1 fatalité d'un ennemi [[Crépuscule d'Argent]] en jeu.\n<b>Hanté</b> - Soit vous placez 1 fatalité sur un ennemi [[Crépuscule d'Argent]] en jeu, soit vous subissez 1 horreur directe.",
-        "replacement_text": "Les Couloirs Victoriens sont connexes à la Cave à Vin et vice versa.\n[reaction] Après avoir enquêté avec succès dans la Cave à Vin : vous devez soit découvrir 1 indice supplémentaire, soit retirer 1 fatalité d'un ennemi [[Crépuscule d'Argent]] en jeu.\n<b>Hanté</b> - Vous devez soit placer 1 fatalité sur un ennemi [[Crépuscule d'Argent]] en jeu, soit subir 1 horreur directe."
+        "replacement_text": "Les Couloirs Victoriens sont connexes à la Cave à Vin et vice versa.\n[reaction] Après avoir enquêté avec succès dans la Cave à Vin : soit vous découvrez 1 indice supplémentaire, soit vous retirez 1 fatalité d'un ennemi [[Crépuscule d'Argent]] en jeu.\n<b>Hanté</b> - Vous devez soit placer 1 fatalité sur un ennemi [[Crépuscule d'Argent]] en jeu, soit subir 1 horreur directe."
     },
     {
         "code": "54040",
@@ -1036,8 +1036,8 @@
     {
         "code": "82031",
         "text": "(v1.5) Les options proposées par la formule « soit vous… soit vous… » sur cette carte devraient être assorties du verbe « devoir », de sorte que le joueur soit obligé de choisir et résoudre une option qui ait le potentiel de modifier l'état de la partie.",
-        "original_text": "Péril.\n<b>Révélation</b> - Soit vous subissez 2 dégâts, soit vous prenez toutes les cartes Carnavalier Masqué, les mélangez de manière à ce que les investigateurs ne puissent déterminer qui est qui et en placez 1 dans chaque lieu, en commençant par le lieu suivant dans le sens des horaire par rapport à vous (face Carnavalier Masqué visible).",
-        "replacement_text": "Péril.\n<b>Révélation</b> - Vous devez soit subir 2 dégâts, soit prendre toutes les cartes Carnavalier Masqué, les mélanger de manière à ce que les investigateurs ne puissent déterminer qui est qui et en placer 1 dans chaque lieu, en commençant par le lieu suivant dans le sens des horaire par rapport à vous (face Carnavalier Masqué visible)."
+        "original_text": "Péril.\n<b>Révélation</b> - Soit vous subissez 2 dégâts, soit vous prenez toutes les cartes Carnavalier Masqué, les mélangez de manière à ce que les investigateurs ne puissent déterminer qui est qui et en placez 1 dans chaque lieu, en commençant par le lieu suivant dans le sens horaire par rapport à vous (face Carnavalier Masqué visible).",
+        "replacement_text": "Péril.\n<b>Révélation</b> - Vous devez soit subir 2 dégâts, soit prendre toutes les cartes Carnavalier Masqué, les mélanger de manière à ce que les investigateurs ne puissent déterminer qui est qui et en placer 1 dans chaque lieu, en commençant par le lieu suivant dans le sens horaire par rapport à vous (face Carnavalier Masqué visible)."
     },
     {
         "code": "82032",
@@ -1048,8 +1048,8 @@
     {
         "code": "82036",
         "text": "(v1.5) Les options proposées par la formule « soit vous… soit vous… » sur cette carte devraient être assorties du verbe « devoir », de sorte que le joueur soit obligé de choisir et résoudre une option qui ait le potentiel de modifier l'état de la partie.",
-        "original_text": "<b>Révélation</b> - Effectuez un test de [willpower] (3). En cas d'échec, soit vous perdez toutes vos ressources, soit vous choisissez et défaussez un soutien [[Ally]] que vous contrôlez.",
-        "replacement_text": "<b>Révélation</b> - Effectuez un test de [willpower] (3). En cas d'échec, vous devez soit perdre toutes vos ressources, soit choisir et défausser un soutien [[Ally]] que vous contrôlez."
+        "original_text": "<b>Révélation</b> - Effectuez un test de [willpower] (3). En cas d'échec, soit vous perdez toutes vos ressources, soit vous choisissez et défaussez un soutien [[Allié]] que vous contrôlez.",
+        "replacement_text": "<b>Révélation</b> - Effectuez un test de [willpower] (3). En cas d'échec, vous devez soit perdre toutes vos ressources, soit choisir et défausser un soutien [[Allié]] que vous contrôlez."
     },
     {
         "code": "82037",
