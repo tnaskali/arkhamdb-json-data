@@ -338,12 +338,6 @@
         "replacement_name": "Haunted Patient"
     },
     {
-        "code": "03185",
-        "text": "(v2.0) This card’s ability should read: “...Return each asset in those slots to your hand. This card cannot leave play except by the ability below.”",
-        "original_text": "<b>Revelation</b> - If there is no copy of Straitjacket in your threat area, put Straitjacket into play in your threat area as an asset that takes up a body slot and 2 hand slots. Return all assets you control in those slots to your hand. Straitjacket cannot leave play except by the ability below.\n[action] [action]: Discard Straitjacket.",
-        "replacement_text": "<b>Revelation</b> - If there is no copy of Straitjacket in your threat area, put Straitjacket into play in your threat area as an asset that takes up a body slot and 2 hand slots. Return each asset in those slots to your hand. This card cannot leave play except by the ability below.\n[action] [action]: Discard Straitjacket."
-    },
-    {
         "code": "03186",
         "text": "(v2.0) The “Lunatic” trait in this card’s effects should read “Possessed” wherever it appears, instead.",
         "original_text": "Peril. Hidden.\n<b>Revelation</b> - Secretly add Gift of Madness (Pity) to your hand.\nYou cannot attack <i>Lunatic</i> enemies.\n[action]: Randomly choose 1 enemy from among the set-aside <i>Monster</i> enemies and place it beneath the act deck without looking at it. Discard Gift of Madness (Pity) from your hand.",
@@ -444,12 +438,6 @@
         "text": "(v1.41) This card’s [action] ability should read: “If The Skeleton Key is in your play area, attach it to your location…”",
         "original_text": "Exceptional. Fast.\n[action]: Attach The Skeleton Key to your location. If it is already attached to your location, detach it and return it to your play area instead.\nSet the attached location's shroud value to 1.",
         "replacement_text": "Exceptional. Fast.\n[action]: If the Skeleton Key is in your play area, attach it to your location. If it is already attached to your location, detach it and return it to your play area instead.\nSet the attached location's shroud value to 1."
-    },
-    {
-        "code": "05001",
-        "text": "(v1.5) This card’s Deckbuilding Options should read: “Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that ‘heal horror’ level 0-5, up to 15 other Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).”",
-        "original_back_text": "<b>Deck size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that \"heal horror\" level 0-5, up to 15 Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Hypnotic Therapy, Rational Thought, 1 random basic weakness.\n<b>Additional Restrictions</b>: No [[Weapon]] cards level 1-5.",
-        "replacement_back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Neutral cards level 0-5, cards that \"heal horror\" level 0-5, up to 15 other Seeker and/or Mystic cards level 0-1 ([seeker] and/or [mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Hypnotic Therapy, Rational Thought, 1 random basic weakness.\n<b>Additional Restrictions</b>: No [[Weapon]] cards level 1-5."
     },
     {
         "code": "05033",
