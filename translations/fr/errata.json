@@ -330,12 +330,6 @@
         "replacement_name": "Patiente Tourmentée"
     },
     {
-        "code": "03185",
-        "text": "(v2.0) La capacité de cette carte devrait indiquer : « …Renvoyez dans votre main chaque soutien dans ces emplacements. Cette carte ne peut pas quitter le jeu, excepté par la capacité ci-dessous. »",
-        "original_text": "<b>Révélation</b> - S'il n'y a aucun exemplaire de la Camisole de Force dans votre zone de menace, mettez-la en jeu dans votre zone de menace en tant que soutien qui occupe un emplacement de corps et deux emplacements de main. Renvoyez dans votre main tous les soutiens que vous contrôlez dans ces emplacements. La Camisole de Force ne peut pas quitter le jeu, excepté par la capacité ci-dessous.\n[action][action] : défaussez la Camisole de Force.",
-        "replacement_text": "<b>Révélation</b> - S'il n'y a aucun exemplaire de la Camisole de Force dans votre zone de menace, mettez-la en jeu dans votre zone de menace en tant que soutien qui occupe un emplacement de corps et deux emplacements de main. Renvoyez dans votre main chaque soutien dans ces emplacements. Cette carte ne peut pas quitter le jeu, excepté par la capacité ci-dessous.\n[action][action] : défaussez la Camisole de Force."
-    },
-    {
         "code": "03186",
         "text": "(v2.0) Le trait « [[Aliéné]] » dans les effets de cette carte devrait être remplacé par « [[Possédé]] » partout où il apparaît.",
         "original_text": "Péril. Cachée.\n<b>Révélation</b> - Ajoutez secrètement Don de la Folie (Compassion) à votre main.\nVous ne pouvez pas attaquer les ennemis [[Aliéné]].\n[action] : prenez un ennemi au hasard parmi les ennemis [[Monstre]] et placez-le sous le deck Acte sans le regarder. Défaussez Don de la Folie (Compassion) de votre main.",
@@ -500,12 +494,6 @@
         "text": "(v1.41) La capacité [action] de cette carte devrait indiquer : « Si la Clé Squelette est dans votre zone de jeu, attachez-la à votre lieu… »",
         "original_text": "Exceptionnel. Rapide.\n[action] : Attachez La Clé Squelette à votre lieu. Si elle est déjà attachée à votre lieu, détachez-la et renvoyez-la dans votre zone de jeu à la place.\nFixez la valeur occulte du lieu attaché à 1.",
         "replacement_text": "Exceptionnel. Rapide.\n[action] : Si la Clé Squelette est dans votre zone de jeu, attachez-la à votre lieu. Si elle est déjà attachée à votre lieu, détachez-la et renvoyez-la dans votre zone de jeu à la place.\nFixez la valeur occulte du lieu attaché à 1."
-    },
-    {
-        "code": "05001",
-        "text": "(v1.5) La section <b>Construction du Deck</b> de cette carte devrait indiquer : « Cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveaux 0 à 5, cartes qui \"soignent de l'horreur\" de niveaux 0 à 5, jusqu'à 15 autres cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]). »",
-        "original_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveaux 0 à 5, cartes qui « soignent de l'horreur » de niveaux 0 à 5, jusqu'à 15 cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Thérapie par l'Hypnose, Pensée Rationnelle, 1 faiblesse de base au hasard.\n<b>Restrictions supplémentaires</b> : pas de cartes [[Arme]] de niveaux 1 à 5.",
-        "replacement_back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveaux 0 à 5, cartes qui « soignent de l'horreur » de niveaux 0 à 5, jusqu'à 15 autres cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Thérapie par l'Hypnose, Pensée Rationnelle, 1 faiblesse de base au hasard.\n<b>Restrictions supplémentaires</b> : pas de cartes [[Arme]] de niveaux 1 à 5."
     },
     {
         "code": "05033",
