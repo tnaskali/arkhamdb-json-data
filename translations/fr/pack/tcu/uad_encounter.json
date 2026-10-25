@@ -3,107 +3,107 @@
         "code": "05238",
         "name": "Union et Désillusion",
         "text": "<b>FACILE / STANDARD</b>\n[skull] –2. Si ce test a lieu lors d'une action <b>Cercle</b>, révélez un autre pion.\n[cultist] –3. Si vous n'avez pas de dégât sur vous, subissez 1 dégât. Si vous n'avez pas d'horreur sur vous, subissez 1 horreur.\n[tablet] –3. En cas d'échec, un ennemi [[Spectral]] dans votre lieu vous attaque <i>(même s'il est incliné)</i>.\n[elder_thing] –3. Si ce test a lieu lors d'une action <b>Cercle</b> et que vous échouez, résolvez chaque capacité Hanté de votre lieu.",
-        "back_text": "<b>DIFFICILE / EXPERT</b>\n[skull] –3. Si ce test a lieu lors d'une action <b>Cercle</b>, révélez un autre pion.\n[cultist] –4. Si vous n'avez pas de dégât sur vous, subissez 1 dégât. Si vous n'avez pas d'horreur sur vous, subissez 1 horreur.\n[tablet] –4. En cas d'échec, un ennemi [[Spectral]] dans votre lieu vous attaque <i>(même s'il est incliné)</i>.</i>\n[elder_thing] –4. Si ce test a lieu lors d'une action <b>Cercle</b> et que vous échouez, résolvez chaque capacité Hanté de votre lieu."
+        "back_text": "<b>DIFFICILE / EXPERT</b>\n[skull] –3. Si ce test a lieu lors d'une action <b>Cercle</b>, révélez un autre pion.\n[cultist] –4. Si vous n'avez pas de dégât sur vous, subissez 1 dégât. Si vous n'avez pas d'horreur sur vous, subissez 1 horreur.\n[tablet] –4. En cas d'échec, un ennemi [[Spectral]] dans votre lieu vous attaque <i>(même s'il est incliné)</i>.\n[elder_thing] –4. Si ce test a lieu lors d'une action <b>Cercle</b> et que vous échouez, résolvez chaque capacité Hanté de votre lieu."
     },
     {
         "code": "05239",
-        "flavor": "YOU ARE AT A CROSSROADS.\nREFLECT ON THE CHOICES YOU HAVE MADE.\nYOU SHALL BE CONFRONTED WITH A TERRIBLE DILEMMA.",
-        "name": "THE LOVERS · VI",
-        "back_name": "Stolen Souls",
-        "back_flavor": "The mist obscures the moon, plunging the woods into darkness. A flock of birds suddenly scatter from the treetops.",
-        "back_text": "Shuffle the encounter discard pile into the encounter deck.<hr>\n<b>Check the \"Missing Persons\" section of the Campaign Log. If at least 1 character was <i>\"taken by the watcher,\"</i> read the following:</b>\n<blockquote><i>Beyond the spectral mist, an awful scream resounds through the woods. It is distant, as though heard through a pane of glass, but distinct enough for you to know it is real.</i></blockquote>\nFor each character who was <i>taken by the watcher,</i> place 1 resource on The Spectral Watcher, as a stolen soul (even if The Spectral Watcher is currently out of play).\nUntil the end of the scenario, The Spectral Watcher gains the following text: \"For each stolen soul on The Spectral Watcher, it gets +1 fight and +1 [per_investigator] health.\" Keep this card next to the agenda deck as a reminder, and advance to agenda 2a."
+        "flavor": "<span class='unquiet-spirit-font'>VOUS ÊTES À LA CROISÉE DES CHEMINS.\nREFLET DES CHOIX QUE VOUS AVEZ FAITS.\nVOUS SEREZ CONFRONTÉ À UN TERRIBLE DILEMME.</span>",
+        "name": "VI · LES AMOUREUX",
+        "back_name": "Âmes Dérobées",
+        "back_flavor": "La brume occulte la lune, plongeant les bois dans les ténèbres. Une volée d'oiseaux s'envole de la cime des arbres.",
+        "back_text": "Mélangez la pile de défausse Rencontre dans le deck Rencontre.\n<hr><b>Vérifiez la section « Personnes Disparues » de votre Carnet de Campagne. Si au moins 1 personnage <i>« a été emporté par le Guetteur »</i>, lisez le texte suivant :</b>\n<blockquote><i>Un horrible cri, provenant d'au-delà de la brume spectrale, retentit à travers les bois. Il est étouffé comme si vous l'entendiez à travers une vitre, mais assez distinct pour être sûr qu'il soit réel.</i></blockquote>\nPlacez 1 ressource en tant qu'âme dérobée sur Le Guetteur Spectral pour chaque personnage qui <i>a été emporté par le Guetteur</i> (même si Le Guetteur Spectral est actuellement hors jeu).\nJusqu'à la fin du scénario, Le Guetteur Spectral gagne le texte suivant : « Pour chaque âme dérobée sur Le Guetteur Spectral, il gagne +1 combat et +1 [per_investigator] vie. » Gardez cette carte à côté du deck Intrigue en tant qu'aide mémoire et avancez à l'Intrigue 2a."
     },
     {
         "code": "05240",
-        "flavor": "As you continue through the woods, you notice the dark mist which has permeated the island is starting to drift away from the shoreline, toward the center of the island where the beacon of spectral energy still rises into the sky.",
-        "name": "Crossroads of Fate",
-        "back_name": "A Victor Emerges",
-        "back_flavor": "A powerful gale sweeps through the island from its center, and the spectral pillar marking the site of the Lodge's ritual suddenly bursts outward. Dozens of specters and phantasmal shapes fly across the treetops and weave through the woods. You will never forget their shrieks, like hundreds of deathcries sounding at once.\nWith a final surge of power, the stone obelisk at the center of the island shatters. Trees bend from the tremendous force that is unleashed, and you are pummeled to the ground. Everything goes black.",
-        "back_text": "Each surviving investigator is defeated and suffers 1 physical trauma.\n<b>(→R5)</b>"
+        "flavor": "Vous poursuivez votre chemin à travers les bois et vous remarquez que la brume sombre qui enveloppait l'île commence à se dissiper depuis le rivage vers le centre de l'île où la colonne d'énergie spectrale s'élève toujours vers les cieux.",
+        "name": "Au Carrefour de la Destinée",
+        "back_name": "Un Vainqueur Apparaît",
+        "back_flavor": "Une puissante bourrasque provenant du centre de l'île balaye cette dernière et le pilier central marquant le site du rituel de la Loge explose subitement. Des douzaines de spectres et autres formes fantomatique volent au-dessus des canopées et filent à travers les bois. Leurs cris, semblables à des centaines de râles d'agonie simultanés, resteront à jamais gravés dans votre mémoire.\nDans un dernier sursaut de pouvoir, l'obélisque de pierre au centre de l'île se brise. Les arbres ploient sous la force colossale ainsi libérée. Vous êtes projeté au sol et perdez connaissance.",
+        "back_text": "Chaque investigateur survivant est vaincu et subit 1 traumatisme physique.\n<b>(→C5)</b>"
     },
     {
         "code": "05241",
-        "flavor": "The foggy shores of the Unvisited Isle are barren and unwelcoming. Not a soul greets you as you draw closer to the island, save for the judging gaze of ghostly birds that observe you from the trees. In the distance, the pillar of spectral energy is rising into the clouds, a vortex of otherworldly mist spiraling about it.",
-        "name": "The Unvisited Isle",
-        "back_name": "The Mist Returns",
-        "back_flavor": "You venture deeper and deeper into the overgrown woods, a timid voice in the back of your mind urging you to flee this place and never return. The dark mist becomes so dense you can hardly see anything. You shout for any of your companions, but there is no response - just the sway of dying tree branches in the wind and the thump of your heart pounding in your chest",
-        "back_text": "Each investigator must randomly choose 1 of the set-aside Unvisited Isle locations, put it into play in front of him or her, and immediately move to that location (cannot be canceled). <i>If the investigators sided with the coven</i>, the brazier at each of those locations is already lit. Place a resource token on each of those locations to signify this.\nShuffle each of the story cards beneath the scenario reference card and deal 1 at random to each investigator until all of them have been dealt. In player order, resolve each of the dealt story cards."
+        "flavor": "Les rives brumeuses de l'île déserte sont dépourvues de végétation et peu accueillantes. Nulle âme pour vous accueillir à votre arrivée, si ce ne sont les oiseaux fantomatiques qui vous scrutent depuis la cime des arbres. Au loin, le pilier d'énergie spectrale s'élève jusqu'aux nuages, un tourbillon de brume irréelle s'enroulant tout autour.",
+        "name": "L'Île Déserte",
+        "back_name": "Le Retour de la Brume",
+        "back_flavor": "Vous vous aventurez de plus en plus profondément dans l'épaisse forêt malgré la petite voix dans votre esprit qui vous conseille de fuir ce lieu le plus vite possible et de ne jamais revenir. La sombre brume devient si dense que vous n'y voyez plus rien. Vous hélez vos compagnons mais n'obtenez aucune réponse — juste le bruissement des branches mortes dans le vent et votre cœur qui bat la chamade dans votre poitrine.",
+        "back_text": "Chaque investigateur doit prendre au hasard 1 des lieux Île Déserte mis de côté, le mettre en jeu devant lui et se déplacer immédiatement vers ce lieu (ne peut pas être annulé). Si <i>les investigateurs ont choisi le camp de la congrégation</i>, le brasero dans chacun de ces lieux est déjà allumé. Placez un pion Ressource sur chacun de ces lieux afin de le signifier.\nMélangez chacune des cartes Histoire situées sous la carte de référence du scénario et distribuez-en 1 prise au hasard à chacun des investigateurs jusqu'à ce qu'elles aient toutes été distribuées. Dans l'ordre des joueurs, résolvez chacune des cartes Histoire distribuées."
     },
     {
         "code": "05242",
-        "flavor": "The trap set by the Silver Twilight Lodge has drawn the attention of the spectral realm and its inhabitants. One way or another, those who were trapped in the mist will end up here.",
-        "name": "Fated Souls",
-        "text": "Each investigator cannot leave the location in front of him or her.",
-        "back_name": "From the Depths",
-        "back_flavor": "Before long, the revenant arrives.\nIt rises from the depths of the Miskatonic River, unfazed by the water or the mist. Sensing fear and blood, it glides slowly toward the island with its arm outstretched. Its gaze brings dismay. Its grasp brings death.",
-        "back_text": "Spawn The Spectral Watcher at the Miskatonic River.\nShuffle each set-aside copy of Watcher's Grasp and Watcher's Gaze into the encounter deck, along with the encounter discard pile.\nReturn the location in front of each investigator to the center of the play area. (Investigators are no longer prevented from leaving their location.)\nPut the set-aside The Geist-Trap location into play. <i>If the investigators sided with the coven</i>, the brazier at The Geist-Trap is already lit. Place a resource token on it to signify this."
+        "flavor": "Le piège mis en place par la Loge du Crépuscule d'Argent a attiré l'attention du monde spectral et de ses habitants. D'une manière ou d'une autre, tous ceux qui ont été piégés dans la brume se retrouveront ici.",
+        "name": "Âmes Damnées",
+        "text": "Aucun investigateur ne peut quitter le lieu en face de lui.",
+        "back_name": "Des Profondeurs",
+        "back_flavor": "Bientôt, le revenant arrive.\nIl émerge des profondeurs du fleuve Miskatonic, indifférent à l'eau ou à la brume. Sentant la peur et le sang, il glisse lentement vers l'île, les bras tendus en avant. Son regard apporte le désespoir. Son étreinte apporte la mort.",
+        "back_text": "Générez Le Guetteur Spectral dans le Fleuve Miskatonic.\nMélangez la pile de défausse Rencontre et chaque exemplaire mis de côté des cartes L'Étreinte du Guetteur et Le Regard du Guetteur dans le deck Rencontre.\nRenvoyez le lieu en face de chaque investigateur au centre de la zone de jeu. (Les investigateurs peuvent désormais quitter leur lieu.)\nMettez en jeu le lieu Piège à Spectres. Si <i>les investigateurs ont choisi le camp de la congrégation</i>, le brasero dans le Piège à Spectres est déjà allumé. Placez un pion Ressource dessus afin de le signifier."
     },
     {
         "code": "05243",
-        "flavor": "You are close to the site of the binding ritual. You must light the braziers to find the way. Then, all that is left to do is bait the watcher to the trap and bind it there.",
-        "name": "Beyond the Mist (v. I)",
-        "text": "[free] During a <b>circle</b> action, spend 1 clue: Reduce the difficulty of this skill test by 2.\n<b>Objective</b> - If each Unvisited Isle location in play is revealed and the brazier on each of them is lit, advance.",
-        "back_name": "Against the Witches",
-        "back_flavor": "After nearly an hour spent searching through the dense mist, you finally arrive at the site of the Lodge's ritual, only to find it in chaos. Members of the Silver Twilight Lodge, each wearing robes of blue and silver, are embroiled in battle with the witches. \"Complete the ritual!\" Carl Sanford commands you from across the clearing. \"It is the only way!\"\nAnette turns her attention to you, shocked and angered. \"You again! I warned you we would not show mercy if we met a second time.\" She calls to her coven: \"Sisters! We must not let them interfere this time. Do not let their circle close!\"",
-        "back_text": "Reveal The Geist-Trap location. Move each investigator at an Unvisited Isle location to The Geist-Trap.\nCheck Campaign Log. <i>If the witches' spell was cast</i>, spawn the set-aside Anette Mason at The Geist-Trap. <i>If the witches' spell was broken</i>, spawn 1 set-aside Coven Initiate at The Geist-Trap (2 instead if there are 3 or 4 investigators in the game).\nShuffle each remaining set-aside [[Witch]] enemy into the encounter deck, along with the encounter discard pile."
+        "flavor": "Vous êtes tout proche du site du rituel de contrainte. Vous devez allumer les braseros pour trouver le chemin. Ensuite, tout ce qui vous restera à faire sera d'attirer le guetteur dans le piège pour l'y emprisonner.",
+        "name": "Par-Delà la Brume (v. I)",
+        "text": "[fast] Lors d'une action <b>Cercle</b>, dépensez 1 indice : réduisez de 2 la difficulté de ce test.\n<b>Objectif</b> – Si chaque lieu Île Déserte en jeu est révélé et que le brasero est allumé sur chacun d'eux, avancez.",
+        "back_name": "Face aux Sorcières",
+        "back_flavor": "Après plus d'une heure de recherches à travers l'épaisse brume, vous parvenez enfin au site du rituel de la Loge et le chaos y règne. Les membres de la Loge du Crépuscule d'Argent vêtus de robe bleu et argent sont aux prises avec les sorcières. « Achevez le rituel ! » vous hurle Carl Sanford depuis l'autre côté de la clairière. « C'est le seul moyen. »\nAnette se tourne vers vous, choquée et en colère. « Encore vous ! Je vous avais prévenu que je serais sans pitié la prochaine fois. » Elle s'adresse à sa congrégation : « Mes sœurs ! Nous ne devons pas les laisser interférer cette fois. Ne les laissez pas fermer leur cercle. »",
+        "back_text": "Révélez le lieu Piège à Spectres. Déplacez chaque investigateur dans un lieu Île Déserte vers le Piège à Spectres.\nVérifiez votre Carnet de Campagne. Si <i>le sort des sorcières a été lancé</i>, générez Anette Mason dans le Piège à Spectres. Si <i>le sort des sorcières a été brisé</i>, générez 1 Initiée de la Congrégation dans le Piège à Spectres (2 à la place s'il y a 3 ou 4 investigateurs dans la partie).\nMélangez la pile de défausse Rencontre et chaque ennemi [[Ensorceleur]] restant mis de côté dans le Rencontre."
     },
     {
         "code": "05244",
-        "flavor": "You are close to the site of the binding ritual. The braziers have already been lit, enabling the trap. You will have to unlight each of them in order to break the circle.",
-        "name": "Beyond the Mist (v. II)",
-        "text": "[free] During a <b>circle</b> action, spend 1 clue: Reduce the difficulty of this skill test by 2.\n<b>Objective</b> - If each Unvisited Isle location in play is revealed and the brazier on each of them is unlit, advance.",
-        "back_name": "Loyalty is Earned",
-        "back_flavor": "After nearly an hour spent searching through the dense mist, you finally arrive at the site of the Lodge's ritual, only to find it in chaos. Members of the Silver Twilight Lodge, each wearing robes of blue and silver, are embroiled in battle with the witches. \"The ritual has neared completion!\" Carl Sanford yells to you from across the clearing. \"Bring the revenant here and end this!\"\nIt is now or never. Glaring at the man, you throw the unlit braziers you snuffed along the way onto the ground, breaking the delicate wards placed upon them. Immediately, the dark mist invades, and hungry shapes in the mist descend upon the unfortunate members of the Lodge. \"Traitor!\" one yells. You try to ignore their cries of agony as you proceed towards the center of the clearing.",
-        "back_text": "Reveal The Geist-Trap location. Move each investigator at an Unvisited Isle location to The Geist-Trap.\nRemove all [cultist] tokens from the chaos bag <i>(even if they are currently sealed on cards in play)</i> for the remainder of the campaign."
+        "flavor": "Vous êtes tout proche du site du rituel de contrainte. Les braseros ont déjà été allumés, amorçant le piège. Vous allez devoir tous les éteindre afin de briser le cercle.",
+        "name": "Par-Delà la Brume (v. II)",
+        "text": "[fast] Lors d'une action <b>Cercle</b>, dépensez 1 indice : réduisez de 2 la difficulté de ce test.\n<b>Objectif</b> – Si chaque lieu Île Déserte en jeu est révélé et que le brasero est éteint sur chacun d'eux, avancez.",
+        "back_name": "La Loyauté se Gagne",
+        "back_flavor": "Après plus d'une heure de recherches à travers l'épaisse brume, vous parvenez enfin au site du rituel de la Loge et le chaos y règne. Les membres de la Loge du Crépuscule d'Argent vêtus de robe bleu et argent sont aux prises avec les sorcières. « Le rituel est presque complet ! » vous hurle Carl Sanford depuis l'autre côté de la clairière. « Attirez le revenant dedans et mettez un point final à tout ceci ! »\nC'est maintenant, ou jamais. Devant le regard abasourdi de Sanford, vous jetez au sol les brasero éteints, brisant les délicats éclats placés au sommet. Immédiatement, la sombre brume se répand à nouveau et des silhouettes avides se ruent sur les infortunés membres de la Loge. « Traître ! » éructe l'un d'eux. Vous essayez de faire abstraction de leurs cris d'agonie tandis que vous progressez vers le centre de la clairière.",
+        "back_text": "Révélez le lieu Piège à Spectres. Déplacez chaque investigateur dans un lieu Île Déserte vers le Piège à Spectres.\nRetirez tous les pions [cultist] de la réserve du Chaos <i>(même ceux actuellement scellés sur des cartes en jeu)</i> pour le reste de la campagne."
     },
     {
         "code": "05245",
-        "flavor": "You are close to the site of the binding ritual. The braziers have already been lit, enabling the trap. You will have to unlight each of them in order to break the circle.",
-        "name": "Beyond the Mist (v. III)",
-        "text": "[free] During a <b>circle</b> action, spend 1 clue: Reduce the difficulty of this skill test by 2.\n<b>Objective</b> - If each Unvisited Isle location in play is revealed and the brazier on each of them is unlit, advance.",
-        "back_name": "True Colors",
-        "back_flavor": "After nearly an hour spent searching through the dense mist, you finally arrive at the site of the Lodge's ritual, only to find it in chaos. Members of the Silver Twilight Lodge, each wearing robes of blue and silver, are embroiled in battle with the witches. \"The ritual has neared completion!\" Carl Sanford yells to you from across the clearing. \"Bring the revenant here and end this!\" Glaring at the man, you refuse. \"So, at last you show your true colors. I thought that might be the case.\" The Lodge's enforcers turn on you without hesitation.",
-        "back_text": "\nReveal The Geist-Trap location. Move each investigator at an Unvisited Isle location to The Geist-Trap.\nSpawn 1 set-aside Lodge Neophyte enemy at The Geist-Trap (2 instead if there are 3 or 4 investigators in the game). Shuffle the remainder of the set-aside <i>Silver Twilight Lodge</i> encounter set into the encounter deck, along with the encounter discard pile.\nCheck Campaign Log. <i>If Josef is alive and well</i>, spawn the set-aside Josef Meiger enemy at The Geist-Trap. Investigators cannot <b>parley</b> with Josef Meiger for the remainder of the game."
+        "flavor": "Vous êtes tout proche du site du rituel de contrainte. Les braseros ont déjà été allumés, amorçant le piège. Vous allez devoir tous les éteindre afin de briser le cercle.",
+        "name": "Par-Delà la Brume (v. III)",
+        "text": "[fast] Lors d'une action <b>Cercle</b>, dépensez 1 indice : réduisez de 2 la difficulté de ce test.\n<b>Objectif</b> – Si chaque lieu Île Déserte en jeu est révélé et que le brasero est éteint sur chacun d'eux, avancez.",
+        "back_name": "Vrai Visage",
+        "back_flavor": "Après plus d'une heure de recherches à travers l'épaisse brume, vous parvenez enfin au site du rituel de la Loge et le chaos y règne. Les membres de la Loge du Crépuscule d'Argent vêtus de robe bleu et argent sont aux prises avec les sorcières. « Le rituel est presque complet ! » vous hurle Carl Sanford depuis l'autre côté de la clairière. « Attirez le revenant dedans et mettez un point final à tout ceci ! » Regardant l'homme droit dans les yeux, vous refusez. « Ainsi, vous dévoilez enfin votre vrai visage. Je pensais bien que cela viendrait. » Les hommes de la Loge se tournent vers vous sans la moindre hésitation.",
+        "back_text": "Révélez le lieu Piège à Spectres. Déplacez chaque investigateur dans un lieu Île Déserte vers le Piège à Spectres.\nGénérez 1 ennemi Néophyte de la Loge dans le Piège à Spectres (2 à la place s'il y a 3 ou 4 investigateurs dans la partie). Mélangez la pile de défausse Rencontre et le reste du set de rencontre <i>Loge du Crépuscule d'Argent</i> dans le deck Rencontre.\nVérifiez le Carnet de Campagne. Si <i>Josef est bel et bien vivant</i>, générez l'ennemi Josef Meiger dans le Piège à Spectres. Pour le reste de la partie, les investigateurs ne peuvent pas effectuer l'action <b>Discussion</b> avec Josef Meiger."
     },
     {
         "code": "05246",
-        "flavor": "You are close to the site of the binding ritual. The braziers have already been lit, enabling the trap. You will have to unlight each of them in order to break the circle.",
-        "name": "Beyond the Mist (v. IV)",
-        "text": "[free] During a <b>circle</b> action, spend 1 clue: Reduce the difficulty of this skill test by 2.\n<b>Objective</b> - If each Unvisited Isle location in play is revealed and the brazier on each of them is unlit, advance.",
-        "back_name": "Against the Lodge",
-        "back_flavor": "After nearly an hour spent searching through the dense mist, you finally arrive at the site of the Lodge's ritual, only to find it in chaos. Members of the Silver Twilight Lodge, each wearing robes of blue and silver, are embroiled in battle with the witches. \"The ritual has neared completion!\" Carl Sanford yells to you from across the clearing. \"Bring the revenant here and end this!\" Glaring at the man, you refuse. He looks surprised for a moment, then growls, \"So, you are on <u>their</u> side after all. How disappointing.\" He turns to his inner circle and commands, \"Kill them! Do not let them interfere!\"",
-        "back_text": "Reveal The Geist-Trap location. Move each investigator at an Unvisited Isle location to The Geist-Trap.\nShuffle the set-aside <i>Silver Twilight Lodge</i> encounter set into the encounter deck, along with the encounter discard pile.\nCheck Campaign Log. <i>If Josef is alive and well</i>, spawn the set-aside Josef Meiger enemy at The Geist-Trap. Investigators cannot <b>parley</b> with Josef Meiger for the remainder of the game."
+        "flavor": "Vous êtes tout proche du site du rituel de contrainte. Les braseros ont déjà été allumés, amorçant le piège. Vous allez devoir tous les éteindre afin de briser le cercle.",
+        "name": "Par-Delà la Brume (v. IV)",
+        "text": "[fast] Lors d'une action <b>Cercle</b>, dépensez 1 indice : réduisez de 2 la difficulté de ce test.\n<b>Objectif</b> – Si chaque lieu Île Déserte en jeu est révélé et que le brasero est éteint sur chacun d'eux, avancez.",
+        "back_name": "Face à la Loge",
+        "back_flavor": "Après plus d'une heure de recherches à travers l'épaisse brume, vous parvenez enfin au site du rituel de la Loge et le chaos y règne. Les membres de la Loge du Crépuscule d'Argent vêtus de robe bleu et argent sont aux prises avec les sorcières. « Le rituel est presque complet ! » vous hurle Carl Sanford depuis l'autre côté de la clairière. « Attirez le revenant dedans et mettez un point final à tout ceci ! » Regardant l'homme droit dans les yeux, vous refusez. Il semble surpris dans un premier temps, puis grommelle, « Alors vous êtes de leur côté finalement. Quelle déception. » Il se tourne vers les membres de son cercle restreint et ordonne, « Tuez-les ! Ne les laissez pas interférer ! »",
+        "back_text": "Révélez le lieu Piège à Spectres. Déplacez chaque investigateur dans un lieu Île Déserte vers le Piège à Spectres.\nMélangez la pile de défausse Rencontre et le set de rencontre <i>Loge du Crépuscule d'Argent</i> dans le deck Rencontre.\nVérifiez le Carnet de Campagne. Si <i>Josef est bel et bien vivant</i>, générez l'ennemi Josef Meiger dans le Piège à Spectres. Pour le reste de la partie, les investigateurs ne peuvent pas effectuer l'action <b>Discussion</b> avec Josef Meiger."
     },
     {
         "code": "05247",
-        "flavor": "At the center of the clearing lies the spectral trap: a pillar of ghostly energy which swirls about a stone obelisk. Hundreds of phantasmal faces and a conglomeration of rotted limbs and flesh intertwine within, a revolting display of death and despair. An unlit silver brazier stands in front of the pillar, ready for you to act.",
-        "name": "The Binding Rite",
-        "text": "[free] During a <b>circle</b> action, spend 1 clue: Reduce the difficulty of this skill test by 2.\n<b>Objective</b> - If The Spectral Watcher is defeated at The Geist-Trap while the brazier there is lit, advance.",
-        "back_name": "Disillusion",
-        "back_flavor": "The watcher wails in agony as the shadow-wreath around its form is pulled away, exposing its true form. You and the members of the Lodge surround the shattered soul to prevent it from escaping.",
-        "back_text": "<b>(→R1)</b>"
+        "flavor": "Au centre de la clairière se trouve le piège spectral : un pilier d'énergie fantomatique qui s'enroule autour d'un obélisque de pierre. Des centaines de visages spectraux et un agglomérat de membres et de chair s'entrelacent dans un révulsant étalage de mort et de désespoir. Un brasero d'argent éteint se dresse en face du pilier, attendant votre action.",
+        "name": "Le Rituel de Contrainte",
+        "text": "[fast] Lors d'une action <b>Cercle</b>, dépensez 1 indice : réduisez de 2 la difficulté de ce test.\n<b>Objectif</b> – Si Le Guetteur Spectral est vaincu dans le Piège à Spectres alors que le brasero est allumé, avancez.",
+        "back_name": "Désillusion",
+        "back_flavor": "Le guetteur gémit de douleur tandis que son aura ténébreuse se dissipe, révélant sa véritable apparence. Les membres de la Loge et vous encerclez cette âme brisée afin de l'empêcher de s'échapper.",
+        "back_text": "<b>(→C1)</b>"
     },
     {
         "code": "05248",
-        "flavor": "At the center of the clearing lies the spectral trap: a pillar of ghostly energy which swirls about a stone obelisk. Hundreds of phantasmal faces and a conglomeration of rotted limbs and flesh intertwine within, a revolting display of death and despair. A silver brazier stands in front of the pillar, its blue flame flickering in the wind.",
-        "name": "The Broken Rite",
-        "text": "[free] During a <b>circle</b> action, spend 1 clue: Reduce the difficulty of this skill test by 2.\n<b>Objective</b> - If The Spectral Watcher is defeated at The Geist-Trap while the brazier there is unlit, advance.",
+        "flavor": "Au centre de la clairière se trouve le piège spectral : un pilier d'énergie fantomatique qui s'enroule autour d'un obélisque de pierre. Des centaines de visages spectraux et un agglomérat de membres et de chair s'entrelacent dans un révulsant étalage de mort et de désespoir. Un brasero d'argent se dresse en face du pilier, sa flamme bleue vacillant dans le vent.",
+        "name": "Le Rituel Brisé",
+        "text": "[fast] Lors d'une action <b>Cercle</b>, dépensez 1 indice : réduisez de 2 la difficulté de ce test.\n<b>Objectif</b> – Si Le Guetteur Spectral est vaincu dans le Piège à Spectres alors que le brasero est éteint, avancez.",
         "back_name": "Union",
-        "back_flavor": "As the blue flame of the brazier is snuffed out, the energy around the circle disperses. The shadow-wreath around the watcher's form is released, and the creature's true form surrounds the central pillar.",
-        "back_text": "<b>(→R4)</b>"
+        "back_flavor": "Au moment où la flamme bleue s'éteint, l'énergie autour du cercle se disperse. L'aura ténébreuse qui entourait le guetteur est relâchée, et la véritable forme de la créature se met à englober le pilier central.",
+        "back_text": "<b>(→C4)</b>"
     },
     {
         "code": "05249",
         "flavor": "Malgré l'urgence de votre tâche, vous ramez lentement, comme si vous essayiez de ne pas déranger le fleuve.",
         "name": "Fleuve Miskatonic",
-        "text": "[action]: <b>Abandon.</b> Vous reprenez votre canot en direction des rives du fleuve Miskatonic, laissant derrière vous cette mystérieuse île.",
+        "text": "[action] : <b>Abandon</b>. Vous reprenez votre canot en direction des rives du fleuve Miskatonic, laissant derrière vous cette mystérieuse île.",
         "traits": "Fleuve.",
         "back_flavor": "Votre embarcation tangue doucement au fil des ondulations de l'eau. Le fleuve est sombre et profond et vous vous demandez combien de corps peuvent bien reposer au fond."
     },
     {
         "code": "05250",
         "name": "Berge Peu Accueillante",
-        "text": "[action] : <b>Cercle.</b> Effectuez un test de [willpower] ou [intellect] (3) pour trouver le brasero dans les sentiers du bois. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> - Vous devez soit perdre 1 action, soit perdre 2 ressources.",
+        "text": "[action] : <b>Cercle</b>. Effectuez un test de [willpower] ou [intellect] (3) pour trouver le brasero dans les sentiers du bois. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> – Vous devez soit perdre 1 action, soit perdre 2 ressources.",
         "traits": "Bois.",
         "back_flavor": "Vous accostez sur les berges de l'île et une nuée d'oiseaux se met à babiller au sommet des arbres, comme pour protester de votre intrusion. Vous entrez malgré tout, ignorant les nombreux avertissements et indices vous exhortant à faire demi-tour."
     },
@@ -111,7 +111,7 @@
         "code": "05251",
         "name": "Île Déserte",
         "subname": "Pierres Dressées",
-        "text": "[action]: <b>Cercle.</b> Effectuez un test de [willpower]+[intellect] (10) pour examiner le brasero en face des pierres dressées. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> - Jusqu'à la fin du round, augmentez de 2 la difficulté de chaque test de compétence lors d'une action <b>Cercle</b>.",
+        "text": "[action] : <b>Cercle</b>. Effectuez un test de [willpower]+[intellect] (10) pour examiner le brasero en face des pierres dressées. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> – Jusqu'à la fin du round, augmentez de 2 la difficulté de chaque test de compétence lors d'une action <b>Cercle</b>.",
         "traits": "Bois.",
         "back_text": "Une brume spectrale bloque la voie. Vérifiez votre Carnet de Campagne.\n- <i>Si les investigateurs ont choisi le camp de la Loge</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit allumé.\n- <i>Si les investigateurs ont choisi le camp de la congrégation</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit éteint."
     },
@@ -119,7 +119,7 @@
         "code": "05252",
         "name": "Île Déserte",
         "subname": "Clairière Brumeuse",
-        "text": "[action]: <b>Cercle.</b> Effectuez un test de [willpower]+[agility] (11) pour traverser la brume entourant le brasero. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> - Vous devez soit placer 1 fatalité sur ce lieu, soit subir 1 dégât et 1 horreur.",
+        "text": "[action] : <b>Cercle</b>. Effectuez un test de [willpower]+[agility] (11) pour traverser la brume entourant le brasero. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> – Vous devez soit placer 1 fatalité sur ce lieu, soit subir 1 dégât et 1 horreur.",
         "traits": "Bois.",
         "back_text": "Une brume spectrale bloque la voie. Vérifiez votre Carnet de Campagne.\n- <i>Si les investigateurs ont choisi le camp de la Loge</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit allumé.\n- <i>Si les investigateurs ont choisi le camp de la congrégation</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit éteint."
     },
@@ -127,7 +127,7 @@
         "code": "05253",
         "name": "Île Déserte",
         "subname": "Bois Abandonnés",
-        "text": "[action]: <b>Cercle.</b> Effectuez un test de [willpower]+[combat] (11) pour vous frayer un chemin à travers les bois. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> - Vous devez soit chercher un Engoulevent dans le deck Rencontre ou dans la pile de défausse Rencontre et le générer dans ce lieu, soit l'Engoulevent le plus proche vous attaque.",
+        "text": "[action] : <b>Cercle</b>. Effectuez un test de [willpower]+[combat] (11) pour vous frayer un chemin à travers les bois. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> – Vous devez soit chercher un Engoulevent dans le deck Rencontre ou dans la pile de défausse Rencontre et le générer dans ce lieu, soit l'Engoulevent le plus proche vous attaque.",
         "traits": "Bois.",
         "back_text": "Une brume spectrale bloque la voie. Vérifiez votre Carnet de Campagne.\n- <i>Si les investigateurs ont choisi le camp de la Loge</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit allumé.\n- <i>Si les investigateurs ont choisi le camp de la congrégation</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit éteint."
     },
@@ -135,7 +135,7 @@
         "code": "05254",
         "name": "Île Déserte",
         "subname": "Escalier Couvert de Mousse",
-        "text": "[action]: <b>Cercle.</b> Effectuez un test de [combat]+[agility] (10) pour franchir l'escalier moussu. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero au sommet.\n<b>Hanté</b> - Votre prochaine action Se déplacer à ce round coûte 1 action supplémentaire.",
+        "text": "[action] : <b>Cercle</b>. Effectuez un test de [combat]+[agility] (10) pour franchir l'escalier moussu. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero au sommet.\n<b>Hanté</b> – Votre prochaine action Se déplacer à ce round coûte 1 action supplémentaire.",
         "traits": "Bois.",
         "back_text": "Une brume spectrale bloque la voie. Vérifiez votre Carnet de Campagne.\n- <i>Si les investigateurs ont choisi le camp de la Loge</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit allumé.\n- <i>Si les investigateurs ont choisi le camp de la congrégation</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit éteint."
     },
@@ -143,7 +143,7 @@
         "code": "05255",
         "name": "Île Déserte",
         "subname": "Source Hantée",
-        "text": "[action]: <b>Cercle.</b> Effectuez un test de [intellect]+[agility] (9) pour atteindre le brasero au centre de la source. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> - Vous devez soit défausser 1 soutien que vous contrôlez, soit subir 1 dégât.",
+        "text": "[action] : <b>Cercle</b>. Effectuez un test de [intellect]+[agility] (9) pour atteindre le brasero au centre de la source. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> – Vous devez soit défausser 1 soutien que vous contrôlez, soit subir 1 dégât.",
         "traits": "Bois.",
         "back_text": "Une brume spectrale bloque la voie. Vérifiez votre Carnet de Campagne.\n- <i>Si les investigateurs ont choisi le camp de la Loge</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit allumé.\n- <i>Si les investigateurs ont choisi le camp de la congrégation</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit éteint."
     },
@@ -151,14 +151,14 @@
         "code": "05256",
         "name": "Île Déserte",
         "subname": "Saule Décrépit",
-        "text": "[action]: <b>Cercle.</b> Effectuez un test de [intellect]+[combat] (9) pour trouver le brasero à l'intérieur de l'arbre décrépit. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> - Choisissez et défaussez 1 carte de votre main.",
+        "text": "[action] : <b>Cercle</b>. Effectuez un test de [intellect]+[combat] (9) pour trouver le brasero à l'intérieur de l'arbre décrépit. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero.\n<b>Hanté</b> – Choisissez et défaussez 1 carte de votre main.",
         "traits": "Bois.",
         "back_text": "Une brume spectrale bloque la voie. Vérifiez votre Carnet de Campagne.\n- <i>Si les investigateurs ont choisi le camp de la Loge</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit allumé.\n- <i>Si les investigateurs ont choisi le camp de la congrégation</i>, vous ne pouvez pas entrer dans ce lieu à moins que le brasero sur la Berge Peu Accueillante ne soit éteint."
     },
     {
         "code": "05257",
         "name": "Piège à Spectres",
-        "text": "Tant que Le Guetteur Spectral est dans le Piège à Spectres, il gagne Riposte.\n[action] : <b>Cercle.</b> Effectuez un test de [willpower]+[intellect]+[combat]+[agility] (20) pour achever le rituel, ou pour le rompre. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero de ce lieu.\n<b>Hanté</b> - Subissez 1 dégât et 1 horreur.",
+        "text": "Tant que Le Guetteur Spectral est dans le Piège à Spectres, il gagne Riposte.\n[action] : <b>Cercle</b>. Effectuez un test de [willpower]+[intellect]+[combat]+[agility] (20) pour achever le rituel, ou pour le rompre. En cas de réussite, vous avez le droit d'allumer ou d'éteindre le brasero de ce lieu.\n<b>Hanté</b> – Subissez 1 dégât et 1 horreur.",
         "traits": "Bois. Spectral.",
         "back_flavor": "Le pilier de brume fantomatique s'élève bien au-dessus de la cime des arbres, couvrant le ciel de ses visages spectraux et de ses mains griffues et désespérées. Vous êtes tout proche à présent…",
         "back_text": "La voie menant au site du rituel est cachée par la brume spectrale. Vous ne pouvez pas entrer dans le Piège à Spectres."
@@ -191,69 +191,69 @@
         "code": "05261",
         "name": "Valentino Rivas",
         "subname": "Vous en Avez mis du Temps",
-        "text": "Vous gagnez +1 [agility].\n[free] Lors d'un test de compétence que vous effectuez, dépensez 2 ressources et inclinez Valentino Rivas : diminuez de 1 la difficulté de ce test.",
+        "text": "Vous gagnez +1 [agility].\n[fast] Lors d'un test de compétence que vous effectuez, dépensez 2 ressources et inclinez Valentino Rivas : diminuez de 1 la difficulté de ce test.",
         "traits": "Allié. Mondain.",
         "slot": "Allié"
     },
     {
         "code": "05262",
         "name": "Le Sort de Gavriella",
-        "text": "<b>Vérifiez la section « Personnes Disparues » du Carnet de Campagne. <i>Si Gavriella a disparu dans la brume</i> et que <i>les investigateurs sont sur la piste de Gavriella</i></b>\n<blockquote><i>Gavriella titube hors de la brume. Ses yeux sont injectés de sang et sa voix est traînante. « Où suis-je ?… Qui êtes-vous ? »</i></blockquote>\nPrenez le contrôle du soutien d'histoire Gavriella Mizrah mis de côté. Pour le reste de ce scénario, elle n'occupe pas d'emplacement d'allié. À côté du profil de Gavriella Mizrah, indiquez que <i>Gavriella est vivante</i>.<hr><b><i>Si les spectres se sont emparés de Gavriella :</i></b>\nRetournez cette carte pour afficher sa face Ennemi et générez-la dans votre lieu. Si <i>les investigateurs sont sur la piste de Gavriella</i>, elle est générée inclinée et désengagée. Sinon, elle est générée engagée avec vous.<hr><b>Sinon :</b>\n<blockquote><i>Vous trouvez l'arme de Gavriella sur le sol, rouillée et cassée. Aucun autre signe d'elle.</i></blockquote>"
+        "text": "<b>Vérifiez la section « Personnes Disparues » du Carnet de Campagne. <i>Si Gavriella a disparu dans la brume</i> et que <i>les investigateurs sont sur la piste de Gavriella</i></b>\n<blockquote><i>Gavriella titube hors de la brume. Ses yeux sont injectés de sang et sa voix est traînante. « Où suis-je ?… Qui êtes-vous ? »</i></blockquote>\nPrenez le contrôle du soutien d'histoire Gavriella Mizrah mis de côté. Pour le reste de ce scénario, elle n'occupe pas d'emplacement d'allié. À côté du profil de Gavriella Mizrah, indiquez que <i>Gavriella est vivante</i>.\n<hr><b><i>Si les spectres se sont emparés de Gavriella : </i></b>\nRetournez cette carte pour afficher sa face Ennemi et générez-la dans votre lieu. Si <i>les investigateurs sont sur la piste de Gavriella</i>, elle est générée inclinée et désengagée. Sinon, elle est générée engagée avec vous.\n<hr><b>Sinon :</b>\n<blockquote><i>Vous trouvez l'arme de Gavriella sur le sol, rouillée et cassée. Aucun autre signe d'elle.</i></blockquote>"
     },
     {
         "code": "05262b",
         "name": "Gavriella Mizrah",
         "subname": "Vous Êtes le Prochain",
-        "text": "Alerte. Chasseur.\n<b>Forcé</b> - Après que vous avez attaqué Gavriella Mizrah avec succès, si elle est redressée : subissez 1 horreur.",
+        "text": "Alerte. Chasseur.\n<b>Forcé</b> – Après que vous avez attaqué Gavriella Mizrah avec succès, si elle est redressée : subissez 1 horreur.",
         "traits": "Humanoïde. Geist. Spectral. Élite."
     },
     {
         "code": "05263",
         "name": "Le Sort de Jerome",
-        "text": "<b>Vérifiez la section « Personnes Disparues » du Carnet de Campagne. <i>Si Jerome a disparu dans la brume</i> et que <i>les investigateurs sont sur la piste de Jerome</i></b>\n<blockquote><i>Jerome rampe hors de la brume et vous l'aidez à se relever. « Mon dieu… la brume… » murmure-t-il. « Tout est lié… Tout est lié… »</i></blockquote>\nPrenez le contrôle du soutien d'histoire Jerome Davids mis de côté. Pour le reste de ce scénario, il n'occupe pas d'emplacement d'allié. À côté du profil de Jerome Davids, indiquez que <i>Jerome est vivant</i>.<hr><b><i>Si les spectres se sont emparés de Jerome :</i></b>\nRetournez cette carte pour afficher sa face Ennemi et générez-la dans votre lieu. Si <i>les investigateurs sont sur la piste de Jerome</i>, il est généré incliné et désengagé. Sinon, il est généré engagé avec vous.<hr><b>Sinon :</b>\n<blockquote><i>Sur le sol, vous trouvez un morceau de papier provenant du petit carnet de Jerome. Dessus, il est simplement écrit : « À L'AIDE ».</i></blockquote>"
+        "text": "<b>Vérifiez la section « Personnes Disparues » du Carnet de Campagne. <i>Si Jerome a disparu dans la brume</i> et que <i>les investigateurs sont sur la piste de Jerome</i></b>\n<blockquote><i>Jerome rampe hors de la brume et vous l'aidez à se relever. « Mon dieu… la brume… » murmure-t-il. « Tout est lié… Tout est lié… »</i></blockquote>\nPrenez le contrôle du soutien d'histoire Jerome Davids mis de côté. Pour le reste de ce scénario, il n'occupe pas d'emplacement d'allié. À côté du profil de Jerome Davids, indiquez que <i>Jerome est vivant</i>.\n<hr><b><i>Si les spectres se sont emparés de Jerome : </i></b>\nRetournez cette carte pour afficher sa face Ennemi et générez-la dans votre lieu. Si <i>les investigateurs sont sur la piste de Jerome</i>, il est généré incliné et désengagé. Sinon, il est généré engagé avec vous.\n<hr><b>Sinon :</b>\n<blockquote><i>Sur le sol, vous trouvez un morceau de papier provenant du petit carnet de Jerome. Dessus, il est simplement écrit : « À L'AIDE ».</i></blockquote>"
     },
     {
         "code": "05263b",
         "name": "Jerome Davids",
         "subname": "Avide de Réponses",
-        "text": "Chasseur.\n<b>Forcé</b> - Après que Jerome Davids vous a engagé : choisissez et défaussez 2 cartes de votre main.",
+        "text": "Chasseur.\n<b>Forcé</b> – Après que Jerome Davids vous a engagé : choisissez et défaussez 2 cartes de votre main.",
         "traits": "Humanoïde. Geist. Spectral. Élite."
     },
     {
         "code": "05264",
         "name": "Le Sort de Penny",
-        "text": "<b>Vérifiez la section « Personnes Disparues » du Carnet de Campagne. <i>Si Penny a disparu dans la brume</i> et que <i>les investigateurs sont sur la piste de Penny</i></b>\n<blockquote><i>Penny vous fonce presque dessus. Vous tentez de la réconforter au mieu, mais elle tremble de partout : « Ê-êtes vous vivant ? » gémit-elle. « Ce cauchemar est-il enfin terminé ? »</i></blockquote>\nPrenez le contrôle du soutien d'histoire Penny White mis de côté. Pour le reste de ce scénario, elle n'occupe pas d'emplacement d'allié. À côté du profil de Penny, indiquez que <i>Penny est vivante</i>.<hr><b><i>Si les spectres se sont emparés de Penny :</i></b>\nRetournez cette carte pour afficher sa face Ennemi et générez-la dans votre lieu. Si <i>les investigateurs sont sur la piste de Penny</i>, elle est générée inclinée et désengagée. Sinon, elle est générée engagée avec vous.<hr><b>Sinon :</b>\n<blockquote><i>Sur le sol, vous trouvez le tablier de Penny, couvert de sang. Aucun autre signe d'elle.</i></blockquote>"
+        "text": "<b>Vérifiez la section « Personnes Disparues » du Carnet de Campagne. <i>Si Penny a disparu dans la brume</i> et que <i>les investigateurs sont sur la piste de Penny</i></b>\n<blockquote><i>Penny vous fonce presque dessus. Vous tentez de la réconforter au mieu, mais elle tremble de partout : « Ê-êtes vous vivant ? » gémit-elle. « Ce cauchemar est-il enfin terminé ? »</i></blockquote>\nPrenez le contrôle du soutien d'histoire Penny White mis de côté. Pour le reste de ce scénario, elle n'occupe pas d'emplacement d'allié. À côté du profil de Penny, indiquez que <i>Penny est vivante</i>.\n<hr><b><i>Si les spectres se sont emparés de Penny : </i></b>\nRetournez cette carte pour afficher sa face Ennemi et générez-la dans votre lieu. Si <i>les investigateurs sont sur la piste de Penny</i>, elle est générée inclinée et désengagée. Sinon, elle est générée engagée avec vous.\n<hr><b>Sinon :</b>\n<blockquote><i>Sur le sol, vous trouvez le tablier de Penny, couvert de sang. Aucun autre signe d'elle.</i></blockquote>"
     },
     {
         "code": "05264b",
         "name": "Penny White",
         "subname": "Perte Tragique",
-        "text": "Chasseur.\n<b>Forcé</b> - Après avoir échappé avec succès à Penny White : subissez 1 dégât.",
+        "text": "Chasseur.\n<b>Forcé</b> – Après avoir échappé avec succès à Penny White : subissez 1 dégât.",
         "traits": "Humanoïde. Geist. Spectral. Élite."
     },
     {
         "code": "05265",
         "name": "Le Sort de Valentino",
-        "text": "<b>Vérifiez la section « Personnes Disparues » du Carnet de Campagne. <i>Si Valentino a disparu dans la brume</i> et que <i>les investigateurs sont sur la piste de Valentino</i></b>\n<blockquote><i>Valentino émerge de la brume et s'adosse à un arbre. Il émet un petit rire nerveux en vous voyant. « La cavalerie est enfin arrivée, hein ? »</i></blockquote>\nPrenez le contrôle du soutien d'histoire Valentino Rivas mis de côté. Pour le reste de ce scénario, il n'occupe pas d'emplacement d'allié. À côté du profil de Valentino Rivas, indiquez que <i>Valentino est vivant</i>.<hr><b><i>Si les spectres se sont emparés de Valentino :</i></b>\nRetournez cette carte pour afficher sa face Ennemi et générez-la dans votre lieu. Si <i>les investigateurs sont sur la piste de Valentino</i>, il est généré incliné et désengagé. Sinon, il est généré engagé avec vous.<hr><b>Sinon :</b>\n<blockquote><i>La canne de Valentino git dans la boue, quasiment brisée en deux. Sa poignée est constellée de sang séché.</i></blockquote>"
+        "text": "<b>Vérifiez la section « Personnes Disparues » du Carnet de Campagne. <i>Si Valentino a disparu dans la brume</i> et que <i>les investigateurs sont sur la piste de Valentino</i></b>\n<blockquote><i>Valentino émerge de la brume et s'adosse à un arbre. Il émet un petit rire nerveux en vous voyant. « La cavalerie est enfin arrivée, hein ? »</i></blockquote>\nPrenez le contrôle du soutien d'histoire Valentino Rivas mis de côté. Pour le reste de ce scénario, il n'occupe pas d'emplacement d'allié. À côté du profil de Valentino Rivas, indiquez que <i>Valentino est vivant</i>.\n<hr><b><i>Si les spectres se sont emparés de Valentino : </i></b>\nRetournez cette carte pour afficher sa face Ennemi et générez-la dans votre lieu. Si <i>les investigateurs sont sur la piste de Valentino</i>, il est généré incliné et désengagé. Sinon, il est généré engagé avec vous.\n<hr><b>Sinon :</b>\n<blockquote><i>La canne de Valentino git dans la boue, quasiment brisée en deux. Sa poignée est constellée de sang séché.</i></blockquote>"
     },
     {
         "code": "05265b",
         "name": "Valentino Rivas",
         "subname": "Taillé en Pièces",
-        "text": "Chasseur. Riposte.\n<b>Forcé</b> - Après que Valentino Rivas vous a engagé : perdez 2 ressources.",
+        "text": "Chasseur. Riposte.\n<b>Forcé</b> – Après que Valentino Rivas vous a engagé : perdez 2 ressources.",
         "traits": "Humanoïde. Geist. Spectral. Élite."
     },
     {
         "code": "05266",
         "flavor": "On assure que ces oiseaux sont des psychopompes qui guettent les âmes des mourants…\n– H. P. Lovecraft, « L'Abomination de Dunwich »",
         "name": "Engoulevent",
-        "text": "Distant. Chasseur.\nChaque investigateur dans le lieu de l'Engoulevent perd -1 [willpower], -1 [intellect], -1 [combat] et -1 [agility].",
+        "text": "Distant. Chasseur.\nChaque investigateur dans le lieu de l'Engoulevent perd –1 [willpower], –1 [intellect], –1 [combat] et –1 [agility].",
         "traits": "Créature."
     },
     {
         "code": "05267",
         "name": "Corbeau Spectral",
-        "text": "<b>Proie</b> - [intellect] la plus faible.\nAlerte. Chasseur. Riposte.\n<b>Forcé</b> - Après que le Corbeau Spectral vous a engagé : vous devez soit résoudre chaque capacité Hanté de votre lieu, soit le Corbeau Spectral gagne +2 combat et +2 évasion jusqu'à la fin de la phase d'Investigation.",
+        "text": "<b>Proie</b> – [intellect] la plus faible.\nAlerte. Chasseur. Riposte.\n<b>Forcé</b> – Après que le Corbeau Spectral vous a engagé : vous devez soit résoudre chaque capacité Hanté de votre lieu, soit le Corbeau Spectral gagne +2 combat et +2 évasion jusqu'à la fin de la phase d'Investigation.",
         "traits": "Créature. Spectral."
     },
     {
@@ -272,19 +272,19 @@
     {
         "code": "05270",
         "name": "La Mort Approche",
-        "text": "Renfort. Péril.\n<b>Révélation</b> - Ajoutez La Mort Approche à la zone de menace de n'importe quel investigateur.\n<b>Forcé</b> - Quand vous devriez subir au moins 1 horreur : subissez 2 horreurs supplémentaires et défaussez La Mort Approche.",
+        "text": "Renfort. Péril.\n<b>Révélation</b> – Ajoutez La Mort Approche à la zone de menace de n'importe quel investigateur.\n<b>Forcé</b> – Quand vous devriez subir au moins 1 horreur : subissez 2 horreurs supplémentaires et défaussez La Mort Approche.",
         "traits": "Terreur."
     },
     {
         "code": "05271",
         "name": "Marqué par la Mort",
-        "text": "<b>Révélation</b> - Effectuez un test de [agility] (2). Augmentez de 1 la difficulté de ce test de compétence pour chaque horreur sur vous. En cas d'échec, subissez 2 dégâts.",
+        "text": "<b>Révélation</b> – Effectuez un test de [agility] (2). Augmentez de 1 la difficulté de ce test de compétence pour chaque horreur sur vous. En cas d'échec, subissez 2 dégâts.",
         "traits": "Malédiction."
     },
     {
         "code": "05272",
         "name": "Le Regard du Guetteur",
-        "text": "<b>Révélation</b> - Chaque investigateur effectue un test de [willpower] (5). Chaque investigateur qui échoue doit résoudre soit la capacité Hanté de son lieu, soit la capacité Hanté du lieu du Guetteur Spectral.",
+        "text": "<b>Révélation</b> – Chaque investigateur effectue un test de [willpower] (5). Chaque investigateur qui échoue doit résoudre soit la capacité Hanté de son lieu, soit la capacité Hanté du lieu du Guetteur Spectral.",
         "traits": "Malédiction."
     }
 ]

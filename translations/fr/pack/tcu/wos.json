@@ -19,14 +19,14 @@
         "flavor": "« Êtes-vous sûr de vouloir savoir ? Il n'y a pas de retour en arrière possible. »",
         "name": "M. « Rook »",
         "subname": "Revendeur de Secrets",
-        "text": "Utilisations (3 secrets).\n[free] Inclinez M. « Rook » et dépensez 1 secret : cherchez n'importe quelle carte parmi les 3, 6 ou 9 cartes du dessus de votre deck et piochez-la. Si au moins 1 faiblesse se trouve parmi les cartes consultées, piochez-en 1 également. Mélangez votre deck.",
+        "text": "Utilisations (3 secrets).\n[fast] Inclinez M. « Rook » et dépensez 1 secret : cherchez n'importe quelle carte parmi les 3, 6 ou 9 cartes du dessus de votre deck et piochez-la. Si au moins 1 faiblesse se trouve parmi les cartes consultées, piochez-en 1 également. Mélangez votre deck.",
         "traits": "Allié.",
         "slot": "Allié"
     },
     {
         "code": "05154",
         "name": "Appareil Photo à Soufflet",
-        "text": "[reaction] Après que le dernier indice de votre lieu a été découvert : placez 1 ressource <i>(prise dans la réserve de pions)</i> sur cette carte en tant que preuve. (Limite d'une fois par partie pour chaque lieu.)\nTant que l'Appareil Photo à Soufflet a ...\n- ...au moins 1 preuve, vous gagnez +1 [willpower].\n- ...au moins 2 preuves, vous gagnez +1 [intellect].\n- ...au moins 3 preuves, vous gagnez +1 santé mentale.",
+        "text": "[reaction] Après que le dernier indice de votre lieu a été découvert : placez 1 ressource <i>(prise dans la réserve de pions)</i> sur cette carte en tant que preuve. (Limite d'une fois par partie pour chaque lieu.)\nTant que l'Appareil Photo à Soufflet a …\n- …au moins 1 preuve, vous gagnez +1 [willpower].\n- …au moins 2 preuves, vous gagnez +1 [intellect].\n- …au moins 3 preuves, vous gagnez +1 santé mentale.",
         "traits": "Objet. Outil.",
         "slot": "Main"
     },
@@ -61,7 +61,7 @@
     {
         "code": "05159",
         "name": "Partir Perdant",
-        "text": "[reaction] Quand vous initiez un test de compétence, inclinez Partir Perdant : augmentez de 2 la difficulté de ce test. Gagnez 2 ressources ou piochez 1 carte",
+        "text": "[reaction] Quand vous initiez un test de compétence, inclinez Partir Perdant : augmentez de 2 la difficulté de ce test. Gagnez 2 ressources ou piochez 1 carte.",
         "traits": "Talent."
     },
     {

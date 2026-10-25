@@ -7,11 +7,11 @@
     },
     {
         "code": "05162",
-        "flavor": "SURRENDER YOURSELF TO THE PATH OF SACRIFICE.\nCONSIDER THE GOOD OF ALL BEFORE YOU ACT.\nLET GO.",
-        "name": "THE HANGED MAN · XII",
-        "back_name": "Death's Descent",
-        "back_flavor": "The sobs of the dead echo throughout the woods, accompanied by murmured promises and whispered threats. But when the spectral mist blots out the sky, all turns quiet and still. Your hair stands on end, and you begin to tremble. Every fiber of your being screams flight.\nThe hunter has smelled the blood of its prey, and now it has come to claim your fate.",
-        "back_text": "Flip each location to its [[Spectral]] side.\nPut the set-aside The Spectral Watcher enemy into play at Hangman's Brook.\nShuffle the remainder of the set-aside <i>The Watcher</i> encounter set into the spectral encounter deck, along with the spectral discard pile."
+        "flavor": "<span class='unquiet-spirit-font'>ABANDONNEZ-VOUS SUR LE CHEMIN DU SACRIFICE.\nCONSIDÉREZ LE BIEN DE TOUS AVANT D'AGIR.\nLÂCHEZ PRISE.</span>",
+        "name": "XII · LE PENDU",
+        "back_name": "La Mort Vient",
+        "back_flavor": "Les sanglots des morts résonnent à travers les bois, accompagnés de promesses murmurées et de menaces chuchotées. Mais sitôt que la brume spectrale masque les cieux, tout redevient calme et silencieux. Vos poils se hérissent et vous commencez à trembler. Chaque fibre de votre être vous hurle de fuir.\nLe Chasseur a senti le sang de sa proie, et maintenant il vient prendre votre vie.",
+        "back_text": "Retournez chaque lieu pour afficher sa face [[Spectral]].\nMettez en jeu Le Guetteur Spectral dans le Ruisseau du Pendu.\nMélangez le reste du set de rencontre <i>Le Guetteur</i> et la pile de défausse spectrale dans le deck Rencontre spectral."
     },
     {
         "code": "05163",
@@ -33,23 +33,23 @@
     },
     {
         "code": "05165",
-        "flavor": "With the mist comes the revenants of the past: witches who were executed hundreds of years ago, and whose hateful spirits have returned to wreak vengeance upon the living. If you can banish them, you might learn more of the coven’s secrets.",
-        "name": "In Pursuit of the Living",
-        "text": "[free]: Flip your location over. (Group limit once per round at each location.)\nClues cannot be discovered at non-[[Spectral]] locations.\n<b>Objective</b> - Banish as many Heretics as you can. If there are 4 copies of Unfinished Business in the victory display, advance.",
-        "back_name": "Was it Worth It?",
-        "back_flavor": "When the last of the ghosts vanishes, she leaves behind a remembrance: something which does not fade along with the rest of her ephemeral form. Curious, you step forward and examine the object. It is a corn husk doll wearing a black cloak, with locks of hair made of red-dyed yarn. You're not sure what significance the doll holds, if any... nonetheless, a pyrrhic truth speaks to you from its expressionless face.\n<u>\"Was it worth it?\"</u> The doll seems to say.",
-        "back_text": "In your Campaign Log, under \"Mementos Discovered,\" record <i>Corn Husk Doll</i>.\n<b>(→R1)</b>"
+        "flavor": "Avec la brume viennent les revenants du passé : des sorcières qui furent exécutées il y a des siècles et dont les esprits haineux sont revenus assouvir leur vengeance sur les vivants. Si vous parvenez à les bannir, vous pourrez en apprendre plus sur les secrets de la congrégation.",
+        "name": "À la Poursuite des Vivants",
+        "text": "[fast] : retournez votre lieu. (Limite collective d'une fois par round pour chaque lieu.)\nLes indices dans les lieux non [[Spectral]] ne peuvent pas être découverts.\n<b>Objectif</b> – Bannissez autant d'Hérétiques que possible. S'il y a 4 exemplaires de Tâche Inachevée dans la pile de victoire, avancez.",
+        "back_name": "Cela Valait-il le Coup ?",
+        "back_flavor": "En disparaissant, le dernier fantôme laisse derrière lui un souvenir : quelque chose qui ne s'estompe pas comme le reste de sa forme éphémère. Poussé par la curiosité, vous avancez et examinez l'objet. Il s'agit d'une poupée faite en feuilles de maïs et aux cheveux de laine rouge. Vous ne comprenez pas exactement la signification de cette poupée, si tout du moins il y en a une… Toutefois, l'expression de son visage vous donne le sentiment d'une victoire à la Pyrrhus.\n« Cela valait-il le coup ? » semble demander la poupée.",
+        "back_text": "Dans votre Carnet de Campagne, sous la mention « souvenirs découverts », inscrivez <i>« Poupée de Maïs »</i>.\n<b>(→C1)</b>"
     },
     {
         "code": "05166",
         "flavor": "Provenant d'une source naturelle près du sommet de la Colline du Pendu, l'étroit ruisseau emplit les bois d'un murmure paisible. Le ruisseau contourne le sud de la colline formant la frontière ouest du quartier résidentiel d'Arkham.",
         "name": "Ruisseau du Pendu",
-        "text": "[action] : <b>Abandon.</b> « Qui a eu la brillante idée de venir ici déjà ? »"
+        "text": "[action] : <b>Abandon</b>. « Qui a eu la brillante idée de venir ici déjà ? »"
     },
     {
         "code": "05166b",
         "name": "Ruisseau du Pendu",
-        "text": "[action] : <b>Abandon.</b> « Qui a eu la brillante idée de venir ici déjà ? »\n<b>Hanté</b> - Subissez 1 dégât. Jusqu'à la fin du round, la capacité Abandon ci-dessus ne peut pas être déclenchée",
+        "text": "[action] : <b>Abandon</b>. « Qui a eu la brillante idée de venir ici déjà ? »\n<b>Hanté</b> – Subissez 1 dégât. Jusqu'à la fin du round, la capacité Abandon ci-dessus ne peut pas être déclenchée.",
         "traits": "Spectral."
     },
     {
@@ -62,20 +62,20 @@
         "code": "05167b",
         "flavor": "Ce monde ne tolère aucune vie, quelle qu'elle soit.",
         "name": "Prés Hantés",
-        "text": "Chaque ennemi [[Spectral]] dans les Prés Hantés gagne +1 à sa valeur d'horreur.\n<b>Hanté</b> - Déplacez l'ennemi [[Spectral]] le plus proche une fois en direction des Prés Hantés.",
+        "text": "Chaque ennemi [[Spectral]] dans les Prés Hantés gagne +1 à sa valeur d'horreur.\n<b>Hanté</b> – Déplacez l'ennemi [[Spectral]] le plus proche une fois en direction des Prés Hantés.",
         "traits": "Spectral."
     },
     {
         "code": "05168",
-        "flavor": "La vieille chapelle en ruine est abandonnée depuis des décennies. Autrefois, c'était peut être un lieu saint, mais il n'inspire plus aujourd'hui qu'une sobre mélancolie",
+        "flavor": "La vieille chapelle en ruine est abandonnée depuis des décennies. Autrefois, c'était peut-être un lieu saint, mais il n'inspire plus aujourd'hui qu'une sobre mélancolie.",
         "name": "Chapelle Abandonnée",
-        "text": "Lors de la phase du Mythe, chaque investigateur dans la Chapelle Abandonnée perd -1 à chacune de ses compétences."
+        "text": "Lors de la phase du Mythe, chaque investigateur dans la Chapelle Abandonnée perd –1 à chacune de ses compétences."
     },
     {
         "code": "05168b",
         "flavor": "Méfaits dans la vie. Réconciliation dans le trépas. Recueillement dans la mort.",
         "name": "Chapelle Abandonnée",
-        "text": "Lors de la phase du Mythe, chaque investigateur dans la Chapelle Abandonnée perd -1 à chacune de ses compétences.\n <b>Hanté</b> - Vous perdez -1 à chacune de vos compétences jusqu'à la fin du round.",
+        "text": "Lors de la phase du Mythe, chaque investigateur dans la Chapelle Abandonnée perd –1 à chacune de ses compétences.\n<b>Hanté</b> – Vous perdez –1 à chacune de vos compétences jusqu'à la fin du round.",
         "traits": "Spectral."
     },
     {
@@ -88,7 +88,7 @@
         "code": "05169b",
         "flavor": "Un dernier soupir.",
         "name": "La Potence",
-        "text": "Augmentez de +1 la valeur occulte de La Potence pour chaque ennemi [[Ensorceleur]] en jeu.\n<b>Hanté</b> - Défaussez les 3 cartes du dessus du deck Rencontre standard. Si un ennemi [[Ensorceleur]] est défaussé par cet effet, piochez-le.",
+        "text": "Augmentez de +1 la valeur occulte de La Potence pour chaque ennemi [[Ensorceleur]] en jeu.\n<b>Hanté</b> – Défaussez les 3 cartes du dessus du deck Rencontre standard. Si un ennemi [[Ensorceleur]] est défaussé par cet effet, piochez-le.",
         "traits": "Spectral."
     },
     {
@@ -101,7 +101,7 @@
         "code": "05170b",
         "flavor": "Un dernier soupir.",
         "name": "La Potence",
-        "text": "X est le nombre d'ennemis [[Geist]] en jeu.\n<b>Hanté</b> - Défaussez les 3 cartes du dessus du deck Rencontre spectral. Si un ennemi [[Geist]] est défaussé par cet effet, piochez-le.",
+        "text": "X est le nombre d'ennemis [[Geist]] en jeu.\n<b>Hanté</b> – Défaussez les 3 cartes du dessus du deck Rencontre spectral. Si un ennemi [[Geist]] est défaussé par cet effet, piochez-le.",
         "traits": "Spectral."
     },
     {
@@ -114,55 +114,55 @@
         "code": "05171b",
         "flavor": "Se souviendra-t-on de vous ?",
         "name": "Tombes des Hérétiques",
-        "text": "Tant que vous enquêtez dans les Tombes des Hérétiques, ajoutez votre [willpower] à votre valeur de compétence pour cette enquête.\n<b>Hanté</b> - Diminuez votre [willpower] de base à 1 jusqu'à la fin de votre prochain tour.",
+        "text": "Tant que vous enquêtez dans les Tombes des Hérétiques, ajoutez votre [willpower] à votre valeur de compétence pour cette enquête.\n<b>Hanté</b> – Diminuez votre [willpower] de base à 1 jusqu'à la fin de votre prochain tour.",
         "traits": "Spectral."
     },
     {
         "code": "05172",
         "flavor": "Ces tombes ne sont occupées que par des sorcières et des criminels. Leurs pierres tombales sont restées anonymes afin d'effacer à jamais les souvenirs de leurs méfaits.",
         "name": "Tombes des Hérétiques",
-        "text": "<b>Forcé</b> - Après qu'un ennemi [[Ensorceleur]] dans la Tombe des Hérétiques a été vaincu : défaussez les 2 cartes du dessus du deck Rencontre standard."
+        "text": "<b>Forcé</b> – Après qu'un ennemi [[Ensorceleur]] dans la Tombe des Hérétiques a été vaincu : défaussez les 2 cartes du dessus du deck Rencontre standard."
     },
     {
         "code": "05172b",
         "flavor": "Se souviendra-t-on de vous ?",
         "name": "Tombes des Hérétiques",
-        "text": "<b>Forcé</b> - Après qu'un ennemi [[Ensorceleur]] dans la Tombe des Hérétiques a été vaincu : défaussez les 2 cartes du dessus du deck Rencontre standard.\n<b>Hanté</b> - Soignez 1 dégât de chaque Hérétique et de chaque ennemi [[Ensorceleur]] en jeu.",
+        "text": "<b>Forcé</b> – Après qu'un ennemi [[Ensorceleur]] dans la Tombe des Hérétiques a été vaincu : défaussez les 2 cartes du dessus du deck Rencontre standard.\n<b>Hanté</b> – Soignez 1 dégât de chaque Hérétique et de chaque ennemi [[Ensorceleur]] en jeu.",
         "traits": "Spectral."
     },
     {
         "code": "05173",
-        "flavor": "Un escalier de pierre étroit vous mène loin sous la chapelle où les gesn de bonne réputation se voyaient offrir des funérailles « convenables ». Dans le coin opposé de la pièce, un étrange appareillage couvert de poussière est relié à l'un des cercueils, aussi mort que tout le reste ici.",
+        "flavor": "Un escalier de pierre étroit vous mène loin sous la chapelle où les gens de bonne réputation se voyaient offrir des funérailles « convenables ». Dans le coin opposé de la pièce, un étrange appareillage couvert de poussière est relié à l'un des cercueils, aussi mort que tout le reste ici.",
         "name": "Crypte de la Chapelle",
-        "text": "Tant qu'il n'y a pas d'ennemi redressé dans la Crypte de la Chapelle, elle perd -3 de valeur occulte."
+        "text": "Tant qu'il n'y a pas d'ennemi redressé dans la Crypte de la Chapelle, elle perd –3 de valeur occulte."
     },
     {
         "code": "05173b",
         "name": "Crypte de la Chapelle",
-        "text": "Tant qu'il n'y a pas d'ennemi redressé dans la Crypte de la Chapelle, elle perd -3 de valeur occulte.\n<b>Hanté</b> - Générez la carte du dessus de votre deck, face cachée, engagée avec vous. Traitez cette carte comme un ennemi Mort Réanimé ayant 1 combat, 1 vie, 1 évasion, 1 dégât et le trait [[Monstre]].",
+        "text": "Tant qu'il n'y a pas d'ennemi redressé dans la Crypte de la Chapelle, elle perd –3 de valeur occulte.\n<b>Hanté</b> – Générez la carte du dessus de votre deck, face cachée, engagée avec vous. Traitez cette carte comme un ennemi Mort Réanimé ayant 1 combat, 1 vie, 1 évasion, 1 dégât et le trait [[Monstre]].",
         "traits": "Spectral."
     },
     {
         "code": "05174",
-        "flavor": "Un escalier de pierre étroit vous mène loin sous la chapelle où les gesn de bonne réputation se voyaient offrir des funérailles « convenables ». Dans le coin opposé de la pièce, un étrange appareillage couvert de poussière est relié à l'un des cercueils, aussi mort que tout le reste ici.",
+        "flavor": "Un escalier de pierre étroit vous mène loin sous la chapelle où les gens de bonne réputation se voyaient offrir des funérailles « convenables ». Dans le coin opposé de la pièce, un étrange appareillage couvert de poussière est relié à l'un des cercueils, aussi mort que tout le reste ici.",
         "name": "Crypte de la Chapelle",
-        "text": "Tant qu'il n'y a pas de traîtrise [[Sortilège]] dans les zones de menace des investigateurs situés dans la Crypte de la Chapelle, elle perd -3 de valeur occulte."
+        "text": "Tant qu'il n'y a pas de traîtrise [[Sortilège]] dans les zones de menace des investigateurs situés dans la Crypte de la Chapelle, elle perd –3 de valeur occulte."
     },
     {
         "code": "05174b",
         "name": "Crypte de la Chapelle",
-        "text": "Tant qu'il n'y a pas de traîtrise [[Sortilège]] dans les zones de menace des investigateurs situés dans la Crypte de la Chapelle, elle perd -3 de valeur occulte.\n<b>Hanté</b> - Trouvez la traîtrise [[Sortilège]] la plus proche du sommet de la pile de défausse Rencontre standard et mettez-la en jeu dans votre zone de menace.",
+        "text": "Tant qu'il n'y a pas de traîtrise [[Sortilège]] dans les zones de menace des investigateurs situés dans la Crypte de la Chapelle, elle perd –3 de valeur occulte.\n<b>Hanté</b> – Trouvez la traîtrise [[Sortilège]] la plus proche du sommet de la pile de défausse Rencontre standard et mettez-la en jeu dans votre zone de menace.",
         "traits": "Spectral."
     },
     {
         "code": "05175",
         "name": "Mansarde de la Chapelle",
-        "text": "<b>Forcé</b> - Après avoir pioché une carte non-faiblesse de votre deck alors que vous êtes dans la Mansarde de la Chapelle : placez cette carte face cachée sous la Mansarde de la Chapelle, hors jeu.\n[reaction] Après avoir enquêté avec succès dans la Mansarde de la Chapelle : ajoutez chaque carte sous la Mansarde de la Chapelle à la main de son propriétaire."
+        "text": "<b>Forcé</b> – Après avoir pioché une carte non-faiblesse de votre deck alors que vous êtes dans la Mansarde de la Chapelle : placez cette carte face cachée sous la Mansarde de la Chapelle, hors jeu.\n[reaction] Après avoir enquêté avec succès dans la Mansarde de la Chapelle : ajoutez chaque carte sous la Mansarde de la Chapelle à la main de son propriétaire."
     },
     {
         "code": "05175b",
         "name": "Mansarde de la Chapelle",
-        "text": "<b>Forcé</b> - Après avoir pioché une carte non-faiblesse de votre deck alors que vous êtes dans la Mansarde de la Chapelle : placez cette carte face cachée sous la Mansarde de la Chapelle, hors jeu.\n[reaction] Après avoir enquêté avec succès dans la Mansarde de la Chapelle : ajoutez chaque carte sous la Mansarde de la Chapelle à la main de son propriétaire.\n<b>Hanté</b> - Défaussez une carte prise au hasard sous la Mansarde de la Chapelle.",
+        "text": "<b>Forcé</b> – Après avoir pioché une carte non-faiblesse de votre deck alors que vous êtes dans la Mansarde de la Chapelle : placez cette carte face cachée sous la Mansarde de la Chapelle, hors jeu.\n[reaction] Après avoir enquêté avec succès dans la Mansarde de la Chapelle : ajoutez chaque carte sous la Mansarde de la Chapelle à la main de son propriétaire.\n<b>Hanté</b> – Défaussez une carte prise au hasard sous la Mansarde de la Chapelle.",
         "traits": "Spectral."
     },
     {
@@ -173,7 +173,7 @@
     {
         "code": "05176b",
         "name": "Mansarde de la Chapelle",
-        "text": "Tant que vous enquêtez dans la Mansarde de la Chapelle, ajoutez le nombre de cartes dans votre main à votre valeur de compétence pour cette enquête.\n<b>Hanté</b> - Défaussez une carte prise au hasard dans votre main (2 cartes à la place si vous avez au moins 5 cartes dans votre main).",
+        "text": "Tant que vous enquêtez dans la Mansarde de la Chapelle, ajoutez le nombre de cartes dans votre main à votre valeur de compétence pour cette enquête.\n<b>Hanté</b> – Défaussez une carte prise au hasard dans votre main (2 cartes à la place si vous avez au moins 5 cartes dans votre main).",
         "traits": "Spectral."
     },
     {
@@ -185,115 +185,115 @@
     {
         "code": "05178a",
         "name": "Hérétique",
-        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[free] Dépensez 1 indice : <b>Discussion.</b> Regardez le verso de l'Hérétique<i>(sans résoudre son texte)</i>.\n<b>Forcé</b> - Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
+        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[fast] Dépensez 1 indice : <b>Discussion</b>. Regardez le verso de l'Hérétique <i>(sans résoudre son texte)</i>.\n<b>Forcé</b> – Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
         "traits": "Monstre. Geist. Ensorceleur. Spectral. Élite."
     },
     {
         "code": "05178b",
-        "flavor": "AMENEZ-MOI À LUI… JE VEUX REVOIR MON AMOUR…",
+        "flavor": "<span class='unquiet-spirit-font'>AMENEZ-MOI À LUI… JE VEUX REVOIR MON AMOUR…</span>",
         "name": "Tâche Inachevée",
-        "text": "<blockquote><i>La chose pousse des gémissements entrecoupés de sanglots. Il doit exister un moyen de l'apaiser.</i></blockquote>\nGardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la.\n<b>Forcé</b> - À la fin du round : vous devez soit subir 1 horreur, soit retourner cette carte pour afficher sa face Ennemi.\n[action] Si vous êtes dans la Crypte de la Chapelle et qu'il n'y a pas d'indice dessus : effectuez un test de [intellect] ou [combat] (4). En cas de réussite, le fantôme est « banni » (résolvez le texte ci-dessous).\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Vous trouvez un cercueil sans nom et en soulevez le couvercle. Le fantôme pleure en effleurant le corps qui repose à l'intérieur, se souvenant de l'amour qu'il avait naguère dans son cœur.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
+        "text": "<blockquote><i>La chose pousse des gémissements entrecoupés de sanglots. Il doit exister un moyen de l'apaiser.</i></blockquote>\nGardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la.\n<b>Forcé</b> – À la fin du round : vous devez soit subir 1 horreur, soit retourner cette carte pour afficher sa face Ennemi.\n[action] Si vous êtes dans la Crypte de la Chapelle et qu'il n'y a pas d'indice dessus : effectuez un test de [intellect] ou [combat] (4). En cas de réussite, le fantôme est « banni » (résolvez le texte ci-dessous).\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Vous trouvez un cercueil sans nom et en soulevez le couvercle. Le fantôme pleure en effleurant le corps qui repose à l'intérieur, se souvenant de l'amour qu'il avait naguère dans son cœur.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
     },
     {
         "code": "05178c",
         "name": "Hérétique",
-        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[free] Dépensez 1 indice : <b>Discussion.</b> Regardez le verso de l'Hérétique<i>(sans résoudre son texte)</i>.\n<b>Forcé</b> - Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
+        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[fast] Dépensez 1 indice : <b>Discussion</b>. Regardez le verso de l'Hérétique <i>(sans résoudre son texte)</i>.\n<b>Forcé</b> – Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
         "traits": "Monstre. Geist. Ensorceleur. Spectral. Élite."
     },
     {
         "code": "05178d",
-        "flavor": "BRÛLEZ… LAISSEZ-LA BRÛLER… LAISSEZ TOUT BRÛLER…",
+        "flavor": "<span class='unquiet-spirit-font'>BRÛLEZ… LAISSEZ-LA BRÛLER… LAISSEZ TOUT BRÛLER…</span>",
         "name": "Tâche Inachevée",
-        "text": "<blockquote><i>Le fantôme carbonisé hurle de douleur comme s'il était dans un état de tourment permanent. Vous ne pouvez pas l'apaiser, mais vous pouvez peut-être lui faire justice.</i></blockquote>\nGardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la.\n<b>Forcé</b> - À la fin du round : vous devez soit subir 1 dégât, soit retourner cette carte pour afficher sa face Ennemi.\n[action] Si vous êtes dans La Potence et qu'il n'y a pas d'indice dessus : effectuez un test de [willpower] ou [agility] (4). En cas de réussite, le fantôme est « banni » (résolvez le texte ci-dessous).\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Le feu se répand rapidement, consumant la vieille plate-forme en bois avec avidité. L'esprit se contorsionne avec une étrange satisfaction.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
+        "text": "<blockquote><i>Le fantôme carbonisé hurle de douleur comme s'il était dans un état de tourment permanent. Vous ne pouvez pas l'apaiser, mais vous pouvez peut-être lui faire justice.</i></blockquote>\nGardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la.\n<b>Forcé</b> – À la fin du round : vous devez soit subir 1 dégât, soit retourner cette carte pour afficher sa face Ennemi.\n[action] Si vous êtes dans La Potence et qu'il n'y a pas d'indice dessus : effectuez un test de [willpower] ou [agility] (4). En cas de réussite, le fantôme est « banni » (résolvez le texte ci-dessous).\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Le feu se répand rapidement, consumant la vieille plate-forme en bois avec avidité. L'esprit se contorsionne avec une étrange satisfaction.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
     },
     {
         "code": "05178e",
         "name": "Hérétique",
-        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[free] Dépensez 1 indice : <b>Discussion.</b> Regardez le verso de l'Hérétique<i>(sans résoudre son texte)</i>.\n<b>Forcé</b> - Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
+        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[fast] Dépensez 1 indice : <b>Discussion</b>. Regardez le verso de l'Hérétique <i>(sans résoudre son texte)</i>.\n<b>Forcé</b> – Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
         "traits": "Monstre. Geist. Ensorceleur. Spectral. Élite."
     },
     {
         "code": "05178f",
-        "flavor": "ILS ME L'ONT VOLÉE… RENDEZ-LA MOI…",
+        "flavor": "<span class='unquiet-spirit-font'>ILS ME L'ONT VOLÉE… RENDEZ-LA MOI…</span>",
         "name": "Tâche Inachevée",
-        "text": "<blockquote><i>L'esprit cherche frénétiquement autour de lui et semble vous implorer de ses yeux désespérés. Il doit avoir perdu quelque chose d'important - mais quoi ?</i></blockquote>\nGardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la.\n<b>Forcé</b> - À la fin du round : vous devez soit perdre 2 ressources, soit retourner cette carte pour afficher sa face Ennemi.\n[action] Si vous êtes dans la Mansarde de la Chapelle et qu'il n'y a pas d'indice dessus : effectuez un test de [intellect] ou [agility] (4). En cas de réussite, le fantôme est « banni » (résolvez le texte ci-dessous).\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Dans une vieille malle couverte de toiles d'araignée, vous trouvez toute sorte d'objets appartenant aux défunts. La vue d'une amulette faite d'un crâne de corbeau trempé dans du métal fait hoqueter le fantôme. « Je suis désolée, ma sœur, je suis désolée… » gémit-il.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
+        "text": "<blockquote><i>L'esprit cherche frénétiquement autour de lui et semble vous implorer de ses yeux désespérés. Il doit avoir perdu quelque chose d'important - mais quoi ?</i></blockquote>\nGardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la.\n<b>Forcé</b> – À la fin du round : vous devez soit perdre 2 ressources, soit retourner cette carte pour afficher sa face Ennemi.\n[action] Si vous êtes dans la Mansarde de la Chapelle et qu'il n'y a pas d'indice dessus : effectuez un test de [intellect] ou [agility] (4). En cas de réussite, le fantôme est « banni » (résolvez le texte ci-dessous).\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Dans une vieille malle couverte de toiles d'araignée, vous trouvez toute sorte d'objets appartenant aux défunts. La vue d'une amulette faite d'un crâne de corbeau trempé dans du métal fait hoqueter le fantôme. « Je suis désolée, ma sœur, je suis désolée… » gémit-il.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
     },
     {
         "code": "05178g",
         "name": "Hérétique",
-        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[free] Dépensez 1 indice : <b>Discussion.</b> Regardez le verso de l'Hérétique<i>(sans résoudre son texte)</i>.\n<b>Forcé</b> - Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
+        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[fast] Dépensez 1 indice : <b>Discussion</b>. Regardez le verso de l'Hérétique <i>(sans résoudre son texte)</i>.\n<b>Forcé</b> – Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
         "traits": "Monstre. Geist. Ensorceleur. Spectral. Élite."
     },
     {
         "code": "05178h",
-        "flavor": "MES OS… QU'ONT-ILS FAITS À MES OS…",
+        "flavor": "<span class='unquiet-spirit-font'>MES OS… QU'ONT-ILS FAITS À MES OS…</span>",
         "name": "Tâche Inachevée",
-        "text": "<blockquote><i>Le spectre est mutilé au point d'être méconnaissable. Quelque chose l'a rongé de l'intérieur et a réduit son âme en pièces.</i></blockquote>\nGardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la.\n<b>Forcé</b> - À la fin du round : vous devez soit choisir et défausser 2 cartes de votre main, soit retourner cette carte pour afficher sa face Ennemi.\n[action] Si vous êtes dans les Tombes des Hérétiques et qu'il n'y a pas d'indice dessus : effectuez un test de [willpower] ou [combat] (4). En cas de réussite, le fantôme est « banni » (résolvez le texte ci-dessous).\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Déterrer les os ne fut pas une tâche aisée, mais une fois l'esprit entré dans la tombe ouverte, ce dernier retrouve une forme humanoïde.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
+        "text": "<blockquote><i>Le spectre est mutilé au point d'être méconnaissable. Quelque chose l'a rongé de l'intérieur et a réduit son âme en pièces.</i></blockquote>\nGardez cette carte dans votre zone de menace (cette face visible). Si vous êtes éliminé, retournez-la.\n<b>Forcé</b> – À la fin du round : vous devez soit choisir et défausser 2 cartes de votre main, soit retourner cette carte pour afficher sa face Ennemi.\n[action] Si vous êtes dans les Tombes des Hérétiques et qu'il n'y a pas d'indice dessus : effectuez un test de [willpower] ou [combat] (4). En cas de réussite, le fantôme est « banni » (résolvez le texte ci-dessous).\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Déterrer les os ne fut pas une tâche aisée, mais une fois l'esprit entré dans la tombe ouverte, ce dernier retrouve une forme humanoïde.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
     },
     {
         "code": "05178i",
         "name": "Hérétique",
-        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[free] Dépensez 1 indice : <b>Discussion.</b> Regardez le verso de l'Hérétique<i>(sans résoudre son texte)</i>.\n<b>Forcé</b> - Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
+        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[fast] Dépensez 1 indice : <b>Discussion</b>. Regardez le verso de l'Hérétique <i>(sans résoudre son texte)</i>.\n<b>Forcé</b> – Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
         "traits": "Monstre. Geist. Ensorceleur. Spectral. Élite."
     },
     {
         "code": "05178j",
-        "flavor": "COME... JOIN US...",
+        "flavor": "<span class='unquiet-spirit-font'>VENEZ… REJOIGNEZ-NOUS…</span>",
         "name": "Tâche Inachevée",
-        "text": "<blockquote><i>The specter's voice is soothing and melodic. Its words seem to make sense. You can at last be at peace - all you have to do is take its hand.</i></blockquote>\nFlip this card back to its enemy side. It makes an immediate attack. For the remainder of the scenario, this enemy cannot be defeated by any means, its <b>parley</b> ability can only be activated while at a [[Spectral]] location, and it costs +1 [per_investigator] clues to trigger. The next time this side is resolved, the ghost is \"banished\" instead (resolve the text below).\n<b>Forcé</b> - If you looked at this side by resolving this Heretic's <b>parley</b> ability: Resolve the above text as though you had just defeated this Heretic.\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>You spurn the creature's offer, remembering once more why you have come here. It lets out an agonizing shriek and returns from whence it came.</i></blockquote>\nAdd this card to the victory display."
+        "text": "<blockquote><i>La voix du spectre est douce et mélodieuse. Ses mots semblent faire sens. Vous pourrez enfin être en paix – tout ce que vous avez à faire, c'est de prendre sa main.</i></blockquote>\nRetournez cette carte pour afficher sa face Ennemi. Il effectue immédiatement une attaque. Pour le reste du scénario, cet ennemi ne peut être vaincu par aucun moyen, sa capacité <b>Discussion</b> ne peut être activée que dans un lieu [[Spectral]] et coûte +1 [per_investigator] indice pour être déclenchée. La prochaine fois que cette face est résolue, le fantôme est « banni » à la place (résolvez le texte ci-dessous).\n<b>Forcé</b> – Si vous avez regardé cette face en résolvant la capacité <b>Discussion</b>. de cette Hérétique : résolvez le texte ci-dessus comme si vous veniez de vaincre cette Hérétique.\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Vous déclinez l'offre de la créature, vous remémorant la raison de votre venue ici. Elle émet un râle d'agonie et retourne d'où elle vient.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
     },
     {
         "code": "05178k",
         "name": "Hérétique",
-        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[free] Dépensez 1 indice : <b>Discussion.</b> Regardez le verso de l'Hérétique<i>(sans résoudre son texte)</i>.\n<b>Forcé</b> - Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
+        "text": "L'Hérétique gagne +2 [per_investigator] vies.\nTant que l'Hérétique est dans un lieu non-[[Spectral]], elle gagne Distant et ne peut ni être engagée, ni subir de dégâts.\n[fast] Dépensez 1 indice : <b>Discussion</b>. Regardez le verso de l'Hérétique <i>(sans résoudre son texte)</i>.\n<b>Forcé</b> – Après que l'Hérétique a été vaincue : retournez-la et résolvez le texte au verso.",
         "traits": "Monstre. Geist. Ensorceleur. Spectral. Élite."
     },
     {
         "code": "05178l",
-        "flavor": "I CAN'T BE DEAD... KEZIAH PROMISED... WE CANNOT DIE...",
+        "flavor": "<span class='unquiet-spirit-font'>PAS MORTE… KEZIAH A PROMIS… NOUS NE POUVONS PAS MOURIR…</span>",
         "name": "Tâche Inachevée",
-        "text": "<blockquote><i>The spiteful wraith does not relent. Your words cannot reach it, but perhaps you can lay it to rest by force.</i></blockquote>\nFlip this card back to its enemy side. It makes an immediate attack. The next time it is defeated, it is \"banished\" (resolve the text below).\n<b>Forcé</b> - If you looked at this side by resolving this Heretic's <b>parley</b> ability: Flip this card back to its enemy side. It makes an immediate attack. <i>(Do not resolve any other text on this card.)</i>\n<hr><b>Do not read until this ghost is \"banished.\"</b>\n<blockquote><i>With a final cry, the hellish spirit recoils upon itself and dissipates into thin air.</i></blockquote>\nAdd this card to the victory display."
+        "text": "<blockquote><i>L'esprit vengeur ne s'apaise pas. Vos mots ne peuvent l'atteindre, mais vous pouvez peut-être employer la manière forte.</i></blockquote>\nRetournez cette carte pour afficher sa face Ennemi. Il effectue immédiatement une attaque. La prochaine fois qu'il est vaincu, il est « banni » (résolvez le texte ci-dessous).\n<b>Forcé</b> – Si vous avez regardé cette face en résolvant la capacité <b>Discussion</b> de cette Hérétique : retournez cette carte pour afficher sa face Ennemi. Il effectue immédiatement une attaque. <i>(Ne résolvez aucun autre texte sur cette carte.)</i>\n<hr><b>Ne pas lire à moins que ce fantôme ne soit « banni ».</b>\n<blockquote><i>Dans un dernier râle, l'esprit infernal se recroqueville sur lui-même et s'évapore dans les airs.</i></blockquote>\nAjoutez cette carte à la pile de victoire."
     },
     {
         "code": "05179",
         "name": "Sorcière Vengeresse",
-        "text": "<b>Génération</b> - La Potence ou Tombes des Hérétiques.\nAlerte. Chasseur.\n<b>Forcé</b> - Quand la Sorcière Vengeresse est vaincue : infligez sa valeur de dégât et d'horreur à chaque investigateur dans son lieu, en tant que dégat direct/horreur directe.",
+        "text": "<b>Génération</b> – La Potence ou Tombes des Hérétiques.\nAlerte. Chasseur.\n<b>Forcé</b> – Quand la Sorcière Vengeresse est vaincue : infligez sa valeur de dégât et d'horreur à chaque investigateur dans son lieu, en tant que dégât direct/horreur directe.",
         "traits": "Humanoïde. Ensorceleur."
     },
     {
         "code": "05180",
         "name": "Esprit Malveillant",
-        "text": "<b>Génération</b> - Mansarde de la Chapelle ou Crypte de la Chapelle.\nTant que l'Esprit Malveillant est dans un lieu [[Spectral]], il gagne Chasseur, +1 à sa valeur de dégât et +1 à sa valeur d'horreur.\n<b>Forcé</b> - Quand l'Esprit Malveillant est vaincu par des dégâts (sauf d'un [[Sort]] ou [[Relique]]) : au lieu de le défausser, soignez tous les dégâts sur lui, inclinez-le et déplacez-le vers n'importe quel lieu [[Spectral]], si possible.",
+        "text": "<b>Génération</b> – Mansarde de la Chapelle ou Crypte de la Chapelle.\nTant que l'Esprit Malveillant est dans un lieu [[Spectral]], il gagne Chasseur, +1 à sa valeur de dégât et +1 à sa valeur d'horreur.\n<b>Forcé</b> – Quand l'Esprit Malveillant est vaincu par des dégâts (sauf d'un [[Sort]] ou [[Relique]]) : au lieu de le défausser, soignez tous les dégâts sur lui, inclinez-le et déplacez-le vers n'importe quel lieu [[Spectral]], si possible.",
         "traits": "Monstre. Geist. Spectral."
     },
     {
         "code": "05181",
         "name": "Châtiment",
-        "text": "<b>Révélation</b> - Mettez en jeu Châtiment dans votre zone de menace.\n<b>Forcé</b> - Après qu'un ennemi dans n'importe quel lieu a été vaincu : subissez 1 dégât.\n[action] : effectuez un test de [willpower] (3). En cas de réussite, défaussez Châtiment. S'il y a un ennemi [[Ensorceleur]] dans votre lieu, ce test réussit automatiquement.",
+        "text": "<b>Révélation</b> – Mettez en jeu Châtiment dans votre zone de menace.\n<b>Forcé</b> – Après qu'un ennemi dans n'importe quel lieu a été vaincu : subissez 1 dégât.\n[action] : effectuez un test de [willpower] (3). En cas de réussite, défaussez Châtiment. S'il y a un ennemi [[Ensorceleur]] incliné dans votre lieu, ce test réussit automatiquement.",
         "traits": "Sortilège."
     },
     {
         "code": "05182",
         "name": "Le Poids du Passé",
-        "text": "<b>Révélation</b> - S'il n'y a pas d'exemplaire de Tâche Inachevée dans votre zone de menace, Le Poids du Passé gagne Renfort. Sinon, déclenchez la capacité Forcé de chaque exemplaire de Tâche Inachevée dans votre zone de menace comme si c'était la fin du round.",
+        "text": "<b>Révélation</b> – S'il n'y a pas d'exemplaire de Tâche Inachevée dans votre zone de menace, Le Poids du Passé gagne Renfort. Sinon, déclenchez la capacité Forcé de chaque exemplaire de Tâche Inachevée dans votre zone de menace comme si c'était la fin du round.",
         "traits": "Malédiction. Spectral."
     },
     {
         "code": "05183",
         "name": "Mauvais Augure",
-        "text": "Péril.\n<b>Révélation</b> - Vous devez (choisir une option) :\n- piocher la carte du dessus du deck Rencontre spectral. La carte piochée gagne Péril et ses effets ne peuvent pas être annulés.\n- Effectuez un test de [willpower] (3). En cas d'échec, subissez 2 horreurs.",
+        "text": "Péril.\n<b>Révélation</b> – Vous devez (choisir une option) :\n- piocher la carte du dessus du deck Rencontre spectral. La carte piochée gagne Péril et ses effets ne peuvent pas être annulés.\n- Effectuez un test de [willpower] (3). En cas d'échec, subissez 2 horreurs.",
         "traits": "Présage."
     },
     {
         "code": "05184",
         "name": "Lumière Sépulcrale",
-        "text": "<b>Révélation</b> - Si Lumière Sépulcrale est piochée…\n- …du deck Rencontre standard, mélangez-la dans le deck Rencontre spectral et elle gagne renfort.\n- …du deck Rencontre spectral, subissez 2 dégâts et placez-la dans la pile de défausse Rencontre standard.",
+        "text": "<b>Révélation</b> – Si Lumière Sépulcrale est piochée…\n- …du deck Rencontre standard, mélangez-la dans le deck Rencontre spectral et elle gagne renfort.\n- …du deck Rencontre spectral, subissez 2 dégâts et placez-la dans la pile de défausse Rencontre standard.",
         "traits": "Malédiction."
     },
     {
         "code": "05185",
         "name": "Fléau des Vivants",
-        "text": "Péril.\n<b>Révélation</b> - Vous devez (choisir une option) :\n- choisir une carte Tâche Inachevée en jeu, la retourner pour afficher sa face Hérétique et placer dessus des dégâts égaux à la moitié de sa vie.\n- défausser des cartes du dessus du deck Rencontre spectral jusqu'à ce qu'un ennemi [[Geist]] soit défaussé. Générez cet ennemi engagé avec vous.",
+        "text": "Péril.\n<b>Révélation</b> – Vous devez (choisir une option) :\n- choisir une carte Tâche Inachevée en jeu, la retourner pour afficher sa face Hérétique et placer dessus des dégâts égaux à la moitié de sa vie.\n- défausser des cartes du dessus du deck Rencontre spectral jusqu'à ce qu'un ennemi [[Geist]] soit défaussé. Générez cet ennemi engagé avec vous.",
         "traits": "Malédiction. Spectral."
     }
 ]

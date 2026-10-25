@@ -7,79 +7,79 @@
     },
     {
         "code": "05121",
-        "flavor": "LOOK FOR ANSWERS WITHIN AND NOT WITHOUT.\nMANY PATHS LEAD TO THE SAME ANSWER.\nCONTEMPLATE THE GREATER TRUTH.",
-        "name": "THE HERMIT • IX",
-        "text": "Each non-weakness enemy gets +1 health.\n[reaction] After you defeat Brown Jenkin or Nahab: Gain 1 clue from the token bank (2 clues instead if there are 3 or more investigators in the game).",
-        "back_name": "Rats in the Walls",
-        "back_flavor": "As you explore the old, dilapidated house, the telltale scratching and scurrying in the walls become louder and more frequent. Every now and again a fanged, furry creature darts across the wooden floor, scampering in and out of ratholes in the walls. You wonder if this house is more rat than wood.",
-        "back_text": "If Brown Jenkin is in play, search the encounter deck and discard pile for a Swarm of Rats and spawn it in Brown Jenkin's location. If Brown Jenkin is not in play, search the encounter deck and discard pile for him and spawn it in the lead investigator's location.\nAdditionally, if there are 3 or 4 investigators in the game, search the encounter deck and discard pile for a Swarm of Rats and spawn it in any [[Witch House]] location."
+        "flavor": "<span class='unquiet-spirit-font'>CHERCHEZ LES RÉPONSES EN\nDEDANS ET NON AU-DEHORS.\nPLUSIEURS CHEMINS MÈNENT À LA MÊME RÉPONSE.\nCONTEMPLEZ LA PLUS GRANDE DES VÉRITÉS.</span>",
+        "name": "IX • L'HERMITE",
+        "text": "Chaque ennemi non-faiblesse gagne +1 vie.\n[reaction] Après avoir vaincu Brown Jenkin ou Nahab : gagnez 1 indice pris dans la réserve de pions (2 indices à la place s'il y a au moins 3 investigateurs dans la partie).",
+        "back_name": "Les Rats dans les Murs",
+        "back_flavor": "Les bruits de pattes et de griffes se font de plus en plus fréquents et audibles à mesure que vous explorez la vieille bâtisse. Des créatures poilue et griffues déambulent continuellement sur le parquet, allant et venant à travers les trous de souris des murs. Vous vous demandez si cette maison n'est pas faite en rats plutôt qu'en bois",
+        "back_text": "Si Brown Jenkin est en jeu, cherchez une Nuée de Rats dans le deck Rencontre où dans la pile de défausse Rencontre et générez-la dans le lieu de Brown Jenkin. Si Brown Jenkin n'est pas en jeu, cherchez-le dans le deck Rencontre ou dans la pile de défausse Rencontre et générez-le dans le lieu de l'investigateur principal.\nDe plus, s'il y a 3 ou 4 investigateurs dans la partie, cherchez une Nuée de Rats dans le deck Rencontre ou dans la pile de défausse Rencontre et générez-la dans n'importe quel lieu [[Maison de la Sorcière]]."
     },
     {
         "code": "05122",
-        "flavor": "…the descriptions of the darting little furry object which served as her familiar were so painfully realistic despite their incredible details. – H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
-        "name": "The Familiar",
-        "text": "Each non-weakness enemy gets +2 health.\n[reaction] After you defeat Brown Jenkin or Nahab: Gain 1 clue from the token bank (2 clues instead if there are 3 or more investigators in the game).",
-        "back_name": "The Crone",
-        "back_flavor": "A dizzying violet light emerges from the crevices of the ramshackle house, behind cracks in the wooden paneling and underneath the floor, bathing you from every angle. An inhuman squeal mocks you as a figure emerges from the witch light. Only a hint of humanity remains in her crooked and broken form. The crone cackles with a nightmarish timbre, her voice echoing and resounding from the realm beyond.",
-        "back_text": "- If it is act 1, spawn the set-aside Nahab in Walter Gilman's Room.\n- If it is act 2, spawn the set-aside Nahab in Keziah's Room.\n- If it is act 3, place 1 doom on Nahab.\nShuffle both set-aside copies of Ghostly Presence into the encounter deck.\nFind Brown Jenkin (even if he is out of play) and place him in Nahab's current location."
+        "flavor": "… les descriptions du redoutable petit être velu qui lui servait de démon familier étaient terriblement réalistes malgré leurs détails incroyables. – H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
+        "name": "Le Familier",
+        "text": "Chaque ennemi non-faiblesse gagne +2 vies.\n[reaction] Après avoir vaincu Brown Jenkin ou Nahab : gagnez 1 indice pris dans la réserve de pions (2 indices à la place s'il y a au moins 3 investigateurs dans la partie).",
+        "back_name": "La Vieillarde",
+        "back_flavor": "Vous baignez dans une aveuglante lumière violette qui émane des fissures dans les murs, des fentes dans les panneaux de bois et des trous dans le parquet. Un couinement inhumain vous raille et une forme émerge de la lumière ensorcelée. Il reste à peine une once d'humanité à cette silhouette voûtée et brisée. La vieillarde pousse un gloussement cauchemardesque et sa voix résonne depuis l'au-delà.",
+        "back_text": "- Si vous êtes à l'Acte 1, générez Nahab dans la chambre de Walter Gilman.\n- Si vous êtes à l'Acte 2, générez Nahab dans la chambre de Keziah.\n- Si vous êtes à l'Acte 3, placez 1 fatalité sur Nahab.\nMélangez dans le deck Rencontre les deux exemplaires de Présence Fantomatique.\nTrouvez Brown Jenkin (même s'il est hors jeu) et placez-le dans le lieu actuel de Nahab."
     },
     {
         "code": "05123",
-        "flavor": "In the dazzling violet light of dream the old woman and the fanged, furry thing came again and with a greater distinctness than on any former occasion. This time they actually reached him, and he felt the crone’s withered claws clutching at him. -H.P. Lovecraft, <u>La Maison de la Sorcière</u>",
-        "name": "The Witch Light",
-        "text": "Each non-weakness enemy gets +3 health.\n[reaction] After you defeat Brown Jenkin or Nahab: Gain 1 clue from the token bank (2 clues instead if there are 3 or more investigators in the game).",
-        "back_name": "An Awakening",
-        "back_flavor": "A sudden flash of violet light causes you to reel backwards. The spectral form of the crone is broken and shattered, but as you fall you can see a sinister grin play across her misshapen face. A jolt of pain surges through you as your head strikes the surface of the wall, and the witch's terrible grin is the last thing you see before everything goes black.\nWhen you awaken, the witch light is gone, but a vision is burned in your mind - the ancient crone, bent over a slanted floor, leering gleefully at a rotting book, a misshapen knife in her crooked fingers. Behind her, the twilight abyss extends into oblivion, and a gaping maw begins to close.",
-        "back_text": "- If it is act 1 or 2, set Nahab aside, out of play, and place 4 doom on agenda 4a as it enters play.\n- If it is act 3, place 1 doom on Nahab."
+        "flavor": "Dans l'éblouissante lumière violette du rêve, la vieille femme et le monstre velu aux dents longues revinrent et plus distinctement que jamais. Cette fois ils l'atteignirent réellement, et il se senti saisi par les griffes desséchées de la sorcière. – H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
+        "name": "La Lumière de la Sorcière",
+        "text": "Chaque ennemi non-faiblesse gagne +3 vies.\n[reaction] Après avoir vaincu Brown Jenkin ou Nahab : gagnez 1 indice pris dans la réserve de pions (2 indices à la place s'il y a au moins 3 investigateurs dans la partie).",
+        "back_name": "Un Réveil",
+        "back_flavor": "Un éclair de lumière violette vous fait soudain tomber à la renverse. La forme spectrale de la vieillarde vole en éclats mais, alors que vous basculez, vous pouvez voir un sourire malveillant se dessiner sur son visage difforme. Une douleur fulgurante vous secoue au moment où votre tête heurte la surface du mur et le terrible sourire de la sorcière est la dernière chose que vous voyez avant de perdre connaissance.\nQuand vous vous réveillez, la lumière ensorcelée a disparu, mais une vision hante votre esprit — la vieille sorcière penchée sur un sol oblique, son regard torve posé sur un livre moisi, un couteau déformé entre ses doigts crochus. Derrière elle, l'abîme crépusculaire s'étend à travers le néant et une gueule béante commence à se refermer.",
+        "back_text": "- Si vous êtes à l'Acte 1 ou 2, mettez Nahab de côté, hors jeu, et placez 4 fatalités sur l'Intrigue 4a dès que cette dernière entre en jeu.\n- Si vous êtes à l'Acte 3, placez 1 fatalité sur Nahab."
     },
     {
         "code": "05124",
-        "flavor": "Either this house is truly haunted, or its strange angles and eerie light are playing tricks on your curse-addled mind. Are these ghostly visions real? Or echoes of the house’s gruesome past?",
-        "name": "Marked for Sacrifice",
-        "text": "Each non-weakness enemy gets +4 health.\n[reaction] After you defeat Brown Jenkin or Nahab: Gain 1 clue (2 clues instead if there are 3 or more investigators in the game).",
-        "back_name": "A Dream in the Witch House",
-        "back_flavor": "Flashes of vision spark your memory as you are dragged along the dirty wooden floor. A foul ceremony - the house - Nahab - a rhythmic chant - the spiraling black vortex - a dark revelry - the Primal Chaos - a child's cries - a writhing tunnel inside your chest.",
-        "back_text": "<b>(→R1)</b>"
+        "flavor": "Soit cette maison est réellement hantée, soit les angles étranges et les lumières surnaturelles jouent des tours à votre maudit esprit. Ces visions fantomatiques sont-elles réelles ? Ou des échos du passé macabre de la demeure ?",
+        "name": "Marqué pour le Sacrifice",
+        "text": "Chaque ennemi non-faiblesse gagne +4 vies.\n[reaction] Après avoir vaincu Brown Jenkin ou Nahab : gagnez 1 indice pris dans la réserve de pions (2 indices à la place s'il y a au moins 3 investigateurs dans la partie).",
+        "back_name": "Un Rêve dans la Maison de la Sorcière",
+        "back_flavor": "Des bribes de vision emplissent votre mémoire tandis que vous êtes traîné sur le parquet sale. Une cérémonie abjecte - la maison - Nahab - un chant rythmé - le vortex noir tournoyant - de sombres festivités - le Chaos Primordial - les pleurs d'un enfant - le trou béant dans votre poitrine.",
+        "back_text": "<b>(→C1)</b>"
     },
     {
         "code": "05125",
-        "flavor": "When you arrive at the old Witch House, you find it in a sorrier state than you imagined. Surrounded by a crooked picket fence, the house looks as though it may fall apart at any minute. The front door is locked, but you are able to easily enter through one of the windows after pulling apart the rotting wooden boards covering the shattered glass.",
-        "name": "Investigating the Witch House",
-        "text": "<b>Objective</b> - If each undefeated investigator is in Walter Gilman's Room, investigators may spend the requisite number of clues, as a group, to advance.",
-        "back_name": "Specter of the Past",
-        "back_flavor": "Standing in a dead man's room is disconcerting enough, but what you find within is enough to make you want to leave and never return. Walter Gilman's journal is filled with descriptions of his dreams and visions, each more terrifying and perplexing than the last. He mentions seeing the figure of Keziah Mason on more than one occasion, and at one point calls her by another name: \"Nahab.\" As soon as you read the name aloud, the nearby window shatters, and an all-too-familiar spectral mist invades the cramped space. When it recedes, everything about the room has changed. A work desk and an aged bookshelf occupy the far corner of Gilman's room, where his bed should be. The door you entered from is gone. Strange geometrical markings, drawn with a sticky red substance, cover the walls.",
-        "back_text": "Swap Walter Gilman's Room with the set-aside Keziah's Room, taking its place <i>(all tokens and cards at the former location are now at the new location).</i> Remove each other location in play from the game.\nChoose an investigator to take control of the set-aside The Black Book asset. Shuffle both set-aside copies of Strange Geometry into the encounter deck."
+        "flavor": "En arrivant devant la vieille Maison de la Sorcière, vous la découvrez dans un état plus piteux que ce que vous imaginiez. Entourée d'une clôture aux piquets bancals, la maison elle-même semble être sur le point de s'effondrer à tout moment. La porte d'entrée est verrouillée, mais vous parvenez facilement à vous introduire par l'une des fenêtres après avoir arraché les linteaux de bois pourri qui encadraient le verre brisé.",
+        "name": "Explorer la Maison de la Sorcière",
+        "text": "<b>Objectif</b> – Si Chaque investigateur non-vaincu est dans la Chambre de Walter Gilman, les investigateurs ont le droit de dépenser collectivement le nombre d'indices requis pour avancer.",
+        "back_name": "Spectre du Passé",
+        "back_flavor": "Se tenir dans la chambre d'un mort est déjà assez déconcertant en soi, mais ce que vous y trouvez vous donne envie de prendre vos jambes à votre cou pour ne jamais revenir. Le journal de Walter Gilman et rempli de descriptions de ses rêves et de ses visions, chacune plus terrifiante et troublante que la précédente. Il mentionne avoir aperçu la silhouette de Keziah Mason en plus d'une occasion et à un moment, il l'appelle par un autre nom : « Nahab ». Sitôt que vous avez prononcé ce nom à haute voix, la fenêtre la plus proche vole en éclats et une brume spectrale bien trop familière envahit la petite pièce. Quand la brume reflux, enfin, tout a changé dans la chambre. Un bureau et des vieilles étagères occupent l'angle opposé de la chambre de Gilman, là où son lit devrait se trouver. La porte par laquelle vous êtes entré a disparu et d'étranges dessins géométriques, faits d'une substance rouge et visqueuse, recouvrent les murs.",
+        "back_text": "Intervertissez la Chambre de Walter Gilman avec la Chambre de Keziah mise de côté <i>(tous les pions et cartes de l'ancien lieu sont désormais dans le nouveau lieu)</i>. Retirez de la partie chaque autre lieu qui est en jeu.\nChoisissez un investigateur qui prend le contrôle du soutien Le Livre Noir. Mélangez dans le deck Rencontre les deux exemplaires d'Étrange Géométrie."
     },
     {
         "code": "05126",
-        "flavor": "Among the books in this strange room is a black, nameless tome inscribed with dried red blood. It matches a description from Walter Gilman’s journal of a tome he names \"The Black Book.\" This room must be the haunt of Keziah Mason, from over 200 years ago. It is rumored that Keziah had discovered deep mathematical truths that allowed her to traverse space and time. Perhaps you can find a way out using this knowledge.",
-        "name": "Beyond the Witch House",
-        "text": "<b>Objective</b> - Only investigators in the Witch House Ruins may spend the requisite number of clues, as a group, to advance.",
-        "back_name": "A Profane Ritual",
-        "back_flavor": "Searching through the ruins, you find a rotting hole in the slanted ceiling, leading to a closed-off attic. Amidst the debris are crushed and splintered bones, some human and some... not. More of Keziah's awful tomes are scattered about, filled with pages of dark rituals and black spellcraft. On the floor, a circle has been carved - or perhaps gnawed - into the wood. At the center lies a spatter of dried blood and a jagged knife. What terrible rituals were performed in this profane space? Perhaps there is a way you can know for sure. You take the knife and prick your hand deep enough for blood to well in your palm. Using Keziah's formulae, you draw a pattern in the circle, and carve a path through time...",
-        "back_text": "Put the set-aside Site of the Sacrifice location into play.\n- If it is agenda 1, 2, or 3, find Nahab (even if she is out of play), place 2 doom on her, and place her at the Site of the Sacrifice.\n- If it is agenda 4, find Nahab (even if she is out of play) and place her at the Site of the Sacrifice. Move each doom from agenda 4a to Nahab.\nFind Brown Jenkin (even if he is out of play) and place him in Nahab's current location."
+        "flavor": "Parmi les livres de cette étrange chambre se trouve un ouvrage noir, sans nom, couvert de sang séché. Il correspond à la description que fait Walter Gilman du « Livre Noir » dans son journal. Cette chambre doit être le repère de Keziah Mason, 200 ans dans le passé. La rumeur veut que Keziah ait découvert de profondes vérités mathématiques qui lui ont permis de traverser l'espace et le temps. Peut-être pouvez-vous trouver un moyen d'utiliser ces connaissances.",
+        "name": "Par-Delà la Maison de la Sorcière",
+        "text": "<b>Objectif</b> – Seuls les investigateurs dans les Ruines de la Maison de la Sorcière ont le droit de dépenser collectivement le nombre d'indices requis pour avancer.",
+        "back_name": "Un Rituel Profane",
+        "back_flavor": "En fouillant les ruines, vous découvrez un trou moisi dans le plafond incliné. Il mène à un grenier clos. Parmi les débris se trouvent des ossements, brisés et broyés certains humains, d'autres… non. D'autres horribles livres de Keziah sont éparpillés ça et là, les pages remplies de sombres rituels et de magie noire. Sur le sol, un cercle a été gravé — ou peut-être rongé — dans le bois. Au centre gît un couteau dentelé au milieu d'une tache de sang séché. Quels terribles rites furent pratiqués dans ce lieu profane ? Il existe peut-être un moyen de le savoir avec certitude. Vous prenez le couteau et entaillez votre main assez profondément pour que le sang coule sur votre paume. Utilisant la formule de Keziah, vous tracez un motif dans le cercle, et vous vous taillez un chemin à travers le temps…",
+        "back_text": "Mettez en jeu le Site du Sacrifice.\n- Si vous êtes à l'Intrigue 1, 2, ou 3, trouvez Nahab (même si elle est hors jeu), placez 2 fatalités sur elle et placez-la sur le Site du Sacrifice.\n- Si vous êtes à l'Intrigue 4, trouvez Nahab (même si elle est hors jeu) et placez-la sur le Site du Sacrifice. Déplacez chaque fatalité de l'Intrigue 4a vers Nahab.\nTrouvez Brown Jenkin (même s'il est hors jeu) et placez-le dans le lieu actuel de Nahab."
     },
     {
         "code": "05127",
-        "flavor": "You part the seams of space-time and arrive at your destination. It is the same cramped attic, but in a different time. The room is dark save for a violet glow emanating from the far edge, where the floor falls into oblivion. From out of the abyss, the ancient crone and her familiar emerge...",
-        "name": "Stopping the Ritual",
-        "text": "Nahab cannot leave the Site of the Sacrifice.\n<b>Forcé</b> - When Nahab is defeated: Instead of discarding her, heal all damage from her, disengage her from all investigators, and exhaust her. She does not ready during the upkeep phase this round.\n<b>Objective</b> - If there is no doom on Nahab, advance.",
-        "back_name": "Ritual Averted",
-        "back_flavor": "The ancient crone lets out a banshee's wail as you dismantle her unholy ritual. The room unfurls through space-time, the cramped, slanted walls unfolding to reveal the oblivion beyond. The creature who was once Keziah Mason croaks a loathsome curse as her shapeless form is pulled into the void. Bit by bit, the wood-paneled flooring below your feet breaks apart. Then you are ripped - the pull from the stars - a muddy alleyway - the flute in the woods - the roaring abyss - the gaze of the watcher - The Tower - a green hillside - the black vortex - the screams of the accused - the piper - three arrows - a sacrifice - a ringing bell - an ascension - and you emerge from the anomaly, crashing painfully onto the floor.",
-        "back_text": "<b>(→R2)</b>"
+        "flavor": "Vous écartez les coutures de l'espace-temps et parvenez jusqu'à votre destination. Il s'agit du même grenier exigu, mais à une époque différente. La pièce est plongée dans l'obscurité à l'exception d'une lueur violette émanant du bord le plus éloigné où le sol plonge dans le néant. La vieille femme et son compagnon émergent de cet abîme…",
+        "name": "Arrêter le Rituel",
+        "text": "Nahab ne peut pas quitter le Site du Sacrifice.\n<b>Forcé</b> – Quand Nahab est vaincue : au lieu de la défausser, soignez tous ses dégâts, désengagez-la de tous les investigateurs et inclinez-la. Elle ne se redresse pas lors de la phase d'Entretien de ce round.\n<b>Objectif</b> – S'il n'y a pas de fatalité sur Nahab, avancez.",
+        "back_name": "Rituel Stoppé",
+        "back_flavor": "La vieillarde pousse un hurlement plaintif tandis que vous démantelez son rituel impie. La pièce se déploie à travers l'espace-temps, les murs étroits et obliques se dépliant pour révéler le néant au-delà. La créature qui fut autre fois Keziah Mason croasse un infâme juron tandis que sa silhouette informe est projetée dans le vide. Petit à petit, le parquet sous vos pieds s'écarte. Puis vous en êtes arraché — l'attrait des étoiles — une allée boueuse — la flûte dans les bois — l'abîme grondant — le regard du Guetteur — La Tour — une colline verdoyante — le vortex noir — les cris des accusés — le flûtiste — trois flèches — un sacrifice — un glas qui sonne — une ascension — et vous émergez de l'anomalie, vous écrasant péniblement sur le sol.",
+        "back_text": "<b>(→C2)</b>"
     },
     {
         "code": "05128",
         "flavor": "Entre les murs décrépits de la Maison de la Sorcière, les seuls signes de vie sont les rats qui vont et viennent à travers les trous dans les murs.",
         "name": "Couloirs Vermoulus",
-        "text": "<b>Hanté</b> - Perdez 3 ressources.",
+        "text": "<b>Hanté</b> – Perdez 3 ressources.",
         "traits": "Maison de la Sorcière.",
         "back_flavor": "En entrant dans la Maison de la Sorcière, vous êtes immédiatement assailli par l'atmosphère rance. L'odeur des boiseries est un mélange de moisissure et de pourriture. La tapisserie se décolle des murs. Cette maison n'a pas été condamnée sans raison."
     },
     {
         "code": "05129",
         "name": "Appartement du Logeur",
-        "text": "<b>Forcé</b> - Après avoir révélé l'Appartement du Logeur : cherchez une Nuée de Rats dans le deck Rencontre ou dans la pile défausse Rencontre et générez-la dans les Couloirs Vermoulus. Mélangez le deck Rencontre.\n<b>Hanté</b> - cherchez une Nuée de Rats dans le deck Rencontre ou dans la pile défausse Rencontre et générez-la dans les Couloirs Vermoulus. Mélangez le deck Rencontre.",
+        "text": "<b>Forcé</b> – Après avoir révélé l'Appartement du Logeur : cherchez une Nuée de Rats dans le deck Rencontre ou dans la pile défausse Rencontre et générez-la dans les Couloirs Vermoulus. Mélangez le deck Rencontre.\n<b>Hanté</b> – cherchez une Nuée de Rats dans le deck Rencontre ou dans la pile défausse Rencontre et générez-la dans les Couloirs Vermoulus. Mélangez le deck Rencontre.",
         "traits": "Maison de la Sorcière.",
         "back_name": "Porte Décrépite",
         "back_flavor": "Aucune inscription, aucun indice qui pourrait vous indiquer à qui appartenait cette chambre - juste l'odeur de moisi et le bruit des rats galopant de l'autre côté."
@@ -88,7 +88,7 @@
         "code": "05130",
         "flavor": "Cette chambre est des plus simples. Plusieurs crucifix sont accrochés au mur et un métier à tisser cassé repose sur une table dans un coin de la pièce.",
         "name": "Chambre de Joe Mazurewicz",
-        "text": "[action] : cherchez un soutien [[Béni]] ou [[Objet]] dans votre deck et ajoutez-le à votre main. (Limite collective d'une fois par partie.)\n<b>Hanté</b> - Vous devez soit subir 1 horreur, soit choisir et défausser un soutien que vous contrôlez.",
+        "text": "[action] : cherchez un soutien [[Béni]] ou [[Objet]] dans votre deck et ajoutez-le à votre main. (Limite collective d'une fois par partie.)\n<b>Hanté</b> – Vous devez soit subir 1 horreur, soit choisir et défausser un soutien que vous contrôlez.",
         "traits": "Maison de la Sorcière.",
         "back_name": "Porte Décrépite",
         "back_flavor": "Aucune inscription, aucun indice qui pourrait vous indiquer à qui appartenait cette chambre - juste l'odeur de moisi et le bruit des rats galopant de l'autre côté."
@@ -97,16 +97,16 @@
         "code": "05131",
         "flavor": "Un bureau couvert de papiers de l'université et de livres occupe l'un des murs de cette chambre exiguë. Peut-être qu'un étudiant a vécu ici ?",
         "name": "Chambre de Frank Elwood",
-        "text": "<b>Hanté</b> - Vous devez soit placer 1 de vos indices sur la Chambre de Frank Elwood, soit placer une fatalité sur l'intrigue en cours.",
+        "text": "<b>Hanté</b> – Vous devez soit placer 1 de vos indices sur la Chambre de Frank Elwood, soit placer une fatalité sur l'intrigue en cours.",
         "traits": "Maison de la Sorcière.",
         "back_name": "Porte Décrépite",
         "back_flavor": "Aucune inscription, aucun indice qui pourrait vous indiquer à qui appartenait cette chambre - juste l'odeur de moisi et le bruit des rats galopant de l'autre côté."
     },
     {
         "code": "05132",
-        "flavor": "La chambre de Gilman était de bonne taille mais d'une forme bizarrement irrégulière ; le mur nord s'inclinait sensiblement vers l'intérieur de la pièce, d'un bout à l'autre, tandis que le plafond bas descendait en pente douce dans la même direction. - H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "flavor": "La chambre de Gilman était de bonne taille mais d'une forme bizarrement irrégulière ; le mur nord s'inclinait sensiblement vers l'intérieur de la pièce, d'un bout à l'autre, tandis que le plafond bas descendait en pente douce dans la même direction. - H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "name": "Chambre de Walter Gilman",
-        "text": "[action] : piochez 3 cartes et subissez 1 horreur. (Limite d'une fois par partie.)\n<b>Hanté</b> - Défaussez les 2 cartes du dessus du deck Rencontre.",
+        "text": "[action] : piochez 3 cartes et subissez 1 horreur. (Limite d'une fois par partie.)\n<b>Hanté</b> – Défaussez les 2 cartes du dessus du deck Rencontre.",
         "traits": "Maison de la Sorcière.",
         "back_flavor": "Pour une raison inconnue, cette chambre fut gardée verrouillée même après que le bâtiment eut été condamné. Vous vous demandez où peut bien être la clé.",
         "back_text": "La porte de la chambre de Walter Gilman est verrouillée. Les investigateurs dans les Couloirs Vermoulus doivent collectivement dépenser 1 [per_investigator] indice en tant que coût supplémentaire pour entrer dans la Chambre de Walter Gilman."
@@ -114,9 +114,9 @@
     {
         "code": "05133",
         "name": "Chambre de Keziah",
-        "text": "[reaction] Après avoir enquêté avec succès dans la Chambre de Keziah : au lieu de découvrir des indices, mettez en jeu la carte du dessus du deck Endroits Inconnus, non-révélée. Ensuite, vous avez le droit de vous déplacer vers ce lieu.\n<b>Hanté</b> - Défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'une carte [[Sortilège]] soit défaussée. Piochez cette carte.",
+        "text": "[reaction] Après avoir enquêté avec succès dans la Chambre de Keziah : au lieu de découvrir des indices, mettez en jeu la carte du dessus du deck Endroits Inconnus, non-révélée. Ensuite, vous avez le droit de vous déplacer vers ce lieu.\n<b>Hanté</b> – Défaussez des cartes du dessus du deck Rencontre jusqu'à ce qu'une carte [[Sortilège]] soit défaussée. Piochez cette carte.",
         "traits": "Spectral. Maison de la Sorcière.",
-        "back_flavor": "Gilman n'aurait su dire ce qu'il espérait y trouver, il savait seulement qu'il voulait habiter la demeure où on ne sait quelle circonstance avait donné, plus ou moins soudainement, à une vieille femme quelconque du XVIIe siècle l'intuition des perspectives mathématiques qui dépassaient peut-être les recherches modernes les plus poussées de Planck, de Heisenberg, d'Einstein et de Sitter.\n– H. P. Lovecraft, <u>La Maison de la Sorcière</u>"
+        "back_flavor": "Gilman n'aurait su dire ce qu'il espérait y trouver, il savait seulement qu'il voulait habiter la demeure où on ne sait quelle circonstance avait donné, plus ou moins soudainement, à une vieille femme quelconque du XVIIe siècle l'intuition des perspectives mathématiques qui dépassaient peut-être les recherches modernes les plus poussées de Planck, de Heisenberg, d'Einstein et de Sitter.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>"
     },
     {
         "code": "05134",
@@ -125,46 +125,46 @@
         "text": "[action] : Vous requérez de l'aide de votre moi passé. Chaque investigateur dans ce lieu a le droit de renvoyer 1 carte de sa pile de défausse dans sa main. Chaque investigateur qui le fait se souvient qu'il « s'est immiscé dans le passé ». (Limite collective d'une fois par partie.)",
         "traits": "Extradimensionnel. Maison de la Sorcière.",
         "back_name": "Endroits Inconnus",
-        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n- H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "back_traits": "Extradimensionnel."
     },
     {
         "code": "05135",
-        "flavor": "Ces entités organiques dont les mouvements paraissaient moins manifestement aberrants et gratuits devaient être des projections des formes vivantes de notre planète, y compris d'êtres humains.\n- H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "flavor": "Ces entités organiques dont les mouvements paraissaient moins manifestement aberrants et gratuits devaient être des projections des formes vivantes de notre planète, y compris d'êtres humains.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "name": "Abîme Crépusculaire",
-        "text": "<b>Forcé</b> - Après être entré dans l'AbÎme Crépusculaire, effectuez un test de [combat] ou [agility] (3). En cas d'échec, subissez 1 dégât pour chaque point manquant.",
+        "text": "<b>Forcé</b> – Après être entré dans l'Abîme Crépusculaire, effectuez un test de [combat] ou [agility] (3). En cas d'échec, subissez 1 dégât pour chaque point manquant.",
         "traits": "Extradimensionnel. Autre Monde.",
         "back_name": "Endroits Inconnus",
-        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n- H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "back_traits": "Extradimensionnel."
     },
     {
         "code": "05136",
         "name": "Cité des Choses Très Anciennes",
-        "text": "[reaction] Après avoir révélé la Cité des Choses Très Anciennes, subissez 2 horreur : mettez en jeu la carte du dessus du deck Endroits Inconnus, non-révélée. Pour le reste du scénario, la Cité des Choses Très Anciennes est considérée comme connexe à ce lieu, et vice versa.",
+        "text": "[reaction] Après avoir révélé la Cité des Choses Très Anciennes, subissez 2 horreurs : mettez en jeu la carte du dessus du deck Endroits Inconnus, non-révélée. Pour le reste du scénario, la Cité des Choses Très Anciennes est considérée comme connexe à ce lieu, et vice versa.",
         "traits": "Extradimensionnel. Autre Monde.",
         "back_name": "Endroits Inconnus",
-        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n- H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "back_traits": "Extradimensionnel."
     },
     {
         "code": "05137",
         "flavor": "Cela semble être les ruines de la Maison de la Sorcière, peut-être une vision du bâtiment dans le futur. C'est un amas de briques effondrées et noircies, de bardeaux couverts de mousse et de planches pourries.",
         "name": "Ruines de la Maison de la Sorcière",
-        "text": "[action] : <b>Enquêter.</b> En cas de réussite, au lieu de découvrir des indices, soignez 2 horreurs. (Limite d'une fois par partie.)\n<b>Hanté</b> - Perdez 1 action.",
+        "text": "[action] : <b>Enquêter</b>. En cas de réussite, au lieu de découvrir des indices, soignez 2 horreurs. (Limite d'une fois par partie.)\n<b>Hanté</b> – Perdez 1 action.",
         "traits": "Extradimensionnel. Maison de la Sorcière.",
         "back_name": "Endroits Inconnus",
-        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n- H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "back_traits": "Extradimensionnel."
     },
     {
         "code": "05138",
-        "flavor": "…et Cotton Mather lui-même fut incapable d'interpréter les courbes et les angles barbouillés sur la pierre grise des murs avec un liquide rouge visqueux.\n- H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "flavor": "…et Cotton Mather lui-même fut incapable d'interpréter les courbes et les angles barbouillés sur la pierre grise des murs avec un liquide rouge visqueux.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "name": "Geôles de Salem, 1692",
-        "text": "[action]: Effectuez un test de [intellect] (3). En cas de réussite, déplacez-vous vers n'importe quel lieu révélé. (Limite d'une fois par partie.)\n<b>Hanté</b>- Déplacez-vous vers la Chambre de Keziah.",
+        "text": "[action] : effectuez un test de [intellect] (3). En cas de réussite, déplacez-vous vers n'importe quel lieu révélé. (Limite d'une fois par partie.)\n<b>Hanté</b>- Déplacez-vous vers la Chambre de Keziah.",
         "traits": "Extradimensionnel. Salem.",
         "back_name": "Endroits Inconnus",
-        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n- H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "back_traits": "Extradimensionnel."
     },
     {
@@ -174,80 +174,80 @@
         "text": "[reaction] Après avoir enquêté avec succès dans la Classe de Physique avec une différence de 2 ou plus : découvrez un indice dans un autre lieu révélé. (Limite d'une fois par round.)",
         "traits": "Extradimensionnel. Miskatonic.",
         "back_name": "Endroits Inconnus",
-        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n- H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "back_traits": "Extradimensionnel."
     },
     {
         "code": "05140",
         "name": "Cour des Grands Anciens",
         "subname": "Un Futur pas si Lointain",
-        "text": "<b>Forcé</b> - Après être entré dans la Cour des Grands Anciens, effectuez un test de [willpower] (3). En cas d'échec, subissez 1 horreur pour chaque point manquant.\n<b>Hanté</b> - La prochaine action que vous effectuez à ce round doit être une action Enquêter.",
+        "text": "<b>Forcé</b> – Après être entré dans la Cour des Grands Anciens, effectuez un test de [willpower] (3). En cas d'échec, subissez 1 horreur pour chaque point manquant.\n<b>Hanté</b> – La prochaine action que vous effectuez à ce round doit être une action Enquêter.",
         "traits": "Extradimensionnel. Autre Monde.",
         "back_name": "Endroits Inconnus",
-        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n- H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "back_flavor": "Il était possible aussi que les habitants d'un monde de dimensions données puissent survivre à l'entrée dans beaucoup de mondes inconnus et incompréhensibles à dimensions supplémentaires ou indéfiniment multipliées - qu'ils soient à l'intérieur ou à l'extérieur du continuum espace-temps donné - et que la réciproque soit également vraie.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "back_traits": "Extradimensionnel."
     },
     {
         "code": "05141",
         "name": "Site du Sacrifice",
-        "text": "[action] Les investigateurs dans ce lieu dépensent collectivement 1 [per_investigator] indice : retirez 1 fatalité de Nahab. Cette action ne provoque pas d'attaque d'opportunité de la part de Nahab.\n<b>Forcé</b> - À la fin du round, ajoutez des indices sur ce lieu jusqu'à ce qu'il y ait 3 [per_investigator] indices dessus.\n<b>Hanté</b> - Vous devez soit placer 1 fatalité sur Nahab, soit Nahab vous attaque.",
+        "text": "[action] Les investigateurs dans ce lieu dépensent collectivement 1 [per_investigator] indice : retirez 1 fatalité de Nahab. Cette action ne provoque pas d'attaque d'opportunité de la part de Nahab.\n<b>Forcé</b> – À la fin du round, ajoutez des indices sur ce lieu jusqu'à ce qu'il y ait 3 [per_investigator] indices dessus.\n<b>Hanté</b> – Vous devez soit placer 1 fatalité sur Nahab, soit Nahab vous attaque.",
         "traits": "Extradimensionnel. Maison de la Sorcière.",
-        "back_flavor": "… il se retrouva bientôt dans un petit espace rudimentaire, aveugle, où des poutres et des planches grossières se rejoignaient au faîte juste au-dessus de sa tête, et un curieux plancher s'abassait obliquement sous ses pieds. Posés d'aplomb sur des étais, des meubles bas pleins de livres à tous les degrés d'antiquité et de désintégration, et au milieu une table et un banc, apparemment cloués sur place.\n– H. P. Lovecraft, <u>La Maison de la Sorcière</u>"
+        "back_flavor": "… il se retrouva bientôt dans un petit espace rudimentaire, aveugle, où des poutres et des planches grossières se rejoignaient au faîte juste au-dessus de sa tête, et un curieux plancher s'abaissait obliquement sous ses pieds. Posés d'aplomb sur des étais, des meubles bas pleins de livres à tous les degrés d'antiquité et de désintégration, et au milieu une table et un banc, apparemment cloués sur place.\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>"
     },
     {
         "code": "05142",
         "name": "Étrange Géométrie",
-        "text": "<b>Révélation</b> - Mettez en jeu Étrange Géométrie et déplacez-vous-y.\n<b>Forcé</b> - Après la fin de la phase d'investigation : défaussez Étrange Géométrie et déplacez chaque investigateur et chaque ennemi qui s'y trouve vers le lieu avec le plus d'indices. Chaque investigateur qui s'est déplacé par cet effet subit 1 dégât et 1 horreur.\n[free] Si Étrange Géométrie n'a pas d'indice sur elle : déplacez-vous vers n'importe quel lieu révélé.",
+        "text": "<b>Révélation</b> – Mettez en jeu Étrange Géométrie et déplacez-vous-y.\n<b>Forcé</b> – Après la fin de la phase d'Investigation : défaussez Étrange Géométrie et déplacez chaque investigateur et chaque ennemi qui s'y trouve vers le lieu avec le plus d'indices. Chaque investigateur qui s'est déplacé par cet effet subit 1 dégât et 1 horreur.\n[fast] Si Étrange Géométrie n'a pas d'indice sur elle : déplacez-vous vers n'importe quel lieu révélé.",
         "traits": "Extradimensionnel."
     },
     {
         "code": "05143",
         "name": "Compagnon Inopportun",
-        "text": "<b>Révélation</b> - Si Brown Jenkin n'est pas en jeu, cherchez-le dans le deck Rencontre ou dans la pile de défausse Rencontre, générez-le dans votre lieu et subissez 1 dégât. Sinon, cherchez une Nuée de Rats dans le deck Rencontre ou dans la pile de défausse Rencontre, générez-la engagée avec vous, puis subissez 1 dégât.",
+        "text": "<b>Révélation</b> – Si Brown Jenkin n'est pas en jeu, cherchez-le dans le deck Rencontre ou dans la pile de défausse Rencontre, générez-le dans votre lieu et subissez 1 dégât. Sinon, cherchez une Nuée de Rats dans le deck Rencontre ou dans la pile de défausse Rencontre, générez-la engagée avec vous, puis subissez 1 dégât.",
         "traits": "Malédiction."
     },
     {
         "code": "05144",
         "name": "Présence Fantomatique",
-        "text": "<b>Révélation</b> - Si Nahab est en jeu, redressez-la, résolvez son mot-clé Chasseur et elle attaque chaque investigateur dans son lieu. Si Nahab est dans le Site du Sacrifice, placez également 1 fatalité sur elle. Sinon, cherchez Nahab dans le deck Rencontre ou dans la pile de défausse Rencontre et générez-la dans votre lieu.",
+        "text": "<b>Révélation</b> – Si Nahab est en jeu, redressez-la, résolvez son mot-clé Chasseur et elle attaque chaque investigateur dans son lieu. Si Nahab est dans le Site du Sacrifice, placez également 1 fatalité sur elle. Sinon, cherchez Nahab dans le deck Rencontre ou dans la pile de défausse Rencontre et générez-la dans votre lieu.",
         "traits": "Présage."
     },
     {
         "code": "05145",
-        "flavor": "Le matin du 29, Gilman s'éveilla dans un maelström d'horreur. – H. P. Lovecraft, <u>La Maison de la Sorcière</u>",
+        "flavor": "Le matin du 29, Gilman s'éveilla dans un maelström d'horreur. – H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "name": "Visions Extradimensionnelles",
-        "text": "<b>Révélation</b> - Effectuez un test de [willpower] (2). La difficulté de ce test augmente 1 pour chaque groupe de 10 cartes dans la pile de défausse Rencontre. En cas d'échec, défaussez un soutien que vous contrôlez .",
+        "text": "<b>Révélation</b> – Effectuez un test de [willpower] (2). La difficulté de ce test augmente 1 pour chaque groupe de 10 cartes dans la pile de défausse Rencontre. En cas d'échec, défaussez un soutien que vous contrôlez.",
         "traits": "Sortilège."
     },
     {
         "code": "05146",
         "name": "Attiré par les Étoiles",
-        "text": "<b>Révélation</b> - Mettez en jeu Attiré par les Étoiles dans votre zone de menace.\n<b>Forcé</b> - À la fin de votre tour, si vous ne vous êtes pas déplacé au moins une fois lors de votre tour : subissez 2 horreurs.\n[action] : effectuez un test de [willpower] (3). En cas de réussite, défaussez Attiré par les Étoiles du jeu. S'il y a un ennemi [[Ensorceleur]] incliné dans votre lieu, ce test réussit automatiquement.",
+        "text": "<b>Révélation</b> – Mettez en jeu Attiré par les Étoiles dans votre zone de menace.\n<b>Forcé</b> – À la fin de votre tour, si vous ne vous êtes pas déplacé au moins une fois lors de votre tour : subissez 2 horreurs.\n[action] : effectuez un test de [willpower] (3). En cas de réussite, défaussez Attiré par les Étoiles du jeu. S'il y a un ennemi [[Ensorceleur]] incliné dans votre lieu, ce test réussit automatiquement.",
         "traits": "Sortilège."
     },
     {
         "code": "05147",
         "name": "Rêves Troublants",
-        "text": "<b>Révélation</b> - Effectuez un test de [willpower] (5). En cas d'échec, mettez Rêves Troublants en jeu dans votre zone de menace.\n<b>Forcé</b> - À la fin de votre tour : défaussez la carte du dessus du deck Rencontre.\n<b>Forcé</b> - Quand le deck Rencontre tombe à court de cartes : défaussez Rêves Troublants et révelez les 10 cartes du dessus de votre deck. Piochez chaque faiblesse révélée et défaussez chaque autre carte révélée.",
+        "text": "<b>Révélation</b> – Effectuez un test de [willpower] (5). En cas d'échec, mettez Rêves Troublants en jeu dans votre zone de menace.\n<b>Forcé</b> – À la fin de votre tour : défaussez la carte du dessus du deck Rencontre.\n<b>Forcé</b> – Quand le deck Rencontre tombe à court de cartes : défaussez Rêves Troublants et révélez les 10 cartes du dessus de votre deck. Piochez chaque faiblesse révélée et défaussez chaque autre carte révélée.",
         "traits": "Terreur."
     },
     {
         "code": "05148",
         "name": "Brown Jenkin",
         "subname": "Le Familier de la Sorcière",
-        "text": "Distant. Chasseur.\nChaque ennemi [[Créature]] redressé gagne +2 combat.\n<b>Forcé</b> - Quand la phase des Ennemis se termine, Si Brown Jenkin est redressé : chaque investigateur dans son lieu défausse sa main, puis pioche un nombre équivalent de cartes.",
+        "text": "Distant. Chasseur.\nChaque ennemi [[Créature]] redressé gagne +2 combat.\n<b>Forcé</b> – Quand la phase des Ennemis se termine, Si Brown Jenkin est redressé : chaque investigateur dans son lieu défausse sa main, puis pioche un nombre équivalent de cartes.",
         "traits": "Créature. Familier. Élite."
     },
     {
         "code": "05149",
         "name": "Nahab",
         "subname": "Celle qui a Signé le Livre Noir",
-        "text": "Chasseur. Riposte.\nNe retirez pas les fatalités sur Nahab quand l'intrigue avance.\nNahab gagne +X combat, X étant le numéro de l'intrigue en cours.\n<b>Forcé</b> - Après le début de la phase des Ennemis, si Nahab est redressée : placez 1 fatalité sur elle.",
+        "text": "Chasseur. Riposte.\nNe retirez pas les fatalités sur Nahab quand l'intrigue avance.\nNahab gagne +X combat, X étant le numéro de l'intrigue en cours.\n<b>Forcé</b> – Après le début de la phase des Ennemis, si Nahab est redressée : placez 1 fatalité sur elle.",
         "traits": "Monstre. Geist. Ensorceleur. Élite."
     },
     {
         "code": "05150",
-        "flavor": "Il devait signer de son sang le livre d'Azatoth et adopter un nouveau nom secret... \n– H.P. Lovecraft, La Maison de la Sorcière",
+        "flavor": "Il devait signer de son sang le livre d'Azathoth et adopter un nouveau nom secret…\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>",
         "name": "Le Livre Noir",
         "subname": "Le Signer de son Sang",
         "text": "Vous gagnez +1 [willpower] et +1 [intellect].\n[reaction] Quand vous jouez une carte, inclinez Le Livre Noir et subissez X horreurs : réduisez de X le coût de cette carte.",

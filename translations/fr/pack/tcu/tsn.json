@@ -3,12 +3,12 @@
         "code": "05109",
         "flavor": "Je ne peux pas mourir ici. Pas maintenant. Pas déjà.",
         "name": "Une Raison de Lutter",
-        "text": "Une Raison de Lutter peut se voir assigner les horreurs infligées aux autres investigateurs dans votre lieu",
+        "text": "Une Raison de Lutter peut se voir assigner les horreurs infligées aux autres investigateurs dans votre lieu.",
         "traits": "Talent."
     },
     {
         "code": "05110",
-        "flavor": "« ...lorsque vous avez éliminé l'impossible, ce qui reste, si improbable soit-il, est nécessairement la vérité. »\n– Sir Arthur Conan Doyle, « Le soldat blanchi »",
+        "flavor": "« …lorsque vous avez éliminé l'impossible, ce qui reste, si improbable soit-il, est nécessairement la vérité. »\n– Sir Arthur Conan Doyle, « Le soldat blanchi »",
         "name": "Élucider l'Affaire",
         "text": "Rapide. À jouer après qu'un investigateur a découvert le dernier indice restant dans votre lieu.\nLes investigateurs dans ce lieu gagnent un total de X ressources réparties comme vous le souhaitez. X est la valeur occulte de ce lieu.",
         "traits": "Perspicacité."

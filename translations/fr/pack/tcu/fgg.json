@@ -58,7 +58,7 @@
         "flavor": "Nous aurions dû le renvoyer immédiatement.\nMais comment aurions-nous pu savoir ?",
         "name": "Totem Macabre",
         "text": "[reaction] Après que vous avez attribué une carte à un test de compétence, inclinez le Totem Macabre : la carte attribuée gagne une occurrence supplémentaire de l'une de ses icônes de compétence de votre choix. Si le test est réussi, l'investigateur qui effectuait le test pioche 1 carte.",
-        "traits": "Objet. Charme. Maudit",
+        "traits": "Objet. Charme. Maudit.",
         "slot": "Accessoire"
     },
     {
@@ -66,14 +66,14 @@
         "flavor": "Nous aurions dû le renvoyer immédiatement.\nMais comment aurions-nous pu savoir ?",
         "name": "Totem Macabre",
         "text": "[reaction] Après que vous avez attribué une carte à un test de compétence, inclinez le Totem Macabre : la carte attribuée gagne une occurrence supplémentaire de l'une de ses icônes de compétence de votre choix. Si le test échoue, renvoyez dans votre main la carte attribuée.",
-        "traits": "Objet. Charme. Béni",
+        "traits": "Objet. Charme. Béni.",
         "slot": "Accessoire"
     },
     {
         "code": "05196",
         "name": "Le Coffre du Conseil",
         "subname": "Qu'y a-t-il dans la Boîte ?",
-        "text": "Utilisations (1[per_investigator] verrou). S'il n'y aucun verrou sur Le Coffre du Conseil, chaque joueur cherche n'importe quelle carte dans son deck ou dans sa pile de défausse et la joue immédiatement sans payer de coût.\nBannissez Le Coffre du Conseil. (Maximum d'une fois par campagne.)\n[action][action] : effectuez un test de n'importe quelle compétence (5). En cas de réussite, retirez 1 verrou. N'importe quel investigateur dans votre lieu a le droit d'activer cette capacité.\n<b>Carte conçue par</b> [[The Council]] <b>lors des</b> [[Arkham Nights]] <b>2017.</b>",
+        "text": "Utilisations (1 [per_investigator] verrou). S'il n'y aucun verrou sur Le Coffre du Conseil, chaque joueur cherche n'importe quelle carte dans son deck ou dans sa pile de défausse et la joue immédiatement sans payer de coût.\nBannissez Le Coffre du Conseil. (Maximum d'une fois par campagne.)\n[action][action] : effectuez un test de n'importe quelle compétence (5). En cas de réussite, retirez 1 verrou. N'importe quel investigateur dans votre lieu a le droit d'activer cette capacité.\n<b>Carte conçue par <i>The Council</i> lors des <i>Arkham Nights</i> 2017.</b>",
         "traits": "Objet. Relique."
     }
 ]

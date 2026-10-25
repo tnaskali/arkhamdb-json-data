@@ -7,34 +7,34 @@
     },
     {
         "code": "05326",
-        "flavor": "ONE END IS ANOTHER BEGINNING.\nCHANGE IS THE ONLY CONSTANT.\nYOUR ULTIMATE FATE IS AT HAND.",
-        "name": "WHEEL OF FORTUNE · X",
-        "text": "Each location is connected to each location adjacent to it.\nDo not remove doom from enemies when this agenda advances.",
-        "back_name": "Rejoice, For the End is Near!",
-        "back_flavor": "Somehow, you're not the only human here. They are but mindless husks - almost entirely devoid of humanity, nothing but flesh, muscle, and bone, preserved for eternity in their single-minded passion, kneeling and chanting in foul worship: \"Azathoth! Azathoth! The end has come!\"",
-        "back_text": "Each [[Cultist]] enemy commits ritual suicide. Discard each [[Cultist]] enemy in play and move all doom from them to Azathoth.\nThe lead investigator must search the encounter deck and discard pile for a copy of Daemonic Piping and draw it.\n<hr><blockquote><i>Endless walkways and steps of black stone are the only routes which guide you to your destination. It is an impossible maze to navigate.</i></blockquote>\nCheck Campaign Log. If <i>Gilman's Journal</i> is listed under \"Mementos Discovered,\" you are able to find you way. Otherwise, you become hopelessly lost; each investigator must either move to the location to his or her left, or move the placement of his or her location once to the left (placing an empty space in the spot it previously occupied). A location cannot move more than once via this effect."
+        "flavor": "<span class='unquiet-spirit-font'>UNE FIN EST UN AUTRE COMMENCEMENT.\nLA SEULE CONSTANTE EST LE CHANGEMENT.\nVOTRE DESTIN EST À PORTÉE DE MAIN.</span>",
+        "name": "X · LA ROUE DE LA FORTUNE",
+        "text": "Chaque lieu est connexe à chaque lieu qui lui est adjacent.\nNe retirez pas les fatalités des ennemis quand cette intrigue avance.",
+        "back_name": "Réjouissez-vous, la Fin Est Proche !",
+        "back_flavor": "Étrangement, il y a d'autres êtres humains ici. Mais ce ne sont que des coquilles vides, presque entièrement dénuées d'humanité, rien que de la chair, des muscles et des os, préservés pour l'éternité dans leur passion monomaniaque : s'agenouiller et scander leur vénération impie : « Azathoth ! Azathoth ! La fin est venue ! »",
+        "back_text": "Chaque ennemi [[Cultiste]] commet un suicide rituel. Défaussez chaque ennemi [[Cultiste]] en jeu et déplacez toutes les fatalités sur ces ennemis vers Azathoth.\nL'investigateur principal doit chercher un exemplaire d'Air de Flûte Démoniaque dans le deck Rencontre ou dans la pile de défausse Rencontre et le piocher.\n<hr><blockquote><i>Des allées sans fin et des marches de pierre noire constituent les seules routes vers votre destination. C'est un labyrinthe où il est impossible de s'orienter.</i></blockquote>\nVérifiez le Carnet de Campagne. Si <i>le journal de Gilman</i> est inscrit sous la mention « souvenirs découverts », vous parvenez à trouver votre chemin. Sinon vous êtes totalement perdu ; chaque investigateur doit soit se déplacer vers le lieu à sa gauche, soit déplacer son lieu d'un cran vers la gauche (créant un espace vide à l'emplacement précédemment occupé). Un lieu ne peut pas être déplacé plus d'une fois par cet effet."
     },
     {
         "code": "05327",
-        "flavor": "...the boundless daemon-sultan Azathoth, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time amidst the muffled, maddening beating of vile drums and the thin, monotonous whine of accursed flutes...\n– H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
-        "name": "It Awaits",
-        "text": "Each location is connected to each location adjacent to it.\nDo not remove doom from enemies when this agenda advances.",
-        "back_name": "Gnawing Hungrily",
-        "back_text": "Each [[Cultist]] enemy commits ritual suicide. Discard each [[Cultist]] enemy in play and move all doom from them to Azathoth.\nThe lead investigator must search the encounter deck and discard pile for a copy of Daemonic Piping and draw it.\n<hr><blockquote><i>In this oblivion outside time, nothing is as it should be. The mist dances and churns around you. Laughter mocks you from beyond, and out from the dark nebulae emerges a familiar wraith, a being which should be long dead.</i></blockquote>\nCheck Campaign Log. If <i>Worn Crucifix</i> is listed under \"Mementos Discovered,\" the wraith recognizes the crucifix you stole from Walter Gilman's room and backs away slowly, slinking into the darkness beyond.\nOtherwise, the wraith attacks you; each investigator must test [willpower] (4). Each investigator who fails takes 1 damage and 1 horror."
+        "flavor": "L'illimité Azathoth, ce sultan des démons dont aucune bouche n'ose dire le nom à voix haute, se goinfre au milieu des battements sourds et insensés d'abominables tambours et des faibles lamentations monotones d'exécrables flûtes…\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>",
+        "name": "Il Attend",
+        "text": "Chaque lieu est connexe à chaque lieu qui lui est adjacent.\nNe retirez pas les fatalités des ennemis quand cette intrigue avance.",
+        "back_name": "Faim Dévorante",
+        "back_text": "Chaque ennemi [[Cultiste]] commet un suicide rituel. Défaussez chaque ennemi [[Cultiste]] en jeu et déplacez toutes les fatalités sur ces ennemis vers Azathoth.\nL'investigateur principal doit chercher un exemplaire d'Air de Flûte Démoniaque dans le deck Rencontre ou dans la pile de défausse Rencontre et le piocher.\n<hr><blockquote><i>Dans cet enfer hors du temps, rien n'est ce qu'il devrait être. La brume danse et tournoie autour de vous. Des rires moqueurs s'élèvent et un spectre familier émerge d'une sombre nébuleuse, un être que vous pensiez mort depuis longtemps.</i></blockquote>\nVérifiez le Carnet de Campagne. Si le <i>Crucifix Usagé</i> est inscrit sous la mention « souvenirs découverts », le spectre reconnaît le crucifix que vous avez volé dans la chambre de Walter Gilman et recule lentement, se fondant dans les ténèbres derrière lui.\nSinon, le spectre vous attaque ; chaque investigateur doit effectuer un test de [willpower] (4). Chaque investigateur qui échoue subit 1 dégât et 1 horreur."
     },
     {
         "code": "05328",
-        "flavor": "...that leering, tittering shantak coursed on impetuous and relentless, flapping its great slippery wings in malignant joy, and headed for those unhallowed pits whither no dreams reach... \n– H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
-        "name": "The Final Countdown",
-        "text": "Each location is connected to each location adjacent to it.\nDo not remove doom from enemies when this agenda advances. (<i>Beware - the scenario will not end when this agenda advances, but the doom of the world will be close at hand.</i>)",
-        "back_name": "Azathoth Stirs",
-        "back_text": "Each [[Cultist]] enemy commits ritual suicide. Discard each [[Cultist]] enemy in play and move all doom from them to Azathoth.\nThe lead investigator must search the encounter deck and discard pile for a copy of Daemonic Piping and draw it.\nThere is no longer an agenda deck, but the scenario is not over. Until the end of the scenario, doom that would be placed on the current agenda is instead placed on Azathoth, and all doom in play is considered to be on Azathoth.\n<hr><blockquote><i>You come across another circle of Azathoth's worshippers, led by a hooded, shapeless form which holds an ancient lantern high above its head. The lantern's dim grey light scarcely pierces the realm's darkness. Somehow, the phantom is familiar to you; some vague sense of kinship drives you onward.</i></blockquote>\nCheck Campaign Log. If <i>Corn Husk Doll</i> is listed under \"Mementos Discovered,\" the creature recognizes you, as well. It peers at you curiously, and the circle of prayer is silenced; remove 1 doom from Azathoth. Otherwise, the creature barely notices you, and the circle resumes its chanting."
+        "flavor": "…le shantak ricanant précipita sa course impétueuse et, battant de ses grandes ailes glissantes avec une joie maligne, se dirigea tout droit vers ces gouffres interdits qu'aucun rêve n'a jamais atteint…\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>",
+        "name": "Le Compte à Rebours Final",
+        "text": "Chaque lieu est connexe à chaque lieu qui lui est adjacent.\nNe retirez pas les fatalités des ennemis quand cette intrigue avance. <i>(Attention - ce scénario ne se terminera pas quand cette intrigue avancera, mais la fin du monde sera toute proche.)</i>",
+        "back_name": "Azathoth s'Agite…",
+        "back_text": "Chaque ennemi [[Cultiste]] commet un suicide rituel. Défaussez chaque ennemi [[Cultiste]] en jeu et déplacez toutes les fatalités sur ces ennemis vers Azathoth.\nL'investigateur principal doit chercher un exemplaire d'Air de Flûte Démoniaque dans le deck Rencontre ou dans la pile de défausse Rencontre et le piocher.\nIl n'y a plus de deck Intrigue, mais ce scénario n'est pas terminé. Jusqu'à la fin du scénario, toutes les fatalités qui devraient être placées sur l'intrigue en cours sont placés sur Azathoth à la place, et toutes les fatalités en jeu sont considérées comme étant sur Azathoth.\n<hr><blockquote><i>Vous passez au travers d'un autre cercle d'adorateurs d'Azathoth, mené par une silhouette informe dissimulée sous un capuchon et portant une vieille lanterne au-dessus de la tête. La lueur grise et terne de la lanterne parvient à peine à percer les ténèbres de ce monde. Ce fantôme vous semble familier ; et cette vague sensation de parenté vous pousse en avant.</i></blockquote>\nVérifiez le Carnet de Campagne. Si la <i>Poupée de Maïs</i> est inscrite sous la mention « souvenirs découverts », la créature vous reconnaît également. Elle vous scrute avec curiosité et le cercle des prieurs se tait. Retirez 1 fatalité d'Azathoth. Sinon, la créature vous remarque à peine et le cercle continue ses incantations."
     },
     {
         "code": "05329",
         "flavor": "Vous avez parcouru une distance impossible par la brèche qui s'étend à l'infini dans la mâchoire béante du ciel, pourtant, vous êtes encore loin du trône obscur où Azathoth s'agite.",
         "name": "Le Cosmos vous Appelle",
-        "text": "[action] Dépensez X indices : piochez les X cartes du dessus du Cosmos. Choisissez-en une à mettre en jeu en utilisant ses instructions « <b>Cosmos</b> - » et déplacez-vous-y. Mélangez les cartes restantes dans le Cosmos.\n<b>Objectif</b> - Seuls les investigateurs dans le Palais Hideux ont le droit de dépenser collectivement le nombre d'indices requis pour avancer. (<i>Attention - tout investigateur qui ne sera pas présent sera tué.</i>)",
+        "text": "[action] Dépensez X indices : piochez les X cartes du dessus du Cosmos. Choisissez-en une à mettre en jeu en utilisant ses instructions « <b>Cosmos</b> – » et déplacez-vous-y. Mélangez les cartes restantes dans le Cosmos.\n<b>Objectif</b> – Seuls les investigateurs dans le Palais Hideux ont le droit de dépenser collectivement le nombre d'indices requis pour avancer. (<i>Attention - tout investigateur qui ne sera pas présent sera tué.</i>)",
         "back_name": "Palais des Grands Anciens",
         "back_flavor": "Votre monture vous amène jusqu'à l'entrée d'un palais cauchemardesque dont les couloirs intérieurs semblent aussi vastes et caverneux que l'espace libre qui l'entoure. C'est comme si ses portes étaient le seuil d'un autre monde, aussi désolé et sans fin que le précédent.",
         "back_text": "Retirez l'Entrée Cosmique de la partie. Mélangez chaque espace vide dans le deck de son propriétaire, et mélangez dans le Cosmos chaque lieu en jeu autre que le Palais Hideux. Chaque investigateur dans ces lieux est laissé en arrière et tué. Chaque ennemi dans ces lieux est mélangé aux 5 cartes du dessus du deck Rencontre.\nPrenez la Cour des Grands Anciens et les 2 cartes du dessus du Cosmos et mélangez-les ensemble afin de ne plus pouvoir les différencier. Ensuite, mettez-les en jeu avec des espaces vides comme indiqué au paragraphe « Placement des Lieux pour l'Acte 2 » du Guide de Campagne.\nDans l'ordre des joueurs, chaque investigateur pioche la carte du dessus du deck Rencontre."
@@ -43,133 +43,133 @@
         "code": "05330",
         "flavor": "Vous tremblez jusqu'aux os dans ce lieu vide, froid et silencieux. Aucune lumière ne pénètre ces couloirs noirs. Aucune chaleur ne vous atteint. Aucune brise ne caresse votre peau. C'est sans doute à cela que ressemble la mort, pensez-vous dans un éclair de morbidité.",
         "name": "Dans le Domaine d'Azathoth",
-        "text": "[action] Dépensez X indices : piochez les X cartes du dessus du Cosmos. Choisissez-en une à mettre en jeu en utilisant ses instructions « <b>Cosmos</b> - » et déplacez-vous-y. Mélangez les cartes restantes dans le Cosmos.\n<b>Objectif</b> - Seuls les investigateurs dans la Cour des Grands Anciens ont le droit de dépenser collectivement le nombre d'indices requis pour avancer. (<i>Attention - tout investigateur qui ne sera pas présent sera tué.</i>)",
+        "text": "[action] Dépensez X indices : piochez les X cartes du dessus du Cosmos. Choisissez-en une à mettre en jeu en utilisant ses instructions « <b>Cosmos</b> – » et déplacez-vous-y. Mélangez les cartes restantes dans le Cosmos.\n<b>Objectif</b> – Seuls les investigateurs dans la Cour des Grands Anciens ont le droit de dépenser collectivement le nombre d'indices requis pour avancer. (<i>Attention - tout investigateur qui ne sera pas présent sera tué.</i>)",
         "back_name": "Noyau de l'Univers",
         "back_flavor": "La créature ailée atterrit dans une allée tortueuse faite de pierre noire qui s'étend dans un horizon sans fin de néant total. Vous devez prodiguer nombre d'encouragements à votre monture pour la convaincre d'aller plus loin. Visiblement, même la plus épouvantable des créatures est terrifiée par ce lieu. Vous pouvez enfin entendre les psalmodies absurdes des proches du sultan des démons, les lamentations aliénantes des flûtes et les battements monotones des tambours qui résonnent sans cesse dans votre esprit …",
         "back_text": "Retirez le Palais Hideux de la partie. Mélangez chaque espace vide dans le deck de son propriétaire, et mélangez dans le Cosmos chaque lieu en jeu autre que la Cour des Grands Anciens. Chaque investigateur dans ces lieux est laissé en arrière et tué. Chaque ennemi dans ces lieux est mélangé aux 5 cartes du dessus du deck Rencontre.\nPrenez Le Trône Noir et les 3 cartes du dessus du Cosmos et mélangez-les ensemble afin de ne plus pouvoir les différencier. Ensuite, mettez-les en jeu avec des espaces vides comme indiqué au paragraphe « Placement des Lieux pour l'Acte 3 » du Guide de Campagne.\nDans l'ordre des joueurs, chaque investigateur pioche la carte du dessus du deck Rencontre."
     },
     {
         "code": "05331",
-        "flavor": "You are close now. You can feel the churning and twisting of aeons in the emptiness around you. Here, in the nucleus of all things — the very center of chaos itself — your objective, and your ultimate fate, lie at hand.",
-        "name": "What Must Be Done",
-        "text": "[action] Spend X clues: Draw the top X cards of the Cosmos. Choose one to put into play using its \"<b>Cosmos</b> -\" instructions, and move to it. Shuffle the rest back into the Cosmos.\n<b>Objective</b> - If the lead investigator is at The Black Throne and there are no clues on it, advance.",
-        "back_name": "The End",
-        "back_flavor": "You stand on a precipice before the Black Throne and gaze up at the blind, voiceless monstronsity that is Azathoth. The mere sight of it causes your vision to blur and your body to shake uncontrollably. The monotonous piping is so loud now, it rattles your bones and nearly causes you to vomit from the force upon your insides. Blood drips from your eyes and your ears.\nShould Azathoth awaken, it will devour every world that ever was. You must act now, before it is too late.",
-        "back_text": "Check Campaign Log.\n- If at least two of the following are true, you may proceed to <b>(→R2)</b>: <i>You accepted your fate</i>, <i>Mesmirizing Flute</i> is listed under \"Mementos Discovered,\" and <i>Ritual Components</i> is listed under \"Mementos Discovered.\"\n- If at least two of the following are true, you may proceed to <b>(→R3)</b>: <i>You rejected your fate</i>, <i>Scrap of Torn Shadow</i> is listed under \"Mementos Discovered,\" and <i>Wisp of Spectral Mist</i> is listed under \"Mementos Discovered.\"\n- Otherwise, <b>(→R4)</b>."
+        "flavor": "Nous sommes tout proches désormais. Vous pouvez sentir le tournoiement des éons dans le néant alentour. Ici, dans le noyau de toute chose - le centre du chaos lui-même - votre but et votre ultime destinée se trouvent à portée de main.",
+        "name": "Ce Qui Doit Être Fait",
+        "text": "[action] Dépensez X indices : piochez les X cartes du dessus du Cosmos. Choisissez-en une à mettre en jeu en utilisant ses instructions « <b>Cosmos</b> – » et déplacez-vous-y. Mélangez les cartes restantes dans le Cosmos.\n<b>Objectif</b> – Si l'investigateur principal est sur le Trône Noir et qu'il n'y a pas d'indices dessus, avancez.",
+        "back_name": "La Fin",
+        "back_flavor": "Vous vous tenez au bord du précipice devant le Trône Noir et vous plongez votre regard sur la monstruosité aveugle et muette qu'est Azathoth. Le simple fait de le regarder trouble votre vue et votre corps se met à trembler de manière incontrôlable. Les airs de flûtes monotones sont à présent si forts qu'ils pénètrent jusque dans vos os et vous vomissez tripes et boyaux. Du sang commence à s'écouler de vos yeux et de vos oreilles.\nSi Azathoth venait à se réveiller, il dévorerait tous les mondes qui ont jamais existé. Vous devez agir avant qu'il ne soit trop tard.",
+        "back_text": "Vérifiez le Carnet de Campagne.\n- Si au moins deux des points suivants sont vrais, vous pouvez continuer à <b>(→C2)</b> : <i>vous avez accepté votre destin</i> ; <i>Flûte Envoûtante</i> est inscrit sous la mention « souvenirs découverts » ; <i>Ingrédients du Rituel</i> est inscrit sous la mention « souvenirs découverts ».\n- Si au moins deux des points suivants sont vrais, vous pouvez continuer à <b>(→C3)</b> : <i>vous avez rejeté votre destin</i> ; <i>Lambeaux d'Ombre Déchirée</i> est inscrit sous la mention « souvenirs découverts » ; <i>Poignée de Brume Spectrale</i> est inscrit sous la mention « souvenirs découverts ».\n- Sinon <b>(→C4)</b>."
     },
     {
         "code": "05332",
         "name": "Entrée Cosmique",
-        "text": "<b>Forcé</b> - À la fin du round : ajoutez des indices sur l'Entrée Cosmique jusqu'à ce qu'il y ait 3 indices dessus.\nChaque lieu [[Néant]] gagne : « [action] : mélangez ce lieu dans le Cosmos, en déplaçant chaque investigateur et chaque ennemi qui étaient dans ce lieu vers l'Entrée Cosmique. »",
+        "text": "<b>Forcé</b> – À la fin du round : ajoutez des indices sur l'Entrée Cosmique jusqu'à ce qu'il y ait 3 indices dessus.\nChaque lieu [[Néant]] gagne : « [action] : mélangez ce lieu dans le Cosmos, en déplaçant chaque investigateur et chaque ennemi qui étaient dans ce lieu vers l'Entrée Cosmique. »",
         "traits": "Autre Monde.",
-        "back_flavor": "…l'horrible monture écailleuse emportait toujours de l'avant son cavalier sans défense. À folle vitesse, franchissant l'extrême cercle et traversant les plus profonds abîmes, laissant derrière eux les étoiles et les royaumes de la matière, ils se précipitaient comme des météores à travers l'informe vers les cavités inconcevables et sombres qui s'ouvrent au delà du temps…\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>"
+        "back_flavor": "…l'horrible monture écailleuse emportait toujours de l'avant son cavalier sans défense. À folle vitesse, franchissant l'extrême cercle et traversant les plus profonds abîmes, laissant derrière eux les étoiles et les royaumes de la matière, ils se précipitaient comme des météores à travers l'informe vers les cavités inconcevables et sombres qui s'ouvrent au delà du temps…\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>."
     },
     {
         "code": "05333",
         "name": "Palais Hideux",
-        "text": "<b>Forcé</b> - À la fin du round : ajoutez des indices sur le Palais Hideux jusqu'à ce qu'il y ait 4 indices dessus.\nChaque lieu [[Néant]] gagne : « [action]: mélangez ce lieu dans le Cosmos, en déplaçant chaque investigateur et chaque ennemi qui étaient dans ce lieu vers le Palais Hideux. »",
+        "text": "<b>Forcé</b> – À la fin du round : ajoutez des indices sur le Palais Hideux jusqu'à ce qu'il y ait 4 indices dessus.\nChaque lieu [[Néant]] gagne : « [action] : mélangez ce lieu dans le Cosmos, en déplaçant chaque investigateur et chaque ennemi qui étaient dans ce lieu vers le Palais Hideux. »",
         "traits": "Autre Monde.",
         "back_name": "Cosmos",
-        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>"
+        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>."
     },
     {
         "code": "05334",
         "name": "Cour des Grands Anciens",
-        "text": "<b>Forcé</b> - À la fin du round : ajoutez des indices à la Cour des Grands Anciens jusqu'à ce qu'il y ait 6 indices dessus.\nChaque lieu [[Néant]] gagne : « [action]: mélangez ce lieu dans le Cosmos, en déplaçant chaque investigateur et chaque ennemi qui étaient dans ce lieu vers la Cour des Grands Anciens. »",
+        "text": "<b>Forcé</b> – À la fin du round : ajoutez des indices à la Cour des Grands Anciens jusqu'à ce qu'il y ait 6 indices dessus.\nChaque lieu [[Néant]] gagne : « [action] : mélangez ce lieu dans le Cosmos, en déplaçant chaque investigateur et chaque ennemi qui étaient dans ce lieu vers la Cour des Grands Anciens. »",
         "traits": "Autre Monde.",
         "back_name": "Cosmos",
-        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>"
+        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>."
     },
     {
         "code": "05335",
-        "flavor": "…dans le vide central et sans forme, l'Ultime trône de nuit du démon Azathoth.\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>",
+        "flavor": "…dans le vide central et sans forme, l'Ultime trône de nuit du démon Azathoth.\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>.",
         "name": "Le Trône Noir",
-        "text": "Le Trône Noir gagne +X de valeur occulte, X étant la moitié du nombre de fatalités sur Azathoth (arrondie au supérieur).\n<b>Hanté</b> - Vous devez soit placer 1 fatalité sur Azathoth, soit Azathoth vous attaque.",
+        "text": "Le Trône Noir gagne +X de valeur occulte, X étant la moitié du nombre de fatalités sur Azathoth (arrondie au supérieur).\n<b>Hanté</b> – Vous devez soit placer 1 fatalité sur Azathoth, soit Azathoth vous attaque.",
         "traits": "Autre Monde.",
         "back_name": "Cosmos",
-        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>"
+        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>."
     },
     {
         "code": "05336",
         "name": "La Brume des Danseurs",
-        "text": "<b>Cosmos</b> - Vous devez soit établir la connexion à droite, soit perdre 2 ressources et établir la connexion à un lieu adjacent dans la direction de votre choix.\n[reaction] Après vous être déplacé vers La Brume des Danseurs, retirez 1 ressource de la carte de référence du scénario : déplacez-vous vers un lieu connexe.",
+        "text": "<b>Cosmos</b> – Vous devez soit établir la connexion à droite, soit perdre 2 ressources et établir la connexion à un lieu adjacent dans la direction de votre choix.\n[reaction] Après vous être déplacé vers La Brume des Danseurs, retirez 1 ressource de la carte de référence du scénario : déplacez-vous vers un lieu connexe.",
         "traits": "Autre Monde. Néant.",
         "back_name": "Cosmos",
-        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>",
+        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>.",
         "back_traits": "Autre Monde."
     },
     {
         "code": "05337",
         "name": "Ascension vers l'Oubli",
-        "text": "<b>Cosmos</b> - Vous devez soit établir la connexion au-dessus, soit subir 2 horreurs et établir la connexion au lieu révélé le plus au-dessus dans la direction de votre choix.\n[action] Retirez 1 ressource de la carte de référence du scénario : déplacez la position de l'Ascension vers l'Oubli d'un cran vers le haut, en plaçant un espace vide dans l'emplacement qu'elle occupait précédemment. (Limite collective d'une fois par partie.)",
+        "text": "<b>Cosmos</b> – Vous devez soit établir la connexion au-dessus, soit subir 2 horreurs et établir la connexion au lieu révélé le plus au-dessus dans la direction de votre choix.\n[action] Retirez 1 ressource de la carte de référence du scénario : déplacez la position de l'Ascension vers l'Oubli d'un cran vers le haut, en plaçant un espace vide dans l'emplacement qu'elle occupait précédemment. (Limite collective d'une fois par partie.)",
         "traits": "Autre Monde. Néant.",
         "back_name": "Cosmos",
-        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>",
+        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>.",
         "back_traits": "Autre Monde."
     },
     {
         "code": "05338",
         "name": "Infinité de Ténèbres",
-        "text": "<b>Cosmos</b> - Vous devez soit établir la connexion en dessous, soit subir 2 dégâts et établir la connexion au lieu révélé le plus en dessous dans la direction de votre choix.\n[action] Retirez 1 ressource de la carte de référence du scénario : déplacez la position de l'Infinité de Ténèbres d'un cran vers le bas, en plaçant un espace vide dans l'emplacement qu'elle occupait précédemment. (Limite collective d'une fois par partie.)",
+        "text": "<b>Cosmos</b> – Vous devez soit établir la connexion en dessous, soit subir 2 dégâts et établir la connexion au lieu révélé le plus en dessous dans la direction de votre choix.\n[action] Retirez 1 ressource de la carte de référence du scénario : déplacez la position de l'Infinité de Ténèbres d'un cran vers le bas, en plaçant un espace vide dans l'emplacement qu'elle occupait précédemment. (Limite collective d'une fois par partie.)",
         "traits": "Autre Monde. Néant.",
         "back_name": "Cosmos",
-        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>",
+        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>.",
         "back_traits": "Autre Monde."
     },
     {
         "code": "05339",
         "name": "Portail Cosmique",
-        "text": "<b>Cosmos</b> - Établissez la connexion avec n'importe quel lieu révélé, dans la direction de votre choix.\n<b>Forcé</b> - Après être entré dans le Portail Cosmique : vous devez soit dépensez 1 indice, soit subir 1 horreur.\n[action] Retirez 1 ressource de la carte de référence du scénario : déplacez n'importe quel nombre d'investigateurs dans le Portail Cosmique vers un autre lieu [[Néant]].",
+        "text": "<b>Cosmos</b> – Établissez la connexion avec n'importe quel lieu révélé, dans la direction de votre choix.\n<b>Forcé</b> – Après être entré dans le Portail Cosmique : vous devez soit dépenser 1 indice, soit subir 1 horreur.\n[action] Retirez 1 ressource de la carte de référence du scénario : déplacez n'importe quel nombre d'investigateurs dans le Portail Cosmique vers un autre lieu [[Néant]].",
         "traits": "Autre Monde. Néant.",
         "back_name": "Cosmos",
-        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>",
+        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>.",
         "back_traits": "Autre Monde."
     },
     {
         "code": "05340",
-        "name": "Chemin dans le Néant ",
-        "text": "<b>Cosmos</b> - Établissez la connexion dans la direction de votre choix.\n<b>Forcé</b> - Après être entré dans le Chemin dans le Néant : vous devez soit défausser 1 carte de votre main, soit subir 1 dégât.\n[action] Retirez 1 ressource de la carte de référence du scénario : déplacez le Chemin dans le Néant vers n'importe quel emplacement adjacent, en plaçant un espace vide dans l'emplacement qu'il occupait précédemment. (Limite collective d'une fois par round.)",
+        "name": "Chemin dans le Néant",
+        "text": "<b>Cosmos</b> – Établissez la connexion dans la direction de votre choix.\n<b>Forcé</b> – Après être entré dans le Chemin dans le Néant : vous devez soit défausser 1 carte de votre main, soit subir 1 dégât.\n[action] Retirez 1 ressource de la carte de référence du scénario : déplacez le Chemin dans le Néant vers n'importe quel emplacement adjacent, en plaçant un espace vide dans l'emplacement qu'il occupait précédemment. (Limite collective d'une fois par round.)",
         "traits": "Autre Monde. Néant.",
         "back_name": "Cosmos",
-        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue.</u>",
+        "back_flavor": "Les étoiles dansaient ironiquement et, de temps en temps, semblaient presque se changer en pâles signes du destin, signes dont il aurait pu s'étonner si jamais auparavant il ne les avait vus et craints tandis que, éternels, les vents inférieurs hurlaient dans les vagues ténèbres et la solitude qui s'étend au delà du cosmos.\n– H.P. Lovecraft, <i>La Quête onirique de Kadath l'Inconnue</i>.",
         "back_traits": "Autre Monde."
     },
     {
         "code": "05341",
         "name": "Danseur Idiot",
-        "text": "<b>Génération</b> - Espace vide le plus éloigné.\nChasseur.\nLe Danseur Idiot peut entrer dans un espace vide comme s'il s'agissait d'un lieu.\n<b>Forcé</b> - Après que le Danseur Idiot s'est déplacé vers un espace vide via son mot-clé Chasseur : résolvez à nouveau son mot-clé Chasseur. (Limite d'une fois par round.)",
+        "text": "<b>Génération</b> – Espace vide le plus éloigné.\nChasseur.\nLe Danseur Idiot peut entrer dans un espace vide comme s'il s'agissait d'un lieu.\n<b>Forcé</b> – Après que le Danseur Idiot s'est déplacé vers un espace vide via son mot-clé Chasseur : résolvez à nouveau son mot-clé Chasseur. (Limite d'une fois par round.)",
         "traits": "Monstre."
     },
     {
         "code": "05342",
         "name": "Chaos Ultime",
-        "text": "<b>Révélation</b> - Effectuez un test de [willpower] (4). En cas d'échec, attachez Chaos Ultime à Azathoth. En cas d'échec avec une différence de 2 ou plus, subissez 1 dégât et 1 horreur. En cas d'échec avec une différence de 3 ou plus, Chaos Ultime gagne Renfort. Ne peut pas être annulé.\nS'il y a 3 exemplaires de Chaos Ultime attachés à Azathoth, défaussez-les et soit vous placez 1 fatalité sur Azathoth, soit Azathoth attaque chaque investigateur dans l'ordre des joueurs. Ne peut pas être annulé.",
+        "text": "<b>Révélation</b> – Effectuez un test de [willpower] (4). En cas d'échec, attachez Chaos Ultime à Azathoth. En cas d'échec avec une différence de 2 ou plus, subissez 1 dégât et 1 horreur. En cas d'échec avec une différence de 3 ou plus, Chaos Ultime gagne Renfort. Ne peut pas être annulé.\nS'il y a 3 exemplaires de Chaos Ultime attachés à Azathoth, défaussez-les et soit vous placez 1 fatalité sur Azathoth, soit Azathoth attaque chaque investigateur dans l'ordre des joueurs. Ne peut pas être annulé.",
         "traits": "Pouvoir."
     },
     {
         "code": "05343",
-        "flavor": "Il y avait la figure immémoriale du représentant ou de l'envoyé de puissances cachées et redoutables…\n– H. P. Lovecraft, <u>The Dreams in the Witch House</u>",
+        "flavor": "Il y avait la figure immémoriale du représentant ou de l'envoyé de puissances cachées et redoutables…\n– H.P. Lovecraft, <i>La Maison de la Sorcière</i>.",
         "name": "Offre Chuchotée",
-        "text": "Péril\n<b>Révélation</b> - Vous devez (choisir une option): placer 1 fatalité sur Azathoth ou Azathoth vous attaque.",
+        "text": "Péril\n<b>Révélation</b> – Vous devez (choisir une option) : placer 1 fatalité sur Azathoth ou Azathoth vous attaque.",
         "traits": "Pacte."
     },
     {
         "code": "05344",
         "name": "La Fin est Proche !",
-        "text": "<b>Révélation</b> - Effectuez un test de [willpower] (1). La difficulté de ce test augmente de +X, X étant le numéro de l'intrigue en cours. S'il n'y a pas d'intrigue en jeu, X est égal à 4. En cas d'échec, déplacez chaque fatalité de chaque ennemi [[Cultist]] en jeu vers Azathoth (ou placez 1 fatalité sur Azathoth s'il n'y a pas d'ennemi [[Cultist]] en jeu).",
+        "text": "<b>Révélation</b> – Effectuez un test de [willpower] (1). La difficulté de ce test augmente de +X, X étant le numéro de l'intrigue en cours. S'il n'y a pas d'intrigue en jeu, X est égal à 4. En cas d'échec, déplacez chaque fatalité de chaque ennemi [[Cultiste]] en jeu vers Azathoth (ou placez 1 fatalité sur Azathoth s'il n'y a pas d'ennemi [[Cultiste]] en jeu).",
         "traits": "Fin des Temps."
     },
     {
         "code": "05345",
         "name": "Un Monde de Ténèbres",
-        "text": "<b>Révélation</b> - S'il n'y a pas de fatalité sur Azathoth, Un Monde de Ténèbres gagne Renfort. Sinon, pour chaque fatalité sur Azathoth, vous devez choisir une des options suivantes :\n- Perdez 1 ressource.\n- Choisissez et défaussez 1 carte de votre main.\n- Subissez 1 horreur.\n- Subissez 1 dégât.",
+        "text": "<b>Révélation</b> – S'il n'y a pas de fatalité sur Azathoth, Un Monde de Ténèbres gagne Renfort. Sinon, pour chaque fatalité sur Azathoth, vous devez choisir une des options suivantes :\n- Perdez 1 ressource.\n- Choisissez et défaussez 1 carte de votre main.\n- Subissez 1 horreur.\n- Subissez 1 dégât.",
         "traits": "Fin des Temps."
     },
     {
         "code": "05346",
         "name": "Azathoth",
         "subname": "Le Chaos Primordial",
-        "text": "Azathoth inconscient et omnipotent. Il est immunisé contre tous les effets de carte Joueur et contre les actions des investigateursi. Il ne peut être vaincu par aucun moyen.\n<b>Forcé</b> - S'il y a au moins 10 fatalités sur Azathoth : le Dieu Idiot et Aveugle émerge de son trône dans l'ultime néant du Chaos et dévore l'univers. <b>(→C1)</b>",
+        "text": "Azathoth est inconscient et omnipotent. Il est immunisé contre tous les effets de carte Joueur et contre les actions des investigateurs. Il ne peut être vaincu par aucun moyen.\n<b>Forcé</b> – S'il y a au moins 10 fatalités sur Azathoth : le Dieu Idiot et Aveugle émerge de son trône dans l'ultime néant du Chaos et dévore l'univers. <b>(→C1)</b>",
         "traits": "Grand Ancien. Élite."
     }
 ]

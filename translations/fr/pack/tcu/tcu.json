@@ -7,7 +7,7 @@
         "text": "[reaction] Après que l'un de vos effets de carte a soigné de l'horreur d'un investigateur ou d'un soutien [[Allié]] : le contrôleur de la carte soignée gagne 1 ressource.\n[elder_sign] : +1. Vous avez le droit de soigner 1 horreur d'un investigateur ou d'un soutien [[Allié]] dans votre lieu.",
         "traits": "Médecin.",
         "back_flavor": "Carolyn Fern peut pénétrer l'esprit des autres. À l'aide d'une forme complexe d'hypnose, elle étudie la psychologie de ses patients au travers de leurs rêves. Grâce à cela, elle a vu et entendu des choses plus que troublantes. Certains patients prétendent avoir voyagé vers d'autres royaumes pendant leur sommeil, d'autres lui parlent de terribles créatures qui hantent leurs rêves. Ses recherches l'ont menée d'un cas étrange à un autre sans qu'elle commence à comprendre les horreurs du monde qui l'entoure. Malgré tout, Carolyn n'abandonnera pas avant d'avoir découvert l'origine de ces folies.",
-        "back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveau 0 à 5, cartes qui « soignent de l'horreur » de niveaux 0 à 5, jusqu'à 15 autres cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Thérapie par l'Hypnose, Pensée Rationnelle, 1 faiblesse de base au hasard.\n<b>Restrictions supplémentaires</b> : pas de cartes [[Arme]] de niveaux 1 à 5."
+        "back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Gardien ([guardian]) de niveaux 0 à 3, cartes neutres de niveaux 0 à 5, cartes qui « soignent de l'horreur » de niveaux 0 à 5, jusqu'à 15 autres cartes Chercheur et/ou Mystique de niveaux 0 à 1 ([seeker] et/ou [mystic]).\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Thérapie par l'Hypnose, Pensée Rationnelle, 1 faiblesse de base au hasard.\n<b>Restrictions supplémentaires</b> : pas de cartes [[Arme]] de niveaux 1 à 5."
     },
     {
         "code": "05002",
@@ -25,8 +25,8 @@
         "subname": "Le Millionnaire",
         "text": "Chaque fois que vous gagnez au moins 1 ressource par un effet de carte, placez ces ressources sur l'Héritage Familial au lieu de les placer dans votre réserve de ressources.\n[elder_sign] : +0. Vous avez le droit de dépenser 2 ressources pour réussir automatiquement à la place.",
         "traits": "Crépuscule d'Argent. Mondain.",
-        "back_flavor": "Preston Fairmont ne s'était jamais vraiment demandé d'où venait l'argent de sa famille. Tout ce qu'il savait, c'est qu'il était riche et qu'il en profitait le plus possible. Son père semblait inquiet par moments ; il tentait de lui parler des affaires de son grand-père et des requêtes de quelque chose appelé l'Ordre Hermétique du Crépuscule d'Argent, mais Preston n'y prêtait guère attention. Puis son père mourut subitement dans un mystérieux accident de voiture, et la fortune familiale devint sa responsabilité. Carl Sanford, le président de la Loge du Crépuscule d'Argent, veut à présent rencontrer en personne cet héritier. Pour la première fois de sa vie, Preston commence à comprendre d'où vient la richesse de sa famille...",
-        "back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Truand ([rogue]) de niveaux 0 à 5, cartes Survivant ([survivor]) de niveaux 0 à 2, cartes neutres de niveaux 0 à 5.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Héritage Familial,\n« Dettes » Envers la Loge, 1 faiblesse de base au hasard.\n<b>Restrictions du Deck</b> : pas de cartes [[Illicite]]."
+        "back_flavor": "Preston Fairmont ne s'était jamais vraiment demandé d'où venait l'argent de sa famille. Tout ce qu'il savait, c'est qu'il était riche et qu'il en profitait le plus possible. Son père semblait inquiet par moments ; il tentait de lui parler des affaires de son grand-père et des requêtes de quelque chose appelé l'Ordre Hermétique du Crépuscule d'Argent, mais Preston n'y prêtait guère attention. Puis son père mourut subitement dans un mystérieux accident de voiture, et la fortune familiale devint sa responsabilité. Carl Sanford, le président de la Loge du Crépuscule d'Argent, veut à présent rencontrer en personne cet héritier. Pour la première fois de sa vie, Preston commence à comprendre d'où vient la richesse de sa famille…",
+        "back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Truand ([rogue]) de niveaux 0 à 5, cartes Survivant ([survivor]) de niveaux 0 à 2, cartes neutres de niveaux 0 à 5.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Héritage Familial, « Dettes » Envers la Loge, 1 faiblesse de base au hasard.\n<b>Restrictions du Deck</b> : pas de cartes [[Illicite]]."
     },
     {
         "code": "05004",
@@ -42,10 +42,10 @@
         "flavor": "« Un compte à régler ? Pas de problème. Mais ça ne m'empêchera pas de vous laisser dans le vent. »",
         "name": "Rita Young",
         "subname": "L'Athlète",
-        "text": "[reaction] Après avoir échappé à un ennemi : soit vous infligez 1 dégât à cet ennemi, soit vous vous déplacez vers un lieu connexe. (Limite d'une fois par round.)\n[elder_sign] +2. Jusqu'à la fin du round, ignorez la limite de la capacité [reaction] ci-dessus.",
+        "text": "[reaction] Après avoir échappé à un ennemi : soit vous infligez 1 dégât à cet ennemi, soit vous vous déplacez vers un lieu connexe. (Limite d'une fois par round.)\n[elder_sign] : +2. Jusqu'à la fin du round, ignorez la limite de la capacité [reaction] ci-dessus.",
         "traits": "Miskatonic.",
         "back_flavor": "Les montres ne mentent jamais. Par le passé, Rita a été la cible de paroles blessantes et menaçantes. Mais depuis qu'elle a commencé les compétitions d'athlétisme, elle ne se préoccupe plus que du chronomètre. Il atteste que Rita est plus rapide que les autres, qu'elle s'améliore et s'est entraînée inlassablement. Désormais, elle aura peut-être à se battre pour sa vie. Quelqu'un la poursuit ; de cela du moins, elle est sûre. Impossible de savoir qui ils sont ni ce qui les motive, mais des hommes étranges rôdent autour de son dortoir et ont prévu de faire un exemple de Rita. Mais il faudra d'abord qu'ils l'attrapent, et le chronomètre dit qu'ils en sont incapables.",
-        "back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Survivant ([survivor]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, cartes [[Ruse]] de niveaux 0 à 3.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : « Je ne fuirai\nplus ! », Silhouettes Encapuchonnées, 1 faiblesse de base au hasard."
+        "back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes Survivant ([survivor]) de niveaux 0 à 5, cartes neutres de niveaux 0 à 5, cartes [[Ruse]] de niveaux 0 à 3.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : « Je ne fuirai plus ! », Silhouettes Encapuchonnées, 1 faiblesse de base au hasard."
     },
     {
         "code": "05006",
@@ -53,13 +53,13 @@
         "subname": "La Chanteuse",
         "text": "Tant que vous avez au moins 1 fatalité parmi les cartes que vous contrôlez, vous avez le droit d'effectuer une action supplémentaire durant votre tour, qui ne peut être utilisée que pour jouer des cartes [[Sort]] ou activer les capacités [action] de cartes [[Sort]].\n[elder_sign] : +1. Vous avez le droit d'ajouter ou de retirer 1 fatalité sur une carte que vous contrôlez.",
         "traits": "Interprète. Sorcier.",
-        "back_flavor": "Marie Lambeau a toujours eu une voix à tomber. Les gens l'appelaient « La Fumée de Velours ». Ils disaient qu'elle était née pour chanter du jazz, qu'elle possédait quelque chose de magique – et peut-être avaient-ils raison. Après tout, les chansons qui s'égrenaient dans ses rêves depuis la mort de sa grand-mère ne ressemblaient à rien de ce qu'elle avait pu entendre auparavant. Les paroles ne ressemblaient à aucune langue connue et les notes étaient distordues, difformes. Pourquoi sa grand-mère avait-elle quitté La Nouvelle-Orléans pour Arkham ? Marie ne le saurait jamais. Les gens avaient coutume de qualifier son aïeule de sorcière. Peut-être Marie n'a-t-elle pas que le jazz dans le sang, après tout...",
+        "back_flavor": "Marie Lambeau a toujours eu une voix à tomber. Les gens l'appelaient « La Fumée de Velours ». Ils disaient qu'elle était née pour chanter du jazz, qu'elle possédait quelque chose de magique – et peut-être avaient-ils raison. Après tout, les chansons qui s'égrenaient dans ses rêves depuis la mort de sa grand-mère ne ressemblaient à rien de ce qu'elle avait pu entendre auparavant. Les paroles ne ressemblaient à aucune langue connue et les notes étaient distordues, difformes. Pourquoi sa grand-mère avait-elle quitté La Nouvelle-Orléans pour Arkham ? Marie ne le saurait jamais. Les gens avaient coutume de qualifier son aïeule de sorcière. Peut-être Marie n'a-t-elle pas que le jazz dans le sang, après tout…",
         "back_text": "<b>Taille du Deck</b> : 30\n<b>Construction du Deck</b> : cartes [[Sort]] de niveaux 0 à 5, carte Mystique ([mystic]) de niveaux 0 à 3, cartes neutres de niveaux 0 à 5, cartes [[Occulte]] de niveau 0, jusqu'à cinq autres cartes Chercheur et/ou Survivant ([seeker] et/ou [survivor]) de niveau 0.\n<b>Exigences du Deck</b> (ne comptent pas dans la limite de taille du deck) : Chant Déroutant, Baron Samedi, 1 faiblesse de base au hasard."
     },
     {
         "code": "05007",
         "name": "Thérapie par l'Hypnose",
-        "text": "Deck de Carolyn Fern uniquement.\n[action] Inclinez Thérapie par l'Hypnose : effectuez un test de [intellect] (2). En cas de réussite, soignez 1 horreur d'un investigateur dans votre lieu. Ensuite, cet investigateur a le droit de piocher une carte.\n[reaction] Après que l'effet d'une autre de vos cartes a soigné de l'horreur d'un investigateur, inclinez Thérapie par l'Hypnose : cet effet soigne 1 horreur supplémentaire.",
+        "text": "Deck de Carolyn Fern uniquement.\n[action] Inclinez Thérapie par l'Hypnose : effectuez un test de [intellect] (2). En cas de réussite, soignez 1 horreur d'un investigateur dans votre lieu. Ensuite, cet investigateur a le droit de piocher 1 carte.\n[reaction] Après que l'effet d'une autre de vos cartes a soigné de l'horreur d'un investigateur, inclinez Thérapie par l'Hypnose : cet effet soigne 1 horreur supplémentaire.",
         "traits": "Talent."
     },
     {
@@ -123,7 +123,7 @@
     },
     {
         "code": "05017",
-        "flavor": "« Bande de lâches, toujours à couvrir vos visages. Vous ne valez pas mieux que ce fichu Klan, à redouter sans cesse que les gens sachent qui vous êtes... »\n– Graham McNeill, <i>Ghouls of the Miskatonic.</i>",
+        "flavor": "« Bande de lâches, toujours à couvrir vos visages. Vous ne valez pas mieux que ce fichu Klan, à redouter sans cesse que les gens sachent qui vous êtes… »\n– Graham McNeill, <i>Ghouls of the Miskatonic.</i>",
         "name": "Silhouettes Encapuchonnées",
         "text": "<b>Proie</b> – Rita Young uniquement.\nAlerte. Chasseur.\n<b>Forcé</b> – Après que vous avez échappé aux Silhouettes Encapuchonnées : elles vous attaquent.",
         "traits": "Humanoïde. Cultiste."
@@ -131,20 +131,20 @@
     {
         "code": "05018",
         "name": "Chant Déroutant",
-        "text": "Deck de Marie Lambeau uniquement.\nRapide. À jouer quand l'intrigue devrait avancer après avoir atteint son seuil de fatalité.\nJusqu'à la fin de la phase, l'intrigue ne peut pas avancer en atteignant son seuil de fatalité. Retirez Chant Déroutant de la partie",
+        "text": "Deck de Marie Lambeau uniquement.\nRapide. À jouer quand l'intrigue devrait avancer après avoir atteint son seuil de fatalité.\nJusqu'à la fin de la phase, l'intrigue ne peut pas avancer en atteignant son seuil de fatalité. Retirez Chant Déroutant de la partie.",
         "traits": "Sort. Chant."
     },
     {
         "code": "05019",
         "name": "Baron Samedi",
         "subname": "Seigneur du Cimetière",
-        "text": "<b>Révélation</b> – Mettez en jeu Baron Samedi. Il ne peut pas quitter le jeu tant qu'il a moins de 3 fatalités sur lui.\n<b>Forcé</b> – Quand n'importe quel nombre de dégâts est placé sur un investigateur dans le lieu de Baron Samedi : placez 1 dégât supplémentaire sur cet investigateur.\n[free] Inclinez Baron Samedi : placez 1 fatalité sur Baron Samedi. S'il a au moins 3 fatalités sur lui, défaussez-le.",
+        "text": "<b>Révélation</b> – Mettez en jeu Baron Samedi. Il ne peut pas quitter le jeu tant qu'il a moins de 3 fatalités sur lui.\n<b>Forcé</b> – Quand n'importe quel nombre de dégâts est placé sur un investigateur dans le lieu de Baron Samedi : placez 1 dégât supplémentaire sur cet investigateur.\n[fast] Inclinez Baron Samedi : placez 1 fatalité sur Baron Samedi. S'il a au moins 3 fatalités sur lui, défaussez-le.",
         "traits": "Avatar.",
         "slot": "Allié"
     },
     {
         "code": "05020",
-        "flavor": "Il cachait quelque chose... mais pourquoi ?",
+        "flavor": "Il cachait quelque chose… mais pourquoi ?",
         "name": "Interroger",
         "text": "<b>Discussion</b>. Choisissez un ennemi [[Humanoïde]] dans votre lieu et effectuez un test de [combat] (3). Augmentez la difficulté de ce test de +X, X étant la valeur de dégât de l'ennemi choisi. En cas de réussite, découvrez 1 indice dans votre lieu et 1 indice dans n'importe quel autre lieu.",
         "traits": "Tactique. Perspicacité."
@@ -187,7 +187,7 @@
     },
     {
         "code": "05026",
-        "flavor": "Elle est parfois... dévorante.",
+        "flavor": "Elle est parfois… dévorante.",
         "name": "Curiosité",
         "text": "Tant que vous avez au moins 4 cartes en main, Curiosité gagne [willpower][intellect] (tant que vous avez au moins 7 cartes en main, Curiosité gagne [willpower][willpower][intellect][intellect] à la place).",
         "traits": "Inné."
@@ -217,7 +217,7 @@
     },
     {
         "code": "05030",
-        "flavor": "« Ne vous inquiétez pas », insista-t-elle. « Je m'en\ncharge. »",
+        "flavor": "« Ne vous inquiétez pas », insista-t-elle. « Je m'en charge. »",
         "name": "Astuce",
         "text": "Tant que vous avez au moins 5 ressources, Astuce gagne [intellect][agility] (tant que vous avez au moins 10 ressources, Astuce gagne [intellect][intellect][agility][agility] à la place).",
         "traits": "Inné."
@@ -274,7 +274,7 @@
     {
         "code": "05038",
         "name": "En Pleine Forme",
-        "text": "Tant que vous contrôlez 2 soutiens [[Objet]] ou moins, En Pleine Forme gagne [combat][agility] (tant que vous contrôlez 1 soutien [[Objet]] ou moins, En Pleine Forme gagne [combat][combat][agility][agility] à la place.)",
+        "text": "Tant que vous contrôlez 2 soutiens [[Objet]] ou moins, En Pleine Forme gagne [combat][agility] (tant que vous contrôlez 1 soutien [[Objet]] ou moins, En Pleine Forme gagne [combat][combat][agility][agility] à la place).",
         "traits": "Inné."
     },
     {
@@ -296,9 +296,9 @@
     },
     {
         "code": "05041",
-        "flavor": "Les douze premières étaient fausses...",
+        "flavor": "Les douze premières étaient fausses…",
         "name": "La 13e Vision",
-        "text": "<b>Révélation</b> – Mettez en jeu La 13e Vision dans votre zone de menace.\nLes investigateurs dans votre lieu échouent en cas d'égalité lors des tests de compétence.\n[action][action] : défaussez La 13e Vision.\n<b>Carte conçue par</b> [[The Thirteen]] <b>lors des</b> [[Arkham Nights]] <b>2017.</b>",
+        "text": "<b>Révélation</b> – Mettez en jeu La 13e Vision dans votre zone de menace.\nLes investigateurs dans votre lieu échouent en cas d'égalité lors des tests de compétence.\n[action][action] : défaussez La 13e Vision.\n<b>Carte conçue par <i>The Thirteen</i> lors des <i>Arkham Nights</i> 2017.</b>",
         "traits": "Présage."
     },
     {

@@ -8,14 +8,14 @@
     },
     {
         "code": "05314",
-        "flavor": "...Et leur chanson se mêle au clair de lune,\nAu calme clair de lune triste et beau...\n– Paul Verlaine, « Clair de Lune »",
+        "flavor": "…Et leur chanson se mêle au clair de lune,<br>Au calme clair de lune triste et beau…\n– Paul Verlaine, « Clair de Lune »",
         "name": "Mélodie Apaisante",
         "text": "Liée (Miroir Sacré).\nSoignez 2 dégâts ou 2 horreurs (ou n'importe quelle combinaison des deux) parmi les investigateurs et/ou les soutiens [[Allié]] dans votre lieu. Piochez 1 carte.",
         "traits": "Sort."
     },
     {
         "code": "05315",
-        "name": "« J'ai Connu Pire... »",
+        "name": "« J'ai Connu Pire… »",
         "text": "Rapide. À jouer quand des dégâts et/ou des horreurs vous sont infligés.\nAnnulez jusqu'à 2 dégâts et/ou horreurs tout juste infligés. Ensuite, gagnez un nombre équivalent de ressources.",
         "traits": "Esprit."
     },
@@ -71,7 +71,7 @@
     {
         "code": "05323",
         "name": "Leurre",
-        "text": "Attachez cette carte à votre lieu ou à un lieu connexe.\nLors de la phase des Ennemis, chaque ennemi qui se déplace doit se déplacer vers le lieu attaché par le chemin le plus court, au lieu de l'endroit où il devrait normalement aller.\n<b>Forcé</b> – Tant qu'il est attaché, à la fin du round : défaussez Leurre. ",
+        "text": "Attachez cette carte à votre lieu ou à un lieu connexe.\nLors de la phase des Ennemis, chaque ennemi qui se déplace doit se déplacer vers le lieu attaché par le chemin le plus court, au lieu de l'endroit où il devrait normalement aller.\n<b>Forcé</b> – Tant qu'il est attaché, à la fin du round : défaussez Leurre.",
         "traits": "Ruse."
     },
     {
